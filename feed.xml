@@ -3,72 +3,99 @@
   <channel>
     <title>UFC News Feed</title>
     <link>https://www.ufc.com/trending/all</link>
-    <description>Flux RSS non officiel des dernières actualités UFC.</description>
+    <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 May 2026 14:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 14:49:40 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zuffa Boxing 08 Tickets On Sale Now!</title>
       <link>https://www.ufc.com/news/zuffa-boxing-08-tickets-sale-now</link>
       <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-08-tickets-sale-now</guid>
-      <pubDate>Fri, 22 May 2026 17:00:00 -0000</pubDate>
-      <description>Latest UFC news: Zuffa Boxing 08 Tickets On Sale Now!</description>
+      <pubDate>Fri, 22 May 2026 17:00:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U" alt="Zuffa Boxing 08 Tickets On Sale Now!" /></p>
+<p>De Los Santos vs Valenzuela Happens June 28 At The Cosmopolitan In Las Vegas</p>
+<p>Category: Boxing</p>]]></description>
     </item>
     <item>
       <title>Sean O’Malley Is Chasing The Ultimate Highlight-Reel Moment | UFC Freedom 250</title>
       <link>https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250</link>
       <guid isPermaLink="true">https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250</guid>
-      <pubDate>Fri, 22 May 2026 15:00:00 -0000</pubDate>
-      <description>Latest UFC news: Sean O’Malley Is Chasing The Ultimate Highlight-Reel Moment | UFC Freedom 250</description>
+      <pubDate>Fri, 22 May 2026 15:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-05/Sean-O%27malley-Celebration-_0.jpg?itok=fudCEgVn" alt="Sean O’Malley Is Chasing The Ultimate Highlight-Reel Moment | UFC Freedom 250" /></p>
+<p>Former UFC Bantamweight Champion Plans To Put On A Show At The White House At UFC Freedom 250 | Presented By Crypto.com And RAM</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>UFC BJJ ANNOUNCES LAUNCH OF UFC BJJ OPENS</title>
       <link>https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens</guid>
-      <pubDate>Fri, 22 May 2026 14:33:00 -0000</pubDate>
-      <description>Latest UFC news: UFC BJJ ANNOUNCES LAUNCH OF UFC BJJ OPENS</description>
+      <pubDate>Fri, 22 May 2026 14:33:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2261329399_resized.jpg?itok=DnJmKVoe" alt="UFC BJJ ANNOUNCES LAUNCH OF UFC BJJ OPENS" /></p>
+<p>FIRST OPEN TO BE HELD IN LAS VEGAS SATURDAY, AUGUST 22</p>
+<p>Category: UFC BJJ</p>]]></description>
     </item>
     <item>
       <title>Mauricio Ruffy Has Something Special Planned For UFC Freedom 250</title>
       <link>https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250</link>
       <guid isPermaLink="true">https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250</guid>
-      <pubDate>Fri, 22 May 2026 14:00:00 -0000</pubDate>
-      <description>Latest UFC news: Mauricio Ruffy Has Something Special Planned For UFC Freedom 250</description>
+      <pubDate>Fri, 22 May 2026 14:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052126-hero-mauricio-ruffy_GettyImages-2259321816.jpg?itok=H5GpDlOa" alt="Mauricio Ruffy Has Something Special Planned For UFC Freedom 250" /></p>
+<p>Brazilian Knockout Artist Has Promised To Unveil Something Brand New When He Takes On Michael Chandler at UFC Freedom 250 | Presented by Crypto.com and RAM</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>UFC BJJ 8: Musumeci vs Dantzler Results</title>
       <link>https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 -0000</pubDate>
-      <description>Latest UFC news: UFC BJJ 8: Musumeci vs Dantzler Results</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj" alt="UFC BJJ 8: Musumeci vs Dantzler Results" /></p>
+<p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 8: Musumeci vs Dantzler At Meta APEX In Las Vegas, Nevada On May 21, 2026</p>
+<p>Category: UFC BJJ</p>]]></description>
     </item>
     <item>
       <title>TONIGHT! UFC BJJ 8: Musumeci vs Dantzler | Full Fight Card, Start Time &amp; How to Watch</title>
       <link>https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch</link>
       <guid isPermaLink="true">https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch</guid>
-      <pubDate>Thu, 21 May 2026 23:55:00 -0000</pubDate>
-      <description>Latest UFC news: TONIGHT! UFC BJJ 8: Musumeci vs Dantzler | Full Fight Card, Start Time &amp; How to Watch</description>
+      <pubDate>Thu, 21 May 2026 23:55:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj" alt="TONIGHT! UFC BJJ 8: Musumeci vs Dantzler | Full Fight Card, Start Time &amp; How to Watch" /></p>
+<p>UFC BJJ 8 Goes Down From Las Vegas On May 21</p>
+<p>Category: UFC BJJ</p>]]></description>
     </item>
     <item>
       <title>Kyle Daukaus: What A Difference A Year Makes | UFC Freedom 250</title>
       <link>https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250</link>
       <guid isPermaLink="true">https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250</guid>
-      <pubDate>Thu, 21 May 2026 20:04:00 -0000</pubDate>
-      <description>Latest UFC news: Kyle Daukaus: What A Difference A Year Makes | UFC Freedom 250</description>
+      <pubDate>Thu, 21 May 2026 20:04:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/Kyle-Daukaus-hero-.jpg?itok=tYAhatEt" alt="Kyle Daukaus: What A Difference A Year Makes | UFC Freedom 250" /></p>
+<p>Streaking Middleweight Talks Return To UFC, Matchup With Bo Nickal | Presented By Crypto.com And RAM</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Bo Nickal Is Ready For The Biggest Stage | UFC Freedom 250</title>
       <link>https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250</link>
       <guid isPermaLink="true">https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250</guid>
-      <pubDate>Thu, 21 May 2026 16:53:00 -0000</pubDate>
-      <description>Latest UFC news: Bo Nickal Is Ready For The Biggest Stage | UFC Freedom 250</description>
+      <pubDate>Thu, 21 May 2026 16:53:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052126-hero-bo-nickal_GettyImages-2246897178.jpg?itok=KRad7Y7m" alt="Bo Nickal Is Ready For The Biggest Stage | UFC Freedom 250" /></p>
+<p>After Bouncing Back To Form In Spectacular Fashion, Bo Nickal Is Excited To Showcase His Best Self At UFC Freedom 250 | Presented by Crypto.com And RAM</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>How To Watch The Opening Rounds Of Road To UFC Season 5</title>
       <link>https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds</link>
       <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds</guid>
-      <pubDate>Thu, 21 May 2026 16:00:00 -0000</pubDate>
-      <description>Latest UFC news: How To Watch The Opening Rounds Of Road To UFC Season 5</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <category>Road to UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_" alt="How To Watch The Opening Rounds Of Road To UFC Season 5" /></p>
+<p>Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament</p>
+<p>Category: Road to UFC</p>]]></description>
     </item>
   </channel>
 </rss>

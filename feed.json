@@ -1,0 +1,109 @@
+{
+  "title": "UFC News Feed",
+  "source_url": "https://www.ufc.com/trending/all",
+  "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
+  "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
+  "last_build_date": "2026-05-24T14:49:40.218194+00:00",
+  "item_count": 9,
+  "items": [
+    {
+      "title": "Zuffa Boxing 08 Tickets On Sale Now!",
+      "link": "https://www.ufc.com/news/zuffa-boxing-08-tickets-sale-now",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-08-tickets-sale-now",
+      "pubDate": "Fri, 22 May 2026 17:00:00 GMT",
+      "published_at": "2026-05-22T17:00:00+00:00",
+      "description": "De Los Santos vs Valenzuela Happens June 28 At The Cosmopolitan In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Sean O’Malley Is Chasing The Ultimate Highlight-Reel Moment | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250",
+      "pubDate": "Fri, 22 May 2026 15:00:00 GMT",
+      "published_at": "2026-05-22T15:00:00+00:00",
+      "description": "Former UFC Bantamweight Champion Plans To Put On A Show At The White House At UFC Freedom 250 | Presented By Crypto.com And RAM",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/Sean-O%27malley-Celebration-_0.jpg?itok=fudCEgVn",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ ANNOUNCES LAUNCH OF UFC BJJ OPENS",
+      "link": "https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens",
+      "guid": "https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens",
+      "pubDate": "Fri, 22 May 2026 14:33:00 GMT",
+      "published_at": "2026-05-22T14:33:00+00:00",
+      "description": "FIRST OPEN TO BE HELD IN LAS VEGAS SATURDAY, AUGUST 22",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2261329399_resized.jpg?itok=DnJmKVoe",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Mauricio Ruffy Has Something Special Planned For UFC Freedom 250",
+      "link": "https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250",
+      "pubDate": "Fri, 22 May 2026 14:00:00 GMT",
+      "published_at": "2026-05-22T14:00:00+00:00",
+      "description": "Brazilian Knockout Artist Has Promised To Unveil Something Brand New When He Takes On Michael Chandler at UFC Freedom 250 | Presented by Crypto.com and RAM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-hero-mauricio-ruffy_GettyImages-2259321816.jpg?itok=H5GpDlOa",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 8: Musumeci vs Dantzler Results",
+      "link": "https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews",
+      "guid": "https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews",
+      "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 8: Musumeci vs Dantzler At Meta APEX In Las Vegas, Nevada On May 21, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "TONIGHT! UFC BJJ 8: Musumeci vs Dantzler | Full Fight Card, Start Time & How to Watch",
+      "link": "https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch",
+      "guid": "https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch",
+      "pubDate": "Thu, 21 May 2026 23:55:00 GMT",
+      "published_at": "2026-05-21T23:55:00+00:00",
+      "description": "UFC BJJ 8 Goes Down From Las Vegas On May 21",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Kyle Daukaus: What A Difference A Year Makes | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250",
+      "pubDate": "Thu, 21 May 2026 20:04:00 GMT",
+      "published_at": "2026-05-21T20:04:00+00:00",
+      "description": "Streaking Middleweight Talks Return To UFC, Matchup With Bo Nickal | Presented By Crypto.com And RAM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Kyle-Daukaus-hero-.jpg?itok=tYAhatEt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bo Nickal Is Ready For The Biggest Stage | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250",
+      "pubDate": "Thu, 21 May 2026 16:53:00 GMT",
+      "published_at": "2026-05-21T16:53:00+00:00",
+      "description": "After Bouncing Back To Form In Spectacular Fashion, Bo Nickal Is Excited To Showcase His Best Self At UFC Freedom 250 | Presented by Crypto.com And RAM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-hero-bo-nickal_GettyImages-2246897178.jpg?itok=KRad7Y7m",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch The Opening Rounds Of Road To UFC Season 5",
+      "link": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
+      "guid": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
+      "pubDate": "Thu, 21 May 2026 16:00:00 GMT",
+      "published_at": "2026-05-21T16:00:00+00:00",
+      "description": "Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_",
+      "category": "Road to UFC",
+      "source": "UFC"
+    }
+  ]
+}
