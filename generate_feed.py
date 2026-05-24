@@ -69,7 +69,7 @@ rss = [
     '    <description>Flux RSS non officiel des dernières actualités UFC.</description>',
     '    <language>en-US</language>',
     f'    <lastBuildDate>{last_build_date}</lastBuildDate>',
-    f'    <atom:link href="{escape(SITE_URL)}" rel="self" type="application/rss+xml" />'
+    f'    <atom:link href="{escape(FEED_URL)}" rel="self" type="application/rss+xml" />'
 ]
 
 for item in items:
