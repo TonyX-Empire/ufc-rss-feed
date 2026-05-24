@@ -6,6 +6,7 @@ from xml.sax.saxutils import escape
 
 SOURCE_URL = "https://www.ufc.com/news-sitemap.xml"
 SITE_URL = "https://www.ufc.com/trending/all"
+FEED_URL = "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml"
 OUTPUT_FILE = "feed.xml"
 MAX_ITEMS = 30
 
