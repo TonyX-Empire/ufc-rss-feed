@@ -3,9 +3,97 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-25T18:12:50.938076+00:00",
+  "last_build_date": "2026-05-26T19:35:52.780177+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Road To UFC Results | Season 5 Opening Rounds: Day 2",
+      "link": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-2",
+      "guid": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-2",
+      "pubDate": "Fri, 29 May 2026 10:00:00 GMT",
+      "published_at": "2026-05-29T10:00:00+00:00",
+      "description": "See The Fight Results And Official Scorecards From The Opening Round Of Road To UFC Season 5, Live From Galaxy Arena In Macau On Friday, May 29",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052226-Road-To-UFC-General-View-THUMB-GettyImages-2216646954.jpg?itok=bLyW9m39",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Road To UFC Results | Season 5 Opening Rounds: Day 1",
+      "link": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-1",
+      "guid": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-1",
+      "pubDate": "Thu, 28 May 2026 10:00:00 GMT",
+      "published_at": "2026-05-28T10:00:00+00:00",
+      "description": "See The Fight Results And Official Scorecards From The Opening Round Of Road To UFC Season 5, Live From Galaxy Arena In Macau On Thursday, May 28",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052225-Road-To-UFC-Octagon-GettyImages-2216423594.jpg?itok=Bv41Gmr8",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "CONOR MCGREGOR REMATCHES MAX HOLLOWAY IN WELTERWEIGHT MAIN EVENT AT UFC 329 LIVE ON PARAMOUNT+",
+      "link": "https://www.ufc.com/news/conor-mcgregor-rematches-max-holloway-welterweight-main-event-ufc-329-live-paramount",
+      "guid": "https://www.ufc.com/news/conor-mcgregor-rematches-max-holloway-welterweight-main-event-ufc-329-live-paramount",
+      "pubDate": "Tue, 26 May 2026 19:31:00 GMT",
+      "published_at": "2026-05-26T19:31:00+00:00",
+      "description": "UFC 329: MCGREGOR vs. HOLLOWAY 2 TICKETS ON SALE FRIDAY, MAY 29",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-05/071126-ufc-329-mcgregor-vs-holloway-2-TEMP-HERO.jpg?itok=mkudg2be",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Examining the Lightweight Landscape Ahead of UFC Freedom 250",
+      "link": "https://www.ufc.com/news/examining-lightweight-landscape-ahead-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/examining-lightweight-landscape-ahead-ufc-freedom-250",
+      "pubDate": "Tue, 26 May 2026 18:50:00 GMT",
+      "published_at": "2026-05-26T18:50:00+00:00",
+      "description": "Taking A Wide-Angle Look At The 155-Pound Weight Class UFC Freedom 250 Sponsored By Crypto.com and RAM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2275217309.jpg?itok=gmNZhchZ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Lance Gibson Jr. | Destiny Fulfilled",
+      "link": "https://www.ufc.com/news/lance-gibson-jr-destiny-fulfilled",
+      "guid": "https://www.ufc.com/news/lance-gibson-jr-destiny-fulfilled",
+      "pubDate": "Tue, 26 May 2026 17:40:00 GMT",
+      "published_at": "2026-05-26T17:40:00+00:00",
+      "description": "Lightweight Reflects On Long Road To The Octagon, First UFC Win",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2268836854.jpg?itok=uKxfDWpy",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Macau",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-macau-asakura-haddon-tsuruya",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-macau-asakura-haddon-tsuruya",
+      "pubDate": "Tue, 26 May 2026 17:08:00 GMT",
+      "published_at": "2026-05-26T17:08:00+00:00",
+      "description": "Identifying Three Up-And-Comers To Watch This Weekend At UFC Fight Night: Song vs Figueiredo",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052626-hero-cody-haddon_GettyImages-2178137033.jpg?itok=NSjzRBRz",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Joseph Larcinese: ‘Expect Someone Hunting for a Finish’",
+      "link": "https://www.ufc.com/news/joseph-larcinese-expect-someone-hunting-finish-road-to-ufc",
+      "guid": "https://www.ufc.com/news/joseph-larcinese-expect-someone-hunting-finish-road-to-ufc",
+      "pubDate": "Tue, 26 May 2026 17:05:00 GMT",
+      "published_at": "2026-05-26T17:05:00+00:00",
+      "description": "Australian Flyweight Hopeful Talks UFC Audition, Road To UFC Opportunity",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/RTU_MediaDayBTS-Joseph-Larcinese.jpg?itok=8pahCHCN",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Macau",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-song-figueiredo-macau",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-song-figueiredo-macau",
+      "pubDate": "Tue, 26 May 2026 16:03:00 GMT",
+      "published_at": "2026-05-26T16:03:00+00:00",
+      "description": "Detailing The Lineup For This Weekend’s Return To China For UFC Fight Night: Song vs Figueiredo",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/053026-FBF-Macau-Hero.jpg?itok=6GZcDN0z",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Zuffa Boxing 08 Tickets On Sale Now!",
       "link": "https://www.ufc.com/news/zuffa-boxing-08-tickets-sale-now",
@@ -15,94 +103,6 @@
       "description": "De Los Santos vs Valenzuela Happens June 28 At The Cosmopolitan In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Sean O’Malley Is Chasing The Ultimate Highlight-Reel Moment | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/sean-omalley-chasing-ultimate-highlight-reel-moment-ufc-freedom-250",
-      "pubDate": "Fri, 22 May 2026 15:00:00 GMT",
-      "published_at": "2026-05-22T15:00:00+00:00",
-      "description": "Former UFC Bantamweight Champion Plans To Put On A Show At The White House At UFC Freedom 250 | Presented By Crypto.com And RAM",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/Sean-O%27malley-Celebration-_0.jpg?itok=fudCEgVn",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ ANNOUNCES LAUNCH OF UFC BJJ OPENS",
-      "link": "https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens",
-      "guid": "https://www.ufc.com/news/ufc-bjj-announces-launch-ufc-bjj-opens",
-      "pubDate": "Fri, 22 May 2026 14:33:00 GMT",
-      "published_at": "2026-05-22T14:33:00+00:00",
-      "description": "FIRST OPEN TO BE HELD IN LAS VEGAS SATURDAY, AUGUST 22",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2261329399_resized.jpg?itok=DnJmKVoe",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Mauricio Ruffy Has Something Special Planned For UFC Freedom 250",
-      "link": "https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/mauricio-ruffy-has-something-special-planned-ufc-freedom-250",
-      "pubDate": "Fri, 22 May 2026 14:00:00 GMT",
-      "published_at": "2026-05-22T14:00:00+00:00",
-      "description": "Brazilian Knockout Artist Has Promised To Unveil Something Brand New When He Takes On Michael Chandler at UFC Freedom 250 | Presented by Crypto.com and RAM",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-hero-mauricio-ruffy_GettyImages-2259321816.jpg?itok=H5GpDlOa",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 8: Musumeci vs Dantzler Results",
-      "link": "https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews",
-      "guid": "https://www.ufc.com/news/ufc-bjj-8-results-musumeci-vs-dantzler-winners-recaps-interviews",
-      "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
-      "published_at": "2026-05-22T00:00:00+00:00",
-      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 8: Musumeci vs Dantzler At Meta APEX In Las Vegas, Nevada On May 21, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "TONIGHT! UFC BJJ 8: Musumeci vs Dantzler | Full Fight Card, Start Time & How to Watch",
-      "link": "https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch",
-      "guid": "https://www.ufc.com/news/tonight-ufc-bjj-8-musumeci-vs-dantzler-full-fight-card-start-time-how-watch",
-      "pubDate": "Thu, 21 May 2026 23:55:00 GMT",
-      "published_at": "2026-05-21T23:55:00+00:00",
-      "description": "UFC BJJ 8 Goes Down From Las Vegas On May 21",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-ufc-bjj-8-EVENT-ART.jpg?itok=AcxRfWYj",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Kyle Daukaus: What A Difference A Year Makes | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/kyle-daukaus-what-difference-year-makes-ufc-freedom-250",
-      "pubDate": "Thu, 21 May 2026 20:04:00 GMT",
-      "published_at": "2026-05-21T20:04:00+00:00",
-      "description": "Streaking Middleweight Talks Return To UFC, Matchup With Bo Nickal | Presented By Crypto.com And RAM",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/Kyle-Daukaus-hero-.jpg?itok=tYAhatEt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bo Nickal Is Ready For The Biggest Stage | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/bo-nickal-ready-biggest-stage-ufc-freedom-250",
-      "pubDate": "Thu, 21 May 2026 16:53:00 GMT",
-      "published_at": "2026-05-21T16:53:00+00:00",
-      "description": "After Bouncing Back To Form In Spectacular Fashion, Bo Nickal Is Excited To Showcase His Best Self At UFC Freedom 250 | Presented by Crypto.com And RAM",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052126-hero-bo-nickal_GettyImages-2246897178.jpg?itok=KRad7Y7m",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch The Opening Rounds Of Road To UFC Season 5",
-      "link": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
-      "guid": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
-      "pubDate": "Thu, 21 May 2026 16:00:00 GMT",
-      "published_at": "2026-05-21T16:00:00+00:00",
-      "description": "Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_",
-      "category": "Road to UFC",
       "source": "UFC"
     }
   ]
