@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-27T08:54:47.526967+00:00",
+  "last_build_date": "2026-05-27T18:14:49.825661+00:00",
   "item_count": 9,
   "items": [
     {
@@ -26,6 +26,39 @@
       "description": "See The Fight Results And Official Scorecards From The Opening Round Of Road To UFC Season 5, Live From Galaxy Arena In Macau On Thursday, May 28",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/052225-Road-To-UFC-Octagon-GettyImages-2216423594.jpg?itok=Bv41Gmr8",
       "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Rongzhu | Finally Ready To Compete With The Best",
+      "link": "https://www.ufc.com/news/rongzhu-finally-ready-compete-best-ufc-macau",
+      "guid": "https://www.ufc.com/news/rongzhu-finally-ready-compete-best-ufc-macau",
+      "pubDate": "Wed, 27 May 2026 17:48:00 GMT",
+      "published_at": "2026-05-27T17:48:00+00:00",
+      "description": "Young Veteran Discusses Road Back To UFC Ahead Of First Start Of 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Rongzhu-pose-flag.jpg?itok=kJyFY3LT",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Alex Perez | Seeking A Dance Partner on the Other Side of the World",
+      "link": "https://www.ufc.com/news/alex-perez-seeking-dance-partner-other-side-world-ufc-macau",
+      "guid": "https://www.ufc.com/news/alex-perez-seeking-dance-partner-other-side-world-ufc-macau",
+      "pubDate": "Wed, 27 May 2026 17:06:00 GMT",
+      "published_at": "2026-05-27T17:06:00+00:00",
+      "description": "Flyweight Staple Talks Competing Abroad, Looking To Scrap With Sumudaerji In Macau",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2258020900.jpg?itok=PFvx8RPu",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Statement On Bassil Hafez",
+      "link": "https://www.ufc.com/news/statement-bassil-hafez",
+      "guid": "https://www.ufc.com/news/statement-bassil-hafez",
+      "pubDate": "Wed, 27 May 2026 16:54:00 GMT",
+      "published_at": "2026-05-27T16:54:00+00:00",
+      "description": "Latest UFC news: Statement On Bassil Hafez",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -70,39 +103,6 @@
       "description": "Taking A Wide-Angle Look At The 155-Pound Weight Class UFC Freedom 250 Sponsored By Crypto.com and RAM",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2275217309.jpg?itok=gmNZhchZ",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Lance Gibson Jr. | Destiny Fulfilled",
-      "link": "https://www.ufc.com/news/lance-gibson-jr-destiny-fulfilled",
-      "guid": "https://www.ufc.com/news/lance-gibson-jr-destiny-fulfilled",
-      "pubDate": "Tue, 26 May 2026 17:40:00 GMT",
-      "published_at": "2026-05-26T17:40:00+00:00",
-      "description": "Lightweight Reflects On Long Road To The Octagon, First UFC Win",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2268836854.jpg?itok=uKxfDWpy",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Macau",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-macau-asakura-haddon-tsuruya",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-macau-asakura-haddon-tsuruya",
-      "pubDate": "Tue, 26 May 2026 17:08:00 GMT",
-      "published_at": "2026-05-26T17:08:00+00:00",
-      "description": "Identifying Three Up-And-Comers To Watch This Weekend At UFC Fight Night: Song vs Figueiredo",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052626-hero-cody-haddon_GettyImages-2178137033.jpg?itok=NSjzRBRz",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Joseph Larcinese: ‘Expect Someone Hunting for a Finish’",
-      "link": "https://www.ufc.com/news/joseph-larcinese-expect-someone-hunting-finish-road-to-ufc",
-      "guid": "https://www.ufc.com/news/joseph-larcinese-expect-someone-hunting-finish-road-to-ufc",
-      "pubDate": "Tue, 26 May 2026 17:05:00 GMT",
-      "published_at": "2026-05-26T17:05:00+00:00",
-      "description": "Australian Flyweight Hopeful Talks UFC Audition, Road To UFC Opportunity",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/RTU_MediaDayBTS-Joseph-Larcinese.jpg?itok=8pahCHCN",
-      "category": "Road to UFC",
       "source": "UFC"
     }
   ]
