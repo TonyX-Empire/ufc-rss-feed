@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-28T11:06:23.035833+00:00",
+  "last_build_date": "2026-05-28T20:41:23.605409+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,11 +40,44 @@
       "source": "UFC"
     },
     {
+      "title": "Song Yadong | Better Through Experience",
+      "link": "https://www.ufc.com/news/song-yadong-better-through-experience-ufc-macau",
+      "guid": "https://www.ufc.com/news/song-yadong-better-through-experience-ufc-macau",
+      "pubDate": "Thu, 28 May 2026 17:40:00 GMT",
+      "published_at": "2026-05-28T17:40:00+00:00",
+      "description": "Chinese Bantamweight Star Last Fought On Home Soil As A Raw Young Prospect. Now He Returns Home As A Legitimate Title Threat.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Song-Yadong-Hero-.jpg?itok=gO0M8pJH",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Deiveson Figueiredo Still Has More To Accomplish",
+      "link": "https://www.ufc.com/news/deiveson-figueiredo-still-has-more-accomplish-ufc-macau",
+      "guid": "https://www.ufc.com/news/deiveson-figueiredo-still-has-more-accomplish-ufc-macau",
+      "pubDate": "Thu, 28 May 2026 17:05:00 GMT",
+      "published_at": "2026-05-28T17:05:00+00:00",
+      "description": "Former Undisputed Flyweight Champion Is Chasing Gold In A Second Weight Class, And Plans To Gatecrash The Bantamweight Title Picture With Victory In Macau.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Deiveson-Figueirdo-Pose-.jpg?itok=qN8OHtrf",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 07 Official Fight Card",
+      "link": "https://www.ufc.com/news/zuffa-boxing-07-official-fight-card",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-07-official-fight-card",
+      "pubDate": "Thu, 28 May 2026 17:01:00 GMT",
+      "published_at": "2026-05-28T17:01:00+00:00",
+      "description": "Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/ZB07_Eng_Paramount_TL.jpg?itok=D0UamsRS",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
       "title": "Road To UFC Results | Season 5 Opening Rounds: Day 1",
       "link": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-1",
       "guid": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-1",
-      "pubDate": "Thu, 28 May 2026 10:53:00 GMT",
-      "published_at": "2026-05-28T10:53:00+00:00",
+      "pubDate": "Thu, 28 May 2026 14:00:00 GMT",
+      "published_at": "2026-05-28T14:00:00+00:00",
       "description": "See The Fight Results And Official Scorecards From The Opening Round Of Road To UFC Season 5, Live From Galaxy Arena In Macau On Thursday, May 28",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/road-to-ufc-generic-octagon-HERO.jpg?itok=0OZq2k8v",
       "category": "Road to UFC",
@@ -70,39 +103,6 @@
       "description": "The Athlete Hopefuls Of Season 5 Step To The Scale To Make It Official For May 28 & May 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-Rongzhu-Weigh-In-GettyImages-2278365192.jpg?itok=Jy44ov7i",
       "category": "Road to UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jaqueline Amorim Tired Of Seeing Red",
-      "link": "https://www.ufc.com/news/jaqueline-amorim-tired-seeing-red-ufc-macau-strawweight",
-      "guid": "https://www.ufc.com/news/jaqueline-amorim-tired-seeing-red-ufc-macau-strawweight",
-      "pubDate": "Wed, 27 May 2026 22:49:00 GMT",
-      "published_at": "2026-05-27T22:49:00+00:00",
-      "description": "Brazilian Strawweight Discusses Camp Change, Focus On Details",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-jaqueline-amorim-hand-wrap-backstage.jpg?itok=6B6rSIOw",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Cody Haddon Gets Candid About Injuries, Career Uncertainty",
-      "link": "https://www.ufc.com/news/cody-haddon-gets-candid-about-injuries-career-uncertainty-ufc-macau",
-      "guid": "https://www.ufc.com/news/cody-haddon-gets-candid-about-injuries-career-uncertainty-ufc-macau",
-      "pubDate": "Wed, 27 May 2026 18:45:00 GMT",
-      "published_at": "2026-05-27T18:45:00+00:00",
-      "description": "DWCS Alum Discusses Journey Back To Octagon This Weekend In Macau",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/Cody-Haddon-Punch-.jpg?itok=uBpLDXRy",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Rongzhu | Finally Ready To Compete With The Best",
-      "link": "https://www.ufc.com/news/rongzhu-finally-ready-compete-best-ufc-macau",
-      "guid": "https://www.ufc.com/news/rongzhu-finally-ready-compete-best-ufc-macau",
-      "pubDate": "Wed, 27 May 2026 17:48:00 GMT",
-      "published_at": "2026-05-27T17:48:00+00:00",
-      "description": "Young Veteran Discusses Road Back To UFC Ahead Of First Start Of 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-rongzhu-celebration.jpg?itok=KKi0Qw4N",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
