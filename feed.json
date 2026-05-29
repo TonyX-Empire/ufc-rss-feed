@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-29T10:55:02.426238+00:00",
+  "last_build_date": "2026-05-29T20:41:06.521042+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,11 +40,55 @@
       "source": "UFC"
     },
     {
+      "title": "Just Dropped: UFC Global Affinity Collection",
+      "link": "https://www.ufc.com/news/just-dropped-ufc-global-affinity-collection",
+      "guid": "https://www.ufc.com/news/just-dropped-ufc-global-affinity-collection",
+      "pubDate": "Fri, 29 May 2026 18:59:00 GMT",
+      "published_at": "2026-05-29T18:59:00+00:00",
+      "description": "Get Ready to Rep Your Pride at UFC Store!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/3-1920-x-1080_Hero-Thumbnail.jpg?itok=lwIr4fY5",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jake Matthews | Everything Happens for a Reason",
+      "link": "https://www.ufc.com/news/jake-matthews-everything-happens-reason",
+      "guid": "https://www.ufc.com/news/jake-matthews-everything-happens-reason",
+      "pubDate": "Fri, 29 May 2026 18:27:00 GMT",
+      "published_at": "2026-05-29T18:27:00+00:00",
+      "description": "Welterweight Veteran Shares Outlook On Life, Career Ahead Of 2026 Debut",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-jake-matthews-backstage-portrait.jpg?itok=R87JKi6s",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing Is Coming To NYC | Register Your Interest!",
+      "link": "https://www.ufc.com/news/zuffa-boxing-coming-nyc-register-your-interest",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-coming-nyc-register-your-interest",
+      "pubDate": "Fri, 29 May 2026 16:21:00 GMT",
+      "published_at": "2026-05-29T16:21:00+00:00",
+      "description": "Zuffa Boxing 09 Is Live From Infosys Theater On July 26",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/ZUFFA_NYC_ANNC_FINAL-MP4.00_00_05_25.Still002.jpg?itok=rLRryEKf",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Alonzo Menifield | First-Time Poster Boy",
+      "link": "https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau",
+      "guid": "https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau",
+      "pubDate": "Fri, 29 May 2026 15:41:00 GMT",
+      "published_at": "2026-05-29T15:41:00+00:00",
+      "description": "Hard-Hitting Light Heavyweight Is Happy To Get Some Promotional Shine, And Knows More Attention Will Follow If He Lands A Big Win At UFC Macau",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Alonzo-Menifield-Hero-.jpg?itok=z3JVS_Mi",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Road To UFC Results | Season 5 Opening Rounds: Day 2",
       "link": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-2",
       "guid": "https://www.ufc.com/news/road-to-ufc-season-5-results-scorecards-opening-rounds-day-2",
-      "pubDate": "Fri, 29 May 2026 10:30:00 GMT",
-      "published_at": "2026-05-29T10:30:00+00:00",
+      "pubDate": "Fri, 29 May 2026 13:30:00 GMT",
+      "published_at": "2026-05-29T13:30:00+00:00",
       "description": "See The Fight Results And Official Scorecards From The Opening Round Of Road To UFC Season 5, Live From Galaxy Arena In Macau On Friday, May 29",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/52926-general-view-road-to-ufc-octagon.jpg?itok=HYlxcbGi",
       "category": "Road to UFC",
@@ -58,50 +102,6 @@
       "published_at": "2026-05-29T00:45:00+00:00",
       "description": "Chinese Light Heavyweight May Have Built His Reputation On Quick-Fire Finishes, But He’s Ready To Take The Long Road To Victory If Required",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-zhang-mingyang-open-workout-GettyImages-2278496572.jpg?itok=P_2CDCOY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Store Turns Up the Heat with New UFC Freedom 250 Essentials",
-      "link": "https://www.ufc.com/news/ufc-store-turns-heat-new-ufc-freedom-250-essentials",
-      "guid": "https://www.ufc.com/news/ufc-store-turns-heat-new-ufc-freedom-250-essentials",
-      "pubDate": "Thu, 28 May 2026 23:41:00 GMT",
-      "published_at": "2026-05-28T23:41:00+00:00",
-      "description": "Gear Up for the Most Historic Sporting Event of All Time at UFC Store!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-UFC-1920x1080_resized.jpeg?itok=KA-XPVg1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Playful Sergei Pavlovich Prepared For War",
-      "link": "https://www.ufc.com/news/sergei-pavlovich-prepared-war-ufc-macau",
-      "guid": "https://www.ufc.com/news/sergei-pavlovich-prepared-war-ufc-macau",
-      "pubDate": "Thu, 28 May 2026 23:19:00 GMT",
-      "published_at": "2026-05-28T23:19:00+00:00",
-      "description": "Heavyweight Contender Charms Ahead Of Return Bout With Tallison Teixeira",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/GettyImages-2158297612_resized.jpg?itok=rrhfQKc0",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome Back, Rei Tsuruya",
-      "link": "https://www.ufc.com/news/welcome-back-rei-tsuruya-ufc-macau",
-      "guid": "https://www.ufc.com/news/welcome-back-rei-tsuruya-ufc-macau",
-      "pubDate": "Thu, 28 May 2026 21:40:00 GMT",
-      "published_at": "2026-05-28T21:40:00+00:00",
-      "description": "Returning Japanese Prospect Brings New Look To New Look Division",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/Rei-Tsuruya-Hero-.jpg?itok=f1wPedpU",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Song Yadong | Better Through Experience",
-      "link": "https://www.ufc.com/news/song-yadong-better-through-experience-ufc-macau",
-      "guid": "https://www.ufc.com/news/song-yadong-better-through-experience-ufc-macau",
-      "pubDate": "Thu, 28 May 2026 17:40:00 GMT",
-      "published_at": "2026-05-28T17:40:00+00:00",
-      "description": "Chinese Bantamweight Star Last Fought On Home Soil As A Raw Young Prospect. Now He Returns Home As A Legitimate Title Threat.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/Song-Yadong-Hero-.jpg?itok=gO0M8pJH",
       "category": "UFC",
       "source": "UFC"
     }
