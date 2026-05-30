@@ -5,26 +5,36 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 May 2026 12:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 18:49:08 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Official Scorecards | UFC Macau</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau</guid>
-      <pubDate>Sat, 30 May 2026 12:43:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/030726-Bruce-Buffer-Announcement-THUMB-GettyImages-2265346009.jpg?itok=iTTn3eny" alt="Official Scorecards | UFC Macau" /></p>
-<p>See How The Judges Scored Every Round Of UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
+      <title>Bonus Coverage | UFC Macau</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-macau</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-macau</guid>
+      <pubDate>Sat, 30 May 2026 14:50:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/BrowserPreview_tmp-1.gif?itok=0NW87Es3" alt="Bonus Coverage | UFC Macau" /></p>
+<p>Latest UFC news: Bonus Coverage | UFC Macau</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Main Card Results | UFC Macau</title>
       <link>https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau</guid>
-      <pubDate>Sat, 30 May 2026 12:23:00 GMT</pubDate>
+      <pubDate>Sat, 30 May 2026 14:20:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/053026-ufc-fight-night-song-vs-figueiredo-EVENT-ART.jpg?itok=E6nYj_wf" alt="Main Card Results | UFC Macau" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026.</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Official Scorecards | UFC Macau</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau</guid>
+      <pubDate>Sat, 30 May 2026 13:52:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/030726-Bruce-Buffer-Announcement-THUMB-GettyImages-2265346009.jpg?itok=iTTn3eny" alt="Official Scorecards | UFC Macau" /></p>
+<p>See How The Judges Scored Every Round Of UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/ZUFFA_NYC_ANNC_FINAL-MP4.00_00_05_25.Still002.jpg?itok=rLRryEKf" alt="Zuffa Boxing Is Coming To NYC | Register Your Interest!" /></p>
 <p>Zuffa Boxing 09 Is Live From Infosys Theater On July 26</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Alonzo Menifield | First-Time Poster Boy</title>
-      <link>https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau</guid>
-      <pubDate>Fri, 29 May 2026 15:41:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/Alonzo-Menifield-Hero-.jpg?itok=z3JVS_Mi" alt="Alonzo Menifield | First-Time Poster Boy" /></p>
-<p>Hard-Hitting Light Heavyweight Is Happy To Get Some Promotional Shine, And Knows More Attention Will Follow If He Lands A Big Win At UFC Macau</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

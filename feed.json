@@ -3,28 +3,39 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-30T12:51:48.672954+00:00",
+  "last_build_date": "2026-05-30T18:49:08.909880+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Official Scorecards | UFC Macau",
-      "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
-      "pubDate": "Sat, 30 May 2026 12:43:00 GMT",
-      "published_at": "2026-05-30T12:43:00+00:00",
-      "description": "See How The Judges Scored Every Round Of UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/030726-Bruce-Buffer-Announcement-THUMB-GettyImages-2265346009.jpg?itok=iTTn3eny",
-      "category": "UFC Fight Night",
+      "title": "Bonus Coverage | UFC Macau",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-macau",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-macau",
+      "pubDate": "Sat, 30 May 2026 14:50:00 GMT",
+      "published_at": "2026-05-30T14:50:00+00:00",
+      "description": "Latest UFC news: Bonus Coverage | UFC Macau",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/BrowserPreview_tmp-1.gif?itok=0NW87Es3",
+      "category": "UFC",
       "source": "UFC"
     },
     {
       "title": "Main Card Results | UFC Macau",
       "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau",
       "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau",
-      "pubDate": "Sat, 30 May 2026 12:23:00 GMT",
-      "published_at": "2026-05-30T12:23:00+00:00",
+      "pubDate": "Sat, 30 May 2026 14:20:00 GMT",
+      "published_at": "2026-05-30T14:20:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026.",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/053026-ufc-fight-night-song-vs-figueiredo-EVENT-ART.jpg?itok=E6nYj_wf",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Macau",
+      "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
+      "pubDate": "Sat, 30 May 2026 13:52:00 GMT",
+      "published_at": "2026-05-30T13:52:00+00:00",
+      "description": "See How The Judges Scored Every Round Of UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/030726-Bruce-Buffer-Announcement-THUMB-GettyImages-2265346009.jpg?itok=iTTn3eny",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Zuffa Boxing 09 Is Live From Infosys Theater On July 26",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/ZUFFA_NYC_ANNC_FINAL-MP4.00_00_05_25.Still002.jpg?itok=rLRryEKf",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Alonzo Menifield | First-Time Poster Boy",
-      "link": "https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau",
-      "guid": "https://www.ufc.com/news/alonzo-menifield-first-time-poster-boy-ufc-macau",
-      "pubDate": "Fri, 29 May 2026 15:41:00 GMT",
-      "published_at": "2026-05-29T15:41:00+00:00",
-      "description": "Hard-Hitting Light Heavyweight Is Happy To Get Some Promotional Shine, And Knows More Attention Will Follow If He Lands A Big Win At UFC Macau",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/Alonzo-Menifield-Hero-.jpg?itok=z3JVS_Mi",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
