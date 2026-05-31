@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-30T18:49:08.909880+00:00",
+  "last_build_date": "2026-05-31T08:27:13.623189+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Macau",
+      "link": "https://www.ufc.com/news/scorecard-ufc-macau",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-macau",
+      "pubDate": "Sun, 31 May 2026 01:45:00 GMT",
+      "published_at": "2026-05-31T01:45:00+00:00",
+      "description": "The biggest winners from UFC Fight Night: Song vs Figueiredo on May 30, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/5302026-Song-Yadong-UFC-Macau-GettyImages-2278918006.jpeg?itok=LPmmDDwf",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Macau",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-macau",
@@ -92,17 +103,6 @@
       "description": "Welterweight Veteran Shares Outlook On Life, Career Ahead Of 2026 Debut",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-jake-matthews-backstage-portrait.jpg?itok=R87JKi6s",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing Is Coming To NYC | Register Your Interest!",
-      "link": "https://www.ufc.com/news/zuffa-boxing-coming-nyc-register-your-interest",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-coming-nyc-register-your-interest",
-      "pubDate": "Fri, 29 May 2026 16:21:00 GMT",
-      "published_at": "2026-05-29T16:21:00+00:00",
-      "description": "Zuffa Boxing 09 Is Live From Infosys Theater On July 26",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/ZUFFA_NYC_ANNC_FINAL-MP4.00_00_05_25.Still002.jpg?itok=rLRryEKf",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
