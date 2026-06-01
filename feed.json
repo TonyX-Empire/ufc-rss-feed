@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-05-31T18:57:02.711868+00:00",
+  "last_build_date": "2026-06-01T19:11:32.415342+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "MAGOMED ANKALAEV TAKES ON KHALIL ROUNTREE JR. IN LIGHT HEAVYWEIGHT BATTLE IN ABU DHABI ON JULY 25",
+      "link": "https://www.ufc.com/news/magomed-ankalaev-takes-khalil-rountree-jr-light-heavyweight-battle-abu-dhabi-july-25",
+      "guid": "https://www.ufc.com/news/magomed-ankalaev-takes-khalil-rountree-jr-light-heavyweight-battle-abu-dhabi-july-25",
+      "pubDate": "Mon, 01 Jun 2026 17:25:00 GMT",
+      "published_at": "2026-06-01T17:25:00+00:00",
+      "description": "Tickets On Sale June 3",
+      "image": "https://ufc.com/images/styles/card/s3/2025-07/102222-General-View-Octagon-Etihad-Arena-GettyImages-1435594602.jpg?itok=PXHlfnCf",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Monthly Report | May 2026",
+      "link": "https://www.ufc.com/news/monthly-report-may-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-may-2026",
+      "pubDate": "Mon, 01 Jun 2026 16:49:00 GMT",
+      "published_at": "2026-06-01T16:49:00+00:00",
+      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060126-kai-asakura-hand-raise.jpg?itok=r9co37CU",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-muhammad-vs-bonfim-vegas-118",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-muhammad-vs-bonfim-vegas-118",
+      "pubDate": "Mon, 01 Jun 2026 01:00:00 GMT",
+      "published_at": "2026-06-01T01:00:00+00:00",
+      "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/053026-FBF-HERO-VEGAS-118.jpg?itok=757spmQo",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Macau",
       "link": "https://www.ufc.com/news/scorecard-ufc-macau",
@@ -70,39 +103,6 @@
       "description": "Key Information For The Las Vegas Event Happening June 6, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-03/060626-ufc-fight-night-muhammad-vs-bonfim-TEMP-HERO.jpg?itok=gvRncXmU",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Macau",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-macau-song-figueiredo",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-macau-song-figueiredo",
-      "pubDate": "Fri, 29 May 2026 19:17:00 GMT",
-      "published_at": "2026-05-29T19:17:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing UFC Fight Night: Song vs Figueiredo At Galaxy Arena In Macau",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/GettyImages-2257869623.jpg?itok=9MX2SRGv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Just Dropped: UFC Global Affinity Collection",
-      "link": "https://www.ufc.com/news/just-dropped-ufc-global-affinity-collection",
-      "guid": "https://www.ufc.com/news/just-dropped-ufc-global-affinity-collection",
-      "pubDate": "Fri, 29 May 2026 18:59:00 GMT",
-      "published_at": "2026-05-29T18:59:00+00:00",
-      "description": "Get Ready to Rep Your Pride at UFC Store!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/3-1920-x-1080_Hero-Thumbnail.jpg?itok=lwIr4fY5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jake Matthews | Everything Happens for a Reason",
-      "link": "https://www.ufc.com/news/jake-matthews-everything-happens-reason",
-      "guid": "https://www.ufc.com/news/jake-matthews-everything-happens-reason",
-      "pubDate": "Fri, 29 May 2026 18:27:00 GMT",
-      "published_at": "2026-05-29T18:27:00+00:00",
-      "description": "Welterweight Veteran Shares Outlook On Life, Career Ahead Of 2026 Debut",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052726-jake-matthews-backstage-portrait.jpg?itok=R87JKi6s",
-      "category": "News",
       "source": "UFC"
     }
   ]
