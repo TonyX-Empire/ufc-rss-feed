@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Jun 2026 19:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:16:58 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exodus Named UFC's First Official Payments Partner</title>
+      <link>https://www.ufc.com/news/exodus-named-ufcs-first-official-payments-partner</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/exodus-named-ufcs-first-official-payments-partner</guid>
+      <pubDate>Tue, 02 Jun 2026 11:30:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/FINAL__UFC_x_Exodus1920.jpg?itok=w-XyJ51b" alt="Exodus Named UFC's First Official Payments Partner" /></p>
+<p>Exodus Joins as Official Partner of Historic UFC® FREEDOM 250 Event at the White House</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>MAGOMED ANKALAEV TAKES ON KHALIL ROUNTREE JR. IN LIGHT HEAVYWEIGHT BATTLE IN ABU DHABI ON JULY 25</title>
       <link>https://www.ufc.com/news/magomed-ankalaev-takes-khalil-rountree-jr-light-heavyweight-battle-abu-dhabi-july-25</link>
@@ -85,16 +95,6 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/112324-General-View-Octagon-Galaxy-Arena-GettyImages-2186455112.jpg?itok=qVgRKOsm" alt="Prelim Results | UFC Macau" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Updates To UFC Fight Night: Muhammad vs Bonfim</title>
-      <link>https://www.ufc.com/news/updates-ufc-fight-night-muhammad-vs-bonfim</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/updates-ufc-fight-night-muhammad-vs-bonfim</guid>
-      <pubDate>Fri, 29 May 2026 23:10:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/060626-ufc-fight-night-muhammad-vs-bonfim-TEMP-HERO.jpg?itok=gvRncXmU" alt="Updates To UFC Fight Night: Muhammad vs Bonfim" /></p>
-<p>Key Information For The Las Vegas Event Happening June 6, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
