@@ -3,9 +3,75 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-02T12:16:58.491889+00:00",
+  "last_build_date": "2026-06-02T22:38:11.085097+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/fight-fight-preview-billam-smith-rozicki-bournemouth-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-billam-smith-rozicki-bournemouth-zuffa-boxing-07",
+      "pubDate": "Tue, 02 Jun 2026 21:23:00 GMT",
+      "published_at": "2026-06-02T21:23:00+00:00",
+      "description": "Zuffa Boxing Goes Overseas As The Bournemouth International Centre Plays Host To A Loaded Card Featuring Hard-Hitting British Talent On June 6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-07-FBF-Hero.jpg?itok=devQWCTh",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "EA Sports UFC 6 Reveals Career Mode Overhaul, New Modes And Ongoing Content Updates",
+      "link": "https://www.ufc.com/news/ea-sports-ufc-6-reveals-career-mode-overhaul-new-modes-and-ongoing-content-updates",
+      "guid": "https://www.ufc.com/news/ea-sports-ufc-6-reveals-career-mode-overhaul-new-modes-and-ongoing-content-updates",
+      "pubDate": "Tue, 02 Jun 2026 20:00:00 GMT",
+      "published_at": "2026-06-02T20:00:00+00:00",
+      "description": "UFC 6 Releases June 19 On PlayStation 5 And Xbox Series X|S",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/ufc-6-alex-pereira-thumb.jpg?itok=DNsvoDiJ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "THE 10 | A MASSIVE MONTH INSIDE THE OCTAGON",
+      "link": "https://www.ufc.com/news/the-10-a-massive-month-inside-the-octagon",
+      "guid": "https://www.ufc.com/news/the-10-a-massive-month-inside-the-octagon",
+      "pubDate": "Tue, 02 Jun 2026 19:06:00 GMT",
+      "published_at": "2026-06-02T19:06:00+00:00",
+      "description": "Laying Out The Biggest Matchups On The Schedule In June",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Derrick-Lewis-Hero-.jpg?itok=Cv9wTEmu",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Iwo Baraniewski’s Impressive Start In The UFC",
+      "link": "https://www.ufc.com/news/iwo-baraniewskis-impressive-start-ufc-ufc-vegas-118-light-heavyweight",
+      "guid": "https://www.ufc.com/news/iwo-baraniewskis-impressive-start-ufc-ufc-vegas-118-light-heavyweight",
+      "pubDate": "Tue, 02 Jun 2026 18:35:00 GMT",
+      "published_at": "2026-06-02T18:35:00+00:00",
+      "description": "Ahead Of His Third UFC Fight, We Take A Look Back At Baraniewski’s Wins So Far",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060226-iwo-baraniewski-celebration.jpg?itok=ji1tSZBe",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-muhammad-bonfim",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-muhammad-bonfim",
+      "pubDate": "Tue, 02 Jun 2026 18:12:00 GMT",
+      "published_at": "2026-06-02T18:12:00+00:00",
+      "description": "Filling You In On Three Fighters You Should Pay Attention To On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Pose-.jpg?itok=BtbdoU0g",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Examining the Heavyweight Landscape Ahead of UFC Freedom 250",
+      "link": "https://www.ufc.com/news/examining-heavyweight-landscape-ahead-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/examining-heavyweight-landscape-ahead-ufc-freedom-250",
+      "pubDate": "Tue, 02 Jun 2026 16:53:00 GMT",
+      "published_at": "2026-06-02T16:53:00+00:00",
+      "description": "Taking A Big Picture Look At The Big Boy Division | UFC Freedom 250 Presented by Crypto.com and RAM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Gane-Pereira-Pose-.jpg?itok=hfyV_2Yv",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Exodus Named UFC's First Official Payments Partner",
       "link": "https://www.ufc.com/news/exodus-named-ufcs-first-official-payments-partner",
@@ -37,72 +103,6 @@
       "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/060126-kai-asakura-hand-raise.jpg?itok=r9co37CU",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-muhammad-vs-bonfim-vegas-118",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-muhammad-vs-bonfim-vegas-118",
-      "pubDate": "Mon, 01 Jun 2026 01:00:00 GMT",
-      "published_at": "2026-06-01T01:00:00+00:00",
-      "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/053026-FBF-HERO-VEGAS-118.jpg?itok=757spmQo",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Macau",
-      "link": "https://www.ufc.com/news/scorecard-ufc-macau",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-macau",
-      "pubDate": "Sun, 31 May 2026 01:45:00 GMT",
-      "published_at": "2026-05-31T01:45:00+00:00",
-      "description": "The biggest winners from UFC Fight Night: Song vs Figueiredo on May 30, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/5302026-Song-Yadong-UFC-Macau-GettyImages-2278918006.jpeg?itok=LPmmDDwf",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Macau",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-macau",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-macau",
-      "pubDate": "Sat, 30 May 2026 14:50:00 GMT",
-      "published_at": "2026-05-30T14:50:00+00:00",
-      "description": "Latest UFC news: Bonus Coverage | UFC Macau",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/BrowserPreview_tmp-1.gif?itok=0NW87Es3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Macau",
-      "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-main-card-winners-interviews-macau",
-      "pubDate": "Sat, 30 May 2026 14:20:00 GMT",
-      "published_at": "2026-05-30T14:20:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/053026-ufc-fight-night-song-vs-figueiredo-EVENT-ART.jpg?itok=E6nYj_wf",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Macau",
-      "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau",
-      "pubDate": "Sat, 30 May 2026 13:52:00 GMT",
-      "published_at": "2026-05-30T13:52:00+00:00",
-      "description": "See How The Judges Scored Every Round Of UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/030726-Bruce-Buffer-Announcement-THUMB-GettyImages-2265346009.jpg?itok=iTTn3eny",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Macau",
-      "link": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-prelims-winners-interviews-macau",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-results-highlights-prelims-winners-interviews-macau",
-      "pubDate": "Sat, 30 May 2026 11:21:00 GMT",
-      "published_at": "2026-05-30T11:21:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Song vs Figueiredo, Live From Galaxy Arena In Macau On May 30, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/112324-General-View-Octagon-Galaxy-Arena-GettyImages-2186455112.jpg?itok=qVgRKOsm",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
