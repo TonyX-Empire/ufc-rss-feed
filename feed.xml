@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jun 2026 22:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:10:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brendan Allen | Nothing to Prove</title>
+      <link>https://www.ufc.com/news/brendan-allen-nothing-to-prove-ufc-vegas-118-middleweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/brendan-allen-nothing-to-prove-ufc-vegas-118-middleweight</guid>
+      <pubDate>Wed, 03 Jun 2026 00:30:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/060226-brendan-allen-pre-fight.jpg?itok=QEgYfBlE" alt="Brendan Allen | Nothing to Prove" /></p>
+<p>Top-Ranked Middleweight’s Only Focus Is On Getting Another Victory This Weekend</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Fight By Fight Preview | Zuffa Boxing 07</title>
       <link>https://www.ufc.com/news/fight-fight-preview-billam-smith-rozicki-bournemouth-zuffa-boxing-07</link>
@@ -85,16 +95,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2025-07/102222-General-View-Octagon-Etihad-Arena-GettyImages-1435594602.jpg?itok=PXHlfnCf" alt="MAGOMED ANKALAEV TAKES ON KHALIL ROUNTREE JR. IN LIGHT HEAVYWEIGHT BATTLE IN ABU DHABI ON JULY 25" /></p>
 <p>Tickets On Sale June 3</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Monthly Report | May 2026</title>
-      <link>https://www.ufc.com/news/monthly-report-may-2026</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/monthly-report-may-2026</guid>
-      <pubDate>Mon, 01 Jun 2026 16:49:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/060126-kai-asakura-hand-raise.jpg?itok=r9co37CU" alt="Monthly Report | May 2026" /></p>
-<p>Highlighting The Standout Action From Inside The Octagon Over The Previous Month</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>
