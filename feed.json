@@ -3,9 +3,64 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-03T18:10:07.227789+00:00",
+  "last_build_date": "2026-06-04T10:44:47.038605+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Marcus McGhee Always Keeps An Even Keel",
+      "link": "https://www.ufc.com/news/marcus-mcghee-always-keeps-even-keel-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/marcus-mcghee-always-keeps-even-keel-ufc-vegas-118",
+      "pubDate": "Wed, 03 Jun 2026 22:19:00 GMT",
+      "published_at": "2026-06-03T22:19:00+00:00",
+      "description": "Returning Bantamweight Talks Time Away, Focus On Here And Now",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060226-marcus-mcghee-celebraiton.jpg?itok=SFoQYZxg",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Ryan Rozicki Is Taking It Back To The Old School | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/ryan-rozicki-is-taking-it-back-to-the-old-school-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/ryan-rozicki-is-taking-it-back-to-the-old-school-zuffa-boxing-07",
+      "pubDate": "Wed, 03 Jun 2026 20:45:00 GMT",
+      "published_at": "2026-06-03T20:45:00+00:00",
+      "description": "Hard-Hitting Canadian Contender Has Built His Name Off Knockouts, Not Soundbites, And Plans To Make A Fistic Statement In His Zuffa Boxing Debut This Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060326-ryan-rozicki-HERO.jpg?itok=zmrfv9Or",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Stevie McKenna: ‘Expect Pure Mayhem And Excitement’ | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/stevie-mckenna-expect-pure-mayhem-and-excitement-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/stevie-mckenna-expect-pure-mayhem-and-excitement-zuffa-boxing-07",
+      "pubDate": "Wed, 03 Jun 2026 20:22:00 GMT",
+      "published_at": "2026-06-03T20:22:00+00:00",
+      "description": "Ireland’s Latest Arrival To Zuffa Boxing Plans To Make An Instant Impact In A New Weight Class",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060326-Stevie-McKenna-Portrait-HERO.jpg?itok=1tL905r3",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Lee Cutler | There’s No Place Like Home | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/lee-cutler-theres-no-place-like-home-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/lee-cutler-theres-no-place-like-home-zuffa-boxing-07",
+      "pubDate": "Wed, 03 Jun 2026 19:30:00 GMT",
+      "published_at": "2026-06-03T19:30:00+00:00",
+      "description": "Bournemouth’s Own Lee Cutler Is Ready For His Zuffa Boxing Debut In His Hometown, And There’s Nowhere He’d Rather Be",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/060326-alessandro-costa-fight-week-interview.jpg?itok=tWzuvnau",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Jordan Leavitt | Beware ‘The Monkey King’",
+      "link": "https://www.ufc.com/news/jordan-leavitt-beware-the-monkey-king-ufc-fight-night-muhammad-bonfim-vegas-118",
+      "guid": "https://www.ufc.com/news/jordan-leavitt-beware-the-monkey-king-ufc-fight-night-muhammad-bonfim-vegas-118",
+      "pubDate": "Wed, 03 Jun 2026 19:00:00 GMT",
+      "published_at": "2026-06-03T19:00:00+00:00",
+      "description": "Dana White's Contender Series Grad Talks Shift In Mindset, Divisions Ahead Of Clash With Joanderson Brito At UFC Fight Night: Muhammad vs Bonfim",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/022126-Jordan-Leavitt-Portrait-GettyImages-2262867951.jpg?itok=hmTZ97t1",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Brendan Allen | Nothing to Prove",
       "link": "https://www.ufc.com/news/brendan-allen-nothing-to-prove-ufc-vegas-118-middleweight",
@@ -47,61 +102,6 @@
       "published_at": "2026-06-02T19:06:00+00:00",
       "description": "Laying Out The Biggest Matchups On The Schedule In June",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Derrick-Lewis-Hero-.jpg?itok=Cv9wTEmu",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Iwo Baraniewski’s Impressive Start In The UFC",
-      "link": "https://www.ufc.com/news/iwo-baraniewskis-impressive-start-ufc-ufc-vegas-118-light-heavyweight",
-      "guid": "https://www.ufc.com/news/iwo-baraniewskis-impressive-start-ufc-ufc-vegas-118-light-heavyweight",
-      "pubDate": "Tue, 02 Jun 2026 18:35:00 GMT",
-      "published_at": "2026-06-02T18:35:00+00:00",
-      "description": "Ahead Of His Third UFC Fight, We Take A Look Back At Baraniewski’s Wins So Far",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060226-iwo-baraniewski-celebration.jpg?itok=ji1tSZBe",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-muhammad-bonfim",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-muhammad-bonfim",
-      "pubDate": "Tue, 02 Jun 2026 18:12:00 GMT",
-      "published_at": "2026-06-02T18:12:00+00:00",
-      "description": "Filling You In On Three Fighters You Should Pay Attention To On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Pose-.jpg?itok=BtbdoU0g",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Examining the Heavyweight Landscape Ahead of UFC Freedom 250",
-      "link": "https://www.ufc.com/news/examining-heavyweight-landscape-ahead-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/examining-heavyweight-landscape-ahead-ufc-freedom-250",
-      "pubDate": "Tue, 02 Jun 2026 16:53:00 GMT",
-      "published_at": "2026-06-02T16:53:00+00:00",
-      "description": "Taking A Big Picture Look At The Big Boy Division | UFC Freedom 250 Presented by Crypto.com and RAM",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Gane-Pereira-Pose-.jpg?itok=hfyV_2Yv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Exodus Named UFC's First Official Payments Partner",
-      "link": "https://www.ufc.com/news/exodus-named-ufcs-first-official-payments-partner",
-      "guid": "https://www.ufc.com/news/exodus-named-ufcs-first-official-payments-partner",
-      "pubDate": "Tue, 02 Jun 2026 11:30:00 GMT",
-      "published_at": "2026-06-02T11:30:00+00:00",
-      "description": "Exodus Joins as Official Partner of Historic UFC® FREEDOM 250 Event at the White House",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/FINAL__UFC_x_Exodus1920.jpg?itok=w-XyJ51b",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "MAGOMED ANKALAEV TAKES ON KHALIL ROUNTREE JR. IN LIGHT HEAVYWEIGHT BATTLE IN ABU DHABI ON JULY 25",
-      "link": "https://www.ufc.com/news/magomed-ankalaev-takes-khalil-rountree-jr-light-heavyweight-battle-abu-dhabi-july-25",
-      "guid": "https://www.ufc.com/news/magomed-ankalaev-takes-khalil-rountree-jr-light-heavyweight-battle-abu-dhabi-july-25",
-      "pubDate": "Mon, 01 Jun 2026 17:25:00 GMT",
-      "published_at": "2026-06-01T17:25:00+00:00",
-      "description": "Tickets On Sale June 3",
-      "image": "https://ufc.com/images/styles/card/s3/2025-07/102222-General-View-Octagon-Etihad-Arena-GettyImages-1435594602.jpg?itok=PXHlfnCf",
       "category": "News",
       "source": "UFC"
     }
