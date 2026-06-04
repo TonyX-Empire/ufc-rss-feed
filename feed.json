@@ -3,9 +3,86 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-04T10:44:47.038605+00:00",
+  "last_build_date": "2026-06-04T19:49:23.076820+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC BJJ 9: Fowler vs Johnson Results",
+      "link": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
+      "guid": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 GMT",
+      "published_at": "2026-06-05T00:00:00+00:00",
+      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 9: Fowler vs Johnson At Meta APEX In Las Vegas, Nevada On June 4, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/ufc-bjj-9-clean-HERO.jpg?itok=NIkIihhZ",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Joanderson Brito | Expect The Expected",
+      "link": "https://www.ufc.com/news/joanderson-brito-expect-the-expected",
+      "guid": "https://www.ufc.com/news/joanderson-brito-expect-the-expected",
+      "pubDate": "Thu, 04 Jun 2026 18:59:00 GMT",
+      "published_at": "2026-06-04T18:59:00+00:00",
+      "description": "Brazilian Featherweight Says All Signs Are Pointing To A Typical Striker-Versus-Grappler Matchup When He Faces Jordan Leavitt On June 6.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Joanderson-Brito-Hero-.jpg?itok=MowyibIt",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 9: Fowler vs Johnson | Full Fight Card, Start Time & How to Watch",
+      "link": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-full-fight-card-start-time-how-to-watch",
+      "guid": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-full-fight-card-start-time-how-to-watch",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 GMT",
+      "published_at": "2026-06-04T16:00:00+00:00",
+      "description": "Watch UFC BJJ 9 On June 4, Live And Free On UFC BJJ Official YouTube Channel",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-ufc-bjj-9-EVENT-ART.jpg?itok=CCrwofMS",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Edmen Shahbazyan Believes His Moment Has Arrived",
+      "link": "https://www.ufc.com/news/edmen-shahbazyan-believes-his-moment-has-arrived",
+      "guid": "https://www.ufc.com/news/edmen-shahbazyan-believes-his-moment-has-arrived",
+      "pubDate": "Thu, 04 Jun 2026 15:51:00 GMT",
+      "published_at": "2026-06-04T15:51:00+00:00",
+      "description": "Middleweight Prospect Looks To Catapult Up The Rankings WithA Win Over Top 5 Contender Brendan Allen At UFC Fight Night:Muhammad vs Bonfim",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Edmen-Shahbazyan-Hero-.jpg?itok=IuFlJlDr",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Chris Billam-Smith | Hometown Hero | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/chris-billam-smith-hometwon-hero-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/chris-billam-smith-hometwon-hero-zuffa-boxing-07",
+      "pubDate": "Thu, 04 Jun 2026 09:45:00 GMT",
+      "published_at": "2026-06-04T09:45:00+00:00",
+      "description": "English Cruiserweight Star Wants To Close The Show In Style As He Headlines Zuffa Boxing 07 In His Hometown Of Bournemouth",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/052626-Chris-Billam-Smith-CBS-hero.jpg?itok=02YmtYJR",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Chev Clarke | Get Ready For Fireworks | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/chev-clarke-get-ready-fireworks-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/chev-clarke-get-ready-fireworks-zuffa-boxing-07",
+      "pubDate": "Thu, 04 Jun 2026 09:40:00 GMT",
+      "published_at": "2026-06-04T09:40:00+00:00",
+      "description": "Former British Cruiserweight Champion Plans To Announce Himself On The Zuffa Boxing Stage",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Hero-CHev-Clarke-Zuffa-Boxing-ZB-07.jpg?itok=ktfaqjo-",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "PARAMOUNT AND UFC EXPAND PARTNERSHIP TO CANADA BEGINNING IN 2027",
+      "link": "https://www.ufc.com/news/paramount-and-ufc-expand-partnership-canada-beginning-2027",
+      "guid": "https://www.ufc.com/news/paramount-and-ufc-expand-partnership-canada-beginning-2027",
+      "pubDate": "Thu, 04 Jun 2026 03:53:00 GMT",
+      "published_at": "2026-06-04T03:53:00+00:00",
+      "description": "Six-Year Deal Delivers All UFC Numbered Event Main Cards Exclusively to Paramount+ Subscribers Nationwide.",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/060426-UFC-ON-PARAMOUNT-2.jpg?itok=E-WDf8hD",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Marcus McGhee Always Keeps An Even Keel",
       "link": "https://www.ufc.com/news/marcus-mcghee-always-keeps-even-keel-ufc-vegas-118",
@@ -26,83 +103,6 @@
       "description": "Hard-Hitting Canadian Contender Has Built His Name Off Knockouts, Not Soundbites, And Plans To Make A Fistic Statement In His Zuffa Boxing Debut This Saturday",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/060326-ryan-rozicki-HERO.jpg?itok=zmrfv9Or",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Stevie McKenna: ‘Expect Pure Mayhem And Excitement’ | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/stevie-mckenna-expect-pure-mayhem-and-excitement-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/stevie-mckenna-expect-pure-mayhem-and-excitement-zuffa-boxing-07",
-      "pubDate": "Wed, 03 Jun 2026 20:22:00 GMT",
-      "published_at": "2026-06-03T20:22:00+00:00",
-      "description": "Ireland’s Latest Arrival To Zuffa Boxing Plans To Make An Instant Impact In A New Weight Class",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060326-Stevie-McKenna-Portrait-HERO.jpg?itok=1tL905r3",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Lee Cutler | There’s No Place Like Home | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/lee-cutler-theres-no-place-like-home-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/lee-cutler-theres-no-place-like-home-zuffa-boxing-07",
-      "pubDate": "Wed, 03 Jun 2026 19:30:00 GMT",
-      "published_at": "2026-06-03T19:30:00+00:00",
-      "description": "Bournemouth’s Own Lee Cutler Is Ready For His Zuffa Boxing Debut In His Hometown, And There’s Nowhere He’d Rather Be",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/060326-alessandro-costa-fight-week-interview.jpg?itok=tWzuvnau",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Jordan Leavitt | Beware ‘The Monkey King’",
-      "link": "https://www.ufc.com/news/jordan-leavitt-beware-the-monkey-king-ufc-fight-night-muhammad-bonfim-vegas-118",
-      "guid": "https://www.ufc.com/news/jordan-leavitt-beware-the-monkey-king-ufc-fight-night-muhammad-bonfim-vegas-118",
-      "pubDate": "Wed, 03 Jun 2026 19:00:00 GMT",
-      "published_at": "2026-06-03T19:00:00+00:00",
-      "description": "Dana White's Contender Series Grad Talks Shift In Mindset, Divisions Ahead Of Clash With Joanderson Brito At UFC Fight Night: Muhammad vs Bonfim",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/022126-Jordan-Leavitt-Portrait-GettyImages-2262867951.jpg?itok=hmTZ97t1",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Brendan Allen | Nothing to Prove",
-      "link": "https://www.ufc.com/news/brendan-allen-nothing-to-prove-ufc-vegas-118-middleweight",
-      "guid": "https://www.ufc.com/news/brendan-allen-nothing-to-prove-ufc-vegas-118-middleweight",
-      "pubDate": "Wed, 03 Jun 2026 00:30:00 GMT",
-      "published_at": "2026-06-03T00:30:00+00:00",
-      "description": "Top-Ranked Middleweight’s Only Focus Is On Getting Another Victory This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060226-brendan-allen-pre-fight.jpg?itok=QEgYfBlE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/fight-fight-preview-billam-smith-rozicki-bournemouth-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-billam-smith-rozicki-bournemouth-zuffa-boxing-07",
-      "pubDate": "Tue, 02 Jun 2026 21:23:00 GMT",
-      "published_at": "2026-06-02T21:23:00+00:00",
-      "description": "Zuffa Boxing Goes Overseas As The Bournemouth International Centre Plays Host To A Loaded Card Featuring Hard-Hitting British Talent On June 6",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-07-FBF-Hero.jpg?itok=devQWCTh",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "EA Sports UFC 6 Reveals Career Mode Overhaul, New Modes And Ongoing Content Updates",
-      "link": "https://www.ufc.com/news/ea-sports-ufc-6-reveals-career-mode-overhaul-new-modes-and-ongoing-content-updates",
-      "guid": "https://www.ufc.com/news/ea-sports-ufc-6-reveals-career-mode-overhaul-new-modes-and-ongoing-content-updates",
-      "pubDate": "Tue, 02 Jun 2026 20:00:00 GMT",
-      "published_at": "2026-06-02T20:00:00+00:00",
-      "description": "UFC 6 Releases June 19 On PlayStation 5 And Xbox Series X|S",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/ufc-6-alex-pereira-thumb.jpg?itok=DNsvoDiJ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "THE 10 | A MASSIVE MONTH INSIDE THE OCTAGON",
-      "link": "https://www.ufc.com/news/the-10-a-massive-month-inside-the-octagon",
-      "guid": "https://www.ufc.com/news/the-10-a-massive-month-inside-the-octagon",
-      "pubDate": "Tue, 02 Jun 2026 19:06:00 GMT",
-      "published_at": "2026-06-02T19:06:00+00:00",
-      "description": "Laying Out The Biggest Matchups On The Schedule In June",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Derrick-Lewis-Hero-.jpg?itok=Cv9wTEmu",
-      "category": "News",
       "source": "UFC"
     }
   ]
