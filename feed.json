@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-05T08:58:33.551962+00:00",
+  "last_build_date": "2026-06-05T17:24:28.993497+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Results + Scorecards | Zuffa Boxing 07: Billam-Smith vs Rozicki",
+      "link": "https://www.ufc.com/news/zuffa-boxing-07-billam-smith-vs-rozicki-results-highlights-scorecards-bournemouth",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-07-billam-smith-vs-rozicki-results-highlights-scorecards-bournemouth",
+      "pubDate": "Sat, 06 Jun 2026 16:00:00 GMT",
+      "published_at": "2026-06-06T16:00:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 07: Billam-Smith vs Rozicki, Live From Bournemouth International Centre In Bournemouth, England On June 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-Chris-Billam-Smith-Ryan-Rozicki-Faceoff-HERO.JPG?itok=ELTCz5ph",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim",
+      "pubDate": "Fri, 05 Jun 2026 17:00:00 GMT",
+      "published_at": "2026-06-05T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing June 6 At Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/060626-UFC-VEGAS-118-WEIGH-IN-hero.jpg?itok=vn1Q-4fD",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
+      "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
+      "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
+      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-05T12:00:00+00:00",
+      "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Zuffa Boxing 07",
       "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
@@ -13,7 +46,7 @@
       "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
       "published_at": "2026-06-05T12:00:00+00:00",
       "description": "The Official Weights Of The Athletes Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/ZB07_Eng_Paramount_TL.jpg?itok=D0UamsRS",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Former Champ Talks Main Event Pairing With Gabriel Bonfim",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Belal-Muhammad-Hero-.jpg?itok=8PGF-O6u",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Gabriel Bonfim Is Primed For His Biggest Test",
-      "link": "https://www.ufc.com/news/gabriel-bonfim-primed-his-biggest-test-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/gabriel-bonfim-primed-his-biggest-test-ufc-vegas-118",
-      "pubDate": "Thu, 04 Jun 2026 20:28:00 GMT",
-      "published_at": "2026-06-04T20:28:00+00:00",
-      "description": "Rising Brazilian Contender Faces A Former Champion In Las Vegas, And Says He’s Ready To Gatecrash The Title Picture at 170 Pounds.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Gabriel-Bonfim-Hero-.jpg?itok=tPMNvlmm",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Joanderson Brito | Expect The Expected",
-      "link": "https://www.ufc.com/news/joanderson-brito-expect-the-expected-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/joanderson-brito-expect-the-expected-ufc-vegas-118",
-      "pubDate": "Thu, 04 Jun 2026 18:59:00 GMT",
-      "published_at": "2026-06-04T18:59:00+00:00",
-      "description": "Brazilian Featherweight Says All Signs Are Pointing To A Typical Striker-Versus-Grappler Matchup When He Faces Jordan Leavitt On June 6.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Joanderson-Brito-Hero-.jpg?itok=MowyibIt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 9: Fowler vs Johnson | Full Fight Card, Start Time & How to Watch",
-      "link": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-full-fight-card-start-time-how-to-watch",
-      "guid": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-full-fight-card-start-time-how-to-watch",
-      "pubDate": "Thu, 04 Jun 2026 16:00:00 GMT",
-      "published_at": "2026-06-04T16:00:00+00:00",
-      "description": "Watch UFC BJJ 9 On June 4, Live And Free On UFC BJJ Official YouTube Channel",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-ufc-bjj-9-EVENT-ART.jpg?itok=CCrwofMS",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
