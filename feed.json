@@ -3,29 +3,95 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-04T19:49:23.076820+00:00",
+  "last_build_date": "2026-06-05T08:58:33.551962+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
+      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-05T12:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/ZB07_Eng_Paramount_TL.jpg?itok=D0UamsRS",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "UFC BJJ 9: Fowler vs Johnson Results",
       "link": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
       "guid": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
-      "pubDate": "Fri, 05 Jun 2026 00:00:00 GMT",
-      "published_at": "2026-06-05T00:00:00+00:00",
+      "pubDate": "Fri, 05 Jun 2026 02:50:00 GMT",
+      "published_at": "2026-06-05T02:50:00+00:00",
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 9: Fowler vs Johnson At Meta APEX In Las Vegas, Nevada On June 4, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/ufc-bjj-9-clean-HERO.jpg?itok=NIkIihhZ",
       "category": "UFC BJJ",
       "source": "UFC"
     },
     {
+      "title": "Fight Night Gets Louder at UFC Freedom 250 with Zac Brown Band Merch Collab",
+      "link": "https://www.ufc.com/news/fight-night-gets-louder-ufc-freedom-250-zac-brown-band-merch-collab",
+      "guid": "https://www.ufc.com/news/fight-night-gets-louder-ufc-freedom-250-zac-brown-band-merch-collab",
+      "pubDate": "Thu, 04 Jun 2026 21:33:00 GMT",
+      "published_at": "2026-06-04T21:33:00+00:00",
+      "description": "Exclusive Drop, Now Available at UFC Store!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/1920x1080_thumbnail.jpg?itok=PWTrxW5q",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Freedom 250 Pop-Up Shop Takes Over Washington D.C. | June 11 – June 14",
+      "link": "https://www.ufc.com/news/ufc-freedom-250-pop-shop-takes-over-washington-dc-june-11-june-14",
+      "guid": "https://www.ufc.com/news/ufc-freedom-250-pop-shop-takes-over-washington-dc-june-11-june-14",
+      "pubDate": "Thu, 04 Jun 2026 21:31:00 GMT",
+      "published_at": "2026-06-04T21:31:00+00:00",
+      "description": "The Ultimate UFC Freedom 250 Shopping Destination!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-ufc-freedom-250-pop-up-shop.jpg?itok=jVI3jW4E",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Iwo Baraniewski | There’s Much More To Come",
+      "link": "https://www.ufc.com/news/iwo-baraniewski-theres-much-more-to-come-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/iwo-baraniewski-theres-much-more-to-come-ufc-vegas-118",
+      "pubDate": "Thu, 04 Jun 2026 21:30:00 GMT",
+      "published_at": "2026-06-04T21:30:00+00:00",
+      "description": "Polish Knockout Artist Has Blasted His Way Into The UFC, But He’s Keen To Show He Has A Lot More In His Arsenal.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Iwo-Baraniewski-Hero-.jpg?itok=JCUEhpcN",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Belal Muhammad | Not Satisfied",
+      "link": "https://www.ufc.com/news/belal-muhammad-not-satisfied-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/belal-muhammad-not-satisfied-ufc-vegas-118",
+      "pubDate": "Thu, 04 Jun 2026 20:33:00 GMT",
+      "published_at": "2026-06-04T20:33:00+00:00",
+      "description": "Former Champ Talks Main Event Pairing With Gabriel Bonfim",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Belal-Muhammad-Hero-.jpg?itok=8PGF-O6u",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gabriel Bonfim Is Primed For His Biggest Test",
+      "link": "https://www.ufc.com/news/gabriel-bonfim-primed-his-biggest-test-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/gabriel-bonfim-primed-his-biggest-test-ufc-vegas-118",
+      "pubDate": "Thu, 04 Jun 2026 20:28:00 GMT",
+      "published_at": "2026-06-04T20:28:00+00:00",
+      "description": "Rising Brazilian Contender Faces A Former Champion In Las Vegas, And Says He’s Ready To Gatecrash The Title Picture at 170 Pounds.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Gabriel-Bonfim-Hero-.jpg?itok=tPMNvlmm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Joanderson Brito | Expect The Expected",
-      "link": "https://www.ufc.com/news/joanderson-brito-expect-the-expected",
-      "guid": "https://www.ufc.com/news/joanderson-brito-expect-the-expected",
+      "link": "https://www.ufc.com/news/joanderson-brito-expect-the-expected-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/joanderson-brito-expect-the-expected-ufc-vegas-118",
       "pubDate": "Thu, 04 Jun 2026 18:59:00 GMT",
       "published_at": "2026-06-04T18:59:00+00:00",
       "description": "Brazilian Featherweight Says All Signs Are Pointing To A Typical Striker-Versus-Grappler Matchup When He Faces Jordan Leavitt On June 6.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Joanderson-Brito-Hero-.jpg?itok=MowyibIt",
-      "category": "News",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -37,72 +103,6 @@
       "description": "Watch UFC BJJ 9 On June 4, Live And Free On UFC BJJ Official YouTube Channel",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-ufc-bjj-9-EVENT-ART.jpg?itok=CCrwofMS",
       "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Edmen Shahbazyan Believes His Moment Has Arrived",
-      "link": "https://www.ufc.com/news/edmen-shahbazyan-believes-his-moment-has-arrived",
-      "guid": "https://www.ufc.com/news/edmen-shahbazyan-believes-his-moment-has-arrived",
-      "pubDate": "Thu, 04 Jun 2026 15:51:00 GMT",
-      "published_at": "2026-06-04T15:51:00+00:00",
-      "description": "Middleweight Prospect Looks To Catapult Up The Rankings WithA Win Over Top 5 Contender Brendan Allen At UFC Fight Night:Muhammad vs Bonfim",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Edmen-Shahbazyan-Hero-.jpg?itok=IuFlJlDr",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Chris Billam-Smith | Hometown Hero | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/chris-billam-smith-hometwon-hero-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/chris-billam-smith-hometwon-hero-zuffa-boxing-07",
-      "pubDate": "Thu, 04 Jun 2026 09:45:00 GMT",
-      "published_at": "2026-06-04T09:45:00+00:00",
-      "description": "English Cruiserweight Star Wants To Close The Show In Style As He Headlines Zuffa Boxing 07 In His Hometown Of Bournemouth",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/052626-Chris-Billam-Smith-CBS-hero.jpg?itok=02YmtYJR",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Chev Clarke | Get Ready For Fireworks | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/chev-clarke-get-ready-fireworks-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/chev-clarke-get-ready-fireworks-zuffa-boxing-07",
-      "pubDate": "Thu, 04 Jun 2026 09:40:00 GMT",
-      "published_at": "2026-06-04T09:40:00+00:00",
-      "description": "Former British Cruiserweight Champion Plans To Announce Himself On The Zuffa Boxing Stage",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Hero-CHev-Clarke-Zuffa-Boxing-ZB-07.jpg?itok=ktfaqjo-",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "PARAMOUNT AND UFC EXPAND PARTNERSHIP TO CANADA BEGINNING IN 2027",
-      "link": "https://www.ufc.com/news/paramount-and-ufc-expand-partnership-canada-beginning-2027",
-      "guid": "https://www.ufc.com/news/paramount-and-ufc-expand-partnership-canada-beginning-2027",
-      "pubDate": "Thu, 04 Jun 2026 03:53:00 GMT",
-      "published_at": "2026-06-04T03:53:00+00:00",
-      "description": "Six-Year Deal Delivers All UFC Numbered Event Main Cards Exclusively to Paramount+ Subscribers Nationwide.",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/060426-UFC-ON-PARAMOUNT-2.jpg?itok=E-WDf8hD",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Marcus McGhee Always Keeps An Even Keel",
-      "link": "https://www.ufc.com/news/marcus-mcghee-always-keeps-even-keel-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/marcus-mcghee-always-keeps-even-keel-ufc-vegas-118",
-      "pubDate": "Wed, 03 Jun 2026 22:19:00 GMT",
-      "published_at": "2026-06-03T22:19:00+00:00",
-      "description": "Returning Bantamweight Talks Time Away, Focus On Here And Now",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060226-marcus-mcghee-celebraiton.jpg?itok=SFoQYZxg",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ryan Rozicki Is Taking It Back To The Old School | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/ryan-rozicki-is-taking-it-back-to-the-old-school-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/ryan-rozicki-is-taking-it-back-to-the-old-school-zuffa-boxing-07",
-      "pubDate": "Wed, 03 Jun 2026 20:45:00 GMT",
-      "published_at": "2026-06-03T20:45:00+00:00",
-      "description": "Hard-Hitting Canadian Contender Has Built His Name Off Knockouts, Not Soundbites, And Plans To Make A Fistic Statement In His Zuffa Boxing Debut This Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060326-ryan-rozicki-HERO.jpg?itok=zmrfv9Or",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
