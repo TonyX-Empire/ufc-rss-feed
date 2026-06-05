@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-05T17:24:28.993497+00:00",
+  "last_build_date": "2026-06-05T22:38:09.402839+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Prelim Results | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
+      "pubDate": "Sat, 06 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-06T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/020726-General-View-Octagon-Apex-HEROGettyImages-2260434090.jpg?itok=6J9SIkeW",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-official-scorecards-judges",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-official-scorecards-judges",
+      "pubDate": "Sat, 06 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-06T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2025-09/061425-Joe-Martinez-HERO-GettyImages-2220165427.jpg?itok=q2god3pz",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Results + Scorecards | Zuffa Boxing 07: Billam-Smith vs Rozicki",
       "link": "https://www.ufc.com/news/zuffa-boxing-07-billam-smith-vs-rozicki-results-highlights-scorecards-bournemouth",
@@ -15,6 +37,39 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 07: Billam-Smith vs Rozicki, Live From Bournemouth International Centre In Bournemouth, England On June 6, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-Chris-Billam-Smith-Ryan-Rozicki-Faceoff-HERO.JPG?itok=ELTCz5ph",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-main-card-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-main-card-results-highlights-interviews",
+      "pubDate": "Sat, 06 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-06T12:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/060626-ufc-fight-night-muhammad-vs-bonfim-EVENT-ART.jpg?itok=-iQ_kFzy",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Tom Nolan | The Australian Uprising Continues",
+      "link": "https://www.ufc.com/news/tom-nolan-the-australian-uprising-continues-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/tom-nolan-the-australian-uprising-continues-ufc-vegas-118",
+      "pubDate": "Fri, 05 Jun 2026 19:31:00 GMT",
+      "published_at": "2026-06-05T19:31:00+00:00",
+      "description": "DWCS Alum Discusses Aussie MMA Boom, Crucial Matchup With Fares Ziam",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Tom-Nolan-Hero-.jpg?itok=b8uskkfQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "For Farès Ziam, Saturday Is All That Matters",
+      "link": "https://www.ufc.com/news/fares-ziam-saturday-is-all-that-matters-ufc-vegas-118",
+      "guid": "https://www.ufc.com/news/fares-ziam-saturday-is-all-that-matters-ufc-vegas-118",
+      "pubDate": "Fri, 05 Jun 2026 19:12:00 GMT",
+      "published_at": "2026-06-05T19:12:00+00:00",
+      "description": "Streaking French Lightweight Focused On Next Win, Not Winning Streak",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Hero-_0.jpg?itok=EDkl1fJq",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -29,17 +84,6 @@
       "source": "UFC"
     },
     {
-      "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
-      "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
-      "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
-      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Official Weigh-In Results | Zuffa Boxing 07",
       "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
       "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
@@ -51,57 +95,13 @@
       "source": "UFC"
     },
     {
-      "title": "UFC BJJ 9: Fowler vs Johnson Results",
-      "link": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
-      "guid": "https://www.ufc.com/news/ufc-bjj-9-fowler-vs-johnson-results-winners-recaps-interviews",
-      "pubDate": "Fri, 05 Jun 2026 02:50:00 GMT",
-      "published_at": "2026-06-05T02:50:00+00:00",
-      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 9: Fowler vs Johnson At Meta APEX In Las Vegas, Nevada On June 4, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/ufc-bjj-9-clean-HERO.jpg?itok=NIkIihhZ",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight Night Gets Louder at UFC Freedom 250 with Zac Brown Band Merch Collab",
-      "link": "https://www.ufc.com/news/fight-night-gets-louder-ufc-freedom-250-zac-brown-band-merch-collab",
-      "guid": "https://www.ufc.com/news/fight-night-gets-louder-ufc-freedom-250-zac-brown-band-merch-collab",
-      "pubDate": "Thu, 04 Jun 2026 21:33:00 GMT",
-      "published_at": "2026-06-04T21:33:00+00:00",
-      "description": "Exclusive Drop, Now Available at UFC Store!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/1920x1080_thumbnail.jpg?itok=PWTrxW5q",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Freedom 250 Pop-Up Shop Takes Over Washington D.C. | June 11 – June 14",
-      "link": "https://www.ufc.com/news/ufc-freedom-250-pop-shop-takes-over-washington-dc-june-11-june-14",
-      "guid": "https://www.ufc.com/news/ufc-freedom-250-pop-shop-takes-over-washington-dc-june-11-june-14",
-      "pubDate": "Thu, 04 Jun 2026 21:31:00 GMT",
-      "published_at": "2026-06-04T21:31:00+00:00",
-      "description": "The Ultimate UFC Freedom 250 Shopping Destination!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060426-ufc-freedom-250-pop-up-shop.jpg?itok=jVI3jW4E",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Iwo Baraniewski | There’s Much More To Come",
-      "link": "https://www.ufc.com/news/iwo-baraniewski-theres-much-more-to-come-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/iwo-baraniewski-theres-much-more-to-come-ufc-vegas-118",
-      "pubDate": "Thu, 04 Jun 2026 21:30:00 GMT",
-      "published_at": "2026-06-04T21:30:00+00:00",
-      "description": "Polish Knockout Artist Has Blasted His Way Into The UFC, But He’s Keen To Show He Has A Lot More In His Arsenal.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Iwo-Baraniewski-Hero-.jpg?itok=JCUEhpcN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Belal Muhammad | Not Satisfied",
-      "link": "https://www.ufc.com/news/belal-muhammad-not-satisfied-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/belal-muhammad-not-satisfied-ufc-vegas-118",
-      "pubDate": "Thu, 04 Jun 2026 20:33:00 GMT",
-      "published_at": "2026-06-04T20:33:00+00:00",
-      "description": "Former Champ Talks Main Event Pairing With Gabriel Bonfim",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Belal-Muhammad-Hero-.jpg?itok=8PGF-O6u",
+      "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
+      "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
+      "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
+      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-05T12:00:00+00:00",
+      "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
       "category": "UFC",
       "source": "UFC"
     }
