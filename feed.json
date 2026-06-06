@@ -3,20 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-05T22:38:09.402839+00:00",
+  "last_build_date": "2026-06-06T09:14:34.929067+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "Prelim Results | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
-      "pubDate": "Sat, 06 Jun 2026 21:00:00 GMT",
-      "published_at": "2026-06-06T21:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/020726-General-View-Octagon-Apex-HEROGettyImages-2260434090.jpg?itok=6J9SIkeW",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
     {
       "title": "Official Scorecards | UFC Fight Night: Muhammad vs Bonfim",
       "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-official-scorecards-judges",
@@ -25,6 +14,17 @@
       "published_at": "2026-06-06T21:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2025-09/061425-Joe-Martinez-HERO-GettyImages-2220165427.jpg?itok=q2god3pz",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-muhammad-vs-bonfim-prelim-results-highlights-interviews",
+      "pubDate": "Sat, 06 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-06T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/020726-General-View-Octagon-Apex-HEROGettyImages-2260434090.jpg?itok=6J9SIkeW",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -84,17 +84,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
-      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
       "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
       "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
       "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
@@ -103,6 +92,17 @@
       "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 07",
+      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
+      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
+      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-05T12:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
+      "category": "Boxing",
       "source": "UFC"
     }
   ]
