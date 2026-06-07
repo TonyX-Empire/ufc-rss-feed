@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Jun 2026 16:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 21:53:54 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Fight Night: Muhammad vs Bonfim</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim</guid>
+      <pubDate>Sun, 07 Jun 2026 21:28:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo" alt="The Scorecard | UFC Fight Night: Muhammad vs Bonfim" /></p>
+<p>Highlighting the biggest winners from UFC Fight Night: Muhammad vs Bonfim on June 6, 2026.</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Fight Night: Muhammad vs Bonfim</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-muhammad-vs-bonfim</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-05/060626-UFC-VEGAS-118-WEIGH-IN-hero.jpg?itok=vn1Q-4fD" alt="Official Weigh-In Results | UFC Fight Night: Muhammad vs Bonfim" /></p>
 <p>The Official Weights Of The Athletes Competing June 6 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>UFC And NinjaTrader Announce Expansive Multiyear Partnership</title>
-      <link>https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku" alt="UFC And NinjaTrader Announce Expansive Multiyear Partnership" /></p>
-<p>NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

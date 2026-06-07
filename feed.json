@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-07T16:54:56.027091+00:00",
+  "last_build_date": "2026-06-07T21:53:54.313684+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Fight Night: Muhammad vs Bonfim",
+      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim",
+      "pubDate": "Sun, 07 Jun 2026 21:28:00 GMT",
+      "published_at": "2026-06-07T21:28:00+00:00",
+      "description": "Highlighting the biggest winners from UFC Fight Night: Muhammad vs Bonfim on June 6, 2026.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Fight Night: Muhammad vs Bonfim",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-muhammad-vs-bonfim",
@@ -92,17 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing June 6 At Meta APEX In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-05/060626-UFC-VEGAS-118-WEIGH-IN-hero.jpg?itok=vn1Q-4fD",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
-      "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
-      "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
-      "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
-      "published_at": "2026-06-05T12:00:00+00:00",
-      "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
