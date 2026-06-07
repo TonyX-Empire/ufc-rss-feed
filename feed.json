@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-07T10:15:21.712368+00:00",
+  "last_build_date": "2026-06-07T16:54:56.027091+00:00",
   "item_count": 9,
   "items": [
     {
@@ -95,14 +95,14 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | Zuffa Boxing 07",
-      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
-      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-07",
+      "title": "UFC And NinjaTrader Announce Expansive Multiyear Partnership",
+      "link": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
+      "guid": "https://www.ufc.com/news/ufc-and-ninjatrader-announce-expansive-multiyear-partnership",
       "pubDate": "Fri, 05 Jun 2026 12:00:00 GMT",
       "published_at": "2026-06-05T12:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Live From Bournemouth, UK. Airing On Paramount+ & SkySports On June 6",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
+      "description": "NinjaTrader Bring The #1 Rated Futures Platform To UFC’s Global Audience, Joining As Presenting Partner Of Dana White’s Contender Series And Official Partner Of UFC Freedom 250",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/UFC-NinjaTrader-Lockup-Thumbnail.jpg?itok=otwKiNku",
+      "category": "UFC",
       "source": "UFC"
     }
   ]
