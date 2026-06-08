@@ -5,15 +5,25 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Jun 2026 21:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:51:37 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | UFC Freedom 250</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane</guid>
+      <pubDate>Mon, 08 Jun 2026 13:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/060726-hero-ilia-topuria-justin-gaethje_GettyImages-2275223905.jpg?itok=sEaaKO9v" alt="Fight By Fight Preview | UFC Freedom 250" /></p>
+<p>Offering An In-Depth Look At Sunday’s Historic Event At The White House | Presented by RAM and Crypto.com</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Fight Night: Muhammad vs Bonfim</title>
       <link>https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim</link>
       <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim</guid>
       <pubDate>Sun, 07 Jun 2026 21:28:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo" alt="The Scorecard | UFC Fight Night: Muhammad vs Bonfim" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo" alt="The Scorecard | UFC Fight Night: Muhammad vs Bonfim" /></p>
 <p>Highlighting the biggest winners from UFC Fight Night: Muhammad vs Bonfim on June 6, 2026.</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Hero-_0.jpg?itok=EDkl1fJq" alt="For Farès Ziam, Saturday Is All That Matters" /></p>
 <p>Streaking French Lightweight Focused On Next Win, Not Winning Streak</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Fight Night: Muhammad vs Bonfim</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim</guid>
-      <pubDate>Fri, 05 Jun 2026 17:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-05/060626-UFC-VEGAS-118-WEIGH-IN-hero.jpg?itok=vn1Q-4fD" alt="Official Weigh-In Results | UFC Fight Night: Muhammad vs Bonfim" /></p>
-<p>The Official Weights Of The Athletes Competing June 6 At Meta APEX In Las Vegas</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

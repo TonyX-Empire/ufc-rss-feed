@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-07T21:53:54.313684+00:00",
+  "last_build_date": "2026-06-08T14:51:37.154066+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane",
+      "pubDate": "Mon, 08 Jun 2026 13:00:00 GMT",
+      "published_at": "2026-06-08T13:00:00+00:00",
+      "description": "Offering An In-Depth Look At Sunday’s Historic Event At The White House | Presented by RAM and Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060726-hero-ilia-topuria-justin-gaethje_GettyImages-2275223905.jpg?itok=sEaaKO9v",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Fight Night: Muhammad vs Bonfim",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim",
@@ -13,7 +24,7 @@
       "pubDate": "Sun, 07 Jun 2026 21:28:00 GMT",
       "published_at": "2026-06-07T21:28:00+00:00",
       "description": "Highlighting the biggest winners from UFC Fight Night: Muhammad vs Bonfim on June 6, 2026.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Streaking French Lightweight Focused On Next Win, Not Winning Streak",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Hero-_0.jpg?itok=EDkl1fJq",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-muhammad-vs-bonfim",
-      "pubDate": "Fri, 05 Jun 2026 17:00:00 GMT",
-      "published_at": "2026-06-05T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing June 6 At Meta APEX In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/060626-UFC-VEGAS-118-WEIGH-IN-hero.jpg?itok=vn1Q-4fD",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
