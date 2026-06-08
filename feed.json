@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-08T14:51:37.154066+00:00",
+  "last_build_date": "2026-06-08T21:28:21.375385+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC RETURNS TO PARIS FOR A MUST-SEE NIGHT OF ACTION ON SEPTEMBER 5 AT ACCOR ARENA",
+      "link": "https://www.ufc.com/news/ufc-returns-paris-must-see-night-action-september-5-accor-arena",
+      "guid": "https://www.ufc.com/news/ufc-returns-paris-must-see-night-action-september-5-accor-arena",
+      "pubDate": "Mon, 08 Jun 2026 17:06:00 GMT",
+      "published_at": "2026-06-08T17:06:00+00:00",
+      "description": "Register Your Interest Now",
+      "image": "https://ufc.com/images/styles/card/s3/2023-08/083023-UFC-Paris-Accor-Arena-HERO-GettyImages-1420572610.jpg?itok=EdzXFCJR",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White On Zuffa Boxing 07, Billam-Smith, Rozicki, UK Events And More",
+      "link": "https://www.ufc.com/news/dana-white-zuffa-boxing-07-billam-smith-rozicki-uk-events-and-more",
+      "guid": "https://www.ufc.com/news/dana-white-zuffa-boxing-07-billam-smith-rozicki-uk-events-and-more",
+      "pubDate": "Mon, 08 Jun 2026 16:31:00 GMT",
+      "published_at": "2026-06-08T16:31:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 07 Post-Fight Press Conference In Bournemouth, England.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060826-hero-zuffa-boxing-07_ZBX_20260606_C2N02414.jpg?itok=EwoCI9bt",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | UFC Freedom 250",
       "link": "https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane",
@@ -81,28 +103,6 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 07: Billam-Smith vs Rozicki, Live From Bournemouth International Centre In Bournemouth, England On June 6, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/ZB07-Chris-Billam-Smith-punch.jpg?itok=jbFtPurw",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Tom Nolan | The Australian Uprising Continues",
-      "link": "https://www.ufc.com/news/tom-nolan-the-australian-uprising-continues-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/tom-nolan-the-australian-uprising-continues-ufc-vegas-118",
-      "pubDate": "Fri, 05 Jun 2026 19:31:00 GMT",
-      "published_at": "2026-06-05T19:31:00+00:00",
-      "description": "DWCS Alum Discusses Aussie MMA Boom, Crucial Matchup With Fares Ziam",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Tom-Nolan-Hero-.jpg?itok=b8uskkfQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "For Farès Ziam, Saturday Is All That Matters",
-      "link": "https://www.ufc.com/news/fares-ziam-saturday-is-all-that-matters-ufc-vegas-118",
-      "guid": "https://www.ufc.com/news/fares-ziam-saturday-is-all-that-matters-ufc-vegas-118",
-      "pubDate": "Fri, 05 Jun 2026 19:12:00 GMT",
-      "published_at": "2026-06-05T19:12:00+00:00",
-      "description": "Streaking French Lightweight Focused On Next Win, Not Winning Streak",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Fares-Ziam-Hero-_0.jpg?itok=EDkl1fJq",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
