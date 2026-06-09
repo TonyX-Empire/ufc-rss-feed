@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 19:36:12 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Watch And Stream UFC Freedom 250</title>
+      <link>https://www.ufc.com/news/how-watch-and-stream-ufc</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/how-watch-and-stream-ufc</guid>
+      <pubDate>Tue, 09 Jun 2026 12:30:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd" alt="How To Watch And Stream UFC Freedom 250" /></p>
+<p>Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>UFC RETURNS TO PARIS FOR A MUST-SEE NIGHT OF ACTION ON SEPTEMBER 5 AT ACCOR ARENA</title>
       <link>https://www.ufc.com/news/ufc-returns-paris-must-see-night-action-september-5-accor-arena</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2280243861.jpg?itok=57fkoKlp" alt="Prelim Results | UFC Fight Night: Muhammad vs Bonfim" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Muhammad vs Bonfim, Live From Meta APEX In Las Vegas On June 6, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Results + Scorecards | Zuffa Boxing 07: Billam-Smith vs Rozicki</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-07-billam-smith-vs-rozicki-results-highlights-scorecards-bournemouth</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-07-billam-smith-vs-rozicki-results-highlights-scorecards-bournemouth</guid>
-      <pubDate>Sat, 06 Jun 2026 20:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB07-Chris-Billam-Smith-punch.jpg?itok=jbFtPurw" alt="Results + Scorecards | Zuffa Boxing 07: Billam-Smith vs Rozicki" /></p>
-<p>Results, Highlights, Scorecards And More From Zuffa Boxing 07: Billam-Smith vs Rozicki, Live From Bournemouth International Centre In Bournemouth, England On June 6, 2026</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
