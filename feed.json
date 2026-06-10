@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-10T11:10:05.451302+00:00",
+  "last_build_date": "2026-06-10T21:24:46.121538+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "How To Watch And Stream UFC Freedom 250",
+      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "pubDate": "Mon, 15 Jun 2026 00:30:00 GMT",
+      "published_at": "2026-06-15T00:30:00+00:00",
+      "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Ilia Topuria Excited For Historic Event | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/ilia-topuria-excited-historic-event-ufc-freedom-250-lightweight-champion",
+      "guid": "https://www.ufc.com/news/ilia-topuria-excited-historic-event-ufc-freedom-250-lightweight-champion",
+      "pubDate": "Wed, 10 Jun 2026 16:40:00 GMT",
+      "published_at": "2026-06-10T16:40:00+00:00",
+      "description": "Lightweight Champ Sets The Table For Showdown With Justin Gaethje On Sunday | UFC Freedom 250 Presented by Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-ilia-topuria-on-stage.jpg?itok=tF5Kh82i",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Alex Pereira's Case For G.O.A.T Status | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/alex-pereiras-case-goat-status-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/alex-pereiras-case-goat-status-ufc-freedom-250",
+      "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "description": "Where Does A Win At UFC Freedom 250 Put ‘Poatan’ In The Pantheon? | UFC Freedom 250 Presented by Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060926-alex-pereira-walk-in.jpg?itok=jeSXAWlT",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Steve Garcia | Not Just Here To Take Part | UFC Freedom 250",
       "link": "https://www.ufc.com/news/steve-garcia-not-just-here-take-part-ufc-freedom-250",
@@ -29,6 +62,17 @@
       "source": "UFC"
     },
     {
+      "title": "TKO AND SUPERFILE ANNOUNCE GLOBAL PARTNERSHIP ACROSS UFC AND WWE",
+      "link": "https://www.ufc.com/news/tko-and-superfile-announce-global-partnership-across-ufc-and-wwe",
+      "guid": "https://www.ufc.com/news/tko-and-superfile-announce-global-partnership-across-ufc-and-wwe",
+      "pubDate": "Tue, 09 Jun 2026 22:16:00 GMT",
+      "published_at": "2026-06-09T22:16:00+00:00",
+      "description": "SuperFile Named Official Secure File Sharing Partner of UFC and WWE SuperFile Also Joins as Official Partner of UFC FREEDOM 250 at the White House",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/26-0609_SuperFile_UFC_Website-Graphic_Glove.jpg?itok=ejD1Xvpe",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Justin Gaethje Is Chasing His Ultimate Highlight | UFC Freedom 250",
       "link": "https://www.ufc.com/news/justin-gaethje-is-chasing-his-ultimate-highlight-freedom-250",
       "guid": "https://www.ufc.com/news/justin-gaethje-is-chasing-his-ultimate-highlight-freedom-250",
@@ -36,17 +80,6 @@
       "published_at": "2026-06-09T22:15:00+00:00",
       "description": "UFC’s Quintessential Crowd-Pleaser Has The Chance To Capture A Legacy-Defining Victory At The White House. | Presented By Crypto.com",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Justin-Gaethje-Hero-.jpg?itok=lBFc1R_r",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch And Stream UFC Freedom 250",
-      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "pubDate": "Tue, 09 Jun 2026 12:30:00 GMT",
-      "published_at": "2026-06-09T12:30:00+00:00",
-      "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
       "category": "UFC",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 07 Post-Fight Press Conference In Bournemouth, England.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/060826-hero-zuffa-boxing-07_ZBX_20260606_C2N02414.jpg?itok=EwoCI9bt",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-freedom-250-topuria-gaethje-pereira-gane",
-      "pubDate": "Mon, 08 Jun 2026 13:00:00 GMT",
-      "published_at": "2026-06-08T13:00:00+00:00",
-      "description": "Offering An In-Depth Look At Sunday’s Historic Event At The White House | Presented by RAM and Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060726-hero-ilia-topuria-justin-gaethje_GettyImages-2275223905.jpg?itok=sEaaKO9v",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-muhammad-vs-bonfim",
-      "pubDate": "Sun, 07 Jun 2026 21:28:00 GMT",
-      "published_at": "2026-06-07T21:28:00+00:00",
-      "description": "Highlighting the biggest winners from UFC Fight Night: Muhammad vs Bonfim on June 6, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060726-hero-gabriel-bonfim_GettyImages-2280251661.jpg?itok=bfKH5lOo",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Fight Night: Muhammad vs Bonfim",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-muhammad-vs-bonfim",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-muhammad-vs-bonfim",
-      "pubDate": "Sun, 07 Jun 2026 04:00:00 GMT",
-      "published_at": "2026-06-07T04:00:00+00:00",
-      "description": "Latest UFC news: Bonus Coverage | UFC Fight Night: Muhammad vs Bonfim",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/BrowserPreview_tmp-4.gif?itok=4MnVnN8e",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
