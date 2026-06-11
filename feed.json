@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-11T13:05:18.707418+00:00",
+  "last_build_date": "2026-06-11T22:21:20.174985+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,72 @@
       "published_at": "2026-06-15T00:30:00+00:00",
       "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Collect the Main Event: Ilia Topuria & Justin Gaethje 2-Pack McFarlane Figure Set",
+      "link": "https://www.ufc.com/news/collect-main-event-ilia-topuria-justin-gaethje-2-pack-mcfarlane-figure-set",
+      "guid": "https://www.ufc.com/news/collect-main-event-ilia-topuria-justin-gaethje-2-pack-mcfarlane-figure-set",
+      "pubDate": "Thu, 11 Jun 2026 21:40:00 GMT",
+      "published_at": "2026-06-11T21:40:00+00:00",
+      "description": "Limited-Edition UFC Freedom 250 Collectible Available Now at UFC Store!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Website%20Banner%20-%20UFC-%201920x1080-Newsletter.jpg?itok=XEwAESRd",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Michael Chandler | All Gas, No Brakes | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/michael-chandler-all-gas-no-breaks-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/michael-chandler-all-gas-no-breaks-ufc-freedom-250",
+      "pubDate": "Thu, 11 Jun 2026 18:45:00 GMT",
+      "published_at": "2026-06-11T18:45:00+00:00",
+      "description": "Lightweight Standout Grateful For Opportunity, Eager To Show Out At The White House For UFC Freedom 250 Presented By RAM & Crypto.com The White House",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Michael-Chandler-Hero-.jpg?itok=ZgAYUOCm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Ciryl Gane | Back For The Belt | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/ciryl-gane-back-for-the-belt-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/ciryl-gane-back-for-the-belt-ufc-freedom-250",
+      "pubDate": "Thu, 11 Jun 2026 18:40:00 GMT",
+      "published_at": "2026-06-11T18:40:00+00:00",
+      "description": "Former Interim Heavyweight Champion Wants To Regain His Momentum, And The Interim Title, With Victory Over Alex Pereira At The White House. | Presented by Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-ciryl-gane_GettyImages-2274871010.jpg?itok=tymYBtGk",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Derrick Lewis | Swang And Bang | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/derrick-lewis-swang-and-bang-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/derrick-lewis-swang-and-bang-ufc-freedom-250",
+      "pubDate": "Thu, 11 Jun 2026 18:19:00 GMT",
+      "published_at": "2026-06-11T18:19:00+00:00",
+      "description": "After President Donald Trump’s Personal Request, The UFC’s Knockout King Is Ready For A Tear-Up On The White House Lawn. | Presented by Crypto.com and RAM Trucks",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-derrick-lewis_GettyImages-2258037694.jpg?itok=oNw_-0tZ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Kyle Daukaus | Ready to Shine | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/kyle-daukaus-ready-to-shine-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/kyle-daukaus-ready-to-shine-ufc-freedom-250",
+      "pubDate": "Thu, 11 Jun 2026 18:15:00 GMT",
+      "published_at": "2026-06-11T18:15:00+00:00",
+      "description": "Resurgent Middleweight Talks UFC Return, Manifesting White House Opportunity | Presented by Crypto.com and RAM Trucks",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Kyle-Daukaus-Hero2-.jpg?itok=_C6-VnZ5",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "From Vision To Reality: Building UFC Freedom 250",
+      "link": "https://www.ufc.com/news/vision-reality-building-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/vision-reality-building-ufc-freedom-250",
+      "pubDate": "Thu, 11 Jun 2026 17:14:00 GMT",
+      "published_at": "2026-06-11T17:14:00+00:00",
+      "description": "An Interview With Craig Borsari, UFC Executive Producer and Chief Content Officer",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281058471_resized.jpg?itok=zPN2atLZ",
       "category": "UFC",
       "source": "UFC"
     },
@@ -35,73 +101,7 @@
       "pubDate": "Thu, 11 Jun 2026 13:00:00 GMT",
       "published_at": "2026-06-11T13:00:00+00:00",
       "description": "American Standout Driven To Achieve His Championship Dream On Sunday Night | UFC Freedom 250 Presented by Crypto.com",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/061026-hero-justin-gaethje_GettyImages-2274871027.jpg?itok=71V0Nlul",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Co-Main Event Spotlight | Alex Pereira vs Ciryl Gane | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/co-main-event-spotlight-alex-pereira-vs-ciryl-gane-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/co-main-event-spotlight-alex-pereira-vs-ciryl-gane-ufc-freedom-250",
-      "pubDate": "Wed, 10 Jun 2026 22:55:00 GMT",
-      "published_at": "2026-06-10T22:55:00+00:00",
-      "description": "Former Two-Division Champion Chases Unprecedented Third Title Against Former Interim Champion Looking To Reclaim The Belt | Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Gane-Pereira-Hero-.jpg?itok=wmbVgp5t",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Octagon's Journey To The White House | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/octagons-journey-white-house-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/octagons-journey-white-house-ufc-freedom-250",
-      "pubDate": "Wed, 10 Jun 2026 22:35:00 GMT",
-      "published_at": "2026-06-10T22:35:00+00:00",
-      "description": "From Empty Arenas At The Meta Apex To The Most Iconic Lawn In America, The UFC’s Rise Reaches A Historic New Stage With UFC Freedom 250 | Presented By Crypto.com And RAM Trucks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-hero-ufc-freedom-250-belt_GettyImages-2274870970.jpg?itok=Sxzjt8dX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ilia Topuria Excited For Historic Event | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/ilia-topuria-excited-historic-event-ufc-freedom-250-lightweight-champion",
-      "guid": "https://www.ufc.com/news/ilia-topuria-excited-historic-event-ufc-freedom-250-lightweight-champion",
-      "pubDate": "Wed, 10 Jun 2026 16:40:00 GMT",
-      "published_at": "2026-06-10T16:40:00+00:00",
-      "description": "Lightweight Champ Sets The Table For Showdown With Justin Gaethje On Sunday | UFC Freedom 250 Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-ilia-topuria-on-stage.jpg?itok=tF5Kh82i",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Alex Pereira's Case For G.O.A.T Status | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/alex-pereiras-case-goat-status-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/alex-pereiras-case-goat-status-ufc-freedom-250",
-      "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "published_at": "2026-06-10T12:00:00+00:00",
-      "description": "Where Does A Win At UFC Freedom 250 Put ‘Poatan’ In The Pantheon? | UFC Freedom 250 Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060926-alex-pereira-walk-in.jpg?itok=jeSXAWlT",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Steve Garcia | Not Just Here To Take Part | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/steve-garcia-not-just-here-take-part-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/steve-garcia-not-just-here-take-part-ufc-freedom-250",
-      "pubDate": "Wed, 10 Jun 2026 00:45:00 GMT",
-      "published_at": "2026-06-10T00:45:00+00:00",
-      "description": "Surging Featherweight Eyeing Another Win When He Battles Diego Lopes | Presented by Crypto.com and Ram Trucks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Steve-Garcia-Hero-.jpg?itok=NR6if_2c",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Event Spotlight | Ilia Topuria vs Justin Gaethje | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/main-event-spotlight-topuria-gaethje-freedom-250",
-      "guid": "https://www.ufc.com/news/main-event-spotlight-topuria-gaethje-freedom-250",
-      "pubDate": "Tue, 09 Jun 2026 23:00:00 GMT",
-      "published_at": "2026-06-09T23:00:00+00:00",
-      "description": "Undefeated Champion Ilia Topuria Looks To Unify The Lightweight Division Against One Of The Biggest Crowd Pleasers In The Sport | UFC Freedom 250 Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060926-ilia-topuria-justin-gaethje-white-house-faceoff.jpg?itok=4FDTbMsj",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-hero-justin-gaethje_GettyImages-2274871027.jpg?itok=71V0Nlul",
       "category": "UFC",
       "source": "UFC"
     }
