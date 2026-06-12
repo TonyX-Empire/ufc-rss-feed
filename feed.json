@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-11T22:21:20.174985+00:00",
+  "last_build_date": "2026-06-12T12:40:22.228022+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "TKO AND ANDURIL ANNOUNCE PARTNERSHIP ACROSS UFC AND ZUFFA BOXING",
+      "link": "https://www.ufc.com/news/tko-and-anduril-announce-partnership-across-ufc-and-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/tko-and-anduril-announce-partnership-across-ufc-and-zuffa-boxing",
+      "pubDate": "Fri, 12 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-12T12:00:00+00:00",
+      "description": "Latest UFC news: TKO AND ANDURIL ANNOUNCE PARTNERSHIP ACROSS UFC AND ZUFFA BOXING",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-06-11T16:00:00+00:00",
       "description": "Anti Social Social Club, Warren Lotas, ID Supply Co., and Culture Kings Release Limited-Edition Collections Celebrating the Most Historic Event in UFC History",
       "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Justin Gaethje | Once More With Feeling | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/justin-gaethje-once-more-feeling-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/justin-gaethje-once-more-feeling-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 13:00:00 GMT",
-      "published_at": "2026-06-11T13:00:00+00:00",
-      "description": "American Standout Driven To Achieve His Championship Dream On Sunday Night | UFC Freedom 250 Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-hero-justin-gaethje_GettyImages-2274871027.jpg?itok=71V0Nlul",
       "category": "UFC",
       "source": "UFC"
     }
