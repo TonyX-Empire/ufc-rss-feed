@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-12T12:40:22.228022+00:00",
+  "last_build_date": "2026-06-12T21:19:11.232410+00:00",
   "item_count": 9,
   "items": [
     {
@@ -12,8 +12,63 @@
       "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
       "pubDate": "Mon, 15 Jun 2026 00:30:00 GMT",
       "published_at": "2026-06-15T00:30:00+00:00",
-      "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By RAM and Crypto.com, Live From The White House",
+      "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By Crypto.com And Ram, Live From The White House On June 14",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Freedom 250 Results",
+      "link": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 GMT",
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "description": "Results, Highlights, Post-Fight Interviews And More From UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/ufc-freedom-250-official-scorecards-judges",
+      "guid": "https://www.ufc.com/news/ufc-freedom-250-official-scorecards-judges",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 GMT",
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "description": "See How The Judges Scored Every Round Of Every Fight At UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "A Trio Of Fights Fill Out June 20 Fight Night",
+      "link": "https://www.ufc.com/news/-a-trio-of-fights-fill-out-june-20-fight-night-kape-vs-horiguchi-ufc-vegas-119",
+      "guid": "https://www.ufc.com/news/-a-trio-of-fights-fill-out-june-20-fight-night-kape-vs-horiguchi-ufc-vegas-119",
+      "pubDate": "Fri, 12 Jun 2026 20:25:00 GMT",
+      "published_at": "2026-06-12T20:25:00+00:00",
+      "description": "The Action Returns To Las Vegas As Three Fights Are Booked For UFC Fight Night: Kape vs Horiguchi",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | UFC Freedom 250: Ilia Topuria vs Justin Gaethje",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-ilia-topuria-vs-justin-gaethje",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-ilia-topuria-vs-justin-gaethje",
+      "pubDate": "Fri, 12 Jun 2026 14:00:00 GMT",
+      "published_at": "2026-06-12T14:00:00+00:00",
+      "description": "New England Cartel’s Tyson Chartier Drops In To Break Down Sunday’s Main Event | Presented by Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-ilia-topuria-justin-gaethje.jpg?itok=IiGtkw7v",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Aiemann Zahabi | The Full Story",
+      "link": "https://www.ufc.com/news/aiemann-zahabi-the-full-story-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/aiemann-zahabi-the-full-story-ufc-freedom-250",
+      "pubDate": "Fri, 12 Jun 2026 13:00:00 GMT",
+      "published_at": "2026-06-12T13:00:00+00:00",
+      "description": "Retracing The French-Canadian Contender’s Journey To UFC Freedom 250 | Presented by Crypto.com and Ram Trucks",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061026-hero-aiemann-zahabi_GettyImages-2241906196.jpg?itok=cr1Wn9cw",
       "category": "UFC",
       "source": "UFC"
     },
@@ -47,61 +102,6 @@
       "published_at": "2026-06-11T18:45:00+00:00",
       "description": "Lightweight Standout Grateful For Opportunity, Eager To Show Out At The White House For UFC Freedom 250 Presented By RAM & Crypto.com The White House",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Michael-Chandler-Hero-.jpg?itok=ZgAYUOCm",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ciryl Gane | Back For The Belt | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/ciryl-gane-back-for-the-belt-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/ciryl-gane-back-for-the-belt-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 18:40:00 GMT",
-      "published_at": "2026-06-11T18:40:00+00:00",
-      "description": "Former Interim Heavyweight Champion Wants To Regain His Momentum, And The Interim Title, With Victory Over Alex Pereira At The White House. | Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-ciryl-gane_GettyImages-2274871010.jpg?itok=tymYBtGk",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Derrick Lewis | Swang And Bang | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/derrick-lewis-swang-and-bang-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/derrick-lewis-swang-and-bang-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 18:19:00 GMT",
-      "published_at": "2026-06-11T18:19:00+00:00",
-      "description": "After President Donald Trump’s Personal Request, The UFC’s Knockout King Is Ready For A Tear-Up On The White House Lawn. | Presented by Crypto.com and RAM Trucks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-derrick-lewis_GettyImages-2258037694.jpg?itok=oNw_-0tZ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Kyle Daukaus | Ready to Shine | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/kyle-daukaus-ready-to-shine-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/kyle-daukaus-ready-to-shine-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 18:15:00 GMT",
-      "published_at": "2026-06-11T18:15:00+00:00",
-      "description": "Resurgent Middleweight Talks UFC Return, Manifesting White House Opportunity | Presented by Crypto.com and RAM Trucks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Kyle-Daukaus-Hero2-.jpg?itok=_C6-VnZ5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "From Vision To Reality: Building UFC Freedom 250",
-      "link": "https://www.ufc.com/news/vision-reality-building-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/vision-reality-building-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 17:14:00 GMT",
-      "published_at": "2026-06-11T17:14:00+00:00",
-      "description": "An Interview With Craig Borsari, UFC Executive Producer and Chief Content Officer",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281058471_resized.jpg?itok=zPN2atLZ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC AND LEADING STREETWEAR BRANDS LAUNCH EXCLUSIVE UFC FREEDOM 250 APPAREL COLLECTIONS",
-      "link": "https://www.ufc.com/news/ufc-and-leading-streetwear-brands-launch-exclusive-ufc-freedom-250-apparel-collections",
-      "guid": "https://www.ufc.com/news/ufc-and-leading-streetwear-brands-launch-exclusive-ufc-freedom-250-apparel-collections",
-      "pubDate": "Thu, 11 Jun 2026 16:00:00 GMT",
-      "published_at": "2026-06-11T16:00:00+00:00",
-      "description": "Anti Social Social Club, Warren Lotas, ID Supply Co., and Culture Kings Release Limited-Edition Collections Celebrating the Most Historic Event in UFC History",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
       "category": "UFC",
       "source": "UFC"
     }
