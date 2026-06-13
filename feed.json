@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-13T10:14:53.535791+00:00",
+  "last_build_date": "2026-06-13T17:02:33.845322+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,28 @@
       "published_at": "2026-06-15T00:00:00+00:00",
       "description": "See How The Judges Scored Every Round Of Every Fight At UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Freedom 250",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-freedom-250",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-freedom-250",
+      "pubDate": "Sat, 13 Jun 2026 15:00:00 GMT",
+      "published_at": "2026-06-13T15:00:00+00:00",
+      "description": "Presented By Crypto.com & RAM: The Official Weights Of The Athletes Competing Sunday, June 14 On The South Lawn Of The White House In Washington, DC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061426-UFC-Freedom-250-WEIGH-hero.jpg?itok=sUxw6UzO",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | UFC Freedom 250: Alex Pereira vs Ciryl Gane",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-alex-pereira-vs-ciryl-gane",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-alex-pereira-vs-ciryl-gane",
+      "pubDate": "Sat, 13 Jun 2026 13:00:00 GMT",
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "description": "Xtreme Couture Head Coach Eric Nicksick Taps In, Talks Sunday’s Interim Heavyweight Title Fight | Presented by Crypto.com",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-alex-pereira-ciryl-gane.jpg?itok=0BXwsyzL",
       "category": "UFC",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "Latest UFC news: TKO AND ANDURIL ANNOUNCE PARTNERSHIP ACROSS UFC AND ZUFFA BOXING",
       "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Collect the Main Event: Ilia Topuria & Justin Gaethje 2-Pack McFarlane Figure Set",
-      "link": "https://www.ufc.com/news/collect-main-event-ilia-topuria-justin-gaethje-2-pack-mcfarlane-figure-set",
-      "guid": "https://www.ufc.com/news/collect-main-event-ilia-topuria-justin-gaethje-2-pack-mcfarlane-figure-set",
-      "pubDate": "Thu, 11 Jun 2026 21:40:00 GMT",
-      "published_at": "2026-06-11T21:40:00+00:00",
-      "description": "Limited-Edition UFC Freedom 250 Collectible Available Now at UFC Store!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Website%20Banner%20-%20UFC-%201920x1080-Newsletter.jpg?itok=XEwAESRd",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Michael Chandler | All Gas, No Brakes | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/michael-chandler-all-gas-no-breaks-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/michael-chandler-all-gas-no-breaks-ufc-freedom-250",
-      "pubDate": "Thu, 11 Jun 2026 18:45:00 GMT",
-      "published_at": "2026-06-11T18:45:00+00:00",
-      "description": "Lightweight Standout Grateful For Opportunity, Eager To Show Out At The White House For UFC Freedom 250 Presented By RAM & Crypto.com The White House",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Michael-Chandler-Hero-.jpg?itok=ZgAYUOCm",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
