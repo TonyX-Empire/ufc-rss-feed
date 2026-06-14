@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-14T10:54:18.781334+00:00",
+  "last_build_date": "2026-06-14T17:01:47.816662+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,18 +13,7 @@
       "pubDate": "Mon, 15 Jun 2026 00:30:00 GMT",
       "published_at": "2026-06-15T00:30:00+00:00",
       "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By Crypto.com And Ram, Live From The White House On June 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Freedom 250 Results",
-      "link": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
-      "guid": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
-      "pubDate": "Mon, 15 Jun 2026 00:00:00 GMT",
-      "published_at": "2026-06-15T00:00:00+00:00",
-      "description": "Results, Highlights, Post-Fight Interviews And More From UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/061326-Ilia-Topuria-Faceoff-GettyImages-2281464937.jpg?itok=cHYYgITI",
       "category": "UFC",
       "source": "UFC"
     },
@@ -36,6 +25,17 @@
       "published_at": "2026-06-15T00:00:00+00:00",
       "description": "See How The Judges Scored Every Round Of Every Fight At UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Freedom 250 Results",
+      "link": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 GMT",
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "description": "Results, Highlights, Post-Fight Interviews And More From UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
       "category": "UFC",
       "source": "UFC"
     },
