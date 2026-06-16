@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-15T18:11:00.540969+00:00",
+  "last_build_date": "2026-06-16T16:02:58.432594+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White Talks UFC Freedom 250, UFC’s White House Success Story + More",
+      "link": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-ufcs-white-house-success-story-more",
+      "guid": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-ufcs-white-house-success-story-more",
+      "pubDate": "Mon, 15 Jun 2026 22:51:00 GMT",
+      "published_at": "2026-06-15T22:51:00+00:00",
+      "description": "Dana White Fielded Questions From The Media Following UFC Freedom 250 Presented By Crypto.com And RAM In Washington D.C.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi",
+      "pubDate": "Mon, 15 Jun 2026 22:17:00 GMT",
+      "published_at": "2026-06-15T22:17:00+00:00",
+      "description": "Diving Into Saturday’s Fight Card At The Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-manel-kape_GettyImages-2251808176.jpg?itok=Qajqe-oY",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "The Bigger Picture | UFC Freedom 250",
       "link": "https://www.ufc.com/news/bigger-picture-ufc-freedom-250",
@@ -80,28 +102,6 @@
       "published_at": "2026-06-13T13:00:00+00:00",
       "description": "Xtreme Couture Head Coach Eric Nicksick Taps In, Talks Sunday’s Interim Heavyweight Title Fight | Presented by Crypto.com",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-alex-pereira-ciryl-gane.jpg?itok=0BXwsyzL",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "A Trio Of Fights Fill Out June 20 Fight Night",
-      "link": "https://www.ufc.com/news/-a-trio-of-fights-fill-out-june-20-fight-night-kape-vs-horiguchi-ufc-vegas-119",
-      "guid": "https://www.ufc.com/news/-a-trio-of-fights-fill-out-june-20-fight-night-kape-vs-horiguchi-ufc-vegas-119",
-      "pubDate": "Fri, 12 Jun 2026 20:25:00 GMT",
-      "published_at": "2026-06-12T20:25:00+00:00",
-      "description": "The Action Returns To Las Vegas As Three Fights Are Booked For UFC Fight Night: Kape vs Horiguchi",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | UFC Freedom 250: Ilia Topuria vs Justin Gaethje",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-ilia-topuria-vs-justin-gaethje",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-ilia-topuria-vs-justin-gaethje",
-      "pubDate": "Fri, 12 Jun 2026 14:00:00 GMT",
-      "published_at": "2026-06-12T14:00:00+00:00",
-      "description": "New England Cartel’s Tyson Chartier Drops In To Break Down Sunday’s Main Event | Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-ilia-topuria-justin-gaethje.jpg?itok=IiGtkw7v",
       "category": "UFC",
       "source": "UFC"
     }
