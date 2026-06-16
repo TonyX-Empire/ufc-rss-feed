@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-16T16:02:58.432594+00:00",
+  "last_build_date": "2026-06-16T23:14:16.240408+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters on the Rise | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-kape-vs-horiguchi-stirling-mesquita-lima",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-kape-vs-horiguchi-stirling-mesquita-lima",
+      "pubDate": "Tue, 16 Jun 2026 18:35:00 GMT",
+      "published_at": "2026-06-16T18:35:00+00:00",
+      "description": "Spotlighting Three Rising Stars Set To Hit The Octagon On Saturday In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061626-hero-navajo-stirling_GettyImages-2268828506.jpg?itok=P5HOcFz3",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Statement On Conor McGregor",
+      "link": "https://www.ufc.com/news/statement-conor-mcgregor",
+      "guid": "https://www.ufc.com/news/statement-conor-mcgregor",
+      "pubDate": "Tue, 16 Jun 2026 16:49:00 GMT",
+      "published_at": "2026-06-16T16:49:00+00:00",
+      "description": "Latest UFC news: Statement On Conor McGregor",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Octagon-general-generic-hero-GettyImages-2222676675.jpg?itok=rTlOCoaa",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Dana White Talks UFC Freedom 250, UFC’s White House Success Story + More",
       "link": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-ufcs-white-house-success-story-more",
@@ -13,7 +35,7 @@
       "pubDate": "Mon, 15 Jun 2026 22:51:00 GMT",
       "published_at": "2026-06-15T22:51:00+00:00",
       "description": "Dana White Fielded Questions From The Media Following UFC Freedom 250 Presented By Crypto.com And RAM In Washington D.C.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-06-15T00:30:00+00:00",
       "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By Crypto.com And Ram, Live From The White House On June 14",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-freedom-250",
-      "pubDate": "Sat, 13 Jun 2026 15:00:00 GMT",
-      "published_at": "2026-06-13T15:00:00+00:00",
-      "description": "Presented By Crypto.com & RAM: The Official Weights Of The Athletes Competing Sunday, June 14 On The South Lawn Of The White House In Washington, DC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061426-UFC-Freedom-250-WEIGH-hero.jpg?itok=sUxw6UzO",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | UFC Freedom 250: Alex Pereira vs Ciryl Gane",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-alex-pereira-vs-ciryl-gane",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-freedom-250-alex-pereira-vs-ciryl-gane",
-      "pubDate": "Sat, 13 Jun 2026 13:00:00 GMT",
-      "published_at": "2026-06-13T13:00:00+00:00",
-      "description": "Xtreme Couture Head Coach Eric Nicksick Taps In, Talks Sunday’s Interim Heavyweight Title Fight | Presented by Crypto.com",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061126-hero-alex-pereira-ciryl-gane.jpg?itok=0BXwsyzL",
       "category": "UFC",
       "source": "UFC"
     }
