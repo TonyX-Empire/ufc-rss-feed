@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-17T13:02:51.604126+00:00",
+  "last_build_date": "2026-06-17T22:17:11.146411+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White Announces Two Title Fights For UFC's Return To Philadelphia",
+      "link": "https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia",
+      "guid": "https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia",
+      "pubDate": "Wed, 17 Jun 2026 18:51:00 GMT",
+      "published_at": "2026-06-17T18:51:00+00:00",
+      "description": "UFC 330 Goes Down On August 15 From Xfinity Mobile Arena In Philadelphia",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Bia Mesquita: ‘It’s Always a Finals Match’",
+      "link": "https://www.ufc.com/news/bia-mesquita-its-always-finals-match-ufc-vegas-119-bantamweight",
+      "guid": "https://www.ufc.com/news/bia-mesquita-its-always-finals-match-ufc-vegas-119-bantamweight",
+      "pubDate": "Wed, 17 Jun 2026 18:24:00 GMT",
+      "published_at": "2026-06-17T18:24:00+00:00",
+      "description": "Ascending Brazilian Talks Quick Return, Steady Improvements, Competitive Mindset",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061726-bia-mesquita-reaction_GettyImages-2266531806.jpg?itok=zuXgRoVE",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Manel Kape | Revenge Is Sweet, A Championship Opportunity Will Be Sweeter",
+      "link": "https://www.ufc.com/news/manel-kape-revenge-sweet-championship-opportunity-will-be-sweeter",
+      "guid": "https://www.ufc.com/news/manel-kape-revenge-sweet-championship-opportunity-will-be-sweeter",
+      "pubDate": "Wed, 17 Jun 2026 14:57:00 GMT",
+      "published_at": "2026-06-17T14:57:00+00:00",
+      "description": "Surging Contender Talks Rematch With Kyoji Horiguchi, Title Ambitions",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2190008681.jpg?itok=Qkuk80Hh",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Mitch Raposo | Time To Show Up And Prove Himself",
       "link": "https://www.ufc.com/news/mitch-raposo-time-to-show-up-and-prove-himself-ufc-vegas-119",
@@ -70,39 +103,6 @@
       "description": "Diving Into Saturday’s Fight Card At The Meta APEX",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-manel-kape_GettyImages-2251808176.jpg?itok=Qajqe-oY",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "The Bigger Picture | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/bigger-picture-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/bigger-picture-ufc-freedom-250",
-      "pubDate": "Mon, 15 Jun 2026 16:52:00 GMT",
-      "published_at": "2026-06-15T16:52:00+00:00",
-      "description": "Trying To Sift Through A Momentous Night At The White House | Presented By Crypto.com And Ram Trucks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-justin-gaethje_GettyImages-2281638753.jpg?itok=I6SAiO3u",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Freedom 250 Results",
-      "link": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
-      "guid": "https://www.ufc.com/news/ufc-freedom-250-results-highlights-interviews",
-      "pubDate": "Mon, 15 Jun 2026 07:45:00 GMT",
-      "published_at": "2026-06-15T07:45:00+00:00",
-      "description": "Results, Highlights, Post-Fight Interviews And More From UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061426-justin-gaethje-punch-GettyImages-2281633769.jpg?itok=10SQIv6t",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-freedom-250",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-freedom-250",
-      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "published_at": "2026-06-15T07:00:00+00:00",
-      "description": "Presented By Crypto.com & RAM: The Performances Awarded An Extra Bonus At The White House On June 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-bonus-coverage.jpg?itok=i1I0wbWY",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
