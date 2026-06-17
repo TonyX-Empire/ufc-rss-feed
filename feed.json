@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-16T23:14:16.240408+00:00",
+  "last_build_date": "2026-06-17T13:02:51.604126+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Mitch Raposo | Time To Show Up And Prove Himself",
+      "link": "https://www.ufc.com/news/mitch-raposo-time-to-show-up-and-prove-himself-ufc-vegas-119",
+      "guid": "https://www.ufc.com/news/mitch-raposo-time-to-show-up-and-prove-himself-ufc-vegas-119",
+      "pubDate": "Wed, 17 Jun 2026 01:44:00 GMT",
+      "published_at": "2026-06-17T01:44:00+00:00",
+      "description": "Confident Flyweight Eager To Create New Memories At Meta APEX on Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061626-hero-mitch-raposo_GettyImages-2243240373.jpg?itok=gaspO2rc",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fighters on the Rise | UFC Fight Night: Kape vs Horiguchi",
       "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-kape-vs-horiguchi-stirling-mesquita-lima",
@@ -15,6 +26,17 @@
       "description": "Spotlighting Three Rising Stars Set To Hit The Octagon On Saturday In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061626-hero-navajo-stirling_GettyImages-2268828506.jpg?itok=P5HOcFz3",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Tue, 16 Jun 2026 18:23:00 GMT",
+      "published_at": "2026-06-16T18:23:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-06-15T07:00:00+00:00",
       "description": "Presented By Crypto.com & RAM: The Performances Awarded An Extra Bonus At The White House On June 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-bonus-coverage.jpg?itok=i1I0wbWY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Freedom 250",
-      "link": "https://www.ufc.com/news/ufc-freedom-250-official-scorecards-judges",
-      "guid": "https://www.ufc.com/news/ufc-freedom-250-official-scorecards-judges",
-      "pubDate": "Mon, 15 Jun 2026 05:33:00 GMT",
-      "published_at": "2026-06-15T05:33:00+00:00",
-      "description": "See How The Judges Scored Every Round Of Every Fight At UFC Freedom 250, Presented By Crypto.com And RAM, Live From The White House In Washington, D.C. On Sunday, June 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061426-Bruce-Buffer-Announcement-HERO-GettyImages-2281614935.jpg?itok=n3BoMCra",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch And Stream UFC Freedom 250",
-      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "pubDate": "Mon, 15 Jun 2026 00:30:00 GMT",
-      "published_at": "2026-06-15T00:30:00+00:00",
-      "description": "Find Start Times And Fight Card Info For UFC Freedom 250 Presented By Crypto.com And Ram, Live From The White House On June 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?itok=Cjo-fTqd",
       "category": "UFC",
       "source": "UFC"
     }
