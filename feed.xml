@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Jun 2026 22:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:33:29 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC Returns To Shanghai On August 28-29</title>
+      <link>https://www.ufc.com/news/ufc-returns-shanghai-august-28-29</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-returns-shanghai-august-28-29</guid>
+      <pubDate>Thu, 18 Jun 2026 03:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/061726-shanghai-announcement-graphic-CLEAN.jpg?itok=HV2jIUDZ" alt="UFC Returns To Shanghai On August 28-29" /></p>
+<p>FIGHT WEEK FEATURES BACK-TO-BACK PRIME TIME EVENTS:ROAD TO UFC SEASON 5 SEMIFINALS ON FRIDAY, AUGUST 28 &amp; UFC FIGHT NIGHT SHANGHAI ON SATURDAY, AUGUST 29</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Dana White Announces Two Title Fights For UFC's Return To Philadelphia</title>
       <link>https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ" alt="Dana White Talks UFC Freedom 250, UFC’s White House Success Story + More" /></p>
 <p>Dana White Fielded Questions From The Media Following UFC Freedom 250 Presented By Crypto.com And RAM In Washington D.C.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC Fight Night: Kape vs Horiguchi</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi</guid>
-      <pubDate>Mon, 15 Jun 2026 22:17:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/061526-hero-manel-kape_GettyImages-2251808176.jpg?itok=Qajqe-oY" alt="Fight By Fight Preview | UFC Fight Night: Kape vs Horiguchi" /></p>
-<p>Diving Into Saturday’s Fight Card At The Meta APEX</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-17T22:17:11.146411+00:00",
+  "last_build_date": "2026-06-18T12:33:29.612119+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC Returns To Shanghai On August 28-29",
+      "link": "https://www.ufc.com/news/ufc-returns-shanghai-august-28-29",
+      "guid": "https://www.ufc.com/news/ufc-returns-shanghai-august-28-29",
+      "pubDate": "Thu, 18 Jun 2026 03:00:00 GMT",
+      "published_at": "2026-06-18T03:00:00+00:00",
+      "description": "FIGHT WEEK FEATURES BACK-TO-BACK PRIME TIME EVENTS:ROAD TO UFC SEASON 5 SEMIFINALS ON FRIDAY, AUGUST 28 & UFC FIGHT NIGHT SHANGHAI ON SATURDAY, AUGUST 29",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061726-shanghai-announcement-graphic-CLEAN.jpg?itok=HV2jIUDZ",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Dana White Announces Two Title Fights For UFC's Return To Philadelphia",
       "link": "https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia",
@@ -92,17 +103,6 @@
       "description": "Dana White Fielded Questions From The Media Following UFC Freedom 250 Presented By Crypto.com And RAM In Washington D.C.",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-kape-vs-horiguchi",
-      "pubDate": "Mon, 15 Jun 2026 22:17:00 GMT",
-      "published_at": "2026-06-15T22:17:00+00:00",
-      "description": "Diving Into Saturday’s Fight Card At The Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061526-hero-manel-kape_GettyImages-2251808176.jpg?itok=Qajqe-oY",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
