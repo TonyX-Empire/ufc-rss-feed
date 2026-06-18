@@ -3,9 +3,97 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-18T12:33:29.612119+00:00",
+  "last_build_date": "2026-06-18T22:31:40.090287+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 GMT",
+      "published_at": "2026-06-21T00:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
+      "pubDate": "Sat, 20 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-20T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060626-General-View-Octagon-Meta-APEX-GettyImages-2280245979.jpg?itok=lpyRKonE",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
+      "pubDate": "Sat, 20 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-20T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas On June 20, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/061425-Joe-Martinez-HERO-GettyImages-2220165428.jpg.jpg?itok=MLEpvDbV",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Debut To Watch | Murtazali Magomedov",
+      "link": "https://www.ufc.com/news/debut-watch-murtazali-magomedov-ufc-fight-night-kape-horiguchi",
+      "guid": "https://www.ufc.com/news/debut-watch-murtazali-magomedov-ufc-fight-night-kape-horiguchi",
+      "pubDate": "Thu, 18 Jun 2026 21:43:00 GMT",
+      "published_at": "2026-06-18T21:43:00+00:00",
+      "description": "After A Dominant Contender Series, Featherweight Prospect Murtazali Magomedov Brings His Perfect Record Into Highly Anticipated UFC Debut",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/06182026-Murtazali-Magomedov-Hero-.jpg?itok=VUPUoZ-n",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "André Lima | The Long Wait Is Finally Over",
+      "link": "https://www.ufc.com/news/andre-lima-the-long-wait-is-finally-over-ufc-vegas-119",
+      "guid": "https://www.ufc.com/news/andre-lima-the-long-wait-is-finally-over-ufc-vegas-119",
+      "pubDate": "Thu, 18 Jun 2026 18:26:00 GMT",
+      "published_at": "2026-06-18T18:26:00+00:00",
+      "description": "Brazilian Prospects Talks Inactivity, Return Against Kevin Borjas On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Andre-Lima-Hero-.jpg?itok=T1PxcP-W",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Christian Rodriguez | A Brand New Man",
+      "link": "https://www.ufc.com/news/christian-rodriguez-brand-new-man-ufc-vegas-119",
+      "guid": "https://www.ufc.com/news/christian-rodriguez-brand-new-man-ufc-vegas-119",
+      "pubDate": "Thu, 18 Jun 2026 18:22:00 GMT",
+      "published_at": "2026-06-18T18:22:00+00:00",
+      "description": "Featherweight Talks Move To Las Vegas, Growing Up Ahead Of 2026 Debut",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061826-hero-christian-rodriguez_GettyImages-2229300991.jpg?itok=YVb_Iq-u",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Kyoji Horiguchi | The Smiling Assassin",
+      "link": "https://www.ufc.com/news/kyoji-horiguchi-smiling-assassin-ufc-vegas-119-flyweight",
+      "guid": "https://www.ufc.com/news/kyoji-horiguchi-smiling-assassin-ufc-vegas-119-flyweight",
+      "pubDate": "Thu, 18 Jun 2026 16:41:00 GMT",
+      "published_at": "2026-06-18T16:41:00+00:00",
+      "description": "They Say Winners Are Grinners, And Kyoji Horiguchi Plans On Proving It By Smiling All His Way To The UFC Flyweight Title.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/061826-kyoji-horiguchi-celebration_GettyImages-2260463241.jpg?itok=SJdXijnT",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 08 Official Fight Card",
+      "link": "https://www.ufc.com/news/zuffa-boxing-08-official-fight-card",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-08-official-fight-card",
+      "pubDate": "Thu, 18 Jun 2026 16:21:00 GMT",
+      "published_at": "2026-06-18T16:21:00+00:00",
+      "description": "De Los Santos vs Valenzuela Happens June 28 At The Cosmopolitan In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/05_Z08_thumb_Assets.jpg?itok=sBv5z3db",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "UFC Returns To Shanghai On August 28-29",
       "link": "https://www.ufc.com/news/ufc-returns-shanghai-august-28-29",
@@ -14,94 +102,6 @@
       "published_at": "2026-06-18T03:00:00+00:00",
       "description": "FIGHT WEEK FEATURES BACK-TO-BACK PRIME TIME EVENTS:ROAD TO UFC SEASON 5 SEMIFINALS ON FRIDAY, AUGUST 28 & UFC FIGHT NIGHT SHANGHAI ON SATURDAY, AUGUST 29",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061726-shanghai-announcement-graphic-CLEAN.jpg?itok=HV2jIUDZ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White Announces Two Title Fights For UFC's Return To Philadelphia",
-      "link": "https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia",
-      "guid": "https://www.ufc.com/news/dana-white-announces-two-title-fights-ufcs-return-philadelphia",
-      "pubDate": "Wed, 17 Jun 2026 18:51:00 GMT",
-      "published_at": "2026-06-17T18:51:00+00:00",
-      "description": "UFC 330 Goes Down On August 15 From Xfinity Mobile Arena In Philadelphia",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Bia Mesquita: ‘It’s Always a Finals Match’",
-      "link": "https://www.ufc.com/news/bia-mesquita-its-always-finals-match-ufc-vegas-119-bantamweight",
-      "guid": "https://www.ufc.com/news/bia-mesquita-its-always-finals-match-ufc-vegas-119-bantamweight",
-      "pubDate": "Wed, 17 Jun 2026 18:24:00 GMT",
-      "published_at": "2026-06-17T18:24:00+00:00",
-      "description": "Ascending Brazilian Talks Quick Return, Steady Improvements, Competitive Mindset",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061726-bia-mesquita-reaction_GettyImages-2266531806.jpg?itok=zuXgRoVE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Manel Kape | Revenge Is Sweet, A Championship Opportunity Will Be Sweeter",
-      "link": "https://www.ufc.com/news/manel-kape-revenge-sweet-championship-opportunity-will-be-sweeter",
-      "guid": "https://www.ufc.com/news/manel-kape-revenge-sweet-championship-opportunity-will-be-sweeter",
-      "pubDate": "Wed, 17 Jun 2026 14:57:00 GMT",
-      "published_at": "2026-06-17T14:57:00+00:00",
-      "description": "Surging Contender Talks Rematch With Kyoji Horiguchi, Title Ambitions",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2190008681.jpg?itok=Qkuk80Hh",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Mitch Raposo | Time To Show Up And Prove Himself",
-      "link": "https://www.ufc.com/news/mitch-raposo-time-to-show-up-and-prove-himself-ufc-vegas-119",
-      "guid": "https://www.ufc.com/news/mitch-raposo-time-to-show-up-and-prove-himself-ufc-vegas-119",
-      "pubDate": "Wed, 17 Jun 2026 01:44:00 GMT",
-      "published_at": "2026-06-17T01:44:00+00:00",
-      "description": "Confident Flyweight Eager To Create New Memories At Meta APEX on Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061626-hero-mitch-raposo_GettyImages-2243240373.jpg?itok=gaspO2rc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-kape-vs-horiguchi-stirling-mesquita-lima",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-kape-vs-horiguchi-stirling-mesquita-lima",
-      "pubDate": "Tue, 16 Jun 2026 18:35:00 GMT",
-      "published_at": "2026-06-16T18:35:00+00:00",
-      "description": "Spotlighting Three Rising Stars Set To Hit The Octagon On Saturday In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061626-hero-navajo-stirling_GettyImages-2268828506.jpg?itok=P5HOcFz3",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Tue, 16 Jun 2026 18:23:00 GMT",
-      "published_at": "2026-06-16T18:23:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Statement On Conor McGregor",
-      "link": "https://www.ufc.com/news/statement-conor-mcgregor",
-      "guid": "https://www.ufc.com/news/statement-conor-mcgregor",
-      "pubDate": "Tue, 16 Jun 2026 16:49:00 GMT",
-      "published_at": "2026-06-16T16:49:00+00:00",
-      "description": "Latest UFC news: Statement On Conor McGregor",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Octagon-general-generic-hero-GettyImages-2222676675.jpg?itok=rTlOCoaa",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White Talks UFC Freedom 250, UFC’s White House Success Story + More",
-      "link": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-ufcs-white-house-success-story-more",
-      "guid": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-ufcs-white-house-success-story-more",
-      "pubDate": "Mon, 15 Jun 2026 22:51:00 GMT",
-      "published_at": "2026-06-15T22:51:00+00:00",
-      "description": "Dana White Fielded Questions From The Media Following UFC Freedom 250 Presented By Crypto.com And RAM In Washington D.C.",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/061326-Dana-White-GettyImages-2281457403.jpg?itok=jH9ZsdfQ",
       "category": "UFC",
       "source": "UFC"
     }
