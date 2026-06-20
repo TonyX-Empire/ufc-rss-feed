@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-20T15:24:50.396791+00:00",
+  "last_build_date": "2026-06-20T21:56:51.430537+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,24 +18,24 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
-      "pubDate": "Sat, 20 Jun 2026 21:00:00 GMT",
-      "published_at": "2026-06-20T21:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/060626-General-View-Octagon-Meta-APEX-GettyImages-2280245979.jpg?itok=lpyRKonE",
+      "title": "Official Scorecards | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
+      "pubDate": "Sat, 20 Jun 2026 21:37:00 GMT",
+      "published_at": "2026-06-20T21:37:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas On June 20, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/061425-Joe-Martinez-HERO-GettyImages-2220165428.jpg.jpg?itok=MLEpvDbV",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards",
-      "pubDate": "Sat, 20 Jun 2026 21:00:00 GMT",
-      "published_at": "2026-06-20T21:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas On June 20, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/061425-Joe-Martinez-HERO-GettyImages-2220165428.jpg.jpg?itok=MLEpvDbV",
+      "title": "Prelim Results | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews",
+      "pubDate": "Sat, 20 Jun 2026 21:34:00 GMT",
+      "published_at": "2026-06-20T21:34:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/060626-General-View-Octagon-Meta-APEX-GettyImages-2280245979.jpg?itok=lpyRKonE",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
