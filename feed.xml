@@ -5,13 +5,23 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jun 2026 21:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 11:34:03 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bonus Coverage | UFC Fight Night: Kape vs Horiguchi</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi</guid>
+      <pubDate>Sun, 21 Jun 2026 03:21:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/BrowserPreview_tmp-1_0.gif?itok=PKkUVqM2" alt="Bonus Coverage | UFC Fight Night: Kape vs Horiguchi" /></p>
+<p>The Performances Awarded An Extra Bonus At Meta APEX On June 20, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Search results | UFC</title>
       <link>https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 03:20:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
@@ -20,7 +30,7 @@
       <title>Official Scorecards | UFC Fight Night: Kape vs Horiguchi</title>
       <link>https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-official-judges-scorecards</guid>
-      <pubDate>Sat, 20 Jun 2026 21:37:00 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 02:22:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/061425-Joe-Martinez-HERO-GettyImages-2220165428.jpg.jpg?itok=MLEpvDbV" alt="Official Scorecards | UFC Fight Night: Kape vs Horiguchi" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas On June 20, 2026</p>
@@ -30,9 +40,9 @@
       <title>Prelim Results | UFC Fight Night: Kape vs Horiguchi</title>
       <link>https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-prelims-results-highlights-interviews</guid>
-      <pubDate>Sat, 20 Jun 2026 21:34:00 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 01:00:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/060626-General-View-Octagon-Meta-APEX-GettyImages-2280245979.jpg?itok=lpyRKonE" alt="Prelim Results | UFC Fight Night: Kape vs Horiguchi" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062026-Gaston-Bolanos-Punch-GettyImages-2282544274.jpg?itok=NN4M-PIb" alt="Prelim Results | UFC Fight Night: Kape vs Horiguchi" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
@@ -85,16 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Navajo-Stiriling-Hero-.jpg?itok=3TolbdGe" alt="Navajo Stirling | City Kickboxing’s Next Threat" /></p>
 <p>Undefeated Light Heavyweight Talks Return To Las Vegas, Rising Up The Ranks</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Manel Kape And Kyoji Horiguchi | A Rematch Nine Years In The Making</title>
-      <link>https://www.ufc.com/news/manel-kape-and-kyoji-horiguchi-rematch-nine-years-making</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/manel-kape-and-kyoji-horiguchi-rematch-nine-years-making</guid>
-      <pubDate>Fri, 19 Jun 2026 13:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/061826-kape-horiguchi-hand-raise.jpg?itok=tXhN5z-N" alt="Manel Kape And Kyoji Horiguchi | A Rematch Nine Years In The Making" /></p>
-<p>The Headliner Between Manel Kape And Kyoji Horiguchi Is Not Only A High-Stakes Flyweight Matchup But Also A Rematch Almost A Decade In The Making</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
