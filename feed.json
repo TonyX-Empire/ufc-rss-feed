@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-22T17:58:17.320288+00:00",
+  "last_build_date": "2026-06-22T23:06:39.638250+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC AND META UNVEIL META UFC RANKINGS",
+      "link": "https://www.ufc.com/news/ufc-and-meta-unveil-meta-ufc-rankings",
+      "guid": "https://www.ufc.com/news/ufc-and-meta-unveil-meta-ufc-rankings",
+      "pubDate": "Mon, 22 Jun 2026 20:35:00 GMT",
+      "published_at": "2026-06-22T20:35:00+00:00",
+      "description": "UFC Offers Innovative Approach To Athlete Rankings With New Meta UFC Rankings",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2204051128_resized.jpg?itok=KHqbq9EY",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White Talks UFC Freedom 250, New UFC Rankings + More",
+      "link": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-competing-nfl-and-nba-new-ufc-rankings-more",
+      "guid": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-competing-nfl-and-nba-new-ufc-rankings-more",
+      "pubDate": "Mon, 22 Jun 2026 16:47:00 GMT",
+      "published_at": "2026-06-22T16:47:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The UFC Vegas 119 Post-Fight Press Conference In Las Vegas, Nevada",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281457403_resized.jpg?itok=Eeztg2Pe",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Fight Night: Kape vs Horiguchi",
       "link": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez",
@@ -80,28 +102,6 @@
       "published_at": "2026-06-19T17:18:00+00:00",
       "description": "Brazilian Bantamweight Has Never Felt Happier In Her Career, And Hopes Her Positivity Will Carry Her All The Way Into The Top 10.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061826-luana-santos-hand-raise_GettyImages-2161928497.jpg?itok=Lpzo0JF2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Murtazali Magomedov’s Wait Is Finally Over",
-      "link": "https://www.ufc.com/news/murtazali-magomedovs-wait-finally-over-ufc-vegas-119",
-      "guid": "https://www.ufc.com/news/murtazali-magomedovs-wait-finally-over-ufc-vegas-119",
-      "pubDate": "Fri, 19 Jun 2026 16:44:00 GMT",
-      "published_at": "2026-06-19T16:44:00+00:00",
-      "description": "Kyrgyz Featherweight Has Had To Wait For His UFC Debut, But Now He Gets His Chance To Shine On The Big Stage.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061926-murtzali-magomedov-pre-fight_GettyImages-2237020689.jpg?itok=pleZkuT8",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Vinicius Oliveira | ‘Lokdog’ Unleashed",
-      "link": "https://www.ufc.com/news/vinicius-oliveira-lokdog-unleashed-ufc-vegas-119-featherweight",
-      "guid": "https://www.ufc.com/news/vinicius-oliveira-lokdog-unleashed-ufc-vegas-119-featherweight",
-      "pubDate": "Fri, 19 Jun 2026 16:30:00 GMT",
-      "published_at": "2026-06-19T16:30:00+00:00",
-      "description": "After Taking His First UFC Loss, ‘Lokdog’ Has Moved Up To Featherweight, And Says The Switch Has Unlocked His Full Potential.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/061826-vinicius-oliveira-prefight_GettyImages-2260463575.jpg?itok=x2u2M6dk",
       "category": "UFC",
       "source": "UFC"
     }
