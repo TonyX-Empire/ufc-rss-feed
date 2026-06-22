@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:58:17 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Fight Night: Kape vs Horiguchi</title>
+      <link>https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez</guid>
+      <pubDate>Mon, 22 Jun 2026 00:30:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062026-Murtazali-Magomeov-Reacts-HERO-GettyImages-2282554170.jpg?itok=oqj6UZte" alt="The Scorecard | UFC Fight Night: Kape vs Horiguchi" /></p>
+<p>Highlighting The Biggest Winners From UFC Fight Night: Kape vs Horiguchi On June 20, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Fight Night: Kape vs Horiguchi</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi</link>
@@ -18,12 +28,13 @@
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
+      <title>Main Card Results | UFC Fight Night: Kape vs Horiguchi</title>
       <link>https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews</guid>
       <pubDate>Sun, 21 Jun 2026 03:20:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/062026-ufc-fight-night-kape-vs-horiguchi-EVENT-ART.jpg?itok=fXYeV2w8" alt="Main Card Results | UFC Fight Night: Kape vs Horiguchi" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -85,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/061826-vinicius-oliveira-prefight_GettyImages-2260463575.jpg?itok=x2u2M6dk" alt="Vinicius Oliveira | ‘Lokdog’ Unleashed" /></p>
 <p>After Taking His First UFC Loss, ‘Lokdog’ Has Moved Up To Featherweight, And Says The Switch Has Unlocked His Full Potential.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Navajo Stirling | City Kickboxing’s Next Threat</title>
-      <link>https://www.ufc.com/news/navajo-stirling-city-kickboxing-next-threat-ufc-vegas-119</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/navajo-stirling-city-kickboxing-next-threat-ufc-vegas-119</guid>
-      <pubDate>Fri, 19 Jun 2026 16:18:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Navajo-Stiriling-Hero-.jpg?itok=3TolbdGe" alt="Navajo Stirling | City Kickboxing’s Next Threat" /></p>
-<p>Undefeated Light Heavyweight Talks Return To Las Vegas, Rising Up The Ranks</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>

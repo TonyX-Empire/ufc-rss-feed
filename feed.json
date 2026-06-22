@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-21T22:39:28.709558+00:00",
+  "last_build_date": "2026-06-22T17:58:17.320288+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Fight Night: Kape vs Horiguchi",
+      "link": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez",
+      "guid": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez",
+      "pubDate": "Mon, 22 Jun 2026 00:30:00 GMT",
+      "published_at": "2026-06-22T00:30:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Kape vs Horiguchi On June 20, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062026-Murtazali-Magomeov-Reacts-HERO-GettyImages-2282554170.jpg?itok=oqj6UZte",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Fight Night: Kape vs Horiguchi",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi",
@@ -18,13 +29,13 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Main Card Results | UFC Fight Night: Kape vs Horiguchi",
       "link": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews",
       "guid": "https://www.ufc.com/news/ufc-fight-night-kape-vs-horiguchi-main-card-results-highlights-interviews",
       "pubDate": "Sun, 21 Jun 2026 03:20:00 GMT",
       "published_at": "2026-06-21T03:20:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: UFC Fight Night: Kape vs Horiguchi, Live From Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/062026-ufc-fight-night-kape-vs-horiguchi-EVENT-ART.jpg?itok=fXYeV2w8",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "After Taking His First UFC Loss, ‘Lokdog’ Has Moved Up To Featherweight, And Says The Switch Has Unlocked His Full Potential.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/061826-vinicius-oliveira-prefight_GettyImages-2260463575.jpg?itok=x2u2M6dk",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Navajo Stirling | City Kickboxing’s Next Threat",
-      "link": "https://www.ufc.com/news/navajo-stirling-city-kickboxing-next-threat-ufc-vegas-119",
-      "guid": "https://www.ufc.com/news/navajo-stirling-city-kickboxing-next-threat-ufc-vegas-119",
-      "pubDate": "Fri, 19 Jun 2026 16:18:00 GMT",
-      "published_at": "2026-06-19T16:18:00+00:00",
-      "description": "Undefeated Light Heavyweight Talks Return To Las Vegas, Rising Up The Ranks",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Navajo-Stiriling-Hero-.jpg?itok=3TolbdGe",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
