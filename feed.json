@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-23T19:28:08.119652+00:00",
+  "last_build_date": "2026-06-23T22:19:30.274743+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "FORMER CHAMPIONS COLLIDE AS DRICUS DU PLESSIS AND KAMARU USMAN HEADLINE UFC RETURN TO OKLAHOMA CITY",
+      "link": "https://www.ufc.com/news/former-champions-collide-dricus-du-plessis-and-kamaru-usman-headline-ufc-return-oklahoma-city",
+      "guid": "https://www.ufc.com/news/former-champions-collide-dricus-du-plessis-and-kamaru-usman-headline-ufc-return-oklahoma-city",
+      "pubDate": "Tue, 23 Jun 2026 20:38:00 GMT",
+      "published_at": "2026-06-23T20:38:00+00:00",
+      "description": "UFC FIGHT NIGHT: DU PLESSIS vs USMAN TICKETS ON SALE NOW",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/071826-ufc-fight-night-du-plessis-vs-usman-TEMP-HERO.jpg?itok=49uSNeaJ",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Manuel Torres Wants To Be Feared",
       "link": "https://www.ufc.com/news/manuel-torres-wants-be-feared-ufc-baku-lightweight",
@@ -91,17 +102,6 @@
       "published_at": "2026-06-22T00:30:00+00:00",
       "description": "Highlighting The Biggest Winners From UFC Fight Night: Kape vs Horiguchi On June 20, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062026-Murtazali-Magomeov-Reacts-HERO-GettyImages-2282554170.jpg?itok=oqj6UZte",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-kape-vs-horiguchi",
-      "pubDate": "Sun, 21 Jun 2026 03:21:00 GMT",
-      "published_at": "2026-06-21T03:21:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Meta APEX On June 20, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/BrowserPreview_tmp-1_0.gif?itok=PKkUVqM2",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
