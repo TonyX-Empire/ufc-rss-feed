@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-24T19:58:48.603538+00:00",
+  "last_build_date": "2026-06-24T22:23:47.558781+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,28 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Michal Oleksiejczuk | Polish Nerd Looking to Keep Pushing Forward",
+      "link": "https://www.ufc.com/news/michal-oleksiejczuk-polish-nerd-looking-keep-pushing-forward-ufc-baku",
+      "guid": "https://www.ufc.com/news/michal-oleksiejczuk-polish-nerd-looking-keep-pushing-forward-ufc-baku",
+      "pubDate": "Wed, 24 Jun 2026 22:15:00 GMT",
+      "published_at": "2026-06-24T22:15:00+00:00",
+      "description": "Middleweight Veteran Discusses Recent Success, Busy Divisional Weekend In Baku",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062426-michal-oleksiejczuk-octagon-interview.jpg?itok=uIFui6w6",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Daniil Donchenko | Seeking Beautiful Destruction",
+      "link": "https://www.ufc.com/news/daniil-donchenko-seeking-beautiful-destruction-ufc-baku",
+      "guid": "https://www.ufc.com/news/daniil-donchenko-seeking-beautiful-destruction-ufc-baku",
+      "pubDate": "Wed, 24 Jun 2026 20:46:00 GMT",
+      "published_at": "2026-06-24T20:46:00+00:00",
+      "description": "Emerging Welterweight Values Entertaining Above All, Aims To Do Just That Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Daniil-Donchenko-Hero-.jpg?itok=l7u5UPiZ",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-06-23T18:44:00+00:00",
       "description": "Mexican Finisher Discusses Quick Fights, Main Event Matchup With Rafael Fiziev",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062326-manuel-torres-enters-octagon_GettyImages-2207559217.jpg?itok=q2TdRojB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Nazim Sadykhov | ‘Black Wolf’ Running With A New Pack",
-      "link": "https://www.ufc.com/news/nazim-sadykhov-black-wolf-running-with-a-new-pack-ufc-baku",
-      "guid": "https://www.ufc.com/news/nazim-sadykhov-black-wolf-running-with-a-new-pack-ufc-baku",
-      "pubDate": "Tue, 23 Jun 2026 12:50:00 GMT",
-      "published_at": "2026-06-23T12:50:00+00:00",
-      "description": "Lightweight Details Changes Ahead Of Return To Azerbaijan This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062326-hero-nazim-sadykhov_GettyImages-2221373733.jpg?itok=nDjPxotR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters On The Rise | UFC Baku",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-baku-aliskerov-yakhyaev-doncheko",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-baku-aliskerov-yakhyaev-doncheko",
-      "pubDate": "Tue, 23 Jun 2026 12:31:00 GMT",
-      "published_at": "2026-06-23T12:31:00+00:00",
-      "description": "Three Athletes With The Potential To Make Noise On Saturday And Beyond",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062326-hero-ikram-aliskerov_GettyImages-2212164031.jpg?itok=fiPyD6z4",
       "category": "UFC",
       "source": "UFC"
     }
