@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-24T17:11:41.567561+00:00",
+  "last_build_date": "2026-06-24T19:58:48.603538+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Abdul Rakhman Yakhyaev | Active, Successful, And Hungry For More",
+      "link": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku",
+      "guid": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku",
+      "pubDate": "Wed, 24 Jun 2026 18:28:00 GMT",
+      "published_at": "2026-06-24T18:28:00+00:00",
+      "description": "DWCS Grad Talks Early Success, Fighting In Baku, Hints At Future Desires",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Abdul-Rakhman-Yakhyaev-Hero.jpg?itok=Kp9qFQ7m",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -35,7 +46,7 @@
       "pubDate": "Wed, 24 Jun 2026 14:46:00 GMT",
       "published_at": "2026-06-24T14:46:00+00:00",
       "description": "The All-Action Manuel Torres Fought His Way Into The Brink Of The Lightweight Elite With A Quickness And Earned A Main Event Slot In Baku On June 27",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/062426-hero-manuel-torres_GettyImages-2255289629.jpg?itok=rQ9KCqc5",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062426-hero-manuel-torres_GettyImages-2255289629.jpg?itok=rQ9KCqc5",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-06-23T12:31:00+00:00",
       "description": "Three Athletes With The Potential To Make Noise On Saturday And Beyond",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062326-hero-ikram-aliskerov_GettyImages-2212164031.jpg?itok=fiPyD6z4",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Freedom 250 Gear Took Center Stage At The Lincoln Memorial",
-      "link": "https://www.ufc.com/news/ufc-freedom-250-gear-took-center-stage-lincoln-memorial",
-      "guid": "https://www.ufc.com/news/ufc-freedom-250-gear-took-center-stage-lincoln-memorial",
-      "pubDate": "Tue, 23 Jun 2026 12:21:00 GMT",
-      "published_at": "2026-06-23T12:21:00+00:00",
-      "description": "Local Young Martial Artists Joined UFC Athletes in Venum and Prosphere Styles",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Chandler-hero-thumbnail.jpg?itok=TiEHJZE1",
       "category": "UFC",
       "source": "UFC"
     }
