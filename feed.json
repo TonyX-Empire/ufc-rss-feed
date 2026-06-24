@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-24T14:49:40.873590+00:00",
+  "last_build_date": "2026-06-24T17:11:41.567561+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Results + Scorecards | Zuffa Boxing 08",
+      "link": "https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela",
+      "pubDate": "Sun, 28 Jun 2026 21:00:00 GMT",
+      "published_at": "2026-06-28T21:00:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "2026 Topps Knockout UFC Available Now!",
+      "link": "https://www.ufc.com/news/2026-topps-knockout-ufc-available-now",
+      "guid": "https://www.ufc.com/news/2026-topps-knockout-ufc-available-now",
+      "pubDate": "Wed, 24 Jun 2026 16:00:00 GMT",
+      "published_at": "2026-06-24T16:00:00+00:00",
+      "description": "Collect Champions, Legends, and Rising Stars at UFC Store",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/1200x500%20Article_A.jpg?itok=XgQxZgFa",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Journey To Main Event | Manuel Torres",
+      "link": "https://www.ufc.com/news/journey-to-main-event-manuel-torres-ufc-baku",
+      "guid": "https://www.ufc.com/news/journey-to-main-event-manuel-torres-ufc-baku",
+      "pubDate": "Wed, 24 Jun 2026 14:46:00 GMT",
+      "published_at": "2026-06-24T14:46:00+00:00",
+      "description": "The All-Action Manuel Torres Fought His Way Into The Brink Of The Lightweight Elite With A Quickness And Earned A Main Event Slot In Baku On June 27",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/062426-hero-manuel-torres_GettyImages-2255289629.jpg?itok=rQ9KCqc5",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | Zuffa Boxing 08",
       "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas",
@@ -69,39 +102,6 @@
       "published_at": "2026-06-23T12:21:00+00:00",
       "description": "Local Young Martial Artists Joined UFC Athletes in Venum and Prosphere Styles",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Chandler-hero-thumbnail.jpg?itok=TiEHJZE1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Baku",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-baku-fiziev-torres-2026",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-baku-fiziev-torres-2026",
-      "pubDate": "Mon, 22 Jun 2026 21:52:00 GMT",
-      "published_at": "2026-06-22T21:52:00+00:00",
-      "description": "Diving Into The Lineup For Saturday’s UFC Fight Night: Fiziev vs Torres",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062026-UFC-Baku-FBF-Hero.jpg?itok=wuj96taM",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC AND META UNVEIL META UFC RANKINGS",
-      "link": "https://www.ufc.com/news/ufc-and-meta-unveil-meta-ufc-rankings",
-      "guid": "https://www.ufc.com/news/ufc-and-meta-unveil-meta-ufc-rankings",
-      "pubDate": "Mon, 22 Jun 2026 20:35:00 GMT",
-      "published_at": "2026-06-22T20:35:00+00:00",
-      "description": "UFC Offers Innovative Approach To Athlete Rankings With New Meta UFC Rankings",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2204051128_resized.jpg?itok=KHqbq9EY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White Talks UFC Freedom 250, New UFC Rankings + More",
-      "link": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-competing-nfl-and-nba-new-ufc-rankings-more",
-      "guid": "https://www.ufc.com/news/dana-white-talks-ufc-freedom-250-competing-nfl-and-nba-new-ufc-rankings-more",
-      "pubDate": "Mon, 22 Jun 2026 16:47:00 GMT",
-      "published_at": "2026-06-22T16:47:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The UFC Vegas 119 Post-Fight Press Conference In Las Vegas, Nevada",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281457403_resized.jpg?itok=Eeztg2Pe",
       "category": "UFC",
       "source": "UFC"
     }
