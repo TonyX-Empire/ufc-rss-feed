@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:49:40 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | Zuffa Boxing 08</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas</guid>
+      <pubDate>Wed, 24 Jun 2026 12:20:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U" alt="Fight By Fight Preview | Zuffa Boxing 08" /></p>
+<p>Zuffa Boxing Heads To The Chelsea At The Cosmopolitan For Its Latest Las Vegas Fight Night. Here’s Everything You Need To Know.</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>FORMER CHAMPIONS COLLIDE AS DRICUS DU PLESSIS AND KAMARU USMAN HEADLINE UFC RETURN TO OKLAHOMA CITY</title>
       <link>https://www.ufc.com/news/former-champions-collide-dricus-du-plessis-and-kamaru-usman-headline-ufc-return-oklahoma-city</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281457403_resized.jpg?itok=Eeztg2Pe" alt="Dana White Talks UFC Freedom 250, New UFC Rankings + More" /></p>
 <p>Dana White Fielded Questions From The Media At The UFC Vegas 119 Post-Fight Press Conference In Las Vegas, Nevada</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>The Scorecard | UFC Fight Night: Kape vs Horiguchi</title>
-      <link>https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez</guid>
-      <pubDate>Mon, 22 Jun 2026 00:30:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062026-Murtazali-Magomeov-Reacts-HERO-GettyImages-2282554170.jpg?itok=oqj6UZte" alt="The Scorecard | UFC Fight Night: Kape vs Horiguchi" /></p>
-<p>Highlighting The Biggest Winners From UFC Fight Night: Kape vs Horiguchi On June 20, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

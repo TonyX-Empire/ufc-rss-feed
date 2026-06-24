@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-24T09:46:36.304616+00:00",
+  "last_build_date": "2026-06-24T14:49:40.873590+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | Zuffa Boxing 08",
+      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas",
+      "pubDate": "Wed, 24 Jun 2026 12:20:00 GMT",
+      "published_at": "2026-06-24T12:20:00+00:00",
+      "description": "Zuffa Boxing Heads To The Chelsea At The Cosmopolitan For Its Latest Las Vegas Fight Night. Here’s Everything You Need To Know.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "FORMER CHAMPIONS COLLIDE AS DRICUS DU PLESSIS AND KAMARU USMAN HEADLINE UFC RETURN TO OKLAHOMA CITY",
       "link": "https://www.ufc.com/news/former-champions-collide-dricus-du-plessis-and-kamaru-usman-headline-ufc-return-oklahoma-city",
@@ -92,17 +103,6 @@
       "description": "Dana White Fielded Questions From The Media At The UFC Vegas 119 Post-Fight Press Conference In Las Vegas, Nevada",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2281457403_resized.jpg?itok=Eeztg2Pe",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Fight Night: Kape vs Horiguchi",
-      "link": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez",
-      "guid": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-kape-vs-horiguchi-murtazali-magomedov-navajo-stirling-bia-mesquita-christian-rodriguez",
-      "pubDate": "Mon, 22 Jun 2026 00:30:00 GMT",
-      "published_at": "2026-06-22T00:30:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Kape vs Horiguchi On June 20, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062026-Murtazali-Magomeov-Reacts-HERO-GettyImages-2282554170.jpg?itok=oqj6UZte",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
