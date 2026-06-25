@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-25T14:53:11.277778+00:00",
+  "last_build_date": "2026-06-25T17:20:05.543530+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Theodor Berggren Answered The Call",
+      "link": "https://www.ufc.com/news/theodor-berggren-answered-call",
+      "guid": "https://www.ufc.com/news/theodor-berggren-answered-call",
+      "pubDate": "Thu, 25 Jun 2026 17:21:00 GMT",
+      "published_at": "2026-06-25T17:21:00+00:00",
+      "description": "Swedish Welterweight Has Stepped In On Short Notice, Ready To Add Another Finish To His Record On His UFC Debut.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Theodor-Berggren-Hero-.jpg?itok=loO1x3Az",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-06-23T20:38:00+00:00",
       "description": "UFC FIGHT NIGHT: DU PLESSIS vs USMAN TICKETS ON SALE NOW",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-06/071826-ufc-fight-night-du-plessis-vs-usman-TEMP-HERO.jpg?itok=49uSNeaJ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Manuel Torres Wants To Be Feared",
-      "link": "https://www.ufc.com/news/manuel-torres-wants-be-feared-ufc-baku-lightweight",
-      "guid": "https://www.ufc.com/news/manuel-torres-wants-be-feared-ufc-baku-lightweight",
-      "pubDate": "Tue, 23 Jun 2026 18:44:00 GMT",
-      "published_at": "2026-06-23T18:44:00+00:00",
-      "description": "Mexican Finisher Discusses Quick Fights, Main Event Matchup With Rafael Fiziev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062326-manuel-torres-enters-octagon_GettyImages-2207559217.jpg?itok=q2TdRojB",
       "category": "UFC",
       "source": "UFC"
     }
