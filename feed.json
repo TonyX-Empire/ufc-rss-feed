@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-26T17:05:04.942364+00:00",
+  "last_build_date": "2026-06-26T20:01:37.348182+00:00",
   "item_count": 9,
   "items": [
     {
@@ -57,7 +57,7 @@
       "pubDate": "Fri, 26 Jun 2026 16:59:00 GMT",
       "published_at": "2026-06-26T16:59:00+00:00",
       "description": "Headlined By McKenna vs Oliha, Zuffa Boxing 10 Happens August 8, 2026 At 3Arena",
-      "image": "",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/1-Z10_Bout_McKenna_v_Oliha_TICKETS_ON_SALE_NOW_SOCIAL_16x9.jpg?itok=8W2bZu8s",
       "category": "Boxing",
       "source": "UFC"
     },
