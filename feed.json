@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-26T09:45:14.198128+00:00",
+  "last_build_date": "2026-06-26T14:40:53.089523+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,28 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC® FREEDOM 250 DELIVERS 34 MILLION TOTAL GLOBAL VIEWERS",
+      "link": "https://www.ufc.com/news/ufc-freedom-250-delivers-34-million-total-global-viewers",
+      "guid": "https://www.ufc.com/news/ufc-freedom-250-delivers-34-million-total-global-viewers",
+      "pubDate": "Fri, 26 Jun 2026 12:00:00 GMT",
+      "published_at": "2026-06-26T12:00:00+00:00",
+      "description": "Most-Watched UFC Event Ever in the U.S., International Viewership Doubles Historic U.S. Audience. Best-Performing UFC Event on Social Media with 126 Billion Social Views.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/061426-ufc-freedom-250-EVENT-ART-GRADIENT.jpg?itok=86azvc7r",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Shara Magomedov | The Pirate Returns",
+      "link": "https://www.ufc.com/news/shara-magomedov-the-pirate-returns-ufc-baku",
+      "guid": "https://www.ufc.com/news/shara-magomedov-the-pirate-returns-ufc-baku",
+      "pubDate": "Fri, 26 Jun 2026 11:14:00 GMT",
+      "published_at": "2026-06-26T11:14:00+00:00",
+      "description": "Eleven Months On From His Last Octagon Appearance, Shara “Bullet” Magomedov Is Back, And Ready To Put On A Show.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/Shara-Magomedov-Hero-.jpg?itok=ssSnejpI",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-06-25T17:21:00+00:00",
       "description": "Swedish Welterweight Has Stepped In On Short Notice, Ready To Add Another Finish To His Record On His UFC Debut.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Theodor-Berggren-Hero-.jpg?itok=loO1x3Az",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Michal Oleksiejczuk | Polish Nerd Looking to Keep Pushing Forward",
-      "link": "https://www.ufc.com/news/michal-oleksiejczuk-polish-nerd-looking-keep-pushing-forward-ufc-baku",
-      "guid": "https://www.ufc.com/news/michal-oleksiejczuk-polish-nerd-looking-keep-pushing-forward-ufc-baku",
-      "pubDate": "Wed, 24 Jun 2026 22:15:00 GMT",
-      "published_at": "2026-06-24T22:15:00+00:00",
-      "description": "Middleweight Veteran Discusses Recent Success, Busy Divisional Weekend In Baku",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062426-michal-oleksiejczuk-octagon-interview.jpg?itok=uIFui6w6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Daniil Donchenko | Seeking Beautiful Destruction",
-      "link": "https://www.ufc.com/news/daniil-donchenko-seeking-beautiful-destruction-ufc-baku",
-      "guid": "https://www.ufc.com/news/daniil-donchenko-seeking-beautiful-destruction-ufc-baku",
-      "pubDate": "Wed, 24 Jun 2026 20:46:00 GMT",
-      "published_at": "2026-06-24T20:46:00+00:00",
-      "description": "Emerging Welterweight Values Entertaining Above All, Aims To Do Just That Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Daniil-Donchenko-Hero-.jpg?itok=l7u5UPiZ",
       "category": "UFC",
       "source": "UFC"
     }
