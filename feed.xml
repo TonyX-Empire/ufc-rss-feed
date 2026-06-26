@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:24:08 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
@@ -16,6 +16,26 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf" alt="Results + Scorecards | Zuffa Boxing 08" /></p>
 <p>Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026</p>
 <p>Category: Boxing</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC Baku</title>
+      <link>https://www.ufc.com/news/official-weigh-in-results-fight-night-fiziev-torres-baku</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-fight-night-fiziev-torres-baku</guid>
+      <pubDate>Fri, 26 Jun 2026 05:45:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-06/062726-Rafael-Fiziev-weigh-GettyImages-2221159841.jpg?itok=XDfU5olV" alt="Official Weigh-In Results | UFC Baku" /></p>
+<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Fiziev vs Torres On June 27, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Rafael Fiziev Is Back To Put Things Right</title>
+      <link>https://www.ufc.com/news/rafael-fiziev-back-put-things-right-ufc-baku</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/rafael-fiziev-back-put-things-right-ufc-baku</guid>
+      <pubDate>Thu, 25 Jun 2026 22:30:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Rafael-Fiziev-Hero-.jpg?itok=QIOMgNkB" alt="Rafael Fiziev Is Back To Put Things Right" /></p>
+<p>The Fighting Pride Of Azerbaijan Plans To Close The Show In Style, And Vault Himself Straight Back Into The Lightweight Top 15</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Ikram Aliskerov | Eager To Take A Step Forward</title>
@@ -75,26 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Daniil-Donchenko-Hero-.jpg?itok=l7u5UPiZ" alt="Daniil Donchenko | Seeking Beautiful Destruction" /></p>
 <p>Emerging Welterweight Values Entertaining Above All, Aims To Do Just That Saturday</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Abdul Rakhman Yakhyaev | Active, Successful, And Hungry For More</title>
-      <link>https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku</guid>
-      <pubDate>Wed, 24 Jun 2026 18:28:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Abdul-Rakhman-Yakhyaev-Hero.jpg?itok=Kp9qFQ7m" alt="Abdul Rakhman Yakhyaev | Active, Successful, And Hungry For More" /></p>
-<p>DWCS Grad Talks Early Success, Fighting In Baku, Hints At Future Desires</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>2026 Topps Knockout UFC Available Now!</title>
-      <link>https://www.ufc.com/news/2026-topps-knockout-ufc-available-now</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/2026-topps-knockout-ufc-available-now</guid>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/1200x500%20Article_A.jpg?itok=XgQxZgFa" alt="2026 Topps Knockout UFC Available Now!" /></p>
-<p>Collect Champions, Legends, and Rising Stars at UFC Store</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

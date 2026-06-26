@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-25T22:26:38.081446+00:00",
+  "last_build_date": "2026-06-26T04:24:08.690447+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,28 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Baku",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-fight-night-fiziev-torres-baku",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-fight-night-fiziev-torres-baku",
+      "pubDate": "Fri, 26 Jun 2026 05:45:00 GMT",
+      "published_at": "2026-06-26T05:45:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Fiziev vs Torres On June 27, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/062726-Rafael-Fiziev-weigh-GettyImages-2221159841.jpg?itok=XDfU5olV",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Rafael Fiziev Is Back To Put Things Right",
+      "link": "https://www.ufc.com/news/rafael-fiziev-back-put-things-right-ufc-baku",
+      "guid": "https://www.ufc.com/news/rafael-fiziev-back-put-things-right-ufc-baku",
+      "pubDate": "Thu, 25 Jun 2026 22:30:00 GMT",
+      "published_at": "2026-06-25T22:30:00+00:00",
+      "description": "The Fighting Pride Of Azerbaijan Plans To Close The Show In Style, And Vault Himself Straight Back Into The Lightweight Top 15",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Rafael-Fiziev-Hero-.jpg?itok=QIOMgNkB",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-06-24T20:46:00+00:00",
       "description": "Emerging Welterweight Values Entertaining Above All, Aims To Do Just That Saturday",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Daniil-Donchenko-Hero-.jpg?itok=l7u5UPiZ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Abdul Rakhman Yakhyaev | Active, Successful, And Hungry For More",
-      "link": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku",
-      "guid": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-active-successful-and-hungry-more-ufc-baku",
-      "pubDate": "Wed, 24 Jun 2026 18:28:00 GMT",
-      "published_at": "2026-06-24T18:28:00+00:00",
-      "description": "DWCS Grad Talks Early Success, Fighting In Baku, Hints At Future Desires",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Abdul-Rakhman-Yakhyaev-Hero.jpg?itok=Kp9qFQ7m",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "2026 Topps Knockout UFC Available Now!",
-      "link": "https://www.ufc.com/news/2026-topps-knockout-ufc-available-now",
-      "guid": "https://www.ufc.com/news/2026-topps-knockout-ufc-available-now",
-      "pubDate": "Wed, 24 Jun 2026 16:00:00 GMT",
-      "published_at": "2026-06-24T16:00:00+00:00",
-      "description": "Collect Champions, Legends, and Rising Stars at UFC Store",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/1200x500%20Article_A.jpg?itok=XgQxZgFa",
       "category": "UFC",
       "source": "UFC"
     }
