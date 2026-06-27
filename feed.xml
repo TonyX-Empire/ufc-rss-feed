@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jun 2026 19:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 22:10:41 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
@@ -18,22 +18,32 @@
 <p>Category: Boxing</p>]]></description>
     </item>
     <item>
+      <title>Main Card Results | UFC Baku</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</guid>
+      <pubDate>Sat, 27 Jun 2026 20:25:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I" alt="Main Card Results | UFC Baku" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Bonus Coverage | UFC Baku</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-baku-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-fight-night-baku-2026</guid>
+      <pubDate>Sat, 27 Jun 2026 20:10:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-baku-bonus-coverage-thumb.jpg?itok=58A6DWyo" alt="Bonus Coverage | UFC Baku" /></p>
+<p>The Performances Awarded An Extra Bonus At National Gymnastics Arena In Azerbaijan On June 27, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
       <title>Search results | UFC</title>
       <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</guid>
       <pubDate>Sat, 27 Jun 2026 19:06:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Main Card Results | UFC Baku</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</guid>
-      <pubDate>Sat, 27 Jun 2026 18:36:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I" alt="Main Card Results | UFC Baku" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-EDWIN-_DeLosSantos_HERO-SB.jpg?itok=xaTrcPgH" alt="Edwin De Los Santos | ‘La Grenada’ Is Ready To Explode | Zuffa Boxing 08" /></p>
 <p>Former Lightweight World Title Challenger Arrives In Zuffa Boxing Ready To Make An Instant Statement To The Rest Of The 135-Pound Division</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Jerwin Ancajas | New Weight Class, Same Goal | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/news/jerwin-ancajas-new-weight-class-same-goal-zuffa-boxing-08</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jerwin-ancajas-new-weight-class-same-goal-zuffa-boxing-08</guid>
-      <pubDate>Fri, 26 Jun 2026 16:40:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jerwin-hero-Ancajas_SB-3.jpg?itok=_oGkKRCU" alt="Jerwin Ancajas | New Weight Class, Same Goal | Zuffa Boxing 08" /></p>
-<p>Filipino Former World Champion Wants To Bring A Zuffa Boxing World Title Back To His Homeland, And Has Changed Weight Classes In A Bid To Do Exactly That</p>
 <p>Category: Boxing</p>]]></description>
     </item>
   </channel>
