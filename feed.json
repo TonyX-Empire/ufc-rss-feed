@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-27T16:14:03.307344+00:00",
+  "last_build_date": "2026-06-27T19:40:35.000143+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,6 +18,28 @@
       "source": "UFC"
     },
     {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
+      "pubDate": "Sat, 27 Jun 2026 19:06:00 GMT",
+      "published_at": "2026-06-27T19:06:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Baku",
+      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku",
+      "pubDate": "Sat, 27 Jun 2026 18:36:00 GMT",
+      "published_at": "2026-06-27T18:36:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | Zuffa Boxing 08",
       "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08",
       "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08",
@@ -29,17 +51,6 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
-      "pubDate": "Sat, 27 Jun 2026 16:06:00 GMT",
-      "published_at": "2026-06-27T16:06:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | UFC Baku",
       "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
       "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
@@ -47,17 +58,6 @@
       "published_at": "2026-06-27T16:03:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2283574277.jpg?itok=1SrRQmk5",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Baku",
-      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku",
-      "pubDate": "Sat, 27 Jun 2026 16:00:00 GMT",
-      "published_at": "2026-06-27T16:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
