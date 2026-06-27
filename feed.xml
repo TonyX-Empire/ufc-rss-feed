@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jun 2026 14:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:14:03 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
@@ -18,20 +18,20 @@
 <p>Category: Boxing</p>]]></description>
     </item>
     <item>
-      <title>Main Card Results | UFC Baku</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</guid>
-      <pubDate>Sat, 27 Jun 2026 16:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I" alt="Main Card Results | UFC Baku" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
-<p>Category: UFC Fight Night</p>]]></description>
+      <title>Official Weigh-In Results | Zuffa Boxing 08</title>
+      <link>https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08</guid>
+      <pubDate>Sat, 27 Jun 2026 16:30:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" alt="Official Weigh-In Results | Zuffa Boxing 08" /></p>
+<p>The Official Weights Of The Athletes Competing June 28 At The Cosmopolitan In Las Vegas</p>
+<p>Category: Boxing</p>]]></description>
     </item>
     <item>
       <title>Search results | UFC</title>
       <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</guid>
-      <pubDate>Sat, 27 Jun 2026 13:41:00 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 16:06:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
@@ -40,10 +40,20 @@
       <title>Prelim Results | UFC Baku</title>
       <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku</guid>
-      <pubDate>Sat, 27 Jun 2026 13:40:00 GMT</pubDate>
+      <pubDate>Sat, 27 Jun 2026 16:03:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062125-General-view-Octagon-Baku-GettyImages-2221340524.jpg?itok=LRMZQ_jE" alt="Prelim Results | UFC Baku" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2283574277.jpg?itok=1SrRQmk5" alt="Prelim Results | UFC Baku" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Main Card Results | UFC Baku</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-main-card-baku</guid>
+      <pubDate>Sat, 27 Jun 2026 16:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-fight-night-fiziev-vs-torres-EVENT-ART.jpg?itok=lGQ5Z43I" alt="Main Card Results | UFC Baku" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jerwin-hero-Ancajas_SB-3.jpg?itok=_oGkKRCU" alt="Jerwin Ancajas | New Weight Class, Same Goal | Zuffa Boxing 08" /></p>
 <p>Filipino Former World Champion Wants To Bring A Zuffa Boxing World Title Back To His Homeland, And Has Changed Weight Classes In A Bid To Do Exactly That</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Brandun Lee Is Ready To Make Up For Lost Time | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/news/brandun-lee-ready-make-lost-time-zuffa-boxing-08</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/brandun-lee-ready-make-lost-time-zuffa-boxing-08</guid>
-      <pubDate>Fri, 26 Jun 2026 16:26:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Brandun_Lee_hero-SB.jpg?itok=lstCSu8I" alt="Brandun Lee Is Ready To Make Up For Lost Time | Zuffa Boxing 08" /></p>
-<p>After Going Undefeated For 30 Pro Fights, Brandun Lee Arrives In Zuffa Boxing Looking To Take His Career To The Next Level</p>
 <p>Category: Boxing</p>]]></description>
     </item>
   </channel>
