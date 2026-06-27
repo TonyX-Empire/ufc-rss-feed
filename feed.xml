@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jun 2026 08:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:01:43 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
@@ -28,6 +28,15 @@
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</guid>
+      <pubDate>Sat, 27 Jun 2026 13:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
       <title>Prelim Results | UFC Baku</title>
       <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku</guid>
@@ -35,15 +44,6 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062125-General-view-Octagon-Baku-GettyImages-2221340524.jpg?itok=LRMZQ_jE" alt="Prelim Results | UFC Baku" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges</guid>
-      <pubDate>Sat, 27 Jun 2026 13:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>

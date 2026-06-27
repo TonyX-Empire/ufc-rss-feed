@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-27T08:47:35.362216+00:00",
+  "last_build_date": "2026-06-27T11:01:43.028217+00:00",
   "item_count": 9,
   "items": [
     {
@@ -29,17 +29,6 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC Baku",
-      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
-      "pubDate": "Sat, 27 Jun 2026 13:00:00 GMT",
-      "published_at": "2026-06-27T13:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062125-General-view-Octagon-Baku-GettyImages-2221340524.jpg?itok=LRMZQ_jE",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
       "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
       "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
@@ -47,6 +36,17 @@
       "published_at": "2026-06-27T13:00:00+00:00",
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Baku",
+      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
+      "pubDate": "Sat, 27 Jun 2026 13:00:00 GMT",
+      "published_at": "2026-06-27T13:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/062125-General-view-Octagon-Baku-GettyImages-2221340524.jpg?itok=LRMZQ_jE",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
