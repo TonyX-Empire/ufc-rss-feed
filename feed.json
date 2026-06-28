@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-28T14:07:10.964000+00:00",
+  "last_build_date": "2026-06-28T16:20:21.244468+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-06-28T21:00:00+00:00",
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | Zuffa Boxing 08",
+      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas",
+      "pubDate": "Sun, 28 Jun 2026 12:20:00 GMT",
+      "published_at": "2026-06-28T12:20:00+00:00",
+      "description": "Zuffa Boxing Heads To The Chelsea At The Cosmopolitan For Its Latest Las Vegas Fight Night. Here’s Everything You Need To Know.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-06-26T16:48:00+00:00",
       "description": "After Securing Victory In His First Zuffa Boxing Bout, “Rayo” Is Ready To Rematch The Man Who Handed Him His First Pro Defeat",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jose-hero-_Valenzuela_SB-2.jpg?itok=W-JQgHCu",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Edwin De Los Santos | ‘La Grenada’ Is Ready To Explode | Zuffa Boxing 08",
-      "link": "https://www.ufc.com/news/edwin-de-los-santos-la-grenada-ready-explode-zuffa-boxing-08",
-      "guid": "https://www.ufc.com/news/edwin-de-los-santos-la-grenada-ready-explode-zuffa-boxing-08",
-      "pubDate": "Fri, 26 Jun 2026 16:41:00 GMT",
-      "published_at": "2026-06-26T16:41:00+00:00",
-      "description": "Former Lightweight World Title Challenger Arrives In Zuffa Boxing Ready To Make An Instant Statement To The Rest Of The 135-Pound Division",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/ZB08-EDWIN-_DeLosSantos_HERO-SB.jpg?itok=xaTrcPgH",
       "category": "Boxing",
       "source": "UFC"
     }

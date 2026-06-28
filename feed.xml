@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jun 2026 14:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:20:21 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
@@ -15,6 +15,16 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf" alt="Results + Scorecards | Zuffa Boxing 08" /></p>
 <p>Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
+    <item>
+      <title>Fight By Fight Preview | Zuffa Boxing 08</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-08-chelsea-las-vegas</guid>
+      <pubDate>Sun, 28 Jun 2026 12:20:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/Rayo-vs-Edwin_Chelsea-Faceoff-02_ZB08-Zuffa-Boxing.jpg?itok=cXHZST6U" alt="Fight By Fight Preview | Zuffa Boxing 08" /></p>
+<p>Zuffa Boxing Heads To The Chelsea At The Cosmopolitan For Its Latest Las Vegas Fight Night. Here’s Everything You Need To Know.</p>
 <p>Category: Boxing</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jose-hero-_Valenzuela_SB-2.jpg?itok=W-JQgHCu" alt="Jose Valenzuela | Run It Back | Zuffa Boxing 08" /></p>
 <p>After Securing Victory In His First Zuffa Boxing Bout, “Rayo” Is Ready To Rematch The Man Who Handed Him His First Pro Defeat</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Edwin De Los Santos | ‘La Grenada’ Is Ready To Explode | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/news/edwin-de-los-santos-la-grenada-ready-explode-zuffa-boxing-08</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/edwin-de-los-santos-la-grenada-ready-explode-zuffa-boxing-08</guid>
-      <pubDate>Fri, 26 Jun 2026 16:41:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/ZB08-EDWIN-_DeLosSantos_HERO-SB.jpg?itok=xaTrcPgH" alt="Edwin De Los Santos | ‘La Grenada’ Is Ready To Explode | Zuffa Boxing 08" /></p>
-<p>Former Lightweight World Title Challenger Arrives In Zuffa Boxing Ready To Make An Instant Statement To The Rest Of The 135-Pound Division</p>
 <p>Category: Boxing</p>]]></description>
     </item>
   </channel>
