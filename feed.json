@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-29T16:03:33.861597+00:00",
+  "last_build_date": "2026-06-29T20:09:30.034897+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Newcomers | 2026 Half-Year Awards",
+      "link": "https://www.ufc.com/news/newcomers-2026-half-year-awards",
+      "guid": "https://www.ufc.com/news/newcomers-2026-half-year-awards",
+      "pubDate": "Mon, 29 Jun 2026 18:33:00 GMT",
+      "published_at": "2026-06-29T18:33:00+00:00",
+      "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Results + Scorecards | Zuffa Boxing 08",
       "link": "https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela",
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2283574277.jpg?itok=1SrRQmk5",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Tickets On Sale Now For Zuffa Boxing In Dublin",
-      "link": "https://www.ufc.com/news/tickets-sale-now-zuffa-boxing-dublin",
-      "guid": "https://www.ufc.com/news/tickets-sale-now-zuffa-boxing-dublin",
-      "pubDate": "Fri, 26 Jun 2026 16:59:00 GMT",
-      "published_at": "2026-06-26T16:59:00+00:00",
-      "description": "Headlined By McKenna vs Oliha, Zuffa Boxing 10 Happens August 8, 2026 At 3Arena",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/1-Z10_Bout_McKenna_v_Oliha_TICKETS_ON_SALE_NOW_SOCIAL_16x9.jpg?itok=8W2bZu8s",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]

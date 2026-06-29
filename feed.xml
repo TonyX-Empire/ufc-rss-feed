@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 20:09:30 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Newcomers | 2026 Half-Year Awards</title>
+      <link>https://www.ufc.com/news/newcomers-2026-half-year-awards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/newcomers-2026-half-year-awards</guid>
+      <pubDate>Mon, 29 Jun 2026 18:33:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp" alt="The Newcomers | 2026 Half-Year Awards" /></p>
+<p>The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Results + Scorecards | Zuffa Boxing 08</title>
       <link>https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela</link>
@@ -85,16 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2283574277.jpg?itok=1SrRQmk5" alt="Prelim Results | UFC Baku" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Tickets On Sale Now For Zuffa Boxing In Dublin</title>
-      <link>https://www.ufc.com/news/tickets-sale-now-zuffa-boxing-dublin</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/tickets-sale-now-zuffa-boxing-dublin</guid>
-      <pubDate>Fri, 26 Jun 2026 16:59:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/1-Z10_Bout_McKenna_v_Oliha_TICKETS_ON_SALE_NOW_SOCIAL_16x9.jpg?itok=8W2bZu8s" alt="Tickets On Sale Now For Zuffa Boxing In Dublin" /></p>
-<p>Headlined By McKenna vs Oliha, Zuffa Boxing 10 Happens August 8, 2026 At 3Arena</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
