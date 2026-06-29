@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-29T20:09:30.034897+00:00",
+  "last_build_date": "2026-06-29T22:15:46.724851+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
+      "link": "https://www.ufc.com/news/no-days-premium-water-named-official-water-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/no-days-premium-water-named-official-water-zuffa-boxing",
+      "pubDate": "Mon, 29 Jun 2026 20:19:00 GMT",
+      "published_at": "2026-06-29T20:19:00+00:00",
+      "description": "Latest UFC news: NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC 329 GLADIATOR COLLECTION – AVAILABLE NOW AT UFC STORE!",
+      "link": "https://www.ufc.com/news/ufc-329-gladiator-collection-available-now-ufc-store",
+      "guid": "https://www.ufc.com/news/ufc-329-gladiator-collection-available-now-ufc-store",
+      "pubDate": "Mon, 29 Jun 2026 19:56:00 GMT",
+      "published_at": "2026-06-29T19:56:00+00:00",
+      "description": "Strength. Honor. Legacy.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/2-1920x1080-Hero-Thumbnail_resized.jpg?itok=e8EWeJiE",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Newcomers | 2026 Half-Year Awards",
       "link": "https://www.ufc.com/news/newcomers-2026-half-year-awards",
@@ -80,28 +102,6 @@
       "published_at": "2026-06-27T19:06:00+00:00",
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Zuffa Boxing 08",
-      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08",
-      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08",
-      "pubDate": "Sat, 27 Jun 2026 16:30:00 GMT",
-      "published_at": "2026-06-27T16:30:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing June 28 At The Cosmopolitan In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Baku",
-      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-results-highlights-interviews-prelims-baku",
-      "pubDate": "Sat, 27 Jun 2026 16:03:00 GMT",
-      "published_at": "2026-06-27T16:03:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/GettyImages-2283574277.jpg?itok=1SrRQmk5",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
