@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-30T20:09:26.755863+00:00",
+  "last_build_date": "2026-06-30T22:19:51.929237+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Tue, 30 Jun 2026 20:00:00 GMT",
       "published_at": "2026-06-30T20:00:00+00:00",
       "description": "Handing Out Imaginary Hardware For The Final Month Of The First Half",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/Monthly-Report-Hero-Flip-.jpg?itok=n4xUYDay",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Monthly-Report-Hero-Flip-.jpg?itok=n4xUYDay",
       "category": "News",
       "source": "UFC"
     },
@@ -24,7 +24,7 @@
       "pubDate": "Tue, 30 Jun 2026 18:20:00 GMT",
       "published_at": "2026-06-30T18:20:00+00:00",
       "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best Submissions Through The Opening Six Months Of 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-hero-Murtazali-Magomedov_GettyImages-2282554170.jpg?itok=r0k7JdKd",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-hero-Murtazali-Magomedov_GettyImages-2282554170.jpg?itok=r0k7JdKd",
       "category": "News",
       "source": "UFC"
     },
@@ -34,7 +34,7 @@
       "guid": "https://www.ufc.com/news/five-years-later-ufc-awaits-conor-mcgregors-return-ufc-329",
       "pubDate": "Tue, 30 Jun 2026 18:15:00 GMT",
       "published_at": "2026-06-30T18:15:00+00:00",
-      "description": "From new champions and future stars to record-breaking moments, the UFC has transformed since Conor McGregor last fought in July 2021.",
+      "description": "From New Champions And Future Stars To Record-Breaking Moments, The UFC Has Transformed Since Conor McGregor Last Fought In July 2021.",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Conor-McGregor-Hero-.jpg?itok=yRg0PexR",
       "category": "UFC",
       "source": "UFC"
@@ -57,7 +57,7 @@
       "pubDate": "Mon, 29 Jun 2026 20:19:00 GMT",
       "published_at": "2026-06-29T20:19:00+00:00",
       "description": "Latest UFC news: NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
       "category": "Boxing",
       "source": "UFC"
     },
