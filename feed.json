@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-30T14:37:08.340587+00:00",
+  "last_build_date": "2026-06-30T17:10:23.263252+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White Talks Zuffa Boxing 08, Continued Expansion, Floyd Mayweather Jr + More",
+      "link": "https://www.ufc.com/news/dana-white-talks-zuffa-boxing-08-continued-expansion-floyd-mayweather-jr-more",
+      "guid": "https://www.ufc.com/news/dana-white-talks-zuffa-boxing-08-continued-expansion-floyd-mayweather-jr-more",
+      "pubDate": "Tue, 30 Jun 2026 16:04:00 GMT",
+      "published_at": "2026-06-30T16:04:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 08 Post-Fight Press Conference At The Chelsea At The Cosmopolitan, Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/EM2_7734A.JPG?itok=W7DFomze",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
       "link": "https://www.ufc.com/news/no-days-premium-water-named-official-water-zuffa-boxing",
@@ -35,7 +46,7 @@
       "pubDate": "Mon, 29 Jun 2026 18:33:00 GMT",
       "published_at": "2026-06-29T18:33:00+00:00",
       "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp",
+      "image": "https://ufc.com/images/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp",
       "category": "News",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-06-27T20:10:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At National Gymnastics Arena In Azerbaijan On June 27, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062726-ufc-baku-bonus-coverage-thumb.jpg?itok=58A6DWyo",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
-      "pubDate": "Sat, 27 Jun 2026 19:06:00 GMT",
-      "published_at": "2026-06-27T19:06:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
