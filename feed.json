@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-29T22:15:46.724851+00:00",
+  "last_build_date": "2026-06-30T04:20:43.999627+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Mon, 29 Jun 2026 20:19:00 GMT",
       "published_at": "2026-06-29T20:19:00+00:00",
       "description": "Latest UFC news: NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
       "category": "Boxing",
       "source": "UFC"
     },
