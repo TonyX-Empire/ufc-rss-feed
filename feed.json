@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-06-30T09:55:53.363176+00:00",
+  "last_build_date": "2026-06-30T14:37:08.340587+00:00",
   "item_count": 9,
   "items": [
     {
@@ -95,13 +95,13 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Baku",
+      "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
       "guid": "https://www.ufc.com/news/ufc-fight-night-fiziev-vs-torres-official-scorecards-judges",
       "pubDate": "Sat, 27 Jun 2026 19:06:00 GMT",
       "published_at": "2026-06-27T19:06:00+00:00",
-      "description": "See How The Judges Scored Every Round Of Every Fight From UFC Fight Night: Fiziev vs Torres, Live From National Gymnastics Arena In Baku On June 27",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
