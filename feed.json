@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-01T14:53:13.154241+00:00",
+  "last_build_date": "2026-07-01T17:21:33.654898+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The 10 | Jumping Into July’s Most Compelling Matchups",
+      "link": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
+      "guid": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
+      "pubDate": "Wed, 01 Jul 2026 15:00:00 GMT",
+      "published_at": "2026-07-01T15:00:00+00:00",
+      "description": "Plenty Of Intriguing Fights On Tap Over The Coming Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-conor-mcgregor-weigh-in_GettyImages-1327899368.jpg?itok=FrJQtdTV",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Knockouts | 2026 Half-Year Awards",
       "link": "https://www.ufc.com/news/knockouts-2026-half-year-awards",
@@ -13,7 +24,7 @@
       "pubDate": "Wed, 01 Jul 2026 13:00:00 GMT",
       "published_at": "2026-07-01T13:00:00+00:00",
       "description": "One Knockout Stood Above The Rest In The First Six Months Of 2026 | The Thomas Gerbasi UFC.com Awards",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i",
       "category": "News",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Results + Scorecards | Zuffa Boxing 08",
-      "link": "https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela",
-      "pubDate": "Mon, 29 Jun 2026 02:00:00 GMT",
-      "published_at": "2026-06-29T02:00:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]

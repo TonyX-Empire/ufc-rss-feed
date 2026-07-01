@@ -5,15 +5,25 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jul 2026 14:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:21:33 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 10 | Jumping Into July’s Most Compelling Matchups</title>
+      <link>https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups</guid>
+      <pubDate>Wed, 01 Jul 2026 15:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/063026-conor-mcgregor-weigh-in_GettyImages-1327899368.jpg?itok=FrJQtdTV" alt="The 10 | Jumping Into July’s Most Compelling Matchups" /></p>
+<p>Plenty Of Intriguing Fights On Tap Over The Coming Month</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Knockouts | 2026 Half-Year Awards</title>
       <link>https://www.ufc.com/news/knockouts-2026-half-year-awards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/knockouts-2026-half-year-awards</guid>
       <pubDate>Wed, 01 Jul 2026 13:00:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i" alt="The Knockouts | 2026 Half-Year Awards" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i" alt="The Knockouts | 2026 Half-Year Awards" /></p>
 <p>One Knockout Stood Above The Rest In The First Six Months Of 2026 | The Thomas Gerbasi UFC.com Awards</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp" alt="The Newcomers | 2026 Half-Year Awards" /></p>
 <p>The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Results + Scorecards | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela</guid>
-      <pubDate>Mon, 29 Jun 2026 02:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf" alt="Results + Scorecards | Zuffa Boxing 08" /></p>
-<p>Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
