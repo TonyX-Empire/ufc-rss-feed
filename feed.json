@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-01T17:21:33.654898+00:00",
+  "last_build_date": "2026-07-01T20:05:53.956154+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Elite 8 | Conor McGregor’s Greatest UFC Walkouts",
+      "link": "https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329",
+      "guid": "https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329",
+      "pubDate": "Wed, 01 Jul 2026 19:59:00 GMT",
+      "published_at": "2026-07-01T19:59:00+00:00",
+      "description": "Eight Entrances That Proved “The Notorious” Was The Main Event Long Before The Opening Bell",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-McGregor-Elite-8-Hero-.jpg?itok=mE6pupV3",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "BLOCKBUSTER WELTERWEIGHT MAIN EVENT BETWEEN (C) ISLAM MAKHACHEV AND (#1) IAN MACHADO GARRY HEADLINES UFC RETURN TO PHILADELPHIA",
+      "link": "https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry",
+      "guid": "https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry",
+      "pubDate": "Wed, 01 Jul 2026 19:30:00 GMT",
+      "published_at": "2026-07-01T19:30:00+00:00",
+      "description": "CO-MAIN EVENT: (C) MACKENZIE DERN vs. (#5) GILLIAN ROBERTSON",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters Who’ve Thrived Moving Up A Weight Division",
+      "link": "https://www.ufc.com/news/five-fighters-whove-thrived-moving-up-a-weight-division-ufc",
+      "guid": "https://www.ufc.com/news/five-fighters-whove-thrived-moving-up-a-weight-division-ufc",
+      "pubDate": "Wed, 01 Jul 2026 18:33:00 GMT",
+      "published_at": "2026-07-01T18:33:00+00:00",
+      "description": "A Look At UFC Athletes Who Achieved Major Success Moving To A Heavier Weight Class, And The Two Fighters In UFC 329’s Main Event Set To Rematch Two Divisions Up",
+      "image": "https://ufc.com/images/styles/card/s3/2024-08/051521-Charles-Oliveira-Celebration-HERO-GettyImages-1318236188.jpg?itok=VOEA5Vkm",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The 10 | Jumping Into July’s Most Compelling Matchups",
       "link": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
@@ -70,39 +103,6 @@
       "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 08 Post-Fight Press Conference At The Chelsea At The Cosmopolitan, Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/EM2_7734A.JPG?itok=W7DFomze",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
-      "link": "https://www.ufc.com/news/no-days-premium-water-named-official-water-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/no-days-premium-water-named-official-water-zuffa-boxing",
-      "pubDate": "Mon, 29 Jun 2026 20:19:00 GMT",
-      "published_at": "2026-06-29T20:19:00+00:00",
-      "description": "Latest UFC news: NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC 329 GLADIATOR COLLECTION – AVAILABLE NOW AT UFC STORE!",
-      "link": "https://www.ufc.com/news/ufc-329-gladiator-collection-available-now-ufc-store",
-      "guid": "https://www.ufc.com/news/ufc-329-gladiator-collection-available-now-ufc-store",
-      "pubDate": "Mon, 29 Jun 2026 19:56:00 GMT",
-      "published_at": "2026-06-29T19:56:00+00:00",
-      "description": "Strength. Honor. Legacy.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/2-1920x1080-Hero-Thumbnail_resized.jpg?itok=e8EWeJiE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Newcomers | 2026 Half-Year Awards",
-      "link": "https://www.ufc.com/news/newcomers-2026-half-year-awards",
-      "guid": "https://www.ufc.com/news/newcomers-2026-half-year-awards",
-      "pubDate": "Mon, 29 Jun 2026 18:33:00 GMT",
-      "published_at": "2026-06-29T18:33:00+00:00",
-      "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best First-Year Fighters Through The Opening Six Months Of 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-02/GettyImages-2264124342.jpg?itok=JEJS-bgp",
-      "category": "News",
       "source": "UFC"
     }
   ]
