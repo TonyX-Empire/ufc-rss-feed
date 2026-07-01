@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-01T10:05:33.269487+00:00",
+  "last_build_date": "2026-07-01T14:53:13.154241+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Knockouts | 2026 Half-Year Awards",
+      "link": "https://www.ufc.com/news/knockouts-2026-half-year-awards",
+      "guid": "https://www.ufc.com/news/knockouts-2026-half-year-awards",
+      "pubDate": "Wed, 01 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-01T13:00:00+00:00",
+      "description": "One Knockout Stood Above The Rest In The First Six Months Of 2026 | The Thomas Gerbasi UFC.com Awards",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Monthly Report | June 2026",
       "link": "https://www.ufc.com/news/monthly-report-june-2026",
@@ -57,7 +68,7 @@
       "pubDate": "Mon, 29 Jun 2026 20:19:00 GMT",
       "published_at": "2026-06-29T20:19:00+00:00",
       "description": "Latest UFC news: NO DAYS OFF PREMIUM WATER NAMED OFFICIAL WATER OF ZUFFA BOXING",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/no-days-off-water-partnership-announcement-thumbnail.jpg?itok=Y8HdAJOU",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Baku",
-      "link": "https://www.ufc.com/news/the-scorecard-ufc-baku-fiziev-vs-torres",
-      "guid": "https://www.ufc.com/news/the-scorecard-ufc-baku-fiziev-vs-torres",
-      "pubDate": "Sun, 28 Jun 2026 21:14:00 GMT",
-      "published_at": "2026-06-28T21:14:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Fiziev vs Torres On June 27, 2026 In Baku, Azerbaijan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/062826-rafael-fiziev-celebration_GettyImages-2283599918.jpg?itok=H9ffCmss",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
