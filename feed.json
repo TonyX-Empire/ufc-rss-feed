@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-02T19:43:59.086792+00:00",
+  "last_build_date": "2026-07-02T22:14:47.511262+00:00",
   "item_count": 9,
   "items": [
     {
@@ -12,8 +12,8 @@
       "guid": "https://www.ufc.com/news/international-fight-weeks-evolution-reaches-another-historic-chapter",
       "pubDate": "Thu, 02 Jul 2026 17:00:00 GMT",
       "published_at": "2026-07-02T17:00:00+00:00",
-      "description": "UFC’s Biggest Annual Spectacle, International Fight Week, Continues Its Rise With Holloway And McGregor Set To Headline A Highly Anticipated Main Event",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/GettyImages-2222801439.jpg?itok=rh_fsoXL",
+      "description": "Latest UFC news: International Fight Week’s Evolution Reaches Another Historic Chapter",
+      "image": "",
       "category": "News",
       "source": "UFC"
     },
