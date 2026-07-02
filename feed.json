@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-02T14:23:38.920595+00:00",
+  "last_build_date": "2026-07-02T16:57:39.871826+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "International Fight Week’s Evolution Reaches Another Historic Chapter",
+      "link": "https://www.ufc.com/news/international-fight-weeks-evolution-reaches-another-historic-chapter",
+      "guid": "https://www.ufc.com/news/international-fight-weeks-evolution-reaches-another-historic-chapter",
+      "pubDate": "Thu, 02 Jul 2026 17:00:00 GMT",
+      "published_at": "2026-07-02T17:00:00+00:00",
+      "description": "UFC’s Biggest Annual Spectacle, International Fight Week, Continues Its Rise With Holloway And McGregor Set To Headline A Highly Anticipated Main Event",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/GettyImages-2222801439.jpg?itok=rh_fsoXL",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Event By The Numbers | UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Thu, 02 Jul 2026 16:00:00 GMT",
+      "published_at": "2026-07-02T16:00:00+00:00",
+      "description": "Diving Into The Numbers For UFC 329’s Main Event Between Conor McGregor And Max Holloway At International Fight Week In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-Max-Hero-.jpg?itok=P8n82c6E",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Delivers Knockout Results For Sydney",
+      "link": "https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney",
+      "guid": "https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney",
+      "pubDate": "Thu, 02 Jul 2026 15:00:00 GMT",
+      "published_at": "2026-07-02T15:00:00+00:00",
+      "description": "UFC 325 Generated AUD $65.7M in Economic Impact for Sydney Metro Area",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-10/051723-Generic-TL-Sydney-hero.jpg?itok=sjF44qU2",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Fights | 2026 Half-Year Awards",
       "link": "https://www.ufc.com/news/fights-2026-half-year-awards",
@@ -13,7 +46,7 @@
       "pubDate": "Thu, 02 Jul 2026 13:00:00 GMT",
       "published_at": "2026-07-02T13:00:00+00:00",
       "description": "Five Contests Dominated The Voting, With Familiar Faces Leading The Way | The Thomas Gerbasi UFC.com Awards",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-joshua-van-punch_GettyImages-2275387085.jpg?itok=fsWJSquM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-joshua-van-punch_GettyImages-2275387085.jpg?itok=fsWJSquM",
       "category": "News",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "One Knockout Stood Above The Rest In The First Six Months Of 2026 | The Thomas Gerbasi UFC.com Awards",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Monthly Report | June 2026",
-      "link": "https://www.ufc.com/news/monthly-report-june-2026",
-      "guid": "https://www.ufc.com/news/monthly-report-june-2026",
-      "pubDate": "Tue, 30 Jun 2026 20:00:00 GMT",
-      "published_at": "2026-06-30T20:00:00+00:00",
-      "description": "Handing Out Imaginary Hardware For The Final Month Of The First Half",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Monthly-Report-Hero-Flip-.jpg?itok=n4xUYDay",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Submissions | 2026 Half-Year Awards",
-      "link": "https://www.ufc.com/news/submissions-2026-half-year-awards",
-      "guid": "https://www.ufc.com/news/submissions-2026-half-year-awards",
-      "pubDate": "Tue, 30 Jun 2026 18:20:00 GMT",
-      "published_at": "2026-06-30T18:20:00+00:00",
-      "description": "The Thomas Gerbasi UFC.com Awards Tips Our Cap To The Best Submissions Through The Opening Six Months Of 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-hero-Murtazali-Magomedov_GettyImages-2282554170.jpg?itok=r0k7JdKd",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Five Years Later | The UFC Awaits Conor McGregor’s Return",
-      "link": "https://www.ufc.com/news/five-years-later-ufc-awaits-conor-mcgregors-return-ufc-329",
-      "guid": "https://www.ufc.com/news/five-years-later-ufc-awaits-conor-mcgregors-return-ufc-329",
-      "pubDate": "Tue, 30 Jun 2026 18:15:00 GMT",
-      "published_at": "2026-06-30T18:15:00+00:00",
-      "description": "From New Champions And Future Stars To Record-Breaking Moments, The UFC Has Transformed Since Conor McGregor Last Fought In July 2021.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Conor-McGregor-Hero-.jpg?itok=yRg0PexR",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
