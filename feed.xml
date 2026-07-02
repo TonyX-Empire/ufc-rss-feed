@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:27:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:23:38 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fights | 2026 Half-Year Awards</title>
+      <link>https://www.ufc.com/news/fights-2026-half-year-awards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fights-2026-half-year-awards</guid>
+      <pubDate>Thu, 02 Jul 2026 13:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-06/063026-joshua-van-punch_GettyImages-2275387085.jpg?itok=fsWJSquM" alt="The Fights | 2026 Half-Year Awards" /></p>
+<p>Five Contests Dominated The Voting, With Familiar Faces Leading The Way | The Thomas Gerbasi UFC.com Awards</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Elite 8 | Conor McGregor’s Greatest UFC Walkouts</title>
       <link>https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Conor-McGregor-Hero-.jpg?itok=yRg0PexR" alt="Five Years Later | The UFC Awaits Conor McGregor’s Return" /></p>
 <p>From New Champions And Future Stars To Record-Breaking Moments, The UFC Has Transformed Since Conor McGregor Last Fought In July 2021.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Dana White Talks Zuffa Boxing 08, Continued Expansion, Floyd Mayweather Jr + More</title>
-      <link>https://www.ufc.com/news/dana-white-talks-zuffa-boxing-08-continued-expansion-floyd-mayweather-jr-more</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-talks-zuffa-boxing-08-continued-expansion-floyd-mayweather-jr-more</guid>
-      <pubDate>Tue, 30 Jun 2026 16:04:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/EM2_7734A.JPG?itok=W7DFomze" alt="Dana White Talks Zuffa Boxing 08, Continued Expansion, Floyd Mayweather Jr + More" /></p>
-<p>Dana White Fielded Questions From The Media At The Zuffa Boxing 08 Post-Fight Press Conference At The Chelsea At The Cosmopolitan, Las Vegas</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
