@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-02T16:57:39.871826+00:00",
+  "last_build_date": "2026-07-02T19:43:59.086792+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,13 +18,24 @@
       "source": "UFC"
     },
     {
+      "title": "14TH ANNUAL UFC INTERNATIONAL FIGHT WEEK HEADLINED BY UFC 329: McGREGOR vs HOLLOWAY 2 ON JULY 11",
+      "link": "https://www.ufc.com/news/14th-annual-ufc-international-fight-week-headlined-ufc-329-mcgregor-vs-holloway-2-july-11",
+      "guid": "https://www.ufc.com/news/14th-annual-ufc-international-fight-week-headlined-ufc-329-mcgregor-vs-holloway-2-july-11",
+      "pubDate": "Thu, 02 Jul 2026 16:48:00 GMT",
+      "published_at": "2026-07-02T16:48:00+00:00",
+      "description": "Latest UFC news: 14TH ANNUAL UFC INTERNATIONAL FIGHT WEEK HEADLINED BY UFC 329: McGREGOR vs HOLLOWAY 2 ON JULY 11",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Main Event By The Numbers | UFC 329: McGregor vs Holloway 2",
       "link": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
       "guid": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
       "pubDate": "Thu, 02 Jul 2026 16:00:00 GMT",
       "published_at": "2026-07-02T16:00:00+00:00",
-      "description": "Diving Into The Numbers For UFC 329’s Main Event Between Conor McGregor And Max Holloway At International Fight Week In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-Max-Hero-.jpg?itok=P8n82c6E",
+      "description": "Latest UFC news: Main Event By The Numbers | UFC 329: McGregor vs Holloway 2",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -45,8 +56,8 @@
       "guid": "https://www.ufc.com/news/fights-2026-half-year-awards",
       "pubDate": "Thu, 02 Jul 2026 13:00:00 GMT",
       "published_at": "2026-07-02T13:00:00+00:00",
-      "description": "Five Contests Dominated The Voting, With Familiar Faces Leading The Way | The Thomas Gerbasi UFC.com Awards",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-joshua-van-punch_GettyImages-2275387085.jpg?itok=fsWJSquM",
+      "description": "Latest UFC news: The Fights | 2026 Half-Year Awards",
+      "image": "",
       "category": "News",
       "source": "UFC"
     },
@@ -56,8 +67,8 @@
       "guid": "https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329",
       "pubDate": "Wed, 01 Jul 2026 19:59:00 GMT",
       "published_at": "2026-07-01T19:59:00+00:00",
-      "description": "Eight Entrances That Proved “The Notorious” Was The Main Event Long Before The Opening Bell",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-McGregor-Elite-8-Hero-.jpg?itok=mE6pupV3",
+      "description": "Latest UFC news: The Elite 8 | Conor McGregor’s Greatest UFC Walkouts",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -67,8 +78,8 @@
       "guid": "https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry",
       "pubDate": "Wed, 01 Jul 2026 19:30:00 GMT",
       "published_at": "2026-07-01T19:30:00+00:00",
-      "description": "CO-MAIN EVENT: (C) MACKENZIE DERN vs. (#5) GILLIAN ROBERTSON",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
+      "description": "Latest UFC news: BLOCKBUSTER WELTERWEIGHT MAIN EVENT BETWEEN (C) ISLAM MAKHACHEV AND (#1) IAN MACHADO GARRY HEADLINES UFC RETURN TO PHILADELPHIA",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -89,19 +100,8 @@
       "guid": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
       "pubDate": "Wed, 01 Jul 2026 15:00:00 GMT",
       "published_at": "2026-07-01T15:00:00+00:00",
-      "description": "Plenty Of Intriguing Fights On Tap Over The Coming Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-conor-mcgregor-weigh-in_GettyImages-1327899368.jpg?itok=FrJQtdTV",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Knockouts | 2026 Half-Year Awards",
-      "link": "https://www.ufc.com/news/knockouts-2026-half-year-awards",
-      "guid": "https://www.ufc.com/news/knockouts-2026-half-year-awards",
-      "pubDate": "Wed, 01 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-01T13:00:00+00:00",
-      "description": "One Knockout Stood Above The Rest In The First Six Months Of 2026 | The Thomas Gerbasi UFC.com Awards",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-carlos-prates-celebration_GettyImages-2274152322.jpg?itok=haR-486i",
+      "description": "Latest UFC news: The 10 | Jumping Into July’s Most Compelling Matchups",
+      "image": "",
       "category": "News",
       "source": "UFC"
     }
