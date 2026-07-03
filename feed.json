@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-03T04:00:51.962647+00:00",
+  "last_build_date": "2026-07-03T09:31:37.031773+00:00",
   "item_count": 9,
   "items": [
     {
@@ -51,6 +51,17 @@
       "source": "UFC"
     },
     {
+      "title": "UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa",
+      "link": "https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle",
+      "guid": "https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle",
+      "pubDate": "Thu, 02 Jul 2026 14:43:00 GMT",
+      "published_at": "2026-07-02T14:43:00+00:00",
+      "description": "Latest UFC news: UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%203.jpg?itok=3IV_0nqR",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "The Fights | 2026 Half-Year Awards",
       "link": "https://www.ufc.com/news/fights-2026-half-year-awards",
       "guid": "https://www.ufc.com/news/fights-2026-half-year-awards",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-01T18:33:00+00:00",
       "description": "A Look At UFC Athletes Who Achieved Major Success Moving To A Heavier Weight Class, And The Two Fighters In UFC 329’s Main Event Set To Rematch Two Divisions Up",
       "image": "https://ufc.com/images/styles/card/s3/2024-08/051521-Charles-Oliveira-Celebration-HERO-GettyImages-1318236188.jpg?itok=VOEA5Vkm",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The 10 | Jumping Into July’s Most Compelling Matchups",
-      "link": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
-      "guid": "https://www.ufc.com/news/10-jumping-julys-most-compelling-matchups",
-      "pubDate": "Wed, 01 Jul 2026 15:00:00 GMT",
-      "published_at": "2026-07-01T15:00:00+00:00",
-      "description": "Latest UFC news: The 10 | Jumping Into July’s Most Compelling Matchups",
-      "image": "",
       "category": "News",
       "source": "UFC"
     }
