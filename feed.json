@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-03T14:27:32.094168+00:00",
+  "last_build_date": "2026-07-03T16:41:43.083320+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Fighters | 2026 Half-Year Awards",
+      "link": "https://www.ufc.com/news/fighters-2026-half-year-awards",
+      "guid": "https://www.ufc.com/news/fighters-2026-half-year-awards",
+      "pubDate": "Fri, 03 Jul 2026 15:00:00 GMT",
+      "published_at": "2026-07-03T15:00:00+00:00",
+      "description": "Three Athletes Dominated The Voting As We Head Into The Second Half",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070126-justin-gaethje-enters-octagon_GettyImages-2281633244.jpg?itok=BMgotU8M",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Conor McGregor | The Mac Is Back",
       "link": "https://www.ufc.com/news/conor-mcgregor-mac-is-back-ifw-ufc-329",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-01T19:59:00+00:00",
       "description": "Eight Entrances That Proved “The Notorious” Was The Main Event Long Before The Opening Bell",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-McGregor-Elite-8-Hero-.jpg?itok=mE6pupV3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "BLOCKBUSTER WELTERWEIGHT MAIN EVENT BETWEEN (C) ISLAM MAKHACHEV AND (#1) IAN MACHADO GARRY HEADLINES UFC RETURN TO PHILADELPHIA",
-      "link": "https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry",
-      "guid": "https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry",
-      "pubDate": "Wed, 01 Jul 2026 19:30:00 GMT",
-      "published_at": "2026-07-01T19:30:00+00:00",
-      "description": "CO-MAIN EVENT: (C) MACKENZIE DERN vs. (#5) GILLIAN ROBERTSON",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
       "category": "UFC",
       "source": "UFC"
     }

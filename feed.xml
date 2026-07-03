@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:41:43 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fighters | 2026 Half-Year Awards</title>
+      <link>https://www.ufc.com/news/fighters-2026-half-year-awards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-2026-half-year-awards</guid>
+      <pubDate>Fri, 03 Jul 2026 15:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/070126-justin-gaethje-enters-octagon_GettyImages-2281633244.jpg?itok=BMgotU8M" alt="The Fighters | 2026 Half-Year Awards" /></p>
+<p>Three Athletes Dominated The Voting As We Head Into The Second Half</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Conor McGregor | The Mac Is Back</title>
       <link>https://www.ufc.com/news/conor-mcgregor-mac-is-back-ifw-ufc-329</link>
@@ -84,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Conor-McGregor-Elite-8-Hero-.jpg?itok=mE6pupV3" alt="The Elite 8 | Conor McGregor’s Greatest UFC Walkouts" /></p>
 <p>Eight Entrances That Proved “The Notorious” Was The Main Event Long Before The Opening Bell</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>BLOCKBUSTER WELTERWEIGHT MAIN EVENT BETWEEN (C) ISLAM MAKHACHEV AND (#1) IAN MACHADO GARRY HEADLINES UFC RETURN TO PHILADELPHIA</title>
-      <link>https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/blockbuster-welterweight-main-event-between-c-islam-makhachev-and-1-ian-machado-garry</guid>
-      <pubDate>Wed, 01 Jul 2026 19:30:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA" alt="BLOCKBUSTER WELTERWEIGHT MAIN EVENT BETWEEN (C) ISLAM MAKHACHEV AND (#1) IAN MACHADO GARRY HEADLINES UFC RETURN TO PHILADELPHIA" /></p>
-<p>CO-MAIN EVENT: (C) MACKENZIE DERN vs. (#5) GILLIAN ROBERTSON</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
