@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-03T09:31:37.031773+00:00",
+  "last_build_date": "2026-07-03T14:27:32.094168+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Conor McGregor | The Mac Is Back",
+      "link": "https://www.ufc.com/news/conor-mcgregor-mac-is-back-ifw-ufc-329",
+      "guid": "https://www.ufc.com/news/conor-mcgregor-mac-is-back-ifw-ufc-329",
+      "pubDate": "Fri, 03 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-03T13:00:00+00:00",
+      "description": "Five Years Removed From His Last Octagon Appearance, “The Notorious” Conor McGregor Is Back, And Ready To Take Over Again",
+      "image": "https://ufc.com/images/styles/card/s3/2025-12/121215-Conor-Mcgregor-reacts-GettyImages-501186376.jpg?itok=181_sih1",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "International Fight Week’s Evolution Reaches Another Historic Chapter",
       "link": "https://www.ufc.com/news/international-fight-weeks-evolution-reaches-another-historic-chapter",
@@ -92,17 +103,6 @@
       "description": "CO-MAIN EVENT: (C) MACKENZIE DERN vs. (#5) GILLIAN ROBERTSON",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-06/081526-ufc-330-makhachev-vs-machado-garry-TEMP-HERO.jpg?itok=VS4f-DiA",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters Who’ve Thrived Moving Up A Weight Division",
-      "link": "https://www.ufc.com/news/five-fighters-whove-thrived-moving-up-a-weight-division-ufc",
-      "guid": "https://www.ufc.com/news/five-fighters-whove-thrived-moving-up-a-weight-division-ufc",
-      "pubDate": "Wed, 01 Jul 2026 18:33:00 GMT",
-      "published_at": "2026-07-01T18:33:00+00:00",
-      "description": "A Look At UFC Athletes Who Achieved Major Success Moving To A Heavier Weight Class, And The Two Fighters In UFC 329’s Main Event Set To Rematch Two Divisions Up",
-      "image": "https://ufc.com/images/styles/card/s3/2024-08/051521-Charles-Oliveira-Celebration-HERO-GettyImages-1318236188.jpg?itok=VOEA5Vkm",
-      "category": "News",
       "source": "UFC"
     }
   ]
