@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-06T15:51:41.606954+00:00",
+  "last_build_date": "2026-07-06T20:08:59.218184+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Olympians Who Have Competed In The UFC Octagon",
+      "link": "https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon",
+      "guid": "https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon",
+      "pubDate": "Mon, 06 Jul 2026 17:21:00 GMT",
+      "published_at": "2026-07-06T17:21:00+00:00",
+      "description": "The Octagon Has Seen Its Fair Share Of Olympians On Its Canvas.",
+      "image": "https://ufc.com/images/styles/card/s3/2024-05/041324-Kayla-Karrison-UFC-300-Hero.jpg?itok=O6_gf0fp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Mon, 06 Jul 2026 16:37:00 GMT",
+      "published_at": "2026-07-06T16:37:00+00:00",
+      "description": "International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Fighters | 2026 Half-Year Awards",
       "link": "https://www.ufc.com/news/fighters-2026-half-year-awards",
@@ -13,7 +35,7 @@
       "pubDate": "Fri, 03 Jul 2026 15:00:00 GMT",
       "published_at": "2026-07-03T15:00:00+00:00",
       "description": "Three Athletes Dominated The Voting As We Head Into The Second Half",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070126-justin-gaethje-enters-octagon_GettyImages-2281633244.jpg?itok=BMgotU8M",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070126-justin-gaethje-enters-octagon_GettyImages-2281633244.jpg?itok=BMgotU8M",
       "category": "News",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-07-02T14:43:00+00:00",
       "description": "Latest UFC news: UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa",
       "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%203.jpg?itok=3IV_0nqR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Fights | 2026 Half-Year Awards",
-      "link": "https://www.ufc.com/news/fights-2026-half-year-awards",
-      "guid": "https://www.ufc.com/news/fights-2026-half-year-awards",
-      "pubDate": "Thu, 02 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-02T13:00:00+00:00",
-      "description": "Five Contests Dominated The Voting, With Familiar Faces Leading The Way | The Thomas Gerbasi UFC.com Awards",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/063026-joshua-van-punch_GettyImages-2275387085.jpg?itok=fsWJSquM",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Elite 8 | Conor McGregor’s Greatest UFC Walkouts",
-      "link": "https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329",
-      "guid": "https://www.ufc.com/news/elite-8-conor-mcgregors-greatest-ufc-walkouts-ufc-329",
-      "pubDate": "Wed, 01 Jul 2026 19:59:00 GMT",
-      "published_at": "2026-07-01T19:59:00+00:00",
-      "description": "Eight Entrances That Proved “The Notorious” Was The Main Event Long Before The Opening Bell",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-McGregor-Elite-8-Hero-.jpg?itok=mE6pupV3",
       "category": "UFC",
       "source": "UFC"
     }
