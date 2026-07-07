@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-07T14:55:52.478322+00:00",
+  "last_build_date": "2026-07-07T17:23:31.840559+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "PIVOTAL MIDDLEWEIGHT BOUT BETWEEN ANTHONY HERNANDEZ AND GREGORY RODRIGUES HEADLINES UFC RETURN TO SACRAMENTO",
+      "link": "https://www.ufc.com/news/pivotal-middleweight-bout-between-anthony-hernandez-and-gregory-rodrigues-headlines-ufc-return",
+      "guid": "https://www.ufc.com/news/pivotal-middleweight-bout-between-anthony-hernandez-and-gregory-rodrigues-headlines-ufc-return",
+      "pubDate": "Tue, 07 Jul 2026 17:00:00 GMT",
+      "published_at": "2026-07-07T17:00:00+00:00",
+      "description": "Tickets Go On Sale Friday July 10",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-06/082226-ufc-fight-night-hernandez-vs-rodrigues-TEMP-HERO.jpg?itok=qSrRVuLl",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC ANNOUNCES NEW SPORTS DIPLOMACY PARTNERSHIP WITH U.S. DEPARTMENT OF STATE AS PART OF UFC FREEDOM 250 FIGHT WEEK",
+      "link": "https://www.ufc.com/news/ufc-announces-new-sports-diplomacy-partnership-us-department-state-part-ufc-freedom-250-fight",
+      "guid": "https://www.ufc.com/news/ufc-announces-new-sports-diplomacy-partnership-us-department-state-part-ufc-freedom-250-fight",
+      "pubDate": "Tue, 07 Jul 2026 15:42:00 GMT",
+      "published_at": "2026-07-07T15:42:00+00:00",
+      "description": "Latest UFC news: UFC ANNOUNCES NEW SPORTS DIPLOMACY PARTNERSHIP WITH U.S. DEPARTMENT OF STATE AS PART OF UFC FREEDOM 250 FIGHT WEEK",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/20260611FE%20-%20S%20UFC%20MOU%20Signing%20CeremonyDSC00333.JPG?itok=6Ejr1SAe",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fighters On The Rise | UFC 329: McGregor vs Holloway 2",
       "link": "https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas",
@@ -81,28 +103,6 @@
       "description": "UFC’s Biggest Annual Spectacle, International Fight Week, Continues Its Rise With Holloway And McGregor Set To Headline A Highly Anticipated Main Event",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/GettyImages-2222801439.jpg?itok=rh_fsoXL",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "14TH ANNUAL UFC INTERNATIONAL FIGHT WEEK HEADLINED BY UFC 329: McGREGOR vs HOLLOWAY 2 ON JULY 11",
-      "link": "https://www.ufc.com/news/14th-annual-ufc-international-fight-week-headlined-ufc-329-mcgregor-vs-holloway-2-july-11",
-      "guid": "https://www.ufc.com/news/14th-annual-ufc-international-fight-week-headlined-ufc-329-mcgregor-vs-holloway-2-july-11",
-      "pubDate": "Thu, 02 Jul 2026 16:48:00 GMT",
-      "published_at": "2026-07-02T16:48:00+00:00",
-      "description": "Fight Week Celebration Also Includes UFC Hall Of Fame Induction Ceremony, Power Slap, & Bud Light Summer Series Concert",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Event By The Numbers | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/main-event-numbers-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Thu, 02 Jul 2026 16:00:00 GMT",
-      "published_at": "2026-07-02T16:00:00+00:00",
-      "description": "Diving Into The Numbers For UFC 329’s Main Event Between Conor McGregor And Max Holloway At International Fight Week In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-Max-Hero-.jpg?itok=P8n82c6E",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
