@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:10:32 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates To UFC 329: McGregor vs Holloway 2</title>
+      <link>https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2</guid>
+      <pubDate>Mon, 06 Jul 2026 23:54:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2024-04/HERO-generic-t-mobile-arena-octagon.jpg?itok=eqvjzkCh" alt="Updates To UFC 329: McGregor vs Holloway 2" /></p>
+<p>Key Information For Saturday's Event Live From T-Mobile Arena On July 11</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Olympians Who Have Competed In The UFC Octagon</title>
       <link>https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-10/051723-Generic-TL-Sydney-hero.jpg?itok=sjF44qU2" alt="UFC Delivers Knockout Results For Sydney" /></p>
 <p>UFC 325 Generated AUD $65.7M in Economic Impact for Sydney Metro Area</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa</title>
-      <link>https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle</guid>
-      <pubDate>Thu, 02 Jul 2026 14:43:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%203.jpg?itok=3IV_0nqR" alt="UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa" /></p>
-<p>Latest UFC news: UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

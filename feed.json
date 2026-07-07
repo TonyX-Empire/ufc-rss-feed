@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-06T22:20:05.829178+00:00",
+  "last_build_date": "2026-07-07T04:10:32.731247+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Updates To UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Mon, 06 Jul 2026 23:54:00 GMT",
+      "published_at": "2026-07-06T23:54:00+00:00",
+      "description": "Key Information For Saturday's Event Live From T-Mobile Arena On July 11",
+      "image": "https://ufc.com/images/styles/card/s3/2024-04/HERO-generic-t-mobile-arena-octagon.jpg?itok=eqvjzkCh",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Olympians Who Have Competed In The UFC Octagon",
       "link": "https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-02T15:00:00+00:00",
       "description": "UFC 325 Generated AUD $65.7M in Economic Impact for Sydney Metro Area",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-10/051723-Generic-TL-Sydney-hero.jpg?itok=sjF44qU2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa",
-      "link": "https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle",
-      "guid": "https://www.ufc.com/news/ufc-and-citi-developers-launch-strategic-multi-year-marketing-partnership-across-europe-middle",
-      "pubDate": "Thu, 02 Jul 2026 14:43:00 GMT",
-      "published_at": "2026-07-02T14:43:00+00:00",
-      "description": "Latest UFC news: UFC and Citi Developers Launch Strategic Multi-Year Marketing Partnership Across Europe, the Middle East, and Africa",
-      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%203.jpg?itok=3IV_0nqR",
       "category": "UFC",
       "source": "UFC"
     }
