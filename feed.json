@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-07T09:57:05.114846+00:00",
+  "last_build_date": "2026-07-07T14:55:52.478322+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters On The Rise | UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas",
+      "pubDate": "Tue, 07 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-07T13:00:00+00:00",
+      "description": "Highlighting Three Ascending Names To Track This Weekend And Going Forward",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-luke-riley-intro_GettyImages-2267744153.jpg?itok=MyLvGjcR",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Updates To UFC 329: McGregor vs Holloway 2",
       "link": "https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-02T16:00:00+00:00",
       "description": "Diving Into The Numbers For UFC 329’s Main Event Between Conor McGregor And Max Holloway At International Fight Week In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Conor-Max-Hero-.jpg?itok=P8n82c6E",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Delivers Knockout Results For Sydney",
-      "link": "https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney",
-      "guid": "https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney",
-      "pubDate": "Thu, 02 Jul 2026 15:00:00 GMT",
-      "published_at": "2026-07-02T15:00:00+00:00",
-      "description": "UFC 325 Generated AUD $65.7M in Economic Impact for Sydney Metro Area",
-      "image": "https://ufc.com/images/styles/card/s3/image/2024-10/051723-Generic-TL-Sydney-hero.jpg?itok=sjF44qU2",
       "category": "UFC",
       "source": "UFC"
     }

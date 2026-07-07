@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:55:52 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fighters On The Rise | UFC 329: McGregor vs Holloway 2</title>
+      <link>https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas</guid>
+      <pubDate>Tue, 07 Jul 2026 13:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070626-luke-riley-intro_GettyImages-2267744153.jpg?itok=MyLvGjcR" alt="Fighters On The Rise | UFC 329: McGregor vs Holloway 2" /></p>
+<p>Highlighting Three Ascending Names To Track This Weekend And Going Forward</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Updates To UFC 329: McGregor vs Holloway 2</title>
       <link>https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Conor-Max-Hero-.jpg?itok=P8n82c6E" alt="Main Event By The Numbers | UFC 329: McGregor vs Holloway 2" /></p>
 <p>Diving Into The Numbers For UFC 329’s Main Event Between Conor McGregor And Max Holloway At International Fight Week In Las Vegas</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC Delivers Knockout Results For Sydney</title>
-      <link>https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-delivers-knockout-results-for-sydney</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-10/051723-Generic-TL-Sydney-hero.jpg?itok=sjF44qU2" alt="UFC Delivers Knockout Results For Sydney" /></p>
-<p>UFC 325 Generated AUD $65.7M in Economic Impact for Sydney Metro Area</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
