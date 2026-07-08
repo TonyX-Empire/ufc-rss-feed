@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-08T14:33:53.669064+00:00",
+  "last_build_date": "2026-07-08T16:45:00.993514+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,39 @@
       "published_at": "2026-07-11T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 329: McGregor vs Holloway 2, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mario Bautista Is Ready For His Revenge Mission",
+      "link": "https://www.ufc.com/news/mario-bautista-is-ready-for-his-revenge-mission-ufc-329",
+      "guid": "https://www.ufc.com/news/mario-bautista-is-ready-for-his-revenge-mission-ufc-329",
+      "pubDate": "Wed, 08 Jul 2026 16:35:00 GMT",
+      "published_at": "2026-07-08T16:35:00+00:00",
+      "description": "Bantamweight Contender Plans To Push His Title Credentials By Beating The Man Who Welcomed Him To The UFC With A Defeat.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070826-hero-mario-bautista_GettyImages-2260468011.jpg?itok=eKlPjZn9",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Cory Sandhagen Wants To Get Back In The Conversation",
+      "link": "https://www.ufc.com/news/cory-sandhagen-wants-to-get-back-in-the-conversation-ufc-329",
+      "guid": "https://www.ufc.com/news/cory-sandhagen-wants-to-get-back-in-the-conversation-ufc-329",
+      "pubDate": "Wed, 08 Jul 2026 16:29:00 GMT",
+      "published_at": "2026-07-08T16:29:00+00:00",
+      "description": "After Nine Months Away From The Octagon, Two-Time Bantamweight Title Challenger Cory Sandhagen Is Ready To Make Another Run To A Title Shot.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Cory-Sandhagen-Hero-.jpg?itok=oYnT22PG",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Paddy Pimblett | No Pressure, No Problem",
+      "link": "https://www.ufc.com/news/paddy-pimblett-no-pressure-no-problem-ufc-329",
+      "guid": "https://www.ufc.com/news/paddy-pimblett-no-pressure-no-problem-ufc-329",
+      "pubDate": "Wed, 08 Jul 2026 16:16:00 GMT",
+      "published_at": "2026-07-08T16:16:00+00:00",
+      "description": "After Missing Out On Interim Lightweight Gold Last Time Out, “The Baddy” Is In Relaxed Mood Ahead Of His Octagon Return.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Paddy-Pimblett-Hero-.jpg?itok=B7WGASo2",
       "category": "UFC",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Latest UFC news: UFC ANNOUNCES NEW SPORTS DIPLOMACY PARTNERSHIP WITH U.S. DEPARTMENT OF STATE AS PART OF UFC FREEDOM 250 FIGHT WEEK",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/20260611FE%20-%20S%20UFC%20MOU%20Signing%20CeremonyDSC00333.JPG?itok=6Ejr1SAe",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters On The Rise | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-329-mcgregor-vs-holloway-2-steveson-riley-pinas",
-      "pubDate": "Tue, 07 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-07T13:00:00+00:00",
-      "description": "Highlighting Three Ascending Names To Track This Weekend And Going Forward",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-luke-riley-intro_GettyImages-2267744153.jpg?itok=MyLvGjcR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/updates-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Mon, 06 Jul 2026 23:54:00 GMT",
-      "published_at": "2026-07-06T23:54:00+00:00",
-      "description": "Key Information For Saturday's Event Live From T-Mobile Arena On July 11",
-      "image": "https://ufc.com/images/styles/card/s3/2024-04/HERO-generic-t-mobile-arena-octagon.jpg?itok=eqvjzkCh",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Lone’er Kavanagh | Sometimes You’ve Got to Jump",
-      "link": "https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump",
-      "guid": "https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump",
-      "pubDate": "Mon, 06 Jul 2026 17:47:00 GMT",
-      "published_at": "2026-07-06T17:47:00+00:00",
-      "description": "Surging Flyweight Contender Lone'er Kavanagh Talks Moreno Win Ahead Of Matchup With Former Title Challenger Brandon Royval At UFC 329: McGregor vs Holloway 2",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070726-hero_ufc-329-loneer-kavanagh_GettyImages-2264135204.jpg?itok=LOxlYd3j",
-      "category": "News",
       "source": "UFC"
     }
   ]
