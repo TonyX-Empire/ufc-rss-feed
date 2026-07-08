@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jul 2026 22:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:34:45 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC 329: McGregor vs Holloway 2</title>
@@ -78,6 +78,16 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
+      <title>Lone’er Kavanagh | Sometimes You’ve Got to Jump</title>
+      <link>https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump</guid>
+      <pubDate>Mon, 06 Jul 2026 17:47:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070726-hero_ufc-329-loneer-kavanagh_GettyImages-2264135204.jpg?itok=LOxlYd3j" alt="Lone’er Kavanagh | Sometimes You’ve Got to Jump" /></p>
+<p>Surging Flyweight Contender Lone'er Kavanagh Talks Moreno Win Ahead Of Matchup With Former Title Challenger Brandon Royval At UFC 329: McGregor vs Holloway 2</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
       <title>Olympians Who Have Competed In The UFC Octagon</title>
       <link>https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon</link>
       <guid isPermaLink="true">https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon</guid>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2024-05/041324-Kayla-Karrison-UFC-300-Hero.jpg?itok=O6_gf0fp" alt="Olympians Who Have Competed In The UFC Octagon" /></p>
 <p>The Octagon Has Seen Its Fair Share Of Olympians On Its Canvas.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC 329: McGregor vs Holloway 2</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2</guid>
-      <pubDate>Mon, 06 Jul 2026 16:37:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1" alt="Fight By Fight Preview | UFC 329: McGregor vs Holloway 2" /></p>
-<p>International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

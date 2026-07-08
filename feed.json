@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-07T22:17:56.121800+00:00",
+  "last_build_date": "2026-07-08T03:34:45.492398+00:00",
   "item_count": 9,
   "items": [
     {
@@ -84,6 +84,17 @@
       "source": "UFC"
     },
     {
+      "title": "Lone’er Kavanagh | Sometimes You’ve Got to Jump",
+      "link": "https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump",
+      "guid": "https://www.ufc.com/news/loneer-kavanagh-sometimes-youve-got-jump",
+      "pubDate": "Mon, 06 Jul 2026 17:47:00 GMT",
+      "published_at": "2026-07-06T17:47:00+00:00",
+      "description": "Surging Flyweight Contender Lone'er Kavanagh Talks Moreno Win Ahead Of Matchup With Former Title Challenger Brandon Royval At UFC 329: McGregor vs Holloway 2",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070726-hero_ufc-329-loneer-kavanagh_GettyImages-2264135204.jpg?itok=LOxlYd3j",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Olympians Who Have Competed In The UFC Octagon",
       "link": "https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon",
       "guid": "https://www.ufc.com/news/olympians-who-have-competed-ufc-octagon",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-06T17:21:00+00:00",
       "description": "The Octagon Has Seen Its Fair Share Of Olympians On Its Canvas.",
       "image": "https://ufc.com/images/styles/card/s3/2024-05/041324-Kayla-Karrison-UFC-300-Hero.jpg?itok=O6_gf0fp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Mon, 06 Jul 2026 16:37:00 GMT",
-      "published_at": "2026-07-06T16:37:00+00:00",
-      "description": "International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1",
       "category": "UFC",
       "source": "UFC"
     }
