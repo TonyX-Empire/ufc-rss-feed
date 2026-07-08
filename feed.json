@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-08T16:45:00.993514+00:00",
+  "last_build_date": "2026-07-08T19:46:58.079023+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,39 @@
       "published_at": "2026-07-11T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 329: McGregor vs Holloway 2, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Max Holloway | Rolling With The Tides",
+      "link": "https://www.ufc.com/news/max-holloway-rolling-tides-ufc-329-welterweight-international-fight-week",
+      "guid": "https://www.ufc.com/news/max-holloway-rolling-tides-ufc-329-welterweight-international-fight-week",
+      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
+      "published_at": "2026-07-08T18:28:00+00:00",
+      "description": "Hawaiian Superstar Talks McGregor Rematch, Future Possibilities",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070826-hero-max-holloway-ufc-329_GettyImages-2265356688.jpg?itok=jCo4cbMU",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Europe’s Best Lightweights",
+      "link": "https://www.ufc.com/news/europes-best-lightweights",
+      "guid": "https://www.ufc.com/news/europes-best-lightweights",
+      "pubDate": "Wed, 08 Jul 2026 17:42:00 GMT",
+      "published_at": "2026-07-08T17:42:00+00:00",
+      "description": "A Look At Some Of The Elite Athletes Representing Europe At 155 Pounds",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070826-europes-best-lightweights-thumb.jpg?itok=Tl4dlmNs",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Benoît Saint Denis Focused on Saturday and Nothing Else",
+      "link": "https://www.ufc.com/news/benoit-saint-denis-focused-on-paddy-pimblett-saturday-and-nothing-else-ufc-329",
+      "guid": "https://www.ufc.com/news/benoit-saint-denis-focused-on-paddy-pimblett-saturday-and-nothing-else-ufc-329",
+      "pubDate": "Wed, 08 Jul 2026 16:47:00 GMT",
+      "published_at": "2026-07-08T16:47:00+00:00",
+      "description": "Lightweight Contender Benoît Saint Denis Locked In On Crucial Battle With Former Title Challenger Paddy Pimblett In UFC 329: McGregor vs Holloway 2 Co-Main Event",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070726-hero_ufc-932-benoit-saint-denis_GettyImages-2259324661.jpg?itok=HwRpu-Pn",
       "category": "UFC",
       "source": "UFC"
     },
@@ -35,7 +68,7 @@
       "pubDate": "Wed, 08 Jul 2026 16:29:00 GMT",
       "published_at": "2026-07-08T16:29:00+00:00",
       "description": "After Nine Months Away From The Octagon, Two-Time Bantamweight Title Challenger Cory Sandhagen Is Ready To Make Another Run To A Title Shot.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Cory-Sandhagen-Hero-.jpg?itok=oYnT22PG",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Cory-Sandhagen-Hero-.jpg?itok=oYnT22PG",
       "category": "UFC",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-07-07T21:42:00+00:00",
       "description": "Undefeated Bantamweight Discusses Perfectionist Mindset, UFC 329 Pairing",
       "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/070726-farid-basharat-reaction_GettyImages-2260458073.jpg?itok=LPrD5ZJ5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "JOIN DANA WHITE AS HE OPENS 2013 TOPPS UFC BLOODLINES!",
-      "link": "https://www.ufc.com/news/join-dana-white-he-opens-2013-topps-ufc-bloodlines",
-      "guid": "https://www.ufc.com/news/join-dana-white-he-opens-2013-topps-ufc-bloodlines",
-      "pubDate": "Tue, 07 Jul 2026 18:26:00 GMT",
-      "published_at": "2026-07-07T18:26:00+00:00",
-      "description": "Watch on the Fanatics Collect App This Friday July 10th for a Chance to Win!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070726-dana-white-topps-card-graphic.jpg?itok=S1Kqr64q",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "PIVOTAL MIDDLEWEIGHT BOUT BETWEEN ANTHONY HERNANDEZ AND GREGORY RODRIGUES HEADLINES UFC RETURN TO SACRAMENTO",
-      "link": "https://www.ufc.com/news/pivotal-middleweight-bout-between-anthony-hernandez-and-gregory-rodrigues-headlines-ufc-return",
-      "guid": "https://www.ufc.com/news/pivotal-middleweight-bout-between-anthony-hernandez-and-gregory-rodrigues-headlines-ufc-return",
-      "pubDate": "Tue, 07 Jul 2026 17:00:00 GMT",
-      "published_at": "2026-07-07T17:00:00+00:00",
-      "description": "Tickets Go On Sale Friday July 10",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/082226-ufc-fight-night-hernandez-vs-rodrigues-TEMP-HERO.jpg?itok=qSrRVuLl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC ANNOUNCES NEW SPORTS DIPLOMACY PARTNERSHIP WITH U.S. DEPARTMENT OF STATE AS PART OF UFC FREEDOM 250 FIGHT WEEK",
-      "link": "https://www.ufc.com/news/ufc-announces-new-sports-diplomacy-partnership-us-department-state-part-ufc-freedom-250-fight",
-      "guid": "https://www.ufc.com/news/ufc-announces-new-sports-diplomacy-partnership-us-department-state-part-ufc-freedom-250-fight",
-      "pubDate": "Tue, 07 Jul 2026 15:42:00 GMT",
-      "published_at": "2026-07-07T15:42:00+00:00",
-      "description": "Latest UFC news: UFC ANNOUNCES NEW SPORTS DIPLOMACY PARTNERSHIP WITH U.S. DEPARTMENT OF STATE AS PART OF UFC FREEDOM 250 FIGHT WEEK",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/20260611FE%20-%20S%20UFC%20MOU%20Signing%20CeremonyDSC00333.JPG?itok=6Ejr1SAe",
       "category": "UFC",
       "source": "UFC"
     }
