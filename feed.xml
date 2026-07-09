@@ -5,13 +5,23 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Jul 2026 22:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 04:04:39 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Card Results | UFC 329: McGregor vs Holloway 2</title>
+      <link>https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results</guid>
+      <pubDate>Sun, 12 Jul 2026 01:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc" alt="Main Card Results | UFC 329: McGregor vs Holloway 2" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 329: McGregor vs Holloway 2, Live From T-Mobile Arena In Las Vegas On July 11, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Prelim Results | UFC 329: McGregor vs Holloway 2</title>
       <link>https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-prelim-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-prelim-results</guid>
-      <pubDate>Wed, 08 Jul 2026 22:00:00 GMT</pubDate>
+      <pubDate>Sat, 11 Jul 2026 21:00:00 GMT</pubDate>
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/100608-General-View-Octagon-UFC-229-GettyImages-1046914188.jpg?itok=50cYKi9A" alt="Prelim Results | UFC 329: McGregor vs Holloway 2" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews And More From The UFC 329: McGregor vs Holloway 2 Prelims, Live From T-Mobile Arena In Las Vegas On July 11, 2026</p>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Paddy-Pimblett-Hero-.jpg?itok=B7WGASo2" alt="Paddy Pimblett | No Pressure, No Problem" /></p>
 <p>After Missing Out On Interim Lightweight Gold Last Time Out, “The Baddy” Is In Relaxed Mood Ahead Of His Octagon Return.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC RETURNS TO SHANGHAI WITH A PIVOTAL BANTAMWEIGHT CLASH BETWEEN #3 UMAR NURMAGOMEDOV AND #5 SONG YADONG</title>
-      <link>https://www.ufc.com/news/ufc-returns-shanghai-pivotal-bantamweight-clash-between-3-umar-nurmagomedov-and-5-song-yadong</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-returns-shanghai-pivotal-bantamweight-clash-between-3-umar-nurmagomedov-and-5-song-yadong</guid>
-      <pubDate>Wed, 08 Jul 2026 04:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070726-ufc-shanghai-song-nurmagomedov-announcement.jpg?itok=x2jdARef" alt="UFC RETURNS TO SHANGHAI WITH A PIVOTAL BANTAMWEIGHT CLASH BETWEEN #3 UMAR NURMAGOMEDOV AND #5 SONG YADONG" /></p>
-<p>FIGHT WEEK INCLUDES BACK-TO-BACK PRIME TIME EVENTS: ROAD TO UFC SEASON 5 SEMIFINALS ON FRIDAY, AUGUST 28 AND UFC FIGHT NIGHT SHANGHAI ON SATURDAY, AUGUST 29</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
