@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-09T09:59:16.251966+00:00",
+  "last_build_date": "2026-07-09T15:28:48.462336+00:00",
   "item_count": 9,
   "items": [
     {
@@ -25,6 +25,28 @@
       "published_at": "2026-07-11T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews And More From The UFC 329: McGregor vs Holloway 2 Prelims, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/100608-General-View-Octagon-UFC-229-GettyImages-1046914188.jpg?itok=50cYKi9A",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Tracy Cortez Wants To Make Her Mark",
+      "link": "https://www.ufc.com/news/tracy-cortez-wants-leave-mark-ufc-329",
+      "guid": "https://www.ufc.com/news/tracy-cortez-wants-leave-mark-ufc-329",
+      "pubDate": "Thu, 09 Jul 2026 15:00:00 GMT",
+      "published_at": "2026-07-09T15:00:00+00:00",
+      "description": "Womens’ Flyweight Contender Is Looking To Bounce Back With A Big Win At UFC 329",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Tracy-Cortez-Hero-.jpg?itok=6aQBErs0",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Robert Whittaker | Happy Again",
+      "link": "https://www.ufc.com/news/robert-whittaker-happy-again-ufc-329-light-heavyweight",
+      "guid": "https://www.ufc.com/news/robert-whittaker-happy-again-ufc-329-light-heavyweight",
+      "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-09T13:00:00+00:00",
+      "description": "Australian Standout Details Changes That Have Him Excited Heading Into UFC 329",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Robert-Whittaker-Hero-.jpg?itok=76Z_r1se",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-07-08T16:35:00+00:00",
       "description": "Bantamweight Contender Plans To Push His Title Credentials By Beating The Man Who Welcomed Him To The UFC With A Defeat.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/070826-hero-mario-bautista_GettyImages-2260468011.jpg?itok=eKlPjZn9",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Cory Sandhagen Wants To Get Back In The Conversation",
-      "link": "https://www.ufc.com/news/cory-sandhagen-wants-to-get-back-in-the-conversation-ufc-329",
-      "guid": "https://www.ufc.com/news/cory-sandhagen-wants-to-get-back-in-the-conversation-ufc-329",
-      "pubDate": "Wed, 08 Jul 2026 16:29:00 GMT",
-      "published_at": "2026-07-08T16:29:00+00:00",
-      "description": "After Nine Months Away From The Octagon, Two-Time Bantamweight Title Challenger Cory Sandhagen Is Ready To Make Another Run To A Title Shot.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Cory-Sandhagen-Hero-.jpg?itok=oYnT22PG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Paddy Pimblett | No Pressure, No Problem",
-      "link": "https://www.ufc.com/news/paddy-pimblett-no-pressure-no-problem-ufc-329",
-      "guid": "https://www.ufc.com/news/paddy-pimblett-no-pressure-no-problem-ufc-329",
-      "pubDate": "Wed, 08 Jul 2026 16:16:00 GMT",
-      "published_at": "2026-07-08T16:16:00+00:00",
-      "description": "After Missing Out On Interim Lightweight Gold Last Time Out, “The Baddy” Is In Relaxed Mood Ahead Of His Octagon Return.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Paddy-Pimblett-Hero-.jpg?itok=B7WGASo2",
       "category": "UFC",
       "source": "UFC"
     }
