@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-10T17:03:13.448173+00:00",
+  "last_build_date": "2026-07-10T19:45:06.298036+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,39 @@
       "source": "UFC"
     },
     {
+      "title": "King Green | Always Focused On The Mission",
+      "link": "https://www.ufc.com/news/king-green-always-focused-mission-ufc-329",
+      "guid": "https://www.ufc.com/news/king-green-always-focused-mission-ufc-329",
+      "pubDate": "Fri, 10 Jul 2026 18:41:00 GMT",
+      "published_at": "2026-07-10T18:41:00+00:00",
+      "description": "Veteran Lightweight Talks Terrance McKinney, Driving Force Ahead Of UFC 329",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/King-Green-Hero-.jpg?itok=yj4rgmcH",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gable Steveson Has Arrived",
+      "link": "https://www.ufc.com/news/gable-steveson-has-arrived-ufc-329",
+      "guid": "https://www.ufc.com/news/gable-steveson-has-arrived-ufc-329",
+      "pubDate": "Fri, 10 Jul 2026 18:31:00 GMT",
+      "published_at": "2026-07-10T18:31:00+00:00",
+      "description": "Highly Regarded Heavyweight Talks Expectations, UFC Debut",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Gable-Stevenson-Hero-.jpg?itok=29EjKzl4",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Luke Riley | The Liverpool Standard",
+      "link": "https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329",
+      "guid": "https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329",
+      "pubDate": "Fri, 10 Jul 2026 18:25:00 GMT",
+      "published_at": "2026-07-10T18:25:00+00:00",
+      "description": "Featherweight Prospect Luke Riley Brings An Unbeaten Record And Unwavering Belief Into UFC 329.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Luke-Riley-Hero-.jpg?itok=ve5v9ME5",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | UFC 329: McGregor vs Holloway 2",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2",
@@ -69,39 +102,6 @@
       "published_at": "2026-07-09T15:00:00+00:00",
       "description": "Womens’ Flyweight Contender Is Looking To Bounce Back With A Big Win At UFC 329",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Tracy-Cortez-Hero-.jpg?itok=6aQBErs0",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Robert Whittaker | Happy Again",
-      "link": "https://www.ufc.com/news/robert-whittaker-happy-again-ufc-329-light-heavyweight",
-      "guid": "https://www.ufc.com/news/robert-whittaker-happy-again-ufc-329-light-heavyweight",
-      "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "description": "Australian Standout Details Changes That Have Him Excited Heading Into UFC 329",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Robert-Whittaker-Hero-.jpg?itok=76Z_r1se",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 09 Official Fight Card",
-      "link": "https://www.ufc.com/news/zuffa-boxing-09-official-fight-card",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-09-official-fight-card",
-      "pubDate": "Wed, 08 Jul 2026 20:47:00 GMT",
-      "published_at": "2026-07-08T20:47:00+00:00",
-      "description": "Berlanga vs Butler Goes Down Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/EM2_7913.jpg?itok=6SVpKO-r",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Max Holloway | Rolling With The Tides",
-      "link": "https://www.ufc.com/news/max-holloway-rolling-tides-ufc-329-welterweight-international-fight-week",
-      "guid": "https://www.ufc.com/news/max-holloway-rolling-tides-ufc-329-welterweight-international-fight-week",
-      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
-      "published_at": "2026-07-08T18:28:00+00:00",
-      "description": "Hawaiian Superstar Talks McGregor Rematch, Future Possibilities",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070826-hero-max-holloway-ufc-329_GettyImages-2265356688.jpg?itok=jCo4cbMU",
       "category": "UFC",
       "source": "UFC"
     }
