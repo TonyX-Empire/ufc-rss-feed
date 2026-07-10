@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-10T09:49:45.058327+00:00",
+  "last_build_date": "2026-07-10T14:46:17.997076+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-07-11T21:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC 329: McGregor vs Holloway 2 Live From T-Mobile Arena In Las Vegas On July 11, 2026.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/050926-bruce-buffer-announcement-HERO-GettyImages-2275357781.jpg?itok=QW43uTiv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Fri, 10 Jul 2026 17:30:00 GMT",
+      "published_at": "2026-07-10T17:30:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing July 11 At International Fight Week In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-Conor-McGregor-weigh-GettyImages-1200205514.jpg?itok=89x2EDTS",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Hawaiian Superstar Talks McGregor Rematch, Future Possibilities",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/070826-hero-max-holloway-ufc-329_GettyImages-2265356688.jpg?itok=jCo4cbMU",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Europe’s Best Lightweights",
-      "link": "https://www.ufc.com/news/europes-best-lightweights",
-      "guid": "https://www.ufc.com/news/europes-best-lightweights",
-      "pubDate": "Wed, 08 Jul 2026 17:42:00 GMT",
-      "published_at": "2026-07-08T17:42:00+00:00",
-      "description": "A Look At Some Of The Elite Athletes Representing Europe At 155 Pounds",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070826-europes-best-lightweights-thumb.jpg?itok=Tl4dlmNs",
-      "category": "News",
       "source": "UFC"
     }
   ]

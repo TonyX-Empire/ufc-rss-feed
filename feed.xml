@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:46:17 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC 329: McGregor vs Holloway 2</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/050926-bruce-buffer-announcement-HERO-GettyImages-2275357781.jpg?itok=QW43uTiv" alt="Official Scorecards | UFC 329: McGregor vs Holloway 2" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC 329: McGregor vs Holloway 2 Live From T-Mobile Arena In Las Vegas On July 11, 2026.</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC 329: McGregor vs Holloway 2</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2</guid>
+      <pubDate>Fri, 10 Jul 2026 17:30:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-Conor-McGregor-weigh-GettyImages-1200205514.jpg?itok=89x2EDTS" alt="Official Weigh-In Results | UFC 329: McGregor vs Holloway 2" /></p>
+<p>The Official Weights Of The Athletes Competing July 11 At International Fight Week In Las Vegas</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070826-hero-max-holloway-ufc-329_GettyImages-2265356688.jpg?itok=jCo4cbMU" alt="Max Holloway | Rolling With The Tides" /></p>
 <p>Hawaiian Superstar Talks McGregor Rematch, Future Possibilities</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Europe’s Best Lightweights</title>
-      <link>https://www.ufc.com/news/europes-best-lightweights</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/europes-best-lightweights</guid>
-      <pubDate>Wed, 08 Jul 2026 17:42:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070826-europes-best-lightweights-thumb.jpg?itok=Tl4dlmNs" alt="Europe’s Best Lightweights" /></p>
-<p>A Look At Some Of The Elite Athletes Representing Europe At 155 Pounds</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
