@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-11T13:44:29.640356+00:00",
+  "last_build_date": "2026-07-11T16:01:15.334072+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-07-11T21:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC 329: McGregor vs Holloway 2 Live From T-Mobile Arena In Las Vegas On July 11, 2026.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/050926-bruce-buffer-announcement-HERO-GettyImages-2275357781.jpg?itok=QW43uTiv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC 329: McGregor vs Holloway 2",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Sat, 11 Jul 2026 15:00:00 GMT",
+      "published_at": "2026-07-11T15:00:00+00:00",
+      "description": "International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-07-10T17:30:00+00:00",
       "description": "The Official Weights Of The Athletes Competing July 11 At International Fight Week In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-Conor-McGregor-weigh-GettyImages-1200205514.jpg?itok=89x2EDTS",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Brandon Royval Looks To Reassert Himself Among Flyweight Division’s Elite At UFC 329",
-      "link": "https://www.ufc.com/news/brandon-royval-looks-to-reassert-himself-among-flyweight-divisions-elite-ufc-329",
-      "guid": "https://www.ufc.com/news/brandon-royval-looks-to-reassert-himself-among-flyweight-divisions-elite-ufc-329",
-      "pubDate": "Thu, 09 Jul 2026 21:20:00 GMT",
-      "published_at": "2026-07-09T21:20:00+00:00",
-      "description": "Former Title Challenger Looks To Use Experience, Growth And An Unrelenting Pace To Make Statement Against Lone'er Kavanagh At UFC 329: McGregor vs Holloway 2 On July 9, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Brandon-Royval-Hero-.jpg?itok=rXlGUv2T",
       "category": "UFC",
       "source": "UFC"
     }
