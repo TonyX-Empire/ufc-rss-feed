@@ -5,13 +5,23 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2026 03:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:28:33 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bonus Coverage | UFC 329: McGregor vs Holloway 2</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2</guid>
+      <pubDate>Sun, 12 Jul 2026 05:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/UFC_Hero_Template.jpg?itok=C08TqWHj" alt="Bonus Coverage | UFC 329: McGregor vs Holloway 2" /></p>
+<p>The Performances Awarded An Extra Bonus At T-Mobile Arena On July 11, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC 329: McGregor vs Holloway 2</title>
       <link>https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results</guid>
-      <pubDate>Sun, 12 Jul 2026 03:00:00 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 04:00:00 GMT</pubDate>
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc" alt="Main Card Results | UFC 329: McGregor vs Holloway 2" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 329: McGregor vs Holloway 2, Live From T-Mobile Arena In Las Vegas On July 11, 2026</p>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Luke-Riley-Hero-.jpg?itok=ve5v9ME5" alt="Luke Riley | The Liverpool Standard" /></p>
 <p>Featherweight Prospect Luke Riley Brings An Unbeaten Record And Unwavering Belief Into UFC 329.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC 329: McGregor vs Holloway 2</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-329-mcgregor-vs-holloway-2</guid>
-      <pubDate>Fri, 10 Jul 2026 17:30:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-Conor-McGregor-weigh-GettyImages-1200205514.jpg?itok=89x2EDTS" alt="Official Weigh-In Results | UFC 329: McGregor vs Holloway 2" /></p>
-<p>The Official Weights Of The Athletes Competing July 11 At International Fight Week In Las Vegas</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
