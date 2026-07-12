@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-12T16:04:10.932220+00:00",
+  "last_build_date": "2026-07-12T19:16:43.759069+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Bigger Picture | UFC 329",
+      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2",
+      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2",
+      "pubDate": "Sun, 12 Jul 2026 17:22:00 GMT",
+      "published_at": "2026-07-12T17:22:00+00:00",
+      "description": "Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC 329: McGregor vs Holloway 2",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-10T18:31:00+00:00",
       "description": "Highly Regarded Heavyweight Talks Expectations, UFC Debut",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Gable-Stevenson-Hero-.jpg?itok=29EjKzl4",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Luke Riley | The Liverpool Standard",
-      "link": "https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329",
-      "guid": "https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329",
-      "pubDate": "Fri, 10 Jul 2026 18:25:00 GMT",
-      "published_at": "2026-07-10T18:25:00+00:00",
-      "description": "Featherweight Prospect Luke Riley Brings An Unbeaten Record And Unwavering Belief Into UFC 329.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Luke-Riley-Hero-.jpg?itok=ve5v9ME5",
       "category": "UFC",
       "source": "UFC"
     }

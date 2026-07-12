@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:16:43 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bigger Picture | UFC 329</title>
+      <link>https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</guid>
+      <pubDate>Sun, 12 Jul 2026 17:22:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR" alt="The Bigger Picture | UFC 329" /></p>
+<p>Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC 329: McGregor vs Holloway 2</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Gable-Stevenson-Hero-.jpg?itok=29EjKzl4" alt="Gable Steveson Has Arrived" /></p>
 <p>Highly Regarded Heavyweight Talks Expectations, UFC Debut</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Luke Riley | The Liverpool Standard</title>
-      <link>https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/luke-riley-the-liverpool-standard-ufc-329</guid>
-      <pubDate>Fri, 10 Jul 2026 18:25:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Luke-Riley-Hero-.jpg?itok=ve5v9ME5" alt="Luke Riley | The Liverpool Standard" /></p>
-<p>Featherweight Prospect Luke Riley Brings An Unbeaten Record And Unwavering Belief Into UFC 329.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
