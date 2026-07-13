@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Jul 2026 17:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:40:19 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conor McGregor Announces Surgery After UFC 329 Injury</title>
+      <link>https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury</guid>
+      <pubDate>Mon, 13 Jul 2026 18:12:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/GettyImages-2285712480.jpg?itok=BE1T7OD6" alt="Conor McGregor Announces Surgery After UFC 329 Injury" /></p>
+<p>"The Notorious" Wrote On Social Media About The Injury And His Plans For The Future</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Dana White On UFC 329, Conor McGregor, Paddy Pimblett, Sophie Cunningham &amp; More</title>
       <link>https://www.ufc.com/news/dana-white-ufc-329-conor-mcgregor-paddy-pimblett-sophie-cunningham-more</link>
@@ -23,7 +33,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</guid>
       <pubDate>Sun, 12 Jul 2026 17:22:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR" alt="The Bigger Picture | UFC 329" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR" alt="The Bigger Picture | UFC 329" /></p>
 <p>Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B" alt="Updates To UFC Oklahoma City" /></p>
 <p>Changes To Fight Night Event Scheduled For July 18 In Oklahoma City</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>King Green | Always Focused On The Mission</title>
-      <link>https://www.ufc.com/news/king-green-always-focused-mission-ufc-329</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/king-green-always-focused-mission-ufc-329</guid>
-      <pubDate>Fri, 10 Jul 2026 18:41:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/King-Green-Hero-.jpg?itok=yj4rgmcH" alt="King Green | Always Focused On The Mission" /></p>
-<p>Veteran Lightweight Talks Terrance McKinney, Driving Force Ahead Of UFC 329</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
