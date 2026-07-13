@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-13T19:40:19.882070+00:00",
+  "last_build_date": "2026-07-13T22:02:22.820799+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "NEW UFC ABU DHABI MAIN EVENT",
+      "link": "https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night",
+      "guid": "https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night",
+      "pubDate": "Mon, 13 Jul 2026 19:54:00 GMT",
+      "published_at": "2026-07-13T19:54:00+00:00",
+      "description": "Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi",
+      "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing Is Coming To London September 26",
+      "link": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
+      "pubDate": "Mon, 13 Jul 2026 19:15:00 GMT",
+      "published_at": "2026-07-13T19:15:00+00:00",
+      "description": "Register Your Interest For Zuffa Boxing 11 At Copper Box Arena",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Conor McGregor Announces Surgery After UFC 329 Injury",
       "link": "https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury",
@@ -80,28 +102,6 @@
       "published_at": "2026-07-12T01:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews And More From The UFC 329: McGregor vs Holloway 2 Prelims, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/100608-General-View-Octagon-UFC-229-GettyImages-1046914188.jpg?itok=50cYKi9A",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC TONIGHT: Fight By Fight Preview | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Sat, 11 Jul 2026 15:00:00 GMT",
-      "published_at": "2026-07-11T15:00:00+00:00",
-      "description": "International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
-      "pubDate": "Fri, 10 Jul 2026 21:18:00 GMT",
-      "published_at": "2026-07-10T21:18:00+00:00",
-      "description": "Changes To Fight Night Event Scheduled For July 18 In Oklahoma City",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
       "category": "UFC",
       "source": "UFC"
     }

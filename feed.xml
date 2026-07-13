@@ -5,8 +5,27 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Jul 2026 19:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:02:22 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEW UFC ABU DHABI MAIN EVENT</title>
+      <link>https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night</guid>
+      <pubDate>Mon, 13 Jul 2026 19:54:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p>Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Zuffa Boxing Is Coming To London September 26</title>
+      <link>https://www.ufc.com/news/zuffa-boxing-coming-london-september-26</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-coming-london-september-26</guid>
+      <pubDate>Mon, 13 Jul 2026 19:15:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP" alt="Zuffa Boxing Is Coming To London September 26" /></p>
+<p>Register Your Interest For Zuffa Boxing 11 At Copper Box Arena</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>Conor McGregor Announces Surgery After UFC 329 Injury</title>
       <link>https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury</link>
@@ -75,26 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/100608-General-View-Octagon-UFC-229-GettyImages-1046914188.jpg?itok=50cYKi9A" alt="Prelim Results | UFC 329: McGregor vs Holloway 2" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews And More From The UFC 329: McGregor vs Holloway 2 Prelims, Live From T-Mobile Arena In Las Vegas On July 11, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC TONIGHT: Fight By Fight Preview | UFC 329: McGregor vs Holloway 2</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-329-mcgregor-vs-holloway-2</guid>
-      <pubDate>Sat, 11 Jul 2026 15:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/070626-hero-ufc-329-fight-by-fight-hero.jpg?itok=ka0FSkd1" alt="UFC TONIGHT: Fight By Fight Preview | UFC 329: McGregor vs Holloway 2" /></p>
-<p>International Fight Week Wraps With An Action-Packed Event At T-Mobile Arena</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Updates To UFC Oklahoma City</title>
-      <link>https://www.ufc.com/news/updates-ufc-oklahoma-city</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/updates-ufc-oklahoma-city</guid>
-      <pubDate>Fri, 10 Jul 2026 21:18:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B" alt="Updates To UFC Oklahoma City" /></p>
-<p>Changes To Fight Night Event Scheduled For July 18 In Oklahoma City</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
