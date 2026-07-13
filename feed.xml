@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2026 21:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:45:34 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dana White On UFC 329, Conor McGregor, Paddy Pimblett, Sophie Cunningham &amp; More</title>
+      <link>https://www.ufc.com/news/dana-white-ufc-329-conor-mcgregor-paddy-pimblett-sophie-cunningham-more</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-ufc-329-conor-mcgregor-paddy-pimblett-sophie-cunningham-more</guid>
+      <pubDate>Mon, 13 Jul 2026 01:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-Dana-White-Press-Conference-GettyImages-2285716324.jpg?itok=PwMu54cw" alt="Dana White On UFC 329, Conor McGregor, Paddy Pimblett, Sophie Cunningham &amp; More" /></p>
+<p>Dana White Fielded Questions From The Media At The UFC 329: McGregor vs Holloway 2 Post-Fight Press Conference In Las Vegas</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>The Bigger Picture | UFC 329</title>
       <link>https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/King-Green-Hero-.jpg?itok=yj4rgmcH" alt="King Green | Always Focused On The Mission" /></p>
 <p>Veteran Lightweight Talks Terrance McKinney, Driving Force Ahead Of UFC 329</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Gable Steveson Has Arrived</title>
-      <link>https://www.ufc.com/news/gable-steveson-has-arrived-ufc-329</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/gable-steveson-has-arrived-ufc-329</guid>
-      <pubDate>Fri, 10 Jul 2026 18:31:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Gable-Stevenson-Hero-.jpg?itok=29EjKzl4" alt="Gable Steveson Has Arrived" /></p>
-<p>Highly Regarded Heavyweight Talks Expectations, UFC Debut</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
