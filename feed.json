@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-14T16:21:28.877590+00:00",
+  "last_build_date": "2026-07-14T19:38:04.792867+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters On The Rise | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria",
+      "pubDate": "Tue, 14 Jul 2026 18:36:00 GMT",
+      "published_at": "2026-07-14T18:36:00+00:00",
+      "description": "Spotlighting Three Athletes Ready To Shine In OKC On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071426-alberto-montes-walkout_GettyImages-2265336916.jpg?itok=Bfdi3HnH",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "DANA WHITE’S CONTENDER SERIES DEBUTS ON PARAMOUNT+ WITH HISTORIC 10TH SEASON",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-debuts-paramount-historic-10th-season",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-debuts-paramount-historic-10th-season",
+      "pubDate": "Tue, 14 Jul 2026 17:03:00 GMT",
+      "published_at": "2026-07-14T17:03:00+00:00",
+      "description": "SEASON 10 TO DEBUT ON TUESDAY, AUGUST 11. ALL EPISODES WILL AIR EXCLUSIVELY ON PARAMOUNT+",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/dana-white-contender-series-season-10-graphic_0.jpg?itok=w6j0_eGV",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Zuffa Boxing Is Coming To London September 26",
       "link": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
@@ -35,7 +57,7 @@
       "pubDate": "Mon, 13 Jul 2026 19:54:00 GMT",
       "published_at": "2026-07-13T19:54:00+00:00",
       "description": "Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071326-Abu-Dhabi-main-Ankalaev-Guskov.jpg?itok=5VkNZfPM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071326-Abu-Dhabi-main-Ankalaev-Guskov.jpg?itok=5VkNZfPM",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-07-12T05:00:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At T-Mobile Arena On July 11, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/UFC_Hero_Template.jpg?itok=C08TqWHj",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results",
-      "guid": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-results",
-      "pubDate": "Sun, 12 Jul 2026 04:00:00 GMT",
-      "published_at": "2026-07-12T04:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 329: McGregor vs Holloway 2, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/071126-ufc-329-mcgregor-vs-holloway-2-EVENT-ART.jpg?itok=2dqupmyc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-scorecards",
-      "pubDate": "Sun, 12 Jul 2026 03:00:00 GMT",
-      "published_at": "2026-07-12T03:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC 329: McGregor vs Holloway 2 Live From T-Mobile Arena In Las Vegas On July 11, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/050926-bruce-buffer-announcement-HERO-GettyImages-2275357781.jpg?itok=QW43uTiv",
       "category": "UFC",
       "source": "UFC"
     }
