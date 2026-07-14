@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-13T22:02:22.820799+00:00",
+  "last_build_date": "2026-07-14T03:19:40.236045+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Zuffa Boxing Is Coming To London September 26",
+      "link": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
+      "pubDate": "Mon, 13 Jul 2026 22:15:00 GMT",
+      "published_at": "2026-07-13T22:15:00+00:00",
+      "description": "Register Your Interest For Zuffa Boxing 11 At Copper Box Arena",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-oklahoma-city-du-plessis-usman",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-oklahoma-city-du-plessis-usman",
+      "pubDate": "Mon, 13 Jul 2026 20:56:00 GMT",
+      "published_at": "2026-07-13T20:56:00+00:00",
+      "description": "Diving Deep Into Saturday's Intriguing UFC Fight Night: Du Plessis vs Usman Fight Card",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071326-OKC-FBF-Hero.jpg?itok=Vr6VIOhr",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "NEW UFC ABU DHABI MAIN EVENT",
       "link": "https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night",
@@ -15,17 +37,6 @@
       "description": "Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi",
       "image": "",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing Is Coming To London September 26",
-      "link": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-coming-london-september-26",
-      "pubDate": "Mon, 13 Jul 2026 19:15:00 GMT",
-      "published_at": "2026-07-13T19:15:00+00:00",
-      "description": "Register Your Interest For Zuffa Boxing 11 At Copper Box Arena",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP",
-      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-07-12T03:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC 329: McGregor vs Holloway 2 Live From T-Mobile Arena In Las Vegas On July 11, 2026.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/050926-bruce-buffer-announcement-HERO-GettyImages-2275357781.jpg?itok=QW43uTiv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-329-mcgregor-vs-holloway-2-prelim-results",
-      "pubDate": "Sun, 12 Jul 2026 01:00:00 GMT",
-      "published_at": "2026-07-12T01:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews And More From The UFC 329: McGregor vs Holloway 2 Prelims, Live From T-Mobile Arena In Las Vegas On July 11, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/100608-General-View-Octagon-UFC-229-GettyImages-1046914188.jpg?itok=50cYKi9A",
       "category": "UFC",
       "source": "UFC"
     }
