@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jul 2026 19:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:05:44 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience The Thrill Of UFC At Fanatics Fest NYC</title>
+      <link>https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc</guid>
+      <pubDate>Tue, 14 Jul 2026 22:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/fanatics-fest-article-thumb.jpg?itok=HXCuQQP-" alt="Experience The Thrill Of UFC At Fanatics Fest NYC" /></p>
+<p>Fanatics Fest NYC Returns ToJavits Center July 16–18, Featuring The Immersive UFC Experience With Interactive Activations And Athlete Appearances</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Fighters On The Rise | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR" alt="The Bigger Picture | UFC 329" /></p>
 <p>Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC 329: McGregor vs Holloway 2</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2</guid>
-      <pubDate>Sun, 12 Jul 2026 05:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/UFC_Hero_Template.jpg?itok=C08TqWHj" alt="Bonus Coverage | UFC 329: McGregor vs Holloway 2" /></p>
-<p>The Performances Awarded An Extra Bonus At T-Mobile Arena On July 11, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

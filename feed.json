@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-14T19:38:04.792867+00:00",
+  "last_build_date": "2026-07-14T22:05:44.498411+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Experience The Thrill Of UFC At Fanatics Fest NYC",
+      "link": "https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc",
+      "guid": "https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc",
+      "pubDate": "Tue, 14 Jul 2026 22:00:00 GMT",
+      "published_at": "2026-07-14T22:00:00+00:00",
+      "description": "Fanatics Fest NYC Returns ToJavits Center July 16–18, Featuring The Immersive UFC Experience With Interactive Activations And Athlete Appearances",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/fanatics-fest-article-thumb.jpg?itok=HXCuQQP-",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fighters On The Rise | UFC Oklahoma City",
       "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-12T17:22:00+00:00",
       "description": "Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC 329: McGregor vs Holloway 2",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Sun, 12 Jul 2026 05:00:00 GMT",
-      "published_at": "2026-07-12T05:00:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At T-Mobile Arena On July 11, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/UFC_Hero_Template.jpg?itok=C08TqWHj",
       "category": "UFC",
       "source": "UFC"
     }
