@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-14T14:04:21.166040+00:00",
+  "last_build_date": "2026-07-14T16:21:28.877590+00:00",
   "item_count": 9,
   "items": [
     {
@@ -35,7 +35,7 @@
       "pubDate": "Mon, 13 Jul 2026 19:54:00 GMT",
       "published_at": "2026-07-13T19:54:00+00:00",
       "description": "Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi",
-      "image": "",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071326-Abu-Dhabi-main-Ankalaev-Guskov.jpg?itok=5VkNZfPM",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
