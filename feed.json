@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-15T16:39:14.157454+00:00",
+  "last_build_date": "2026-07-15T19:24:07.942058+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Updates To UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
+      "guid": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
+      "pubDate": "Wed, 15 Jul 2026 17:45:00 GMT",
+      "published_at": "2026-07-15T17:45:00+00:00",
+      "description": "Changes To Fight Night Event Scheduled For July 18 In Oklahoma City",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White Makes It Official: Ryan Garcia vs Conor Benn Sept. 12",
+      "link": "https://www.ufc.com/news/dana-white-makes-it-official-ryan-garcia-vs-conor-benn-sept-12",
+      "guid": "https://www.ufc.com/news/dana-white-makes-it-official-ryan-garcia-vs-conor-benn-sept-12",
+      "pubDate": "Wed, 15 Jul 2026 17:18:00 GMT",
+      "published_at": "2026-07-15T17:18:00+00:00",
+      "description": "Long-Anticipated Bout Set For T-Mobile Arena On Mexican Independence Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-Conor-Benn-hero-GettyImages-2270901824.jpg?itok=-CktqoSx",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Partners with Total Wireless and Good Greek Moving & Storage to Host Youth Fitness Seminars as Part of UFC Freedom 250 Fight Week",
+      "link": "https://www.ufc.com/news/ufc-partners-total-wireless-and-good-greek-moving-storage-host-youth-fitness-seminars-part-ufc",
+      "guid": "https://www.ufc.com/news/ufc-partners-total-wireless-and-good-greek-moving-storage-host-youth-fitness-seminars-part-ufc",
+      "pubDate": "Wed, 15 Jul 2026 16:59:00 GMT",
+      "published_at": "2026-07-15T16:59:00+00:00",
+      "description": "Latest UFC news: UFC Partners with Total Wireless and Good Greek Moving & Storage to Host Youth Fitness Seminars as Part of UFC Freedom 250 Fight Week",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-50-50-ufc-bjj-group-photo_0.jpg?itok=xLUQm163",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Collaborates with Polymarket and Meta to Support Several Veteran-Focused Non-profit Organizations as Part of UFC Freedom 250 Fight Week",
+      "link": "https://www.ufc.com/news/ufc-collaborates-polymarket-and-meta-support-several-veteran-focused-non-profit-organizations",
+      "guid": "https://www.ufc.com/news/ufc-collaborates-polymarket-and-meta-support-several-veteran-focused-non-profit-organizations",
+      "pubDate": "Wed, 15 Jul 2026 16:18:00 GMT",
+      "published_at": "2026-07-15T16:18:00+00:00",
+      "description": "Latest UFC news: UFC Collaborates with Polymarket and Meta to Support Several Veteran-Focused Non-profit Organizations as Part of UFC Freedom 250 Fight Week",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-first-responders-ufc-freedom-250-weigh-ins.jpg?itok=Fis0dV2R",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fatima Kline | Ready To Show And Prove",
       "link": "https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city",
@@ -59,50 +103,6 @@
       "description": "Register Your Interest For Zuffa Boxing 11 At Copper Box Arena",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-oklahoma-city-du-plessis-usman",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-oklahoma-city-du-plessis-usman",
-      "pubDate": "Mon, 13 Jul 2026 20:56:00 GMT",
-      "published_at": "2026-07-13T20:56:00+00:00",
-      "description": "Diving Deep Into Saturday's Intriguing UFC Fight Night: Du Plessis vs Usman Fight Card",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071326-OKC-FBF-Hero.jpg?itok=Vr6VIOhr",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "NEW UFC ABU DHABI MAIN EVENT",
-      "link": "https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night",
-      "guid": "https://www.ufc.com/news/new-ufc-abu-dhabi-main-event-ankalaev-guskov-fight-night",
-      "pubDate": "Mon, 13 Jul 2026 19:54:00 GMT",
-      "published_at": "2026-07-13T19:54:00+00:00",
-      "description": "Key Updates To The July 25 Event At Etihad Arena, Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071326-Abu-Dhabi-main-Ankalaev-Guskov.jpg?itok=5VkNZfPM",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Conor McGregor Announces Surgery After UFC 329 Injury",
-      "link": "https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury",
-      "guid": "https://www.ufc.com/news/conor-mcgregor-announces-surgery-after-ufc-329-injury",
-      "pubDate": "Mon, 13 Jul 2026 18:12:00 GMT",
-      "published_at": "2026-07-13T18:12:00+00:00",
-      "description": "\"The Notorious\" Wrote On Social Media About The Injury And His Plans For The Future",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/GettyImages-2285712480.jpg?itok=BE1T7OD6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On UFC 329, Conor McGregor, Paddy Pimblett, Sophie Cunningham & More",
-      "link": "https://www.ufc.com/news/dana-white-ufc-329-conor-mcgregor-paddy-pimblett-sophie-cunningham-more",
-      "guid": "https://www.ufc.com/news/dana-white-ufc-329-conor-mcgregor-paddy-pimblett-sophie-cunningham-more",
-      "pubDate": "Mon, 13 Jul 2026 01:00:00 GMT",
-      "published_at": "2026-07-13T01:00:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The UFC 329: McGregor vs Holloway 2 Post-Fight Press Conference In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-Dana-White-Press-Conference-GettyImages-2285716324.jpg?itok=PwMu54cw",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
