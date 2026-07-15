@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:08:41 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tommy McMillen | Welcome to The Gun Show</title>
+      <link>https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city</guid>
+      <pubDate>Wed, 15 Jul 2026 21:49:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Tommy-McMillen-Hero-.jpg?itok=ZCgE8Et6" alt="Tommy McMillen | Welcome to The Gun Show" /></p>
+<p>Finally Healthy, Unbeaten Featherweight Wants To Stay Active, Stack Wins</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Updates To UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/updates-ufc-oklahoma-city</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/dana-white-contender-series-season-10-graphic_0.jpg?itok=w6j0_eGV" alt="DANA WHITE’S CONTENDER SERIES DEBUTS ON PARAMOUNT+ WITH HISTORIC 10TH SEASON" /></p>
 <p>SEASON 10 TO DEBUT ON TUESDAY, AUGUST 11. ALL EPISODES WILL AIR EXCLUSIVELY ON PARAMOUNT+</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Zuffa Boxing Is Coming To London September 26</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-coming-london-september-26</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-coming-london-september-26</guid>
-      <pubDate>Mon, 13 Jul 2026 22:15:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-07/2426x1365.jpg?itok=Zf8_qVtP" alt="Zuffa Boxing Is Coming To London September 26" /></p>
-<p>Register Your Interest For Zuffa Boxing 11 At Copper Box Arena</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
