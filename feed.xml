@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:19:21 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fatima Kline | Ready To Show And Prove</title>
+      <link>https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city</guid>
+      <pubDate>Tue, 14 Jul 2026 22:31:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071426-fatima-kline-backstage_GettyImages-2224830352.jpg?itok=bGeyuBy_" alt="Fatima Kline | Ready To Show And Prove" /></p>
+<p>Ascending Strawweight Excited For Next Test, Eyes Title Opportunity In 2027</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Experience The Thrill Of UFC At Fanatics Fest NYC</title>
       <link>https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-Dana-White-Press-Conference-GettyImages-2285716324.jpg?itok=PwMu54cw" alt="Dana White On UFC 329, Conor McGregor, Paddy Pimblett, Sophie Cunningham &amp; More" /></p>
 <p>Dana White Fielded Questions From The Media At The UFC 329: McGregor vs Holloway 2 Post-Fight Press Conference In Las Vegas</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>The Bigger Picture | UFC 329</title>
-      <link>https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2</guid>
-      <pubDate>Sun, 12 Jul 2026 17:22:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR" alt="The Bigger Picture | UFC 329" /></p>
-<p>Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

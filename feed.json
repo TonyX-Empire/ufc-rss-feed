@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-14T22:05:44.498411+00:00",
+  "last_build_date": "2026-07-15T03:19:21.250929+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fatima Kline | Ready To Show And Prove",
+      "link": "https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city",
+      "guid": "https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city",
+      "pubDate": "Tue, 14 Jul 2026 22:31:00 GMT",
+      "published_at": "2026-07-14T22:31:00+00:00",
+      "description": "Ascending Strawweight Excited For Next Test, Eyes Title Opportunity In 2027",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071426-fatima-kline-backstage_GettyImages-2224830352.jpg?itok=bGeyuBy_",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Experience The Thrill Of UFC At Fanatics Fest NYC",
       "link": "https://www.ufc.com/news/experience-thrill-ufc-fanatics-fest-nyc",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-13T01:00:00+00:00",
       "description": "Dana White Fielded Questions From The Media At The UFC 329: McGregor vs Holloway 2 Post-Fight Press Conference In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-Dana-White-Press-Conference-GettyImages-2285716324.jpg?itok=PwMu54cw",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Bigger Picture | UFC 329",
-      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2",
-      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-329-mcgregor-vs-holloway-2",
-      "pubDate": "Sun, 12 Jul 2026 17:22:00 GMT",
-      "published_at": "2026-07-12T17:22:00+00:00",
-      "description": "Addressing The Takeaways From Saturday’s All-Action Night At UFC 329: McGregor vs Holloway 2",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071126-paddy-pimblett-reacts-GettyImages-2285712894.jpg?itok=XVxh41GR",
       "category": "UFC",
       "source": "UFC"
     }
