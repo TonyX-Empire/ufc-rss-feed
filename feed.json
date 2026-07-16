@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-16T19:23:50.487563+00:00",
+  "last_build_date": "2026-07-16T22:10:00.984813+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Jose Miguel Delgado Wants To Build Something That Lasts",
+      "link": "https://www.ufc.com/news/jose-miguel-delgado-wants-build-something-lasts",
+      "guid": "https://www.ufc.com/news/jose-miguel-delgado-wants-build-something-lasts",
+      "pubDate": "Thu, 16 Jul 2026 21:44:00 GMT",
+      "published_at": "2026-07-16T21:44:00+00:00",
+      "description": "Featherweight Prospect Jose Miguel Delgado Hopes To Deliver A Statement In His Fight With Austin Bashi At UFC Fight Night: Du Plessis vs Usman",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-jose-miguel-delgado_GettyImages-2222671371.jpg?itok=-dO-b2ro",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Kamaru Usman | A \"Moneyweight\" Fighter",
+      "link": "https://www.ufc.com/news/kamaru-usman-a-moneyweight-fighter-ufc-oklahoma-city",
+      "guid": "https://www.ufc.com/news/kamaru-usman-a-moneyweight-fighter-ufc-oklahoma-city",
+      "pubDate": "Thu, 16 Jul 2026 20:17:00 GMT",
+      "published_at": "2026-07-16T20:17:00+00:00",
+      "description": "“The Nigerian Nightmare” Will Fight At Whatever Fight Makes Sense, But Right Now, He’s Eyeing Glory At 185 Pounds.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-kamaru-usman-walkout_GettyImages-2220196895.jpg?itok=Bm54zwB6",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Alberto Montes Is Building His Career Brick By Brick",
       "link": "https://www.ufc.com/news/alberto-montes-is-building-his-career-brick-by-brick-ufc-oklahoma-city",
@@ -13,8 +35,19 @@
       "pubDate": "Thu, 16 Jul 2026 19:11:00 GMT",
       "published_at": "2026-07-16T19:11:00+00:00",
       "description": "Venezuela’s Alberto Montes Is Staying Patient As He Moves Through The Early Days Of His UFC Career",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-hero-alberto-montes_GettyImages-2265340269.jpg?itok=OREW9UvG",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-hero-alberto-montes_GettyImages-2265340269.jpg?itok=OREW9UvG",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jean-Paul Lebosnoyani | Performance Over Outcome",
+      "link": "https://www.ufc.com/news/jean-paul-lebosnoyani-performance-over-outcome",
+      "guid": "https://www.ufc.com/news/jean-paul-lebosnoyani-performance-over-outcome",
+      "pubDate": "Thu, 16 Jul 2026 16:55:00 GMT",
+      "published_at": "2026-07-16T16:55:00+00:00",
+      "description": "Cerebral Newcomer Discusses Approach To Competing In Welterweight Division Ahead Of Second UFC Start In Oklahoma City",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-JPL-celebration_GettyImages-2262868783.jpg?itok=lIlvoxi3",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -70,39 +103,6 @@
       "description": "Long-Anticipated Bout Set For T-Mobile Arena On Mexican Independence Weekend",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-Conor-Benn-hero-GettyImages-2270901824.jpg?itok=-CktqoSx",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Partners with Total Wireless and Good Greek Moving & Storage to Host Youth Fitness Seminars as Part of UFC Freedom 250 Fight Week",
-      "link": "https://www.ufc.com/news/ufc-partners-total-wireless-and-good-greek-moving-storage-host-youth-fitness-seminars-part-ufc",
-      "guid": "https://www.ufc.com/news/ufc-partners-total-wireless-and-good-greek-moving-storage-host-youth-fitness-seminars-part-ufc",
-      "pubDate": "Wed, 15 Jul 2026 16:59:00 GMT",
-      "published_at": "2026-07-15T16:59:00+00:00",
-      "description": "Latest UFC news: UFC Partners with Total Wireless and Good Greek Moving & Storage to Host Youth Fitness Seminars as Part of UFC Freedom 250 Fight Week",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-50-50-ufc-bjj-group-photo_0.jpg?itok=xLUQm163",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Collaborates with Polymarket and Meta to Support Several Veteran-Focused Non-profit Organizations as Part of UFC Freedom 250 Fight Week",
-      "link": "https://www.ufc.com/news/ufc-collaborates-polymarket-and-meta-support-several-veteran-focused-non-profit-organizations",
-      "guid": "https://www.ufc.com/news/ufc-collaborates-polymarket-and-meta-support-several-veteran-focused-non-profit-organizations",
-      "pubDate": "Wed, 15 Jul 2026 16:18:00 GMT",
-      "published_at": "2026-07-15T16:18:00+00:00",
-      "description": "Latest UFC news: UFC Collaborates with Polymarket and Meta to Support Several Veteran-Focused Non-profit Organizations as Part of UFC Freedom 250 Fight Week",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-first-responders-ufc-freedom-250-weigh-ins.jpg?itok=Fis0dV2R",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fatima Kline | Ready To Show And Prove",
-      "link": "https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/fatima-kline-ready-show-and-prove-ufc-oklahoma-city",
-      "pubDate": "Tue, 14 Jul 2026 22:31:00 GMT",
-      "published_at": "2026-07-14T22:31:00+00:00",
-      "description": "Ascending Strawweight Excited For Next Test, Eyes Title Opportunity In 2027",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071426-fatima-kline-backstage_GettyImages-2224830352.jpg?itok=bGeyuBy_",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
