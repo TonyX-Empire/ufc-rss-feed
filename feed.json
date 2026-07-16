@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-15T22:08:41.948218+00:00",
+  "last_build_date": "2026-07-16T03:26:43.763887+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Alden Coria Deserves Your Attention",
+      "link": "https://www.ufc.com/news/alden-coria-deserves-your-attention-ufc-oklahoma-city-flyweight",
+      "guid": "https://www.ufc.com/news/alden-coria-deserves-your-attention-ufc-oklahoma-city-flyweight",
+      "pubDate": "Thu, 16 Jul 2026 01:41:00 GMT",
+      "published_at": "2026-07-16T01:41:00+00:00",
+      "description": "Ascending Flyweight Talks Training With Joshua Van, Tricky Assignment In OKC",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Alden-Coria-Hero-.jpg?itok=LG8zLU6b",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dricus Du Plessis: ‘I Hate Being A Loser’",
+      "link": "https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight",
+      "guid": "https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight",
+      "pubDate": "Thu, 16 Jul 2026 00:26:00 GMT",
+      "published_at": "2026-07-16T00:26:00+00:00",
+      "description": "Former Middleweight Champ Stoked To Finally Return To Action",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dricus-Du-Plessis-Hero-.jpg?itok=Bj2Z7Bhg",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Tommy McMillen | Welcome to The Gun Show",
       "link": "https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city",
@@ -81,28 +103,6 @@
       "description": "Fanatics Fest NYC Returns ToJavits Center July 16–18, Featuring The Immersive UFC Experience With Interactive Activations And Athlete Appearances",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/fanatics-fest-article-thumb.jpg?itok=HXCuQQP-",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters On The Rise | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-oklahoma-city-montes-kline-coria",
-      "pubDate": "Tue, 14 Jul 2026 18:36:00 GMT",
-      "published_at": "2026-07-14T18:36:00+00:00",
-      "description": "Spotlighting Three Athletes Ready To Shine In OKC On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071426-alberto-montes-walkout_GettyImages-2265336916.jpg?itok=Bfdi3HnH",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "DANA WHITE’S CONTENDER SERIES DEBUTS ON PARAMOUNT+ WITH HISTORIC 10TH SEASON",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-debuts-paramount-historic-10th-season",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-debuts-paramount-historic-10th-season",
-      "pubDate": "Tue, 14 Jul 2026 17:03:00 GMT",
-      "published_at": "2026-07-14T17:03:00+00:00",
-      "description": "SEASON 10 TO DEBUT ON TUESDAY, AUGUST 11. ALL EPISODES WILL AIR EXCLUSIVELY ON PARAMOUNT+",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/dana-white-contender-series-season-10-graphic_0.jpg?itok=w6j0_eGV",
-      "category": "News",
       "source": "UFC"
     }
   ]
