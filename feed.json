@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-17T13:56:11.531220+00:00",
+  "last_build_date": "2026-07-17T16:21:39.620008+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-07-19T00:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-fight-night-du-plessis-vs-usman-TEMPORARY-EVENT-ART-NOT-FINAL.jpg?itok=gEAFj0li",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards",
+      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
+      "published_at": "2026-07-18T21:00:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,6 +40,39 @@
       "source": "UFC"
     },
     {
+      "title": "Tabatha Ricci | ‘I Just Wanna Fight’",
+      "link": "https://www.ufc.com/news/tabatha-ricci-i-just-wanna-fight",
+      "guid": "https://www.ufc.com/news/tabatha-ricci-i-just-wanna-fight",
+      "pubDate": "Fri, 17 Jul 2026 16:17:00 GMT",
+      "published_at": "2026-07-17T16:17:00+00:00",
+      "description": "Women’s Strawweight Contender Explains Why She’s Happily Taking A Short-Notice Opportunity To Face A Dangerous Rising Star At UFC Oklahoma City",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Tabatha-Ricci-Hero-.jpg?itok=6KQYeSn0",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Christian Leroy Duncan | The Next Step Of The Masterplan",
+      "link": "https://www.ufc.com/news/christian-leroy-duncan-next-step-masterplan",
+      "guid": "https://www.ufc.com/news/christian-leroy-duncan-next-step-masterplan",
+      "pubDate": "Fri, 17 Jul 2026 16:11:00 GMT",
+      "published_at": "2026-07-17T16:11:00+00:00",
+      "description": "Rising English Contender Has A Long-Term Plan To Reach The UFC Summit, With His Next Goal A Spot In The Middleweight Top 10",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-christian-leroy-duncan-backstage_GettyImages-2245750237.jpg?itok=h6bvlIsv",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 10 Official Fight Card",
+      "link": "https://www.ufc.com/news/zuffa-boxing-10-official-fight-card",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-10-official-fight-card",
+      "pubDate": "Fri, 17 Jul 2026 15:44:00 GMT",
+      "published_at": "2026-07-17T15:44:00+00:00",
+      "description": "McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | UFC Fight Night: Oklahoma City",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
@@ -40,69 +84,25 @@
       "source": "UFC"
     },
     {
-      "title": "Jared Cannonier | Still Here, Still Getting Better",
-      "link": "https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight",
-      "guid": "https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight",
-      "pubDate": "Fri, 17 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-17T13:00:00+00:00",
-      "description": "Former Middleweight Title Challenger Plans To Showcase His Evolving Skillset Against Rising Contender Christian Leroy Duncan in Oklahoma City.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-jared-cannonier-celebration_GettyImages-2199895361.jpg?itok=Kwe33lB8",
+      "title": "Chase Hooper | Focused On Refining What Made Him Successful",
+      "link": "https://www.ufc.com/news/chase-hooper-focused-refining-what-made-him-successful-ufc-oklahoma-city",
+      "guid": "https://www.ufc.com/news/chase-hooper-focused-refining-what-made-him-successful-ufc-oklahoma-city",
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 GMT",
+      "published_at": "2026-07-17T14:00:00+00:00",
+      "description": "Chase Hooper Believes Returning To His Grappling Roots And Embracing Change Will Fuel The Next Chapter Of His UFC Career",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-chase-hooper-hand-raiseGettyImages-2152513536.jpg?itok=Eq6cn90x",
       "category": "UFC",
       "source": "UFC"
     },
     {
-      "title": "Jose Miguel Delgado Wants To Build Something That Lasts",
-      "link": "https://www.ufc.com/news/jose-miguel-delgado-wants-build-something-lasts",
-      "guid": "https://www.ufc.com/news/jose-miguel-delgado-wants-build-something-lasts",
-      "pubDate": "Thu, 16 Jul 2026 21:44:00 GMT",
-      "published_at": "2026-07-16T21:44:00+00:00",
-      "description": "Featherweight Prospect Jose Miguel Delgado Hopes To Deliver A Statement In His Fight With Austin Bashi At UFC Fight Night: Du Plessis vs Usman",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-jose-miguel-delgado_GettyImages-2222671371.jpg?itok=-dO-b2ro",
+      "title": "Statement On Volkan Oezdemir",
+      "link": "https://www.ufc.com/news/statement-volkan-oezdemir",
+      "guid": "https://www.ufc.com/news/statement-volkan-oezdemir",
+      "pubDate": "Fri, 17 Jul 2026 13:13:00 GMT",
+      "published_at": "2026-07-17T13:13:00+00:00",
+      "description": "Latest UFC news: Statement On Volkan Oezdemir",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Kamaru Usman | A \"Moneyweight\" Fighter",
-      "link": "https://www.ufc.com/news/kamaru-usman-a-moneyweight-fighter-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/kamaru-usman-a-moneyweight-fighter-ufc-oklahoma-city",
-      "pubDate": "Thu, 16 Jul 2026 20:17:00 GMT",
-      "published_at": "2026-07-16T20:17:00+00:00",
-      "description": "“The Nigerian Nightmare” Will Fight At Whatever Fight Makes Sense, But Right Now, He’s Eyeing Glory At 185 Pounds.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-kamaru-usman-walkout_GettyImages-2220196895.jpg?itok=Bm54zwB6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Alberto Montes Is Building His Career Brick By Brick",
-      "link": "https://www.ufc.com/news/alberto-montes-is-building-his-career-brick-by-brick-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/alberto-montes-is-building-his-career-brick-by-brick-ufc-oklahoma-city",
-      "pubDate": "Thu, 16 Jul 2026 19:11:00 GMT",
-      "published_at": "2026-07-16T19:11:00+00:00",
-      "description": "Venezuela’s Alberto Montes Is Staying Patient As He Moves Through The Early Days Of His UFC Career",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-hero-alberto-montes_GettyImages-2265340269.jpg?itok=OREW9UvG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jean-Paul Lebosnoyani | Performance Over Outcome",
-      "link": "https://www.ufc.com/news/jean-paul-lebosnoyani-performance-over-outcome",
-      "guid": "https://www.ufc.com/news/jean-paul-lebosnoyani-performance-over-outcome",
-      "pubDate": "Thu, 16 Jul 2026 16:55:00 GMT",
-      "published_at": "2026-07-16T16:55:00+00:00",
-      "description": "Cerebral Newcomer Discusses Approach To Competing In Welterweight Division Ahead Of Second UFC Start In Oklahoma City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-JPL-celebration_GettyImages-2262868783.jpg?itok=lIlvoxi3",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Alden Coria Deserves Your Attention",
-      "link": "https://www.ufc.com/news/alden-coria-deserves-your-attention-ufc-oklahoma-city-flyweight",
-      "guid": "https://www.ufc.com/news/alden-coria-deserves-your-attention-ufc-oklahoma-city-flyweight",
-      "pubDate": "Thu, 16 Jul 2026 01:41:00 GMT",
-      "published_at": "2026-07-16T01:41:00+00:00",
-      "description": "Ascending Flyweight Talks Training With Joshua Van, Tricky Assignment In OKC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Alden-Coria-Hero-.jpg?itok=LG8zLU6b",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
