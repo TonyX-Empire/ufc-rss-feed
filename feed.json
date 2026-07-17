@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-17T10:54:07.381399+00:00",
+  "last_build_date": "2026-07-17T13:56:11.531220+00:00",
   "item_count": 9,
   "items": [
     {
@@ -25,6 +25,28 @@
       "published_at": "2026-07-18T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Oklahoma City",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
+      "pubDate": "Fri, 17 Jul 2026 15:25:00 GMT",
+      "published_at": "2026-07-17T15:25:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Du Plessis vs Usman On July 18",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-UFC-OKC-Weigh-Ins.jpg?itok=ccDp5-xd",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Jared Cannonier | Still Here, Still Getting Better",
+      "link": "https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight",
+      "guid": "https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight",
+      "pubDate": "Fri, 17 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-17T13:00:00+00:00",
+      "description": "Former Middleweight Title Challenger Plans To Showcase His Evolving Skillset Against Rising Contender Christian Leroy Duncan in Oklahoma City.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-jared-cannonier-celebration_GettyImages-2199895361.jpg?itok=Kwe33lB8",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-07-16T01:41:00+00:00",
       "description": "Ascending Flyweight Talks Training With Joshua Van, Tricky Assignment In OKC",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Alden-Coria-Hero-.jpg?itok=LG8zLU6b",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dricus Du Plessis: ‘I Hate Being A Loser’",
-      "link": "https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight",
-      "guid": "https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight",
-      "pubDate": "Thu, 16 Jul 2026 00:26:00 GMT",
-      "published_at": "2026-07-16T00:26:00+00:00",
-      "description": "Former Middleweight Champ Stoked To Finally Return To Action",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dricus-Du-Plessis-Hero-.jpg?itok=Bj2Z7Bhg",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Tommy McMillen | Welcome to The Gun Show",
-      "link": "https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city",
-      "pubDate": "Wed, 15 Jul 2026 21:49:00 GMT",
-      "published_at": "2026-07-15T21:49:00+00:00",
-      "description": "Finally Healthy, Unbeaten Featherweight Wants To Stay Active, Stack Wins",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Tommy-McMillen-Hero-.jpg?itok=ZCgE8Et6",
       "category": "UFC",
       "source": "UFC"
     }

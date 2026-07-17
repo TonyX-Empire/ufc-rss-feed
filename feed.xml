@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jul 2026 10:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:56:11 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Oklahoma City</title>
@@ -25,6 +25,26 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt" alt="Prelim Results | UFC Oklahoma City" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC Fight Night: Oklahoma City</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman</guid>
+      <pubDate>Fri, 17 Jul 2026 15:25:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-UFC-OKC-Weigh-Ins.jpg?itok=ccDp5-xd" alt="Official Weigh-In Results | UFC Fight Night: Oklahoma City" /></p>
+<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Du Plessis vs Usman On July 18</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Jared Cannonier | Still Here, Still Getting Better</title>
+      <link>https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/jared-cannonier-still-here-still-getting-better-ufc-oklahoma-city-middleweight</guid>
+      <pubDate>Fri, 17 Jul 2026 13:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071626-jared-cannonier-celebration_GettyImages-2199895361.jpg?itok=Kwe33lB8" alt="Jared Cannonier | Still Here, Still Getting Better" /></p>
+<p>Former Middleweight Title Challenger Plans To Showcase His Evolving Skillset Against Rising Contender Christian Leroy Duncan in Oklahoma City.</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -75,26 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Alden-Coria-Hero-.jpg?itok=LG8zLU6b" alt="Alden Coria Deserves Your Attention" /></p>
 <p>Ascending Flyweight Talks Training With Joshua Van, Tricky Assignment In OKC</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Dricus Du Plessis: ‘I Hate Being A Loser’</title>
-      <link>https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dricus-du-plessis-i-hate-being-loser-ufc-oklahoma-city-middleweight</guid>
-      <pubDate>Thu, 16 Jul 2026 00:26:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Dricus-Du-Plessis-Hero-.jpg?itok=Bj2Z7Bhg" alt="Dricus Du Plessis: ‘I Hate Being A Loser’" /></p>
-<p>Former Middleweight Champ Stoked To Finally Return To Action</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Tommy McMillen | Welcome to The Gun Show</title>
-      <link>https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/tommy-mcmillen-welcome-to-the-gun-show-ufc-oklahoma-city</guid>
-      <pubDate>Wed, 15 Jul 2026 21:49:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Tommy-McMillen-Hero-.jpg?itok=ZCgE8Et6" alt="Tommy McMillen | Welcome to The Gun Show" /></p>
-<p>Finally Healthy, Unbeaten Featherweight Wants To Stay Active, Stack Wins</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
