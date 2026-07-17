@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-16T22:10:00.984813+00:00",
+  "last_build_date": "2026-07-17T03:29:13.579668+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/ufc-oklahoma-city-results",
+      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-results",
+      "pubDate": "Sun, 19 Jul 2026 00:00:00 GMT",
+      "published_at": "2026-07-19T00:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-fight-night-du-plessis-vs-usman-TEMPORARY-EVENT-ART-NOT-FINAL.jpg?itok=gEAFj0li",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/ufc-oklahoma-city-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-prelim-results",
+      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
+      "published_at": "2026-07-18T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Jose Miguel Delgado Wants To Build Something That Lasts",
       "link": "https://www.ufc.com/news/jose-miguel-delgado-wants-build-something-lasts",
@@ -13,7 +35,7 @@
       "pubDate": "Thu, 16 Jul 2026 21:44:00 GMT",
       "published_at": "2026-07-16T21:44:00+00:00",
       "description": "Featherweight Prospect Jose Miguel Delgado Hopes To Deliver A Statement In His Fight With Austin Bashi At UFC Fight Night: Du Plessis vs Usman",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-jose-miguel-delgado_GettyImages-2222671371.jpg?itok=-dO-b2ro",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-jose-miguel-delgado_GettyImages-2222671371.jpg?itok=-dO-b2ro",
       "category": "News",
       "source": "UFC"
     },
@@ -24,7 +46,7 @@
       "pubDate": "Thu, 16 Jul 2026 20:17:00 GMT",
       "published_at": "2026-07-16T20:17:00+00:00",
       "description": "“The Nigerian Nightmare” Will Fight At Whatever Fight Makes Sense, But Right Now, He’s Eyeing Glory At 185 Pounds.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-kamaru-usman-walkout_GettyImages-2220196895.jpg?itok=Bm54zwB6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-kamaru-usman-walkout_GettyImages-2220196895.jpg?itok=Bm54zwB6",
       "category": "UFC",
       "source": "UFC"
     },
@@ -46,7 +68,7 @@
       "pubDate": "Thu, 16 Jul 2026 16:55:00 GMT",
       "published_at": "2026-07-16T16:55:00+00:00",
       "description": "Cerebral Newcomer Discusses Approach To Competing In Welterweight Division Ahead Of Second UFC Start In Oklahoma City",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/071626-JPL-celebration_GettyImages-2262868783.jpg?itok=lIlvoxi3",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-JPL-celebration_GettyImages-2262868783.jpg?itok=lIlvoxi3",
       "category": "News",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "Finally Healthy, Unbeaten Featherweight Wants To Stay Active, Stack Wins",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Tommy-McMillen-Hero-.jpg?itok=ZCgE8Et6",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
-      "pubDate": "Wed, 15 Jul 2026 17:45:00 GMT",
-      "published_at": "2026-07-15T17:45:00+00:00",
-      "description": "Changes To Fight Night Event Scheduled For July 18 In Oklahoma City",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White Makes It Official: Ryan Garcia vs Conor Benn Sept. 12",
-      "link": "https://www.ufc.com/news/dana-white-makes-it-official-ryan-garcia-vs-conor-benn-sept-12",
-      "guid": "https://www.ufc.com/news/dana-white-makes-it-official-ryan-garcia-vs-conor-benn-sept-12",
-      "pubDate": "Wed, 15 Jul 2026 17:18:00 GMT",
-      "published_at": "2026-07-15T17:18:00+00:00",
-      "description": "Long-Anticipated Bout Set For T-Mobile Arena On Mexican Independence Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071526-Conor-Benn-hero-GettyImages-2270901824.jpg?itok=-CktqoSx",
-      "category": "News",
       "source": "UFC"
     }
   ]
