@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:18:01 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Oklahoma City</title>
@@ -18,16 +18,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Prelim Results | UFC Oklahoma City</title>
-      <link>https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
-      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt" alt="Prelim Results | UFC Oklahoma City" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>Official Scorecards | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</guid>
@@ -35,6 +25,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958" alt="Official Scorecards | UFC Oklahoma City" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Prelim Results | UFC Oklahoma City</title>
+      <link>https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
+      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt" alt="Prelim Results | UFC Oklahoma City" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
