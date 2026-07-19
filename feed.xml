@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jul 2026 03:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:29:59 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bonus Coverage | UFC Oklahoma City</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city</guid>
+      <pubDate>Sun, 19 Jul 2026 04:04:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3.gif?itok=WwmwpGci" alt="Bonus Coverage | UFC Oklahoma City" /></p>
+<p>The Performances Awarded An Extra Bonus At Paycom Center On July 18, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/ufc-oklahoma-city-results</link>
@@ -23,7 +33,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</guid>
       <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958" alt="Official Scorecards | UFC Oklahoma City" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n" alt="Official Scorecards | UFC Oklahoma City" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -33,7 +43,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
       <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt" alt="Prelim Results | UFC Oklahoma City" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf" alt="Prelim Results | UFC Oklahoma City" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz" alt="Zuffa Boxing 10 Official Fight Card" /></p>
 <p>McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Fight Night: Oklahoma City</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman</guid>
-      <pubDate>Fri, 17 Jul 2026 15:25:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-UFC-OKC-Weigh-Ins.jpg?itok=ccDp5-xd" alt="Official Weigh-In Results | UFC Fight Night: Oklahoma City" /></p>
-<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Du Plessis vs Usman On July 18</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

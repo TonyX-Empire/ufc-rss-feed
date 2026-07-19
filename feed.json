@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-19T03:38:45.193550+00:00",
+  "last_build_date": "2026-07-19T08:29:59.944493+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Oklahoma City",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city",
+      "pubDate": "Sun, 19 Jul 2026 04:04:00 GMT",
+      "published_at": "2026-07-19T04:04:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Paycom Center On July 18, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3.gif?itok=WwmwpGci",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Oklahoma City",
       "link": "https://www.ufc.com/news/ufc-oklahoma-city-results",
@@ -24,7 +35,7 @@
       "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
       "published_at": "2026-07-18T21:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n",
       "category": "UFC",
       "source": "UFC"
     },
@@ -35,7 +46,7 @@
       "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
       "published_at": "2026-07-18T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Fight Night: Oklahoma City",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-oklahoma-city-du-plessis-usman",
-      "pubDate": "Fri, 17 Jul 2026 15:25:00 GMT",
-      "published_at": "2026-07-17T15:25:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Du Plessis vs Usman On July 18",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-UFC-OKC-Weigh-Ins.jpg?itok=ccDp5-xd",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
