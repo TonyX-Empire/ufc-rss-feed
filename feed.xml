@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:59:43 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Oklahoma City</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-oklahoma-city-du-plessis-vs-usman</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-oklahoma-city-du-plessis-vs-usman</guid>
+      <pubDate>Sun, 19 Jul 2026 21:02:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-okc-the-scorecard-hero_GettyImages-2286699738.jpg?itok=ywyhkgiu" alt="The Scorecard | UFC Oklahoma City" /></p>
+<p>Highlighting The Biggest Winners From UFC Fight Night: Du Plessis vs Usman On July 18, 2026, Live From The Paycom Center in Oklahoma City, Oklahoma</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Dana White On Dricus Du Plessis, Kamaru Usman, Conor McGregor’s Injury &amp; More</title>
+      <link>https://www.ufc.com/news/dana-white-dricus-du-plessis-kamaru-usman-conor-mcgregors-injury-more</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-dricus-du-plessis-kamaru-usman-conor-mcgregors-injury-more</guid>
+      <pubDate>Sun, 19 Jul 2026 18:15:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-dana-white-post-fight-presser_GettyImages-2285716318.jpg?itok=_n9gIFLJ" alt="Dana White On Dricus Du Plessis, Kamaru Usman, Conor McGregor’s Injury &amp; More" /></p>
+<p>Dana White Fielded Questions From The Media At The UFC Fight Night: Du Plessis vs Usman Post-Fight Press Conference In Oklahoma City</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Tabatha-Ricci-Hero-.jpg?itok=6KQYeSn0" alt="Tabatha Ricci | ‘I Just Wanna Fight’" /></p>
 <p>Women’s Strawweight Contender Explains Why She’s Happily Taking A Short-Notice Opportunity To Face A Dangerous Rising Star At UFC Oklahoma City</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Christian Leroy Duncan | The Next Step Of The Masterplan</title>
-      <link>https://www.ufc.com/news/christian-leroy-duncan-next-step-masterplan</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/christian-leroy-duncan-next-step-masterplan</guid>
-      <pubDate>Fri, 17 Jul 2026 16:11:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071626-christian-leroy-duncan-backstage_GettyImages-2245750237.jpg?itok=h6bvlIsv" alt="Christian Leroy Duncan | The Next Step Of The Masterplan" /></p>
-<p>Rising English Contender Has A Long-Term Plan To Reach The UFC Summit, With His Next Goal A Spot In The Middleweight Top 10</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Zuffa Boxing 10 Official Fight Card</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-10-official-fight-card</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-10-official-fight-card</guid>
-      <pubDate>Fri, 17 Jul 2026 15:44:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz" alt="Zuffa Boxing 10 Official Fight Card" /></p>
-<p>McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
