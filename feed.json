@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-20T19:51:59.886549+00:00",
+  "last_build_date": "2026-07-20T22:07:51.482211+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters on the Rise | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov",
+      "pubDate": "Mon, 20 Jul 2026 20:17:00 GMT",
+      "published_at": "2026-07-20T20:17:00+00:00",
+      "description": "Highlighting Three Promising Competitors To Track Starting This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-magomed-zaynukov-celebration_GettyImages-2239853554.jpg?itok=8NU0goK6",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov",
+      "pubDate": "Mon, 20 Jul 2026 20:14:00 GMT",
+      "published_at": "2026-07-20T20:14:00+00:00",
+      "description": "Diving Into The Lineup As UFC Returns To Etihad Arena In Abu Dhabi",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/072026-ufc-abu-dhabi-fight-by-fight-preview-thumb.jpg?itok=uLnSnmJe",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "NOCHE UFC TO TAKE PLACE ON SEPTEMBER 12 AS UFC RETURNS TO GLENDALE, ARIZONA",
       "link": "https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona",
@@ -81,28 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "SeokHyeon Ko | Quietly Making Waves At Welterweight",
-      "link": "https://www.ufc.com/news/seokhyeon-ko-quietly-making-waves-welterweight-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/seokhyeon-ko-quietly-making-waves-welterweight-ufc-oklahoma-city",
-      "pubDate": "Fri, 17 Jul 2026 18:08:00 GMT",
-      "published_at": "2026-07-17T18:08:00+00:00",
-      "description": "South Korean Sophomore Talks Rookie Campaign, OKC Matchup",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071626-seokhyeon-ko-celebration_GettyImages-2244516842.jpg?itok=Jq40Yct_",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 10: Tackett vs Gracie Fight Card",
-      "link": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card",
-      "guid": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card",
-      "pubDate": "Fri, 17 Jul 2026 17:00:00 GMT",
-      "published_at": "2026-07-17T17:00:00+00:00",
-      "description": "UFC BJJ 10: Tackett vs Gracie Is Live On Thursday, August 20, Starting At 8pm ET/5pm PT Streaming Live On The UFC BJJ YouTube Channel",
-      "image": "https://ufc.com/images/styles/card/s3/2026-02/021226-general-view-the-bowl-GettyImages-2261329400.jpg?itok=1MuTtvIP",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]

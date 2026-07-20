@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:51:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:07:51 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fighters on the Rise | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov</guid>
+      <pubDate>Mon, 20 Jul 2026 20:17:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072026-magomed-zaynukov-celebration_GettyImages-2239853554.jpg?itok=8NU0goK6" alt="Fighters on the Rise | UFC Abu Dhabi" /></p>
+<p>Highlighting Three Promising Competitors To Track Starting This Weekend</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Fight By Fight Preview | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov</guid>
+      <pubDate>Mon, 20 Jul 2026 20:14:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/072026-ufc-abu-dhabi-fight-by-fight-preview-thumb.jpg?itok=uLnSnmJe" alt="Fight By Fight Preview | UFC Abu Dhabi" /></p>
+<p>Diving Into The Lineup As UFC Returns To Etihad Arena In Abu Dhabi</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>NOCHE UFC TO TAKE PLACE ON SEPTEMBER 12 AS UFC RETURNS TO GLENDALE, ARIZONA</title>
       <link>https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf" alt="Prelim Results | UFC Oklahoma City" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>SeokHyeon Ko | Quietly Making Waves At Welterweight</title>
-      <link>https://www.ufc.com/news/seokhyeon-ko-quietly-making-waves-welterweight-ufc-oklahoma-city</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/seokhyeon-ko-quietly-making-waves-welterweight-ufc-oklahoma-city</guid>
-      <pubDate>Fri, 17 Jul 2026 18:08:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071626-seokhyeon-ko-celebration_GettyImages-2244516842.jpg?itok=Jq40Yct_" alt="SeokHyeon Ko | Quietly Making Waves At Welterweight" /></p>
-<p>South Korean Sophomore Talks Rookie Campaign, OKC Matchup</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC BJJ 10: Tackett vs Gracie Fight Card</title>
-      <link>https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card</guid>
-      <pubDate>Fri, 17 Jul 2026 17:00:00 GMT</pubDate>
-      <category>UFC BJJ</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-02/021226-general-view-the-bowl-GettyImages-2261329400.jpg?itok=1MuTtvIP" alt="UFC BJJ 10: Tackett vs Gracie Fight Card" /></p>
-<p>UFC BJJ 10: Tackett vs Gracie Is Live On Thursday, August 20, Starting At 8pm ET/5pm PT Streaming Live On The UFC BJJ YouTube Channel</p>
-<p>Category: UFC BJJ</p>]]></description>
     </item>
   </channel>
 </rss>
