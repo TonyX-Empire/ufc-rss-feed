@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jul 2026 03:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:30:32 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Scorecard | UFC Oklahoma City</title>
@@ -48,16 +48,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Official Scorecards | UFC Oklahoma City</title>
-      <link>https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</guid>
-      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n" alt="Official Scorecards | UFC Oklahoma City" /></p>
-<p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>Prelim Results | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
@@ -65,6 +55,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf" alt="Prelim Results | UFC Oklahoma City" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Scorecards | UFC Oklahoma City</title>
+      <link>https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</guid>
+      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n" alt="Official Scorecards | UFC Oklahoma City" /></p>
+<p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
