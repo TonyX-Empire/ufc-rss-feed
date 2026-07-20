@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:51:59 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NOCHE UFC TO TAKE PLACE ON SEPTEMBER 12 AS UFC RETURNS TO GLENDALE, ARIZONA</title>
+      <link>https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona</guid>
+      <pubDate>Mon, 20 Jul 2026 17:05:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%204.jpg?itok=xPdlFTxy" alt="NOCHE UFC TO TAKE PLACE ON SEPTEMBER 12 AS UFC RETURNS TO GLENDALE, ARIZONA" /></p>
+<p>Tickets Go On Sale Friday, July 31</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/scorecard-ufc-oklahoma-city-du-plessis-vs-usman</link>
@@ -48,16 +58,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Prelim Results | UFC Oklahoma City</title>
-      <link>https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
-      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf" alt="Prelim Results | UFC Oklahoma City" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>Official Scorecards | UFC Oklahoma City</title>
       <link>https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards</guid>
@@ -65,6 +65,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n" alt="Official Scorecards | UFC Oklahoma City" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Prelim Results | UFC Oklahoma City</title>
+      <link>https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-oklahoma-city-prelim-results</guid>
+      <pubDate>Sat, 18 Jul 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf" alt="Prelim Results | UFC Oklahoma City" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-02/021226-general-view-the-bowl-GettyImages-2261329400.jpg?itok=1MuTtvIP" alt="UFC BJJ 10: Tackett vs Gracie Fight Card" /></p>
 <p>UFC BJJ 10: Tackett vs Gracie Is Live On Thursday, August 20, Starting At 8pm ET/5pm PT Streaming Live On The UFC BJJ YouTube Channel</p>
 <p>Category: UFC BJJ</p>]]></description>
-    </item>
-    <item>
-      <title>Tabatha Ricci | ‘I Just Wanna Fight’</title>
-      <link>https://www.ufc.com/news/tabatha-ricci-i-just-wanna-fight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/tabatha-ricci-i-just-wanna-fight</guid>
-      <pubDate>Fri, 17 Jul 2026 16:17:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Tabatha-Ricci-Hero-.jpg?itok=6KQYeSn0" alt="Tabatha Ricci | ‘I Just Wanna Fight’" /></p>
-<p>Women’s Strawweight Contender Explains Why She’s Happily Taking A Short-Notice Opportunity To Face A Dangerous Rising Star At UFC Oklahoma City</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
