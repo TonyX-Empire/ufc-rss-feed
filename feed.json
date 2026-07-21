@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-20T22:07:51.482211+00:00",
+  "last_build_date": "2026-07-21T03:32:56.127662+00:00",
   "item_count": 9,
   "items": [
     {
@@ -24,7 +24,7 @@
       "pubDate": "Mon, 20 Jul 2026 20:14:00 GMT",
       "published_at": "2026-07-20T20:14:00+00:00",
       "description": "Diving Into The Lineup As UFC Returns To Etihad Arena In Abu Dhabi",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/072026-ufc-abu-dhabi-fight-by-fight-preview-thumb.jpg?itok=uLnSnmJe",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-ufc-abu-dhabi-fight-by-fight-preview-thumb.jpg?itok=uLnSnmJe",
       "category": "UFC",
       "source": "UFC"
     },
