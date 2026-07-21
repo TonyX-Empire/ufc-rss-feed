@@ -3,9 +3,64 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-21T19:43:41.989640+00:00",
+  "last_build_date": "2026-07-21T22:08:23.329816+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Axel Sola Sees His Chance To Have A ‘Perfect’ Performance",
+      "link": "https://www.ufc.com/news/axel-sola-sees-his-chance-have-a-perfect-performance-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/axel-sola-sees-his-chance-have-a-perfect-performance-ufc-abu-dhabi",
+      "pubDate": "Tue, 21 Jul 2026 21:59:00 GMT",
+      "published_at": "2026-07-21T21:59:00+00:00",
+      "description": "The Surging Lightweight Believes Experience, Patience And A Signature Performance Can Elevate Him To The Next Level.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Axel-Sola-Hero-.jpg?itok=xlC3WHRv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mike Davis Ready To Reward Patience With Statement Performance",
+      "link": "https://www.ufc.com/news/mike-davis-ready-reward-patience-statement-performance-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/mike-davis-ready-reward-patience-statement-performance-ufc-abu-dhabi",
+      "pubDate": "Tue, 21 Jul 2026 21:25:00 GMT",
+      "published_at": "2026-07-21T21:25:00+00:00",
+      "description": "After A Year On The Sidelines, Veteran Lightweight Mike Davis Sees Saturday As The Beginning Of A Fresh Chapter",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Mike-Davis-Hero-.jpg?itok=WyMuo7d_",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "The Reintroduction of Islam Dulatov",
+      "link": "https://www.ufc.com/news/the-reintroduction-of-islam-dulatov-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/the-reintroduction-of-islam-dulatov-ufc-abu-dhabi",
+      "pubDate": "Tue, 21 Jul 2026 20:59:00 GMT",
+      "published_at": "2026-07-21T20:59:00+00:00",
+      "description": "Promising Welterweight Prospect Returns For Sophomore Appearance On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-islam-dulatov-pre-fight_GettyImages-2226051165.jpg?itok=VwhEzRv-",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bogdan Guskov | Huge Opportunity, Historic Moment",
+      "link": "https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi",
+      "pubDate": "Tue, 21 Jul 2026 20:43:00 GMT",
+      "published_at": "2026-07-21T20:43:00+00:00",
+      "description": "Main Event Matchup With Magomed Ankalaev Ultra-Meaningful For Uzbek Standout",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/072026-bogdan-guskov-backstage-portrait_GettyImages-2001098424.jpg?itok=SKMZAieb",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Tue, 21 Jul 2026 18:23:00 GMT",
+      "published_at": "2026-07-21T18:23:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Fighters on the Rise | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov",
@@ -47,61 +102,6 @@
       "published_at": "2026-07-19T21:02:00+00:00",
       "description": "Highlighting The Biggest Winners From UFC Fight Night: Du Plessis vs Usman On July 18, 2026, Live From The Paycom Center in Oklahoma City, Oklahoma",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-okc-the-scorecard-hero_GettyImages-2286699738.jpg?itok=ywyhkgiu",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Dricus Du Plessis, Kamaru Usman, Conor McGregor’s Injury & More",
-      "link": "https://www.ufc.com/news/dana-white-dricus-du-plessis-kamaru-usman-conor-mcgregors-injury-more",
-      "guid": "https://www.ufc.com/news/dana-white-dricus-du-plessis-kamaru-usman-conor-mcgregors-injury-more",
-      "pubDate": "Sun, 19 Jul 2026 18:15:00 GMT",
-      "published_at": "2026-07-19T18:15:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The UFC Fight Night: Du Plessis vs Usman Post-Fight Press Conference In Oklahoma City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-dana-white-post-fight-presser_GettyImages-2285716318.jpg?itok=_n9gIFLJ",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-oklahoma-city",
-      "pubDate": "Sun, 19 Jul 2026 04:04:00 GMT",
-      "published_at": "2026-07-19T04:04:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Paycom Center On July 18, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3.gif?itok=WwmwpGci",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/ufc-oklahoma-city-results",
-      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-results",
-      "pubDate": "Sun, 19 Jul 2026 00:00:00 GMT",
-      "published_at": "2026-07-19T00:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-fight-night-du-plessis-vs-usman-TEMPORARY-EVENT-ART-NOT-FINAL.jpg?itok=gEAFj0li",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-official-scorecards",
-      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
-      "published_at": "2026-07-18T21:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-scorecards-joe-martinez_GettyImages-2220165430.jpg?itok=AYtSu9-n",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/ufc-oklahoma-city-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-oklahoma-city-prelim-results",
-      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
-      "published_at": "2026-07-18T21:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Du Plessis vs Usman, Live From Paycom Center In Oklahoma City On July 18",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-oklahoma-city-prelims-hero_GettyImages-2286667076_0.jpg?itok=5L8x4MNf",
       "category": "UFC",
       "source": "UFC"
     }
