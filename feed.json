@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-22T16:26:50.153959+00:00",
+  "last_build_date": "2026-07-22T19:37:58.992292+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Power Slap 22 Makes Historic European Debut in Serbia",
+      "link": "https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia",
+      "guid": "https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia",
+      "pubDate": "Wed, 22 Jul 2026 19:10:00 GMT",
+      "published_at": "2026-07-22T19:10:00+00:00",
+      "description": "Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Dustin Jacoby Wants To Make The Long Journey Worth It",
+      "link": "https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi",
+      "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT",
+      "published_at": "2026-07-22T18:56:00+00:00",
+      "description": "Veteran Light Heavyweight Talks Current Success, Motivations, Fighting In Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dustin-Jacoby-Hero-.jpg?itok=Vq7UrhY3",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Garcia vs Benn Tickets On Sale This Week",
+      "link": "https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week",
+      "guid": "https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week",
+      "pubDate": "Wed, 22 Jul 2026 18:39:00 GMT",
+      "published_at": "2026-07-22T18:39:00+00:00",
+      "description": "World Welterweight Championship Hits T-Mobile Arena On Septermber 12, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Tyrell Fortune | Always Aiming For Better",
+      "link": "https://www.ufc.com/news/tyrell-fortune-always-aiming-better-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/tyrell-fortune-always-aiming-better-ufc-abu-dhabi",
+      "pubDate": "Wed, 22 Jul 2026 17:50:00 GMT",
+      "published_at": "2026-07-22T17:50:00+00:00",
+      "description": "Coming Off Debut Win, Heavyweight Eyes Even Better Effort This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Tyrell-Fortune-Hero-.jpg?itok=wdG1Nk8b",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Axel Sola Sees His Chance To Have A ‘Perfect’ Performance",
       "link": "https://www.ufc.com/news/axel-sola-sees-his-chance-have-a-perfect-performance-ufc-abu-dhabi",
@@ -59,50 +103,6 @@
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-abu-dhabi-dulatov-tuchalov-zaynukov",
-      "pubDate": "Mon, 20 Jul 2026 20:17:00 GMT",
-      "published_at": "2026-07-20T20:17:00+00:00",
-      "description": "Highlighting Three Promising Competitors To Track Starting This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-magomed-zaynukov-celebration_GettyImages-2239853554.jpg?itok=8NU0goK6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-abu-dhabi-ankalaev-guskov",
-      "pubDate": "Mon, 20 Jul 2026 20:14:00 GMT",
-      "published_at": "2026-07-20T20:14:00+00:00",
-      "description": "Diving Into The Lineup As UFC Returns To Etihad Arena In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-ufc-abu-dhabi-fight-by-fight-preview-thumb.jpg?itok=uLnSnmJe",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "NOCHE UFC TO TAKE PLACE ON SEPTEMBER 12 AS UFC RETURNS TO GLENDALE, ARIZONA",
-      "link": "https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona",
-      "guid": "https://www.ufc.com/news/noche-ufc-take-place-september-12-ufc-returns-glendale-arizona",
-      "pubDate": "Mon, 20 Jul 2026 17:05:00 GMT",
-      "published_at": "2026-07-20T17:05:00+00:00",
-      "description": "Tickets Go On Sale Friday, July 31",
-      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%204.jpg?itok=xPdlFTxy",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Oklahoma City",
-      "link": "https://www.ufc.com/news/scorecard-ufc-oklahoma-city-du-plessis-vs-usman",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-oklahoma-city-du-plessis-vs-usman",
-      "pubDate": "Sun, 19 Jul 2026 21:02:00 GMT",
-      "published_at": "2026-07-19T21:02:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Du Plessis vs Usman On July 18, 2026, Live From The Paycom Center in Oklahoma City, Oklahoma",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/071826-ufc-okc-the-scorecard-hero_GettyImages-2286699738.jpg?itok=ywyhkgiu",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
