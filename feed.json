@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-21T22:08:23.329816+00:00",
+  "last_build_date": "2026-07-22T03:31:47.170396+00:00",
   "item_count": 9,
   "items": [
     {
@@ -46,7 +46,7 @@
       "pubDate": "Tue, 21 Jul 2026 20:43:00 GMT",
       "published_at": "2026-07-21T20:43:00+00:00",
       "description": "Main Event Matchup With Magomed Ankalaev Ultra-Meaningful For Uzbek Standout",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/072026-bogdan-guskov-backstage-portrait_GettyImages-2001098424.jpg?itok=SKMZAieb",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-bogdan-guskov-backstage-portrait_GettyImages-2001098424.jpg?itok=SKMZAieb",
       "category": "UFC",
       "source": "UFC"
     },
