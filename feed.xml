@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:41:52 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prelim Results | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/ufc-abu-dhabi-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-prelim-results</guid>
+      <pubDate>Thu, 23 Jul 2026 07:10:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX" alt="Prelim Results | UFC Abu Dhabi" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Main Card Results | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/ufc-abu-dhabi-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-results</guid>
+      <pubDate>Thu, 23 Jul 2026 07:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO" alt="Main Card Results | UFC Abu Dhabi" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Power Slap 22 Makes Historic European Debut in Serbia</title>
       <link>https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072026-islam-dulatov-pre-fight_GettyImages-2226051165.jpg?itok=VwhEzRv-" alt="The Reintroduction of Islam Dulatov" /></p>
 <p>Promising Welterweight Prospect Returns For Sophomore Appearance On Saturday</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bogdan Guskov | Huge Opportunity, Historic Moment</title>
-      <link>https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi</guid>
-      <pubDate>Tue, 21 Jul 2026 20:43:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072026-bogdan-guskov-backstage-portrait_GettyImages-2001098424.jpg?itok=SKMZAieb" alt="Bogdan Guskov | Huge Opportunity, Historic Moment" /></p>
-<p>Main Event Matchup With Magomed Ankalaev Ultra-Meaningful For Uzbek Standout</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>How To Watch Zuffa Boxing</title>
-      <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</guid>
-      <pubDate>Tue, 21 Jul 2026 18:23:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
-<p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-23T03:36:06.905884+00:00",
+  "last_build_date": "2026-07-23T08:41:52.221074+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Prelim Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
+      "pubDate": "Thu, 23 Jul 2026 07:10:00 GMT",
+      "published_at": "2026-07-23T07:10:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Power Slap 22 Makes Historic European Debut in Serbia",
       "link": "https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia",
@@ -81,28 +103,6 @@
       "description": "Promising Welterweight Prospect Returns For Sophomore Appearance On Saturday",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-islam-dulatov-pre-fight_GettyImages-2226051165.jpg?itok=VwhEzRv-",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bogdan Guskov | Huge Opportunity, Historic Moment",
-      "link": "https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/bogdan-guskov-huge-opportunity-historic-moment-ufc-abu-dhabi",
-      "pubDate": "Tue, 21 Jul 2026 20:43:00 GMT",
-      "published_at": "2026-07-21T20:43:00+00:00",
-      "description": "Main Event Matchup With Magomed Ankalaev Ultra-Meaningful For Uzbek Standout",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072026-bogdan-guskov-backstage-portrait_GettyImages-2001098424.jpg?itok=SKMZAieb",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Tue, 21 Jul 2026 18:23:00 GMT",
-      "published_at": "2026-07-21T18:23:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
