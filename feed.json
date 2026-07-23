@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-23T19:38:04.269039+00:00",
+  "last_build_date": "2026-07-23T22:10:01.863810+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Santiago Ponzinibbio Continues To Chase His Passion",
+      "link": "https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi",
+      "pubDate": "Thu, 23 Jul 2026 20:30:00 GMT",
+      "published_at": "2026-07-23T20:30:00+00:00",
+      "description": "Welterweight Veteran Continues To Fly The Argentine Flag With Pride As He Continues To Compete In The Sport He Loves.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Steve Erceg Aiming to Cement His Place In The Flyweight Ranks",
       "link": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
@@ -90,19 +101,8 @@
       "pubDate": "Wed, 22 Jul 2026 18:39:00 GMT",
       "published_at": "2026-07-22T18:39:00+00:00",
       "description": "World Welterweight Championship Hits T-Mobile Arena On Septermber 12, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Tyrell Fortune | Always Aiming For Better",
-      "link": "https://www.ufc.com/news/tyrell-fortune-always-aiming-better-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/tyrell-fortune-always-aiming-better-ufc-abu-dhabi",
-      "pubDate": "Wed, 22 Jul 2026 17:50:00 GMT",
-      "published_at": "2026-07-22T17:50:00+00:00",
-      "description": "Coming Off Debut Win, Heavyweight Eyes Even Better Effort This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Tyrell-Fortune-Hero-.jpg?itok=wdG1Nk8b",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
