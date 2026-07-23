@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-23T16:40:32.140806+00:00",
+  "last_build_date": "2026-07-23T19:38:04.269039+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Steve Erceg Aiming to Cement His Place In The Flyweight Ranks",
+      "link": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
+      "pubDate": "Thu, 23 Jul 2026 18:30:00 GMT",
+      "published_at": "2026-07-23T18:30:00+00:00",
+      "description": "Former Title Challenger Seeking Third Straight Win On Saturday In Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Steve-Erceg-Hero-.jpg?itok=V00d3dSN",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "UFC | TWO SVGE Unveil Official UFC Eyewear Collection Launching July 27th!",
       "link": "https://www.ufc.com/news/ufc-two-svge-unveil-official-ufc-eyewear-collection-launching-july-27th",
@@ -35,7 +46,7 @@
       "pubDate": "Thu, 23 Jul 2026 07:10:00 GMT",
       "published_at": "2026-07-23T07:10:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
       "category": "UFC",
       "source": "UFC"
     },
@@ -57,7 +68,7 @@
       "pubDate": "Wed, 22 Jul 2026 19:10:00 GMT",
       "published_at": "2026-07-22T19:10:00+00:00",
       "description": "Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I",
       "category": "News",
       "source": "UFC"
     },
@@ -79,7 +90,7 @@
       "pubDate": "Wed, 22 Jul 2026 18:39:00 GMT",
       "published_at": "2026-07-22T18:39:00+00:00",
       "description": "World Welterweight Championship Hits T-Mobile Arena On Septermber 12, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
       "category": "News",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-07-22T17:50:00+00:00",
       "description": "Coming Off Debut Win, Heavyweight Eyes Even Better Effort This Weekend",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Tyrell-Fortune-Hero-.jpg?itok=wdG1Nk8b",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Axel Sola Sees His Chance To Have A ‘Perfect’ Performance",
-      "link": "https://www.ufc.com/news/axel-sola-sees-his-chance-have-a-perfect-performance-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/axel-sola-sees-his-chance-have-a-perfect-performance-ufc-abu-dhabi",
-      "pubDate": "Tue, 21 Jul 2026 21:59:00 GMT",
-      "published_at": "2026-07-21T21:59:00+00:00",
-      "description": "The Surging Lightweight Believes Experience, Patience And A Signature Performance Can Elevate Him To The Next Level.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Axel-Sola-Hero-.jpg?itok=xlC3WHRv",
       "category": "UFC",
       "source": "UFC"
     }
