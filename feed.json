@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-24T16:48:31.649715+00:00",
+  "last_build_date": "2026-07-24T19:40:53.226223+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,6 +13,28 @@
       "pubDate": "Sun, 26 Jul 2026 21:00:00 GMT",
       "published_at": "2026-07-26T21:00:00+00:00",
       "description": "Latest UFC news: Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler",
+      "image": "",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Valter Walker | Taking The ‘Ronda Rousey’ Route To The Top",
+      "link": "https://www.ufc.com/news/valter-walker-taking-the-ronda-rousey-route-to-the-top-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/valter-walker-taking-the-ronda-rousey-route-to-the-top-ufc-abu-dhabi",
+      "pubDate": "Fri, 24 Jul 2026 18:00:00 GMT",
+      "published_at": "2026-07-24T18:00:00+00:00",
+      "description": "Latest UFC news: Valter Walker | Taking The ‘Ronda Rousey’ Route To The Top",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Steven Butler Is Ready To Break Cover | Zuffa Boxing 09",
+      "link": "https://www.ufc.com/news/steven-butler-ready-break-cover-zuffa-boxing-09",
+      "guid": "https://www.ufc.com/news/steven-butler-ready-break-cover-zuffa-boxing-09",
+      "pubDate": "Fri, 24 Jul 2026 17:38:00 GMT",
+      "published_at": "2026-07-24T17:38:00+00:00",
+      "description": "Latest UFC news: Steven Butler Is Ready To Break Cover | Zuffa Boxing 09",
       "image": "",
       "category": "Boxing",
       "source": "UFC"
@@ -62,6 +84,17 @@
       "source": "UFC"
     },
     {
+      "title": "Fight By Fight Preview | Zuffa Boxing 09",
+      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-09",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-09",
+      "pubDate": "Thu, 23 Jul 2026 16:27:00 GMT",
+      "published_at": "2026-07-23T16:27:00+00:00",
+      "description": "Latest UFC news: Fight By Fight Preview | Zuffa Boxing 09",
+      "image": "",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
       "title": "UFC | TWO SVGE Unveil Official UFC Eyewear Collection Launching July 27th!",
       "link": "https://www.ufc.com/news/ufc-two-svge-unveil-official-ufc-eyewear-collection-launching-july-27th",
       "guid": "https://www.ufc.com/news/ufc-two-svge-unveil-official-ufc-eyewear-collection-launching-july-27th",
@@ -69,39 +102,6 @@
       "published_at": "2026-07-23T16:00:00+00:00",
       "description": "Undisputed Style, Championship Attitude.",
       "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Thumbnail-1920x1080.jpg?itok=99Lq15lI",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Magomed Ankalaev Is Keen To Put Things Right",
-      "link": "https://www.ufc.com/news/magomed-ankalaev-is-keen-to-put-things-right-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/magomed-ankalaev-is-keen-to-put-things-right-ufc-abu-dhabi",
-      "pubDate": "Thu, 23 Jul 2026 14:13:00 GMT",
-      "published_at": "2026-07-23T14:13:00+00:00",
-      "description": "Latest UFC news: Magomed Ankalaev Is Keen To Put Things Right",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
-      "pubDate": "Thu, 23 Jul 2026 07:10:00 GMT",
-      "published_at": "2026-07-23T07:10:00+00:00",
-      "description": "Latest UFC news: Prelim Results | UFC Abu Dhabi",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
-      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "description": "Latest UFC news: Main Card Results | UFC Abu Dhabi",
-      "image": "",
       "category": "UFC",
       "source": "UFC"
     }
