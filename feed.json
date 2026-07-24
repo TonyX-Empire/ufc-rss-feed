@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-24T14:03:03.651064+00:00",
+  "last_build_date": "2026-07-24T16:48:31.649715+00:00",
   "item_count": 9,
   "items": [
     {
@@ -12,8 +12,8 @@
       "guid": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
       "pubDate": "Sun, 26 Jul 2026 21:00:00 GMT",
       "published_at": "2026-07-26T21:00:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
+      "description": "Latest UFC news: Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler",
+      "image": "",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -34,8 +34,8 @@
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
       "pubDate": "Fri, 24 Jul 2026 03:00:00 GMT",
       "published_at": "2026-07-24T03:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "description": "Latest UFC news: Official Scorecards | UFC Abu Dhabi",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -45,8 +45,8 @@
       "guid": "https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi",
       "pubDate": "Thu, 23 Jul 2026 20:30:00 GMT",
       "published_at": "2026-07-23T20:30:00+00:00",
-      "description": "Welterweight Veteran Continues To Fly The Argentine Flag With Pride As He Continues To Compete In The Sport He Loves.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t",
+      "description": "Latest UFC news: Santiago Ponzinibbio Continues To Chase His Passion",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -56,8 +56,8 @@
       "guid": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
       "pubDate": "Thu, 23 Jul 2026 18:30:00 GMT",
       "published_at": "2026-07-23T18:30:00+00:00",
-      "description": "Former Title Challenger Seeking Third Straight Win On Saturday In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Steve-Erceg-Hero-.jpg?itok=V00d3dSN",
+      "description": "Latest UFC news: Steve Erceg Aiming to Cement His Place In The Flyweight Ranks",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -78,8 +78,8 @@
       "guid": "https://www.ufc.com/news/magomed-ankalaev-is-keen-to-put-things-right-ufc-abu-dhabi",
       "pubDate": "Thu, 23 Jul 2026 14:13:00 GMT",
       "published_at": "2026-07-23T14:13:00+00:00",
-      "description": "Former Light Heavyweight Champion Blames Himself For His Title Loss. Now He’s Back, And Ready To Fight His Way Back To The Belt.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Magomed-Ankalaev-Hero-.jpg?itok=N3hV3YRc",
+      "description": "Latest UFC news: Magomed Ankalaev Is Keen To Put Things Right",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -89,8 +89,8 @@
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
       "pubDate": "Thu, 23 Jul 2026 07:10:00 GMT",
       "published_at": "2026-07-23T07:10:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
+      "description": "Latest UFC news: Prelim Results | UFC Abu Dhabi",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -100,8 +100,8 @@
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
       "published_at": "2026-07-23T07:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
+      "description": "Latest UFC news: Main Card Results | UFC Abu Dhabi",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     }
