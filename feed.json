@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-23T22:10:01.863810+00:00",
+  "last_build_date": "2026-07-24T03:32:43.822249+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "pubDate": "Fri, 24 Jul 2026 03:00:00 GMT",
+      "published_at": "2026-07-24T03:00:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
+      "pubDate": "Fri, 24 Jul 2026 02:55:00 GMT",
+      "published_at": "2026-07-24T02:55:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Santiago Ponzinibbio Continues To Chase His Passion",
       "link": "https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi",
@@ -13,7 +35,7 @@
       "pubDate": "Thu, 23 Jul 2026 20:30:00 GMT",
       "published_at": "2026-07-23T20:30:00+00:00",
       "description": "Welterweight Veteran Continues To Fly The Argentine Flag With Pride As He Continues To Compete In The Sport He Loves.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-07-22T19:10:00+00:00",
       "description": "Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dustin Jacoby Wants To Make The Long Journey Worth It",
-      "link": "https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi",
-      "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT",
-      "published_at": "2026-07-22T18:56:00+00:00",
-      "description": "Veteran Light Heavyweight Talks Current Success, Motivations, Fighting In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dustin-Jacoby-Hero-.jpg?itok=Vq7UrhY3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Garcia vs Benn Tickets On Sale This Week",
-      "link": "https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week",
-      "guid": "https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week",
-      "pubDate": "Wed, 22 Jul 2026 18:39:00 GMT",
-      "published_at": "2026-07-22T18:39:00+00:00",
-      "description": "World Welterweight Championship Hits T-Mobile Arena On Septermber 12, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c",
       "category": "News",
       "source": "UFC"
     }

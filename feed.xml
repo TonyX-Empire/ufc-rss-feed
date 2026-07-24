@@ -5,15 +5,35 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 03:32:43 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Scorecards | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards</guid>
+      <pubDate>Fri, 24 Jul 2026 03:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ" alt="Official Scorecards | UFC Abu Dhabi" /></p>
+<p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</guid>
+      <pubDate>Fri, 24 Jul 2026 02:55:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq" alt="Official Weigh-In Results | UFC Abu Dhabi" /></p>
+<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Santiago Ponzinibbio Continues To Chase His Passion</title>
       <link>https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi</link>
       <guid isPermaLink="true">https://www.ufc.com/news/santiago-ponzinibbio-continues-to-chase-his-passion-ufc-abu-dhabi</guid>
       <pubDate>Thu, 23 Jul 2026 20:30:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t" alt="Santiago Ponzinibbio Continues To Chase His Passion" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t" alt="Santiago Ponzinibbio Continues To Chase His Passion" /></p>
 <p>Welterweight Veteran Continues To Fly The Argentine Flag With Pride As He Continues To Compete In The Sport He Loves.</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -75,26 +95,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I" alt="Power Slap 22 Makes Historic European Debut in Serbia" /></p>
 <p>Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Dustin Jacoby Wants To Make The Long Journey Worth It</title>
-      <link>https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dustin-jacoby-wants-make-long-journey-worth-it-ufc-abu-dhabi</guid>
-      <pubDate>Wed, 22 Jul 2026 18:56:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Dustin-Jacoby-Hero-.jpg?itok=Vq7UrhY3" alt="Dustin Jacoby Wants To Make The Long Journey Worth It" /></p>
-<p>Veteran Light Heavyweight Talks Current Success, Motivations, Fighting In Abu Dhabi</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Garcia vs Benn Tickets On Sale This Week</title>
-      <link>https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/garcia-vs-benn-tickets-sale-week</guid>
-      <pubDate>Wed, 22 Jul 2026 18:39:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/Garcia-Benn-hero-ZB.jpg?itok=XcctuX_c" alt="Garcia vs Benn Tickets On Sale This Week" /></p>
-<p>World Welterweight Championship Hits T-Mobile Arena On Septermber 12, 2026</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>
