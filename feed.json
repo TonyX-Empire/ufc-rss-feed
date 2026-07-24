@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-24T03:32:43.822249+00:00",
+  "last_build_date": "2026-07-24T08:38:00.526281+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler",
+      "link": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
+      "pubDate": "Sun, 26 Jul 2026 21:00:00 GMT",
+      "published_at": "2026-07-26T21:00:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
+      "pubDate": "Fri, 24 Jul 2026 05:00:00 GMT",
+      "published_at": "2026-07-24T05:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Scorecards | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
@@ -14,17 +36,6 @@
       "published_at": "2026-07-24T03:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov",
-      "pubDate": "Fri, 24 Jul 2026 02:55:00 GMT",
-      "published_at": "2026-07-24T02:55:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Power Slap 22 Makes Historic European Debut in Serbia",
-      "link": "https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia",
-      "guid": "https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia",
-      "pubDate": "Wed, 22 Jul 2026 19:10:00 GMT",
-      "published_at": "2026-07-22T19:10:00+00:00",
-      "description": "Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I",
-      "category": "News",
       "source": "UFC"
     }
   ]

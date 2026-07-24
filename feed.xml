@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jul 2026 03:32:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:38:00 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler</title>
+      <link>https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights</guid>
+      <pubDate>Sun, 26 Jul 2026 21:00:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp" alt="Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler" /></p>
+<p>Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq" alt="Official Weigh-In Results | UFC Abu Dhabi" /></p>
+<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Official Scorecards | UFC Abu Dhabi</title>
       <link>https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards</link>
@@ -15,16 +35,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ" alt="Official Scorecards | UFC Abu Dhabi" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Abu Dhabi</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-abu-dhabi-ankalaev-guskov</guid>
-      <pubDate>Fri, 24 Jul 2026 02:55:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-07/072526-Magomed-Ankalaev-hero-weigh-in-GettyImages-2239073941.jpg?itok=c8HvzKsq" alt="Official Weigh-In Results | UFC Abu Dhabi" /></p>
-<p>The Official Weights Of The Athletes Competing At UFC Fight Night: Ankalaev vs Guskov On July 25, 2026 At Etihad Arena</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO" alt="Main Card Results | UFC Abu Dhabi" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Power Slap 22 Makes Historic European Debut in Serbia</title>
-      <link>https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/power-slap-22-makes-historic-european-debut-serbia</guid>
-      <pubDate>Wed, 22 Jul 2026 19:10:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/1PS22_KA_Buildout_061026-1920x1080-1.jpg?itok=-kP5uF-I" alt="Power Slap 22 Makes Historic European Debut in Serbia" /></p>
-<p>Latest UFC news: Power Slap 22 Makes Historic European Debut in Serbia</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
