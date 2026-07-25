@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-25T13:54:06.165148+00:00",
+  "last_build_date": "2026-07-25T16:09:04.330405+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,22 +18,11 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | Zuffa Boxing 09",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
-      "pubDate": "Sat, 25 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-25T13:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
-      "pubDate": "Sat, 25 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-25T13:00:00+00:00",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 GMT",
+      "published_at": "2026-07-25T16:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
       "category": "UFC",
@@ -48,6 +37,17 @@
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 09",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
+      "pubDate": "Sat, 25 Jul 2026 13:00:00 GMT",
+      "published_at": "2026-07-25T13:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
