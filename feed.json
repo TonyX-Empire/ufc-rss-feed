@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-25T08:18:44.150026+00:00",
+  "last_build_date": "2026-07-25T10:39:43.792820+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Updates To UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-fight-card-updates",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-fight-card-updates",
+      "pubDate": "Sat, 25 Jul 2026 10:00:00 GMT",
+      "published_at": "2026-07-25T10:00:00+00:00",
+      "description": "Changes To UFC Fight Night: Ankalaev vs Guskov Event On July 25",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/general-view-octagon-etihad-arena.jpg?itok=6UnNSVJp",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-07-23T20:30:00+00:00",
       "description": "Welterweight Veteran Continues To Fly The Argentine Flag With Pride As He Continues To Compete In The Sport He Loves.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Santiago-Ponzibbio-Hero-.jpg?itok=iqu2312t",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Steve Erceg Aiming to Cement His Place In The Flyweight Ranks",
-      "link": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/steve-erceg-aiming-to-cement-his-place-in-the-flyweight-ranks-ufc-abu-dhabi",
-      "pubDate": "Thu, 23 Jul 2026 18:30:00 GMT",
-      "published_at": "2026-07-23T18:30:00+00:00",
-      "description": "Former Title Challenger Seeking Third Straight Win On Saturday In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Steve-Erceg-Hero-.jpg?itok=V00d3dSN",
       "category": "UFC",
       "source": "UFC"
     }
