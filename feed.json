@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-25T16:09:04.330405+00:00",
+  "last_build_date": "2026-07-25T19:20:20.738694+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,24 +18,35 @@
       "source": "UFC"
     },
     {
+      "title": "Official Scorecards | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Prelim Results | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
       "pubDate": "Sat, 25 Jul 2026 16:00:00 GMT",
       "published_at": "2026-07-25T16:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/102525-Etihad-Arena-Geneal-Octagon-GettyImages-2243261260.jpg?itok=6ZgHBydX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
-      "pubDate": "Sat, 25 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-25T13:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-hero-valter-walker_GettyImages-2286937641.jpg?itok=tNT-ka30",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Brazilian Heavyweight Plans To Work His Way To The Title, One Heel Hook At A Time.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Valter-Walker-Hero-.jpg?itok=e10i6EkV",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Steven Butler Is Ready To Break Cover | Zuffa Boxing 09",
-      "link": "https://www.ufc.com/news/steven-butler-ready-break-cover-zuffa-boxing-09",
-      "guid": "https://www.ufc.com/news/steven-butler-ready-break-cover-zuffa-boxing-09",
-      "pubDate": "Fri, 24 Jul 2026 17:38:00 GMT",
-      "published_at": "2026-07-24T17:38:00+00:00",
-      "description": "Latest UFC news: Steven Butler Is Ready To Break Cover | Zuffa Boxing 09",
-      "image": "",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
