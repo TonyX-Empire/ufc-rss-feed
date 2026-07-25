@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-25T19:20:20.738694+00:00",
+  "last_build_date": "2026-07-25T22:01:43.083824+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Bonus Coverage | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
+      "pubDate": "Sat, 25 Jul 2026 20:10:00 GMT",
+      "published_at": "2026-07-25T20:10:00+00:00",
+      "description": "Latest UFC news: Bonus Coverage | UFC Abu Dhabi",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/BrowserPreview_tmp-3_1.gif?itok=sPTE2M4n",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Latest UFC news: Richardson Hitchins Wants To Make Up For Lost Time | Zuffa Boxing 09",
       "image": "",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Valter Walker | Taking The ‘Ronda Rousey’ Route To The Top",
-      "link": "https://www.ufc.com/news/valter-walker-taking-the-ronda-rousey-route-to-the-top-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/valter-walker-taking-the-ronda-rousey-route-to-the-top-ufc-abu-dhabi",
-      "pubDate": "Fri, 24 Jul 2026 18:00:00 GMT",
-      "published_at": "2026-07-24T18:00:00+00:00",
-      "description": "Brazilian Heavyweight Plans To Work His Way To The Title, One Heel Hook At A Time.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Valter-Walker-Hero-.jpg?itok=e10i6EkV",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
