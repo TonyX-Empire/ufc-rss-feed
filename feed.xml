@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jul 2026 22:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 03:30:00 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler</title>
@@ -14,6 +14,24 @@
       <pubDate>Sun, 26 Jul 2026 21:00:00 GMT</pubDate>
       <category>Boxing</category>
       <description><![CDATA[<p>Latest UFC news: Results + Scorecards | Zuffa Boxing 9: Berlanga vs Butler</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
+    <item>
+      <title>Ricardo Salas Is Eyeing A New York Upset | Zuffa Boxing 09</title>
+      <link>https://www.ufc.com/news/ricardo-salas-is-eyeing-a-new-york-upset-zuffa-boxing-09</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ricardo-salas-is-eyeing-a-new-york-upset-zuffa-boxing-09</guid>
+      <pubDate>Fri, 24 Jul 2026 23:08:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p>Latest UFC news: Ricardo Salas Is Eyeing A New York Upset | Zuffa Boxing 09</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
+    <item>
+      <title>Richardson Hitchins Wants To Make Up For Lost Time | Zuffa Boxing 09</title>
+      <link>https://www.ufc.com/news/richardson-hitchins-wants-to-make-up-for-lost-time-zuffa-boxing-09</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/richardson-hitchins-wants-to-make-up-for-lost-time-zuffa-boxing-09</guid>
+      <pubDate>Fri, 24 Jul 2026 23:04:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p>Latest UFC news: Richardson Hitchins Wants To Make Up For Lost Time | Zuffa Boxing 09</p>
 <p>Category: Boxing</p>]]></description>
     </item>
     <item>
@@ -69,25 +87,6 @@
       <pubDate>Thu, 23 Jul 2026 18:30:00 GMT</pubDate>
       <category>UFC</category>
       <description><![CDATA[<p>Latest UFC news: Steve Erceg Aiming to Cement His Place In The Flyweight Ranks</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-09</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-09</guid>
-      <pubDate>Thu, 23 Jul 2026 16:27:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p>Latest UFC news: Fight By Fight Preview | Zuffa Boxing 09</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>UFC | TWO SVGE Unveil Official UFC Eyewear Collection Launching July 27th!</title>
-      <link>https://www.ufc.com/news/ufc-two-svge-unveil-official-ufc-eyewear-collection-launching-july-27th</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-two-svge-unveil-official-ufc-eyewear-collection-launching-july-27th</guid>
-      <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/Thumbnail-1920x1080.jpg?itok=99Lq15lI" alt="UFC | TWO SVGE Unveil Official UFC Eyewear Collection Launching July 27th!" /></p>
-<p>Undisputed Style, Championship Attitude.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
