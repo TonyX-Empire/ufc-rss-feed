@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-26T10:48:33.741925+00:00",
+  "last_build_date": "2026-07-26T13:46:16.662557+00:00",
   "item_count": 9,
   "items": [
     {
@@ -29,17 +29,6 @@
       "source": "UFC"
     },
     {
-      "title": "Main Card Results | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
-      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
-      "published_at": "2026-07-25T19:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Official Scorecards | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
@@ -47,6 +36,17 @@
       "published_at": "2026-07-25T19:00:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
+      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
       "category": "UFC",
       "source": "UFC"
     },
