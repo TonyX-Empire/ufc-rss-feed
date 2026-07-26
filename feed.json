@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-26T13:46:16.662557+00:00",
+  "last_build_date": "2026-07-26T16:08:52.551713+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,39 @@
       "published_at": "2026-07-26T21:00:00+00:00",
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
+      "pubDate": "Sun, 26 Jul 2026 14:43:00 GMT",
+      "published_at": "2026-07-26T14:43:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Monthly Report | July 2026",
+      "link": "https://www.ufc.com/news/monthly-report-july-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-july-2026",
+      "pubDate": "Sun, 26 Jul 2026 14:32:00 GMT",
+      "published_at": "2026-07-26T14:32:00+00:00",
+      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-paddy-pimblett_GettyImages-2285709692.jpg?itok=Rqgrcr7W",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Sun, 26 Jul 2026 14:00:00 GMT",
+      "published_at": "2026-07-26T14:00:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-07-25T13:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-fight-card-updates",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-fight-card-updates",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 GMT",
-      "published_at": "2026-07-25T10:00:00+00:00",
-      "description": "Changes To UFC Fight Night: Ankalaev vs Guskov Event On July 25",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/general-view-octagon-etihad-arena.jpg?itok=6UnNSVJp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ricardo Salas Is Eyeing A New York Upset | Zuffa Boxing 09",
-      "link": "https://www.ufc.com/news/ricardo-salas-is-eyeing-a-new-york-upset-zuffa-boxing-09",
-      "guid": "https://www.ufc.com/news/ricardo-salas-is-eyeing-a-new-york-upset-zuffa-boxing-09",
-      "pubDate": "Fri, 24 Jul 2026 23:08:00 GMT",
-      "published_at": "2026-07-24T23:08:00+00:00",
-      "description": "Mexican Welterweight May Be A Sizeable Underdog Heading Into His Bout With Richardson Hitchins, But He Said He’s Ready To Spring A Shock.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072426-hero-ricardo-salas.jpg?itok=I3nDes-_",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Richardson Hitchins Wants To Make Up For Lost Time | Zuffa Boxing 09",
-      "link": "https://www.ufc.com/news/richardson-hitchins-wants-to-make-up-for-lost-time-zuffa-boxing-09",
-      "guid": "https://www.ufc.com/news/richardson-hitchins-wants-to-make-up-for-lost-time-zuffa-boxing-09",
-      "pubDate": "Fri, 24 Jul 2026 23:04:00 GMT",
-      "published_at": "2026-07-24T23:04:00+00:00",
-      "description": "Former Super Lightweight World Champion Has Moved Up To 147 Pounds, And Plans On Putting The Welterweight Division On Notice.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072426-hero-richardson-hitchins.jpg?itok=MwPjop_W",
       "category": "Boxing",
       "source": "UFC"
     }
