@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-26T03:44:38.928565+00:00",
+  "last_build_date": "2026-07-26T08:36:41.581459+00:00",
   "item_count": 9,
   "items": [
     {
@@ -89,8 +89,8 @@
       "guid": "https://www.ufc.com/news/ricardo-salas-is-eyeing-a-new-york-upset-zuffa-boxing-09",
       "pubDate": "Fri, 24 Jul 2026 23:08:00 GMT",
       "published_at": "2026-07-24T23:08:00+00:00",
-      "description": "Latest UFC news: Ricardo Salas Is Eyeing A New York Upset | Zuffa Boxing 09",
-      "image": "",
+      "description": "Mexican Welterweight May Be A Sizeable Underdog Heading Into His Bout With Richardson Hitchins, But He Said He’s Ready To Spring A Shock.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072426-hero-ricardo-salas.jpg?itok=I3nDes-_",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -100,8 +100,8 @@
       "guid": "https://www.ufc.com/news/richardson-hitchins-wants-to-make-up-for-lost-time-zuffa-boxing-09",
       "pubDate": "Fri, 24 Jul 2026 23:04:00 GMT",
       "published_at": "2026-07-24T23:04:00+00:00",
-      "description": "Latest UFC news: Richardson Hitchins Wants To Make Up For Lost Time | Zuffa Boxing 09",
-      "image": "",
+      "description": "Former Super Lightweight World Champion Has Moved Up To 147 Pounds, And Plans On Putting The Welterweight Division On Notice.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072426-hero-richardson-hitchins.jpg?itok=MwPjop_W",
       "category": "Boxing",
       "source": "UFC"
     }
