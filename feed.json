@@ -3,18 +3,29 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-26T22:05:32.737647+00:00",
+  "last_build_date": "2026-07-27T03:53:54.433823+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler",
       "link": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
       "guid": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
-      "pubDate": "Sun, 26 Jul 2026 21:00:00 GMT",
-      "published_at": "2026-07-26T21:00:00+00:00",
+      "pubDate": "Mon, 27 Jul 2026 03:40:00 GMT",
+      "published_at": "2026-07-27T03:40:00+00:00",
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "잃었던 타이틀 찾으러 간다",
+      "link": "https://www.ufc.com/news/ilheossdeon-taiteul-chajeuleo-ganda",
+      "guid": "https://www.ufc.com/news/ilheossdeon-taiteul-chajeuleo-ganda",
+      "pubDate": "Mon, 27 Jul 2026 02:17:00 GMT",
+      "published_at": "2026-07-27T02:17:00+00:00",
+      "description": "Latest UFC news: 잃었던 타이틀 찾으러 간다",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072725-PFN17_Ankalaev_JH_20260725_1030.jpg?itok=BO8vvb4G",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -62,17 +73,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
-      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
-      "published_at": "2026-07-25T19:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Main Card Results | UFC Abu Dhabi",
       "link": "https://www.ufc.com/news/ufc-abu-dhabi-results",
       "guid": "https://www.ufc.com/news/ufc-abu-dhabi-results",
@@ -80,6 +80,17 @@
       "published_at": "2026-07-25T19:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-hero-valter-walker_GettyImages-2286937641.jpg?itok=tNT-ka30",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Zuffa Boxing 09",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09",
-      "pubDate": "Sat, 25 Jul 2026 13:00:00 GMT",
-      "published_at": "2026-07-25T13:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
