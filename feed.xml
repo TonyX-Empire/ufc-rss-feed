@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:04:50 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyle Prepolec: ‘Every Fight Is A Boss Fight’</title>
+      <link>https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia</guid>
+      <pubDate>Mon, 27 Jul 2026 17:05:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Kyle-Prepolec-Hero-.jpg?itok=JU4MWmJf" alt="Kyle Prepolec: ‘Every Fight Is A Boss Fight’" /></p>
+<p>Canadian Lightweight Talks MMA Journey, Challenging Slate Ahead Of 2026 Debut</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler</title>
       <link>https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-hero-valter-walker_GettyImages-2286937641.jpg?itok=tNT-ka30" alt="Prelim Results | UFC Abu Dhabi" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-berlanga-butler-zuffa-boxing-09</guid>
-      <pubDate>Sat, 25 Jul 2026 13:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" alt="Official Weigh-In Results | Zuffa Boxing 09" /></p>
-<p>The Official Weights Of The Athletes Competing Sunday July 26 At The Infosys Theater At Madison Square Garden In New York City</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
