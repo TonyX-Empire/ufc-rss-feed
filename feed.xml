@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jul 2026 03:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:05:05 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler</title>
@@ -33,7 +33,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-abu-dhabi</guid>
       <pubDate>Sun, 26 Jul 2026 14:43:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw" alt="The Scorecard | UFC Abu Dhabi" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw" alt="The Scorecard | UFC Abu Dhabi" /></p>
 <p>Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -68,16 +68,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Main Card Results | UFC Abu Dhabi</title>
-      <link>https://www.ufc.com/news/ufc-abu-dhabi-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-results</guid>
-      <pubDate>Sat, 25 Jul 2026 19:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO" alt="Main Card Results | UFC Abu Dhabi" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>Official Scorecards | UFC Abu Dhabi</title>
       <link>https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards</guid>
@@ -85,6 +75,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ" alt="Official Scorecards | UFC Abu Dhabi" /></p>
 <p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Main Card Results | UFC Abu Dhabi</title>
+      <link>https://www.ufc.com/news/ufc-abu-dhabi-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-results</guid>
+      <pubDate>Sat, 25 Jul 2026 19:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO" alt="Main Card Results | UFC Abu Dhabi" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
