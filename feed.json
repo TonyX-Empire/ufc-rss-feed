@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-28T08:47:56.007236+00:00",
+  "last_build_date": "2026-07-28T11:24:24.966342+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Belgrade",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
+      "pubDate": "Tue, 28 Jul 2026 08:55:00 GMT",
+      "published_at": "2026-07-28T08:55:00+00:00",
+      "description": "Setting The Table For Saturday’s Debut In Belgrade, Serbia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Kyle Prepolec: ‘Every Fight Is A Boss Fight’",
       "link": "https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-25T19:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-prelim-results",
-      "pubDate": "Sat, 25 Jul 2026 16:00:00 GMT",
-      "published_at": "2026-07-25T16:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072526-hero-valter-walker_GettyImages-2286937641.jpg?itok=tNT-ka30",
       "category": "UFC",
       "source": "UFC"
     }

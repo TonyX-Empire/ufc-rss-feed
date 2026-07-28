@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:47:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:24:24 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | UFC Belgrade</title>
+      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia</guid>
+      <pubDate>Tue, 28 Jul 2026 08:55:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q" alt="Fight By Fight Preview | UFC Belgrade" /></p>
+<p>Setting The Table For Saturday’s Debut In Belgrade, Serbia</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Kyle Prepolec: ‘Every Fight Is A Boss Fight’</title>
       <link>https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-ufc-fight-night-ankalaev-vs-guskov-EVENT-ART.jpg?itok=A_6TnYpO" alt="Main Card Results | UFC Abu Dhabi" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Prelim Results | UFC Abu Dhabi</title>
-      <link>https://www.ufc.com/news/ufc-abu-dhabi-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-abu-dhabi-prelim-results</guid>
-      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072526-hero-valter-walker_GettyImages-2286937641.jpg?itok=tNT-ka30" alt="Prelim Results | UFC Abu Dhabi" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
