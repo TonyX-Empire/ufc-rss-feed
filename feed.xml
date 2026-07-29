@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:30:48 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniel Rodriguez Is Soaking It All In</title>
+      <link>https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight</guid>
+      <pubDate>Wed, 29 Jul 2026 09:31:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN" alt="Daniel Rodriguez Is Soaking It All In" /></p>
+<p>Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Jan Błachowicz | Still Crazy After All These Years</title>
+      <link>https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight</guid>
+      <pubDate>Wed, 29 Jul 2026 09:21:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Jan-Blachowicz-Hero-.jpg?itok=y3VL-xWA" alt="Jan Błachowicz | Still Crazy After All These Years" /></p>
+<p>Polish Veteran Talks Desire To Still Compete, Navajo Stirling Matchup In Belgrade</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Oban Elliott | A Different Gangster</title>
       <link>https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw" alt="The Scorecard | UFC Abu Dhabi" /></p>
 <p>Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Monthly Report | July 2026</title>
-      <link>https://www.ufc.com/news/monthly-report-july-2026</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/monthly-report-july-2026</guid>
-      <pubDate>Sun, 26 Jul 2026 14:32:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072626-hero-paddy-pimblett_GettyImages-2285709692.jpg?itok=Rqgrcr7W" alt="Monthly Report | July 2026" /></p>
-<p>Highlighting The Standout Action From Inside The Octagon Over The Previous Month</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>How To Watch Zuffa Boxing</title>
-      <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</guid>
-      <pubDate>Sun, 26 Jul 2026 14:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
-<p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-29T08:51:58.062703+00:00",
+  "last_build_date": "2026-07-29T11:30:48.811656+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Daniel Rodriguez Is Soaking It All In",
+      "link": "https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight",
+      "guid": "https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight",
+      "pubDate": "Wed, 29 Jul 2026 09:31:00 GMT",
+      "published_at": "2026-07-29T09:31:00+00:00",
+      "description": "Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jan Błachowicz | Still Crazy After All These Years",
+      "link": "https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight",
+      "guid": "https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight",
+      "pubDate": "Wed, 29 Jul 2026 09:21:00 GMT",
+      "published_at": "2026-07-29T09:21:00+00:00",
+      "description": "Polish Veteran Talks Desire To Still Compete, Navajo Stirling Matchup In Belgrade",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Jan-Blachowicz-Hero-.jpg?itok=y3VL-xWA",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Oban Elliott | A Different Gangster",
       "link": "https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade",
@@ -81,28 +103,6 @@
       "description": "Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Monthly Report | July 2026",
-      "link": "https://www.ufc.com/news/monthly-report-july-2026",
-      "guid": "https://www.ufc.com/news/monthly-report-july-2026",
-      "pubDate": "Sun, 26 Jul 2026 14:32:00 GMT",
-      "published_at": "2026-07-26T14:32:00+00:00",
-      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-paddy-pimblett_GettyImages-2285709692.jpg?itok=Rqgrcr7W",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Sun, 26 Jul 2026 14:00:00 GMT",
-      "published_at": "2026-07-26T14:00:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
