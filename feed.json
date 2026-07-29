@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-29T14:26:15.236473+00:00",
+  "last_build_date": "2026-07-29T16:26:45.375001+00:00",
   "item_count": 9,
   "items": [
     {
@@ -35,7 +35,7 @@
       "pubDate": "Wed, 29 Jul 2026 00:33:00 GMT",
       "published_at": "2026-07-29T00:33:00+00:00",
       "description": "Welshman Discusses Shift In Mindset Ahead Of Return To Action In Belgrade",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Oban-Elliot-Hero-.jpg?itok=GGNdie4h",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Oban-Elliot-Hero-.jpg?itok=GGNdie4h",
       "category": "UFC",
       "source": "UFC"
     },
