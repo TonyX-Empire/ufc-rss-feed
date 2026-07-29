@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-28T22:11:45.855894+00:00",
+  "last_build_date": "2026-07-29T03:26:42.128822+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Oban Elliott | A Different Gangster",
+      "link": "https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade",
+      "pubDate": "Wed, 29 Jul 2026 00:33:00 GMT",
+      "published_at": "2026-07-29T00:33:00+00:00",
+      "description": "Welshman Discusses Shift In Mindset Ahead Of Return To Action In Belgrade",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/Oban-Elliot-Hero-.jpg?itok=GGNdie4h",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Uroš Medić | The Homecoming",
       "link": "https://www.ufc.com/news/uros-medic-the-homecoming-ufc-belgrade",
@@ -92,17 +103,6 @@
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
-      "pubDate": "Sat, 25 Jul 2026 20:10:00 GMT",
-      "published_at": "2026-07-25T20:10:00+00:00",
-      "description": "Latest UFC news: Bonus Coverage | UFC Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3_1.gif?itok=sPTE2M4n",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

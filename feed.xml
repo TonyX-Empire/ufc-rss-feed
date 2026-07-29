@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 03:26:42 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oban Elliott | A Different Gangster</title>
+      <link>https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/oban-elliot-a-different-gangster-ufc-belgrade</guid>
+      <pubDate>Wed, 29 Jul 2026 00:33:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/Oban-Elliot-Hero-.jpg?itok=GGNdie4h" alt="Oban Elliott | A Different Gangster" /></p>
+<p>Welshman Discusses Shift In Mindset Ahead Of Return To Action In Belgrade</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Uroš Medić | The Homecoming</title>
       <link>https://www.ufc.com/news/uros-medic-the-homecoming-ufc-belgrade</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
 <p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC Abu Dhabi</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi</guid>
-      <pubDate>Sat, 25 Jul 2026 20:10:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3_1.gif?itok=sPTE2M4n" alt="Bonus Coverage | UFC Abu Dhabi" /></p>
-<p>Latest UFC news: Bonus Coverage | UFC Abu Dhabi</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
