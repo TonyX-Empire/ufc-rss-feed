@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-29T16:26:45.375001+00:00",
+  "last_build_date": "2026-07-29T19:35:46.317179+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Aleksandar Rakic | Refueled ‘Rocket’ Ready To Take Off",
+      "link": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
+      "pubDate": "Wed, 29 Jul 2026 18:10:00 GMT",
+      "published_at": "2026-07-29T18:10:00+00:00",
+      "description": "Veteran Contender Talks Move To Heavyweight, Competing In Serbia For The First Time",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Aleksandar-Rakic-Hero-.jpg?itok=UTEu0Imb",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jovan Leka | No Nerves, Only Excitement",
+      "link": "https://www.ufc.com/news/jovan-leka-no-nerves-only-excitement-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/jovan-leka-no-nerves-only-excitement-ufc-belgrade",
+      "pubDate": "Wed, 29 Jul 2026 16:50:00 GMT",
+      "published_at": "2026-07-29T16:50:00+00:00",
+      "description": "Heavyweight Newcomer Discussed Journey To The Octagon, Debuting At Home",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Jovan-Leka-Hero-.jpg?itok=_q7D3-h8",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Daniel Rodriguez Is Soaking It All In",
       "link": "https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight",
@@ -80,28 +102,6 @@
       "published_at": "2026-07-27T17:05:00+00:00",
       "description": "Canadian Lightweight Talks MMA Journey, Challenging Slate Ahead Of 2026 Debut",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Kyle-Prepolec-Hero-.jpg?itok=JU4MWmJf",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler",
-      "link": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
-      "pubDate": "Mon, 27 Jul 2026 03:40:00 GMT",
-      "published_at": "2026-07-27T03:40:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Abu Dhabi",
-      "link": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
-      "pubDate": "Sun, 26 Jul 2026 14:43:00 GMT",
-      "published_at": "2026-07-26T14:43:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw",
       "category": "UFC",
       "source": "UFC"
     }
