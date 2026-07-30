@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 Jul 2026 16:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:43:54 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navajo Stirling | Playing The Long Game</title>
+      <link>https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade</guid>
+      <pubDate>Thu, 30 Jul 2026 17:59:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Navajo-Stirling-Hero-.jpg?itok=9b7GF5Z5" alt="Navajo Stirling | Playing The Long Game" /></p>
+<p>Ascending Light Heavyweight Talks Breakout Year, Facing Jan Blachowicz</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Marina Spasić | The First Serbian To Make The Walk</title>
       <link>https://www.ufc.com/news/marina-spasic-first-serbian-make-walk</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072826-hero-navajo-stirling_GettyImages-2282556896.jpg?itok=pu3k2MBt" alt="Fighters on the Rise | UFC Belgrade" /></p>
 <p>Identifying Three Ascending Names To Watch This Weekend in Belgrade, Serbia</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC Belgrade</title>
-      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia</guid>
-      <pubDate>Tue, 28 Jul 2026 08:55:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q" alt="Fight By Fight Preview | UFC Belgrade" /></p>
-<p>Setting The Table For Saturday’s Debut In Belgrade, Serbia</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-30T16:42:42.076742+00:00",
+  "last_build_date": "2026-07-30T19:43:54.906889+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Navajo Stirling | Playing The Long Game",
+      "link": "https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade",
+      "pubDate": "Thu, 30 Jul 2026 17:59:00 GMT",
+      "published_at": "2026-07-30T17:59:00+00:00",
+      "description": "Ascending Light Heavyweight Talks Breakout Year, Facing Jan Blachowicz",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Navajo-Stirling-Hero-.jpg?itok=9b7GF5Z5",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Marina Spasić | The First Serbian To Make The Walk",
       "link": "https://www.ufc.com/news/marina-spasic-first-serbian-make-walk",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-28T16:30:00+00:00",
       "description": "Identifying Three Ascending Names To Watch This Weekend in Belgrade, Serbia",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072826-hero-navajo-stirling_GettyImages-2282556896.jpg?itok=pu3k2MBt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Belgrade",
-      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
-      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
-      "pubDate": "Tue, 28 Jul 2026 08:55:00 GMT",
-      "published_at": "2026-07-28T08:55:00+00:00",
-      "description": "Setting The Table For Saturday’s Debut In Belgrade, Serbia",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q",
       "category": "UFC",
       "source": "UFC"
     }
