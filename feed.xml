@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:42:42 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marina Spasić | The First Serbian To Make The Walk</title>
+      <link>https://www.ufc.com/news/marina-spasic-first-serbian-make-walk</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/marina-spasic-first-serbian-make-walk</guid>
+      <pubDate>Thu, 30 Jul 2026 16:11:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/080126-Marina-Spasic-hero-UFCBelgrade-27.jpg?itok=FWdwnKwx" alt="Marina Spasić | The First Serbian To Make The Walk" /></p>
+<p>Strawweight Marina Spasić Kicks Off The Action In Belgrade, Hopes To Get The Crowd Excited Early</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off</title>
       <link>https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q" alt="Fight By Fight Preview | UFC Belgrade" /></p>
 <p>Setting The Table For Saturday’s Debut In Belgrade, Serbia</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Kyle Prepolec: ‘Every Fight Is A Boss Fight’</title>
-      <link>https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia</guid>
-      <pubDate>Mon, 27 Jul 2026 17:05:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Kyle-Prepolec-Hero-.jpg?itok=JU4MWmJf" alt="Kyle Prepolec: ‘Every Fight Is A Boss Fight’" /></p>
-<p>Canadian Lightweight Talks MMA Journey, Challenging Slate Ahead Of 2026 Debut</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

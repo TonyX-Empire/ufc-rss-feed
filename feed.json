@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-30T14:24:14.005991+00:00",
+  "last_build_date": "2026-07-30T16:42:42.076742+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Marina Spasić | The First Serbian To Make The Walk",
+      "link": "https://www.ufc.com/news/marina-spasic-first-serbian-make-walk",
+      "guid": "https://www.ufc.com/news/marina-spasic-first-serbian-make-walk",
+      "pubDate": "Thu, 30 Jul 2026 16:11:00 GMT",
+      "published_at": "2026-07-30T16:11:00+00:00",
+      "description": "Strawweight Marina Spasić Kicks Off The Action In Belgrade, Hopes To Get The Crowd Excited Early",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Marina-Spasic-hero-UFCBelgrade-27.jpg?itok=FWdwnKwx",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off",
       "link": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-28T08:55:00+00:00",
       "description": "Setting The Table For Saturday’s Debut In Belgrade, Serbia",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Kyle Prepolec: ‘Every Fight Is A Boss Fight’",
-      "link": "https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia",
-      "guid": "https://www.ufc.com/news/kyle-prepolec-every-fight-boss-fight-ufc-serbia",
-      "pubDate": "Mon, 27 Jul 2026 17:05:00 GMT",
-      "published_at": "2026-07-27T17:05:00+00:00",
-      "description": "Canadian Lightweight Talks MMA Journey, Challenging Slate Ahead Of 2026 Debut",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Kyle-Prepolec-Hero-.jpg?itok=JU4MWmJf",
       "category": "UFC",
       "source": "UFC"
     }
