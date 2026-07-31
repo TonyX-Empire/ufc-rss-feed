@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-31T14:26:35.063560+00:00",
+  "last_build_date": "2026-07-31T16:49:30.093037+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-results",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
+      "pubDate": "Fri, 31 Jul 2026 16:30:00 GMT",
+      "published_at": "2026-07-31T16:30:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Duško Todorović | Ready To Make History At UFC Belgrade",
       "link": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-29T18:10:00+00:00",
       "description": "Veteran Contender Talks Move To Heavyweight, Competing In Serbia For The First Time",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Aleksandar-Rakic-Hero-.jpg?itok=UTEu0Imb",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jovan Leka | No Nerves, Only Excitement",
-      "link": "https://www.ufc.com/news/jovan-leka-no-nerves-only-excitement-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/jovan-leka-no-nerves-only-excitement-ufc-belgrade",
-      "pubDate": "Wed, 29 Jul 2026 16:50:00 GMT",
-      "published_at": "2026-07-29T16:50:00+00:00",
-      "description": "Heavyweight Newcomer Discussed Journey To The Octagon, Debuting At Home",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Jovan-Leka-Hero-.jpg?itok=_q7D3-h8",
       "category": "UFC",
       "source": "UFC"
     }
