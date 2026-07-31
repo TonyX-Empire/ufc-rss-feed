@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-31T19:45:27.666631+00:00",
+  "last_build_date": "2026-07-31T22:12:00.242756+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The 10 | Action-Packed August Ahead",
+      "link": "https://www.ufc.com/news/10-action-packed-august-ahead",
+      "guid": "https://www.ufc.com/news/10-action-packed-august-ahead",
+      "pubDate": "Fri, 31 Jul 2026 22:05:00 GMT",
+      "published_at": "2026-07-31T22:05:00+00:00",
+      "description": "Five Straight Saturdays Provide Plenty To Be Excited About This Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-results",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
+      "pubDate": "Fri, 31 Jul 2026 20:00:00 GMT",
+      "published_at": "2026-07-31T20:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
+      "pubDate": "Fri, 31 Jul 2026 19:55:00 GMT",
+      "published_at": "2026-07-31T19:55:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
+      "pubDate": "Fri, 31 Jul 2026 19:37:00 GMT",
+      "published_at": "2026-07-31T19:37:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Nina Milošević | Back Home, Ready For The Big Stage",
       "link": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
@@ -13,18 +57,7 @@
       "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
       "published_at": "2026-07-31T17:00:00+00:00",
       "description": "She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-results",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
-      "pubDate": "Fri, 31 Jul 2026 16:30:00 GMT",
-      "published_at": "2026-07-31T16:30:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
       "category": "UFC",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Dana White's Contender Series Returns Tuesday, August 11, As UFC Hopefuls Fight For A UFC Contract In Front Of UFC President Dana White",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/general-view-octagon-dana-whites-contender-series-GettyImages-2232275126.jpg?itok=EZyn0OU_",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Navajo Stirling | Playing The Long Game",
-      "link": "https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/navajo-stirling-playing-the-long-game-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 17:59:00 GMT",
-      "published_at": "2026-07-30T17:59:00+00:00",
-      "description": "Ascending Light Heavyweight Talks Breakout Year, Facing Jan Blachowicz",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Navajo-Stirling-Hero-.jpg?itok=9b7GF5Z5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Marina Spasić | The First Serbian To Make The Walk",
-      "link": "https://www.ufc.com/news/marina-spasic-first-serbian-make-walk",
-      "guid": "https://www.ufc.com/news/marina-spasic-first-serbian-make-walk",
-      "pubDate": "Thu, 30 Jul 2026 16:11:00 GMT",
-      "published_at": "2026-07-30T16:11:00+00:00",
-      "description": "Strawweight Marina Spasić Kicks Off The Action In Belgrade, Hopes To Get The Crowd Excited Early",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Marina-Spasic-hero-UFCBelgrade-27.jpg?itok=FWdwnKwx",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night",
-      "pubDate": "Thu, 30 Jul 2026 08:03:00 GMT",
-      "published_at": "2026-07-30T08:03:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing August 1, 2026 At UFC Fight Night: Medić vs Rodriguez In Serbia",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Uros-Medic-weigh-GettyImages-2262726762.jpg?itok=19PKKVj1",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
