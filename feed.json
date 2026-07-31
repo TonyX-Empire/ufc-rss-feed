@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-31T16:49:30.093037+00:00",
+  "last_build_date": "2026-07-31T19:45:27.666631+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Nina Milošević | Back Home, Ready For The Big Stage",
+      "link": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
+      "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
+      "published_at": "2026-07-31T17:00:00+00:00",
+      "description": "She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Belgrade",
       "link": "https://www.ufc.com/news/ufc-belgrade-results",
@@ -92,17 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing August 1, 2026 At UFC Fight Night: Medić vs Rodriguez In Serbia",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Uros-Medic-weigh-GettyImages-2262726762.jpg?itok=19PKKVj1",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off",
-      "link": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
-      "pubDate": "Wed, 29 Jul 2026 18:10:00 GMT",
-      "published_at": "2026-07-29T18:10:00+00:00",
-      "description": "Veteran Contender Talks Move To Heavyweight, Competing In Serbia For The First Time",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Aleksandar-Rakic-Hero-.jpg?itok=UTEu0Imb",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

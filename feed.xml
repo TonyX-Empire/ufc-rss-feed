@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 31 Jul 2026 16:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:45:27 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nina Milošević | Back Home, Ready For The Big Stage</title>
+      <link>https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade</guid>
+      <pubDate>Fri, 31 Jul 2026 17:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d" alt="Nina Milošević | Back Home, Ready For The Big Stage" /></p>
+<p>She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC Belgrade</title>
       <link>https://www.ufc.com/news/ufc-belgrade-results</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/080126-Uros-Medic-weigh-GettyImages-2262726762.jpg?itok=19PKKVj1" alt="Official Weigh-In Results | UFC Belgrade" /></p>
 <p>The Official Weights Of The Athletes Competing August 1, 2026 At UFC Fight Night: Medić vs Rodriguez In Serbia</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off</title>
-      <link>https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade</guid>
-      <pubDate>Wed, 29 Jul 2026 18:10:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Aleksandar-Rakic-Hero-.jpg?itok=UTEu0Imb" alt="Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off" /></p>
-<p>Veteran Contender Talks Move To Heavyweight, Competing In Serbia For The First Time</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
