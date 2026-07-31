@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-31T03:41:28.463508+00:00",
+  "last_build_date": "2026-07-31T09:12:58.885011+00:00",
   "item_count": 9,
   "items": [
     {
@@ -73,6 +73,17 @@
       "source": "UFC"
     },
     {
+      "title": "Official Weigh-In Results | UFC Belgrade",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night",
+      "pubDate": "Thu, 30 Jul 2026 08:03:00 GMT",
+      "published_at": "2026-07-30T08:03:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing August 1, 2026 At UFC Fight Night: Medić vs Rodriguez In Serbia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Uros-Medic-weigh-GettyImages-2262726762.jpg?itok=19PKKVj1",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
       "title": "Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off",
       "link": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
       "guid": "https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-29T16:50:00+00:00",
       "description": "Heavyweight Newcomer Discussed Journey To The Octagon, Debuting At Home",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Jovan-Leka-Hero-.jpg?itok=_q7D3-h8",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Daniel Rodriguez Is Soaking It All In",
-      "link": "https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight",
-      "guid": "https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight",
-      "pubDate": "Wed, 29 Jul 2026 09:31:00 GMT",
-      "published_at": "2026-07-29T09:31:00+00:00",
-      "description": "Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN",
       "category": "UFC",
       "source": "UFC"
     }

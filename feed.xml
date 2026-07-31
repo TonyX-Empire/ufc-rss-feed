@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 31 Jul 2026 03:41:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:12:58 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duško Todorović | Ready To Make History At UFC Belgrade</title>
@@ -68,6 +68,16 @@
 <p>Category: News</p>]]></description>
     </item>
     <item>
+      <title>Official Weigh-In Results | UFC Belgrade</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-belgrade-medic-rodriguez-fight-night</guid>
+      <pubDate>Thu, 30 Jul 2026 08:03:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/080126-Uros-Medic-weigh-GettyImages-2262726762.jpg?itok=19PKKVj1" alt="Official Weigh-In Results | UFC Belgrade" /></p>
+<p>The Official Weights Of The Athletes Competing August 1, 2026 At UFC Fight Night: Medić vs Rodriguez In Serbia</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
       <title>Aleksandar Rakić | Refueled ‘Rocket’ Ready To Take Off</title>
       <link>https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade</link>
       <guid isPermaLink="true">https://www.ufc.com/news/aleksandar-rakic-refueled-rocket-ready-to-take-off-ufc-belgrade</guid>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Jovan-Leka-Hero-.jpg?itok=_q7D3-h8" alt="Jovan Leka | No Nerves, Only Excitement" /></p>
 <p>Heavyweight Newcomer Discussed Journey To The Octagon, Debuting At Home</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Daniel Rodriguez Is Soaking It All In</title>
-      <link>https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/daniel-rodriguez-soaking-it-all-in-ufc-belgrade-welterweight</guid>
-      <pubDate>Wed, 29 Jul 2026 09:31:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN" alt="Daniel Rodriguez Is Soaking It All In" /></p>
-<p>Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
