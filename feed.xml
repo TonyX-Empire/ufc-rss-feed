@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 Jul 2026 22:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:41:28 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duško Todorović | Ready To Make History At UFC Belgrade</title>
+      <link>https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade</guid>
+      <pubDate>Thu, 30 Jul 2026 22:45:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Dusko-Todorovic-Hero-.jpg?itok=kOkHyxys" alt="Duško Todorović | Ready To Make History At UFC Belgrade" /></p>
+<p>Veteran Middleweight Embraces Serbia’s Landmark UFC Debut While Chasing Another Defining Victory.</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Vlasto Čepo | Homegrown Dream: Finally Brings His UFC Journey To Serbia</title>
       <link>https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN" alt="Daniel Rodriguez Is Soaking It All In" /></p>
 <p>Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Jan Błachowicz | Still Crazy After All These Years</title>
-      <link>https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight</guid>
-      <pubDate>Wed, 29 Jul 2026 09:21:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Jan-Blachowicz-Hero-.jpg?itok=y3VL-xWA" alt="Jan Błachowicz | Still Crazy After All These Years" /></p>
-<p>Polish Veteran Talks Desire To Still Compete, Navajo Stirling Matchup In Belgrade</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-30T22:14:06.986546+00:00",
+  "last_build_date": "2026-07-31T03:41:28.463508+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Duško Todorović | Ready To Make History At UFC Belgrade",
+      "link": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
+      "pubDate": "Thu, 30 Jul 2026 22:45:00 GMT",
+      "published_at": "2026-07-30T22:45:00+00:00",
+      "description": "Veteran Middleweight Embraces Serbia’s Landmark UFC Debut While Chasing Another Defining Victory.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dusko-Todorovic-Hero-.jpg?itok=kOkHyxys",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Vlasto Čepo | Homegrown Dream: Finally Brings His UFC Journey To Serbia",
       "link": "https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-29T09:31:00+00:00",
       "description": "Back For The First Time In More Than A Year, Daniel Rodriguez Hopes To Send A Message To The Welterweight Division In His First Main Event Assignment",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Daniel-Rodriguez-Hero-.jpg?itok=VnGtFScN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jan Błachowicz | Still Crazy After All These Years",
-      "link": "https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight",
-      "guid": "https://www.ufc.com/news/jan-blachowicz-still-crazy-after-all-these-years-ufc-belgrade-light-heavyweight",
-      "pubDate": "Wed, 29 Jul 2026 09:21:00 GMT",
-      "published_at": "2026-07-29T09:21:00+00:00",
-      "description": "Polish Veteran Talks Desire To Still Compete, Navajo Stirling Matchup In Belgrade",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Jan-Blachowicz-Hero-.jpg?itok=y3VL-xWA",
       "category": "UFC",
       "source": "UFC"
     }
