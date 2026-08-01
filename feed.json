@@ -3,28 +3,39 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-01T16:07:13.501723+00:00",
+  "last_build_date": "2026-08-01T19:20:49.107084+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
+      "pubDate": "Sat, 01 Aug 2026 19:15:00 GMT",
+      "published_at": "2026-08-01T19:15:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Prelim Results | UFC Belgrade",
       "link": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
-      "pubDate": "Sat, 01 Aug 2026 16:00:00 GMT",
-      "published_at": "2026-08-01T16:00:00+00:00",
+      "pubDate": "Sat, 01 Aug 2026 16:55:00 GMT",
+      "published_at": "2026-08-01T16:55:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080126-ufc-belgrade-octagon-establishing-shot-HERO.jpg?itok=EtVB6uqF",
       "category": "UFC",
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "pubDate": "Sat, 01 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-01T15:00:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
+      "title": "Main Card Results | UFC Belgrade",
+      "link": "https://www.ufc.com/news/ufc-belgrade-results",
+      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
+      "pubDate": "Sat, 01 Aug 2026 07:10:00 GMT",
+      "published_at": "2026-08-01T07:10:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
       "category": "UFC",
       "source": "UFC"
     },
@@ -37,17 +48,6 @@
       "description": "Five Straight Saturdays Provide Plenty To Be Excited About This Month",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-results",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
-      "pubDate": "Fri, 31 Jul 2026 20:00:00 GMT",
-      "published_at": "2026-07-31T20:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
-      "category": "UFC",
       "source": "UFC"
     },
     {
