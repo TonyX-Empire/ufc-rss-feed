@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-01T19:20:49.107084+00:00",
+  "last_build_date": "2026-08-01T22:02:22.699682+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Belgrade",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-belgrade",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-belgrade",
+      "pubDate": "Sat, 01 Aug 2026 21:00:00 GMT",
+      "published_at": "2026-08-01T21:00:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Medic vs Rodriguez On August 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080126-UFC-Belgrade-Bonus-Coverage-HERO.jpg?itok=7t5bSZ4L",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Scorecards | UFC Belgrade",
       "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
@@ -32,8 +43,8 @@
       "title": "Main Card Results | UFC Belgrade",
       "link": "https://www.ufc.com/news/ufc-belgrade-results",
       "guid": "https://www.ufc.com/news/ufc-belgrade-results",
-      "pubDate": "Sat, 01 Aug 2026 07:10:00 GMT",
-      "published_at": "2026-08-01T07:10:00+00:00",
+      "pubDate": "Sat, 01 Aug 2026 07:35:00 GMT",
+      "published_at": "2026-08-01T07:35:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
       "category": "UFC",
@@ -92,17 +103,6 @@
       "description": "Engaging Middleweight Talks First UFC Win, Coaching Situation, Clash In Belgrade",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Robert-Valentin-Hero-.jpg?itok=Ll9EJMHH",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Dana White's Contender Series Season 10",
-      "link": "https://www.ufc.com/news/how-to-watch-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/how-to-watch-dana-whites-contender-series-season-10",
-      "pubDate": "Thu, 30 Jul 2026 20:00:00 GMT",
-      "published_at": "2026-07-30T20:00:00+00:00",
-      "description": "Dana White's Contender Series Returns Tuesday, August 11, As UFC Hopefuls Fight For A UFC Contract In Front Of UFC President Dana White",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/general-view-octagon-dana-whites-contender-series-GettyImages-2232275126.jpg?itok=EZyn0OU_",
-      "category": "News",
       "source": "UFC"
     }
   ]
