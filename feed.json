@@ -3,97 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-07-31T22:12:00.242756+00:00",
+  "last_build_date": "2026-08-01T03:40:41.011502+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "The 10 | Action-Packed August Ahead",
-      "link": "https://www.ufc.com/news/10-action-packed-august-ahead",
-      "guid": "https://www.ufc.com/news/10-action-packed-august-ahead",
-      "pubDate": "Fri, 31 Jul 2026 22:05:00 GMT",
-      "published_at": "2026-07-31T22:05:00+00:00",
-      "description": "Five Straight Saturdays Provide Plenty To Be Excited About This Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-results",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-results",
-      "pubDate": "Fri, 31 Jul 2026 20:00:00 GMT",
-      "published_at": "2026-07-31T20:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
-      "pubDate": "Fri, 31 Jul 2026 19:55:00 GMT",
-      "published_at": "2026-07-31T19:55:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/020126-General-View-Octagon-HERO-GettyImages-2259286116.jpg?itok=_3hZBsLt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "pubDate": "Fri, 31 Jul 2026 19:37:00 GMT",
-      "published_at": "2026-07-31T19:37:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Nina Milošević | Back Home, Ready For The Big Stage",
-      "link": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
-      "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
-      "published_at": "2026-07-31T17:00:00+00:00",
-      "description": "She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Duško Todorović | Ready To Make History At UFC Belgrade",
-      "link": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 22:45:00 GMT",
-      "published_at": "2026-07-30T22:45:00+00:00",
-      "description": "Veteran Middleweight Embraces Serbia’s Landmark UFC Debut While Chasing Another Defining Victory.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dusko-Todorovic-Hero-.jpg?itok=kOkHyxys",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Vlasto Čepo | Homegrown Dream: Finally Brings His UFC Journey To Serbia",
-      "link": "https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 21:10:00 GMT",
-      "published_at": "2026-07-30T21:10:00+00:00",
-      "description": "After Years Of Believing He Belonged In The UFC, “Mr.Chaos” Gets His Chance In Front Of A Home Crowd Against Gilbert Urbina",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Vlasto-Cepo-Hero-.jpg?itok=U30wLPuG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Everything Is Coming Together For Robert Valentin",
-      "link": "https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 20:20:00 GMT",
-      "published_at": "2026-07-30T20:20:00+00:00",
-      "description": "Engaging Middleweight Talks First UFC Win, Coaching Situation, Clash In Belgrade",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Robert-Valentin-Hero-.jpg?itok=Ll9EJMHH",
-      "category": "UFC",
-      "source": "UFC"
-    },
     {
       "title": "How To Watch Dana White's Contender Series Season 10",
       "link": "https://www.ufc.com/news/how-to-watch-dana-whites-contender-series-season-10",
@@ -103,6 +15,94 @@
       "description": "Dana White's Contender Series Returns Tuesday, August 11, As UFC Hopefuls Fight For A UFC Contract In Front Of UFC President Dana White",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/general-view-octagon-dana-whites-contender-series-GettyImages-2232275126.jpg?itok=EZyn0OU_",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Belgrade",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-belgrade-stirling-leka-milosevic",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-belgrade-stirling-leka-milosevic",
+      "pubDate": "Tue, 28 Jul 2026 16:30:00 GMT",
+      "published_at": "2026-07-28T16:30:00+00:00",
+      "description": "Identifying Three Ascending Names To Watch This Weekend in Belgrade, Serbia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072826-hero-navajo-stirling_GettyImages-2282556896.jpg?itok=pu3k2MBt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Belgrade",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-belgrade-serbia",
+      "pubDate": "Tue, 28 Jul 2026 08:55:00 GMT",
+      "published_at": "2026-07-28T08:55:00+00:00",
+      "description": "Setting The Table For Saturday’s Debut In Belgrade, Serbia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072726-uros-medic-backstage-portrait_GettyImages-2262889892.jpg?itok=URDYX28Q",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler",
+      "link": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights",
+      "pubDate": "Mon, 27 Jul 2026 03:40:00 GMT",
+      "published_at": "2026-07-27T03:40:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-abu-dhabi",
+      "pubDate": "Sun, 26 Jul 2026 14:43:00 GMT",
+      "published_at": "2026-07-26T14:43:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Ankalaev vs Guskov on July 25, 2026.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-magomed-zaynukov_GettyImages-2286947089.jpg?itok=U1um1Hjw",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Monthly Report | July 2026",
+      "link": "https://www.ufc.com/news/monthly-report-july-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-july-2026",
+      "pubDate": "Sun, 26 Jul 2026 14:32:00 GMT",
+      "published_at": "2026-07-26T14:32:00+00:00",
+      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/072626-hero-paddy-pimblett_GettyImages-2285709692.jpg?itok=Rqgrcr7W",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Sun, 26 Jul 2026 14:00:00 GMT",
+      "published_at": "2026-07-26T14:00:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Bonus Coverage | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-abu-dhabi",
+      "pubDate": "Sat, 25 Jul 2026 20:10:00 GMT",
+      "published_at": "2026-07-25T20:10:00+00:00",
+      "description": "Latest UFC news: Bonus Coverage | UFC Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/BrowserPreview_tmp-3_1.gif?itok=sPTE2M4n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Abu Dhabi",
+      "link": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-abu-dhabi-official-scorecards",
+      "pubDate": "Sat, 25 Jul 2026 19:00:00 GMT",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Ankalaev vs Guskov, Live From Etihad Arena In Abu Dhabi On July 25, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-03/012426-bruce-buffer-announcement-HERO-GettyImages-2258040762.jpg?itok=Cq-dGlzQ",
+      "category": "UFC",
       "source": "UFC"
     }
   ]
