@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-03T19:47:39.345784+00:00",
+  "last_build_date": "2026-08-03T22:13:23.562750+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Allan Nascimento (1991-2026)",
+      "link": "https://www.ufc.com/news/allan-nascimento-1991-2026",
+      "guid": "https://www.ufc.com/news/allan-nascimento-1991-2026",
+      "pubDate": "Mon, 03 Aug 2026 21:12:00 GMT",
+      "published_at": "2026-08-03T21:12:00+00:00",
+      "description": "Update on UFC flyweight Allan Nascimento.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/AN_Obit.jpg?itok=efSxRNDQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Gamrot vs Salkilld",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-gamrot-vs-salkilld",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-gamrot-vs-salkilld",
+      "pubDate": "Mon, 03 Aug 2026 20:05:00 GMT",
+      "published_at": "2026-08-03T20:05:00+00:00",
+      "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Matusz-Gamrot-Hero-.jpg?itok=s8EURPdN",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "UFC Is Bringing Main Event Energy To PA",
       "link": "https://www.ufc.com/news/ufc-bringing-main-event-energy-pa",
@@ -80,28 +102,6 @@
       "published_at": "2026-07-31T17:00:00+00:00",
       "description": "She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Duško Todorović | Ready To Make History At UFC Belgrade",
-      "link": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/du%C5%A1ko-todorovi%C4%87-ready-to-make-history-at-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 22:45:00 GMT",
-      "published_at": "2026-07-30T22:45:00+00:00",
-      "description": "Veteran Middleweight Embraces Serbia’s Landmark UFC Debut While Chasing Another Defining Victory.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Dusko-Todorovic-Hero-.jpg?itok=kOkHyxys",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Vlasto Čepo | Homegrown Dream: Finally Brings His UFC Journey To Serbia",
-      "link": "https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/vlasto-cepo-homegrown-dream-finally-brings-his-ufc-journey-to-serbia-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 21:10:00 GMT",
-      "published_at": "2026-07-30T21:10:00+00:00",
-      "description": "After Years Of Believing He Belonged In The UFC, “Mr.Chaos” Gets His Chance In Front Of A Home Crowd Against Gilbert Urbina",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Vlasto-Cepo-Hero-.jpg?itok=U30wLPuG",
       "category": "UFC",
       "source": "UFC"
     }
