@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Aug 2026 15:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 19:47:39 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC Is Bringing Main Event Energy To PA</title>
+      <link>https://www.ufc.com/news/ufc-bringing-main-event-energy-pa</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bringing-main-event-energy-pa</guid>
+      <pubDate>Mon, 03 Aug 2026 18:58:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Philadelphia-Skyline-Hero-.jpg?itok=TCYzco5e" alt="UFC Is Bringing Main Event Energy To PA" /></p>
+<p>The Octagon Is Coming To The City Of Brotherly Love, For An Action Packed Card!</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Belgrade</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-belgrade</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Vlasto-Cepo-Hero-.jpg?itok=U30wLPuG" alt="Vlasto Čepo | Homegrown Dream: Finally Brings His UFC Journey To Serbia" /></p>
 <p>After Years Of Believing He Belonged In The UFC, “Mr.Chaos” Gets His Chance In Front Of A Home Crowd Against Gilbert Urbina</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Everything Is Coming Together For Robert Valentin</title>
-      <link>https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade</guid>
-      <pubDate>Thu, 30 Jul 2026 20:20:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/Robert-Valentin-Hero-.jpg?itok=Ll9EJMHH" alt="Everything Is Coming Together For Robert Valentin" /></p>
-<p>Engaging Middleweight Talks First UFC Win, Coaching Situation, Clash In Belgrade</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

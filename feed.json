@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-03T15:08:07.338523+00:00",
+  "last_build_date": "2026-08-03T19:47:39.345784+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC Is Bringing Main Event Energy To PA",
+      "link": "https://www.ufc.com/news/ufc-bringing-main-event-energy-pa",
+      "guid": "https://www.ufc.com/news/ufc-bringing-main-event-energy-pa",
+      "pubDate": "Mon, 03 Aug 2026 18:58:00 GMT",
+      "published_at": "2026-08-03T18:58:00+00:00",
+      "description": "The Octagon Is Coming To The City Of Brotherly Love, For An Action Packed Card!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Philadelphia-Skyline-Hero-.jpg?itok=TCYzco5e",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Belgrade",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-belgrade",
@@ -91,17 +102,6 @@
       "published_at": "2026-07-30T21:10:00+00:00",
       "description": "After Years Of Believing He Belonged In The UFC, “Mr.Chaos” Gets His Chance In Front Of A Home Crowd Against Gilbert Urbina",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/Vlasto-Cepo-Hero-.jpg?itok=U30wLPuG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Everything Is Coming Together For Robert Valentin",
-      "link": "https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/everything-is-coming-together-for-robert-valentin-ufc-belgrade",
-      "pubDate": "Thu, 30 Jul 2026 20:20:00 GMT",
-      "published_at": "2026-07-30T20:20:00+00:00",
-      "description": "Engaging Middleweight Talks First UFC Win, Coaching Situation, Clash In Belgrade",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/Robert-Valentin-Hero-.jpg?itok=Ll9EJMHH",
       "category": "UFC",
       "source": "UFC"
     }
