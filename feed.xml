@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 03:28:03 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remembering Allan Nascimento (1991-2026)</title>
+      <link>https://www.ufc.com/news/remembering-allan-nascimento-1991-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/remembering-allan-nascimento-1991-2026</guid>
+      <pubDate>Mon, 03 Aug 2026 21:47:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/AN_Obit.jpg?itok=efSxRNDQ" alt="Remembering Allan Nascimento (1991-2026)" /></p>
+<p>Latest UFC news: Remembering Allan Nascimento (1991-2026)</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Allan Nascimento (1991-2026)</title>
       <link>https://www.ufc.com/news/allan-nascimento-1991-2026</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY" alt="The 10 | Action-Packed August Ahead" /></p>
 <p>Five Straight Saturdays Provide Plenty To Be Excited About This Month</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Nina Milošević | Back Home, Ready For The Big Stage</title>
-      <link>https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade</guid>
-      <pubDate>Fri, 31 Jul 2026 17:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d" alt="Nina Milošević | Back Home, Ready For The Big Stage" /></p>
-<p>She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-03T22:13:23.562750+00:00",
+  "last_build_date": "2026-08-04T03:28:03.997874+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Remembering Allan Nascimento (1991-2026)",
+      "link": "https://www.ufc.com/news/remembering-allan-nascimento-1991-2026",
+      "guid": "https://www.ufc.com/news/remembering-allan-nascimento-1991-2026",
+      "pubDate": "Mon, 03 Aug 2026 21:47:00 GMT",
+      "published_at": "2026-08-03T21:47:00+00:00",
+      "description": "Latest UFC news: Remembering Allan Nascimento (1991-2026)",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/AN_Obit.jpg?itok=efSxRNDQ",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Allan Nascimento (1991-2026)",
       "link": "https://www.ufc.com/news/allan-nascimento-1991-2026",
@@ -92,17 +103,6 @@
       "description": "Five Straight Saturdays Provide Plenty To Be Excited About This Month",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Nina Milošević | Back Home, Ready For The Big Stage",
-      "link": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/nina-milosevic-back-home-big-stage-ufc-belgrade",
-      "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
-      "published_at": "2026-07-31T17:00:00+00:00",
-      "description": "She First Made History In Belgrade Arena, Now The Bantamweight Is Back For Her UFC Debut Against Hailey Cowan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-Nina-Milosevic-hero-UFCBelgrade-30.jpg?itok=NlrfZj1d",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
