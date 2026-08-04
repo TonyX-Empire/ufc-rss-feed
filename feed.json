@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-04T11:30:26.632762+00:00",
+  "last_build_date": "2026-08-04T14:34:07.362923+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters On The Rise | UFC Fight Night: Gamrot vs Salkilld",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-gamrot-vs-salkilld-thainara-miller-sousa",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-gamrot-vs-salkilld-thainara-miller-sousa",
+      "pubDate": "Tue, 04 Aug 2026 14:00:00 GMT",
+      "published_at": "2026-08-04T14:00:00+00:00",
+      "description": "Identifying Three Athletes To Pay Close Attention To Saturday And Going Forward",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080326-hero-alexia-thainara_GettyImages-2237786707.jpg?itok=uE5cLcO1",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Remembering Allan Nascimento (1991-2026)",
       "link": "https://www.ufc.com/news/remembering-allan-nascimento-1991-2026",
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The 10 | Action-Packed August Ahead",
-      "link": "https://www.ufc.com/news/10-action-packed-august-ahead",
-      "guid": "https://www.ufc.com/news/10-action-packed-august-ahead",
-      "pubDate": "Fri, 31 Jul 2026 22:05:00 GMT",
-      "published_at": "2026-07-31T22:05:00+00:00",
-      "description": "Five Straight Saturdays Provide Plenty To Be Excited About This Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY",
-      "category": "News",
       "source": "UFC"
     }
   ]

@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:34:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fighters On The Rise | UFC Fight Night: Gamrot vs Salkilld</title>
+      <link>https://www.ufc.com/news/fighters-rise-ufc-fight-night-gamrot-vs-salkilld-thainara-miller-sousa</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-rise-ufc-fight-night-gamrot-vs-salkilld-thainara-miller-sousa</guid>
+      <pubDate>Tue, 04 Aug 2026 14:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080326-hero-alexia-thainara_GettyImages-2237786707.jpg?itok=uE5cLcO1" alt="Fighters On The Rise | UFC Fight Night: Gamrot vs Salkilld" /></p>
+<p>Identifying Three Athletes To Pay Close Attention To Saturday And Going Forward</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Remembering Allan Nascimento (1991-2026)</title>
       <link>https://www.ufc.com/news/remembering-allan-nascimento-1991-2026</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/080126-ufc-fight-night-medic-vs-rodriguez-EVENT-ART.jpg?itok=-1OeWzwY" alt="Main Card Results | UFC Belgrade" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>The 10 | Action-Packed August Ahead</title>
-      <link>https://www.ufc.com/news/10-action-packed-august-ahead</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/10-action-packed-august-ahead</guid>
-      <pubDate>Fri, 31 Jul 2026 22:05:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/111526-islam-makhachev-pre-fight-HERO-GettyImages-2246907871.jpg?itok=OdewWieY" alt="The 10 | Action-Packed August Ahead" /></p>
-<p>Five Straight Saturdays Provide Plenty To Be Excited About This Month</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
