@@ -3,20 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-05T14:26:56.302137+00:00",
+  "last_build_date": "2026-08-05T16:46:47.520033+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "THAT PRIZE GUY NAMED OFFICIAL PARTNER OF UFC AND ZUFFA BOXING",
-      "link": "https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "published_at": "2026-08-05T07:00:00+00:00",
-      "description": "That Prize Guy to Serve as Presenting Partner of ZUFFA BOXING 10: MCKENNA vs. OLIHA on Saturday, 8 August at 3Arena in Dublin",
-      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%202.jpg?itok=DmWzdymt",
-      "category": "Boxing",
-      "source": "UFC"
-    },
     {
       "title": "How To Watch Zuffa Boxing",
       "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
@@ -25,6 +14,17 @@
       "published_at": "2026-08-05T07:00:00+00:00",
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "THAT PRIZE GUY NAMED OFFICIAL PARTNER OF UFC AND ZUFFA BOXING",
+      "link": "https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing",
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "description": "That Prize Guy to Serve as Presenting Partner of ZUFFA BOXING 10: MCKENNA vs. OLIHA on Saturday, 8 August at 3Arena in Dublin",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%202.jpg?itok=DmWzdymt",
       "category": "Boxing",
       "source": "UFC"
     },
