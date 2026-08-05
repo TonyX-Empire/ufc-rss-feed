@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-05T11:25:49.025787+00:00",
+  "last_build_date": "2026-08-05T14:26:56.302137+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-08-05T07:00:00+00:00",
       "description": "That Prize Guy to Serve as Presenting Partner of ZUFFA BOXING 10: MCKENNA vs. OLIHA on Saturday, 8 August at 3Arena in Dublin",
       "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%202.jpg?itok=DmWzdymt",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-01T19:15:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-prelim-results",
-      "pubDate": "Sat, 01 Aug 2026 16:55:00 GMT",
-      "published_at": "2026-08-01T16:55:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080126-ufc-belgrade-octagon-establishing-shot-HERO.jpg?itok=EtVB6uqF",
       "category": "UFC",
       "source": "UFC"
     }
