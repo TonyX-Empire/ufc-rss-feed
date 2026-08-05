@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:16:46 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mateusz Gamrot | Out To Prove A Point</title>
+      <link>https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120</guid>
+      <pubDate>Wed, 05 Aug 2026 21:12:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Mateusz-Gamrot-Hero-.jpg?itok=h3ktjZOy" alt="Mateusz Gamrot | Out To Prove A Point" /></p>
+<p>Polish Veteran Keen On Making A Statement Against Quillan Salkilld This Weekend</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>THAT PRIZE GUY NAMED OFFICIAL PARTNER OF UFC AND ZUFFA BOXING</title>
       <link>https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080126-UFC-Belgrade-Bonus-Coverage-HERO.jpg?itok=7t5bSZ4L" alt="Bonus Coverage | UFC Belgrade" /></p>
 <p>The Performances Awarded An Extra Bonus At UFC Fight Night: Medic vs Rodriguez On August 1, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Scorecards | UFC Belgrade</title>
-      <link>https://www.ufc.com/news/ufc-belgrade-official-scorecards</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-belgrade-official-scorecards</guid>
-      <pubDate>Sat, 01 Aug 2026 19:15:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2" alt="Official Scorecards | UFC Belgrade" /></p>
-<p>View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-05T19:46:57.549286+00:00",
+  "last_build_date": "2026-08-05T22:16:46.098132+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Mateusz Gamrot | Out To Prove A Point",
+      "link": "https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120",
+      "guid": "https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120",
+      "pubDate": "Wed, 05 Aug 2026 21:12:00 GMT",
+      "published_at": "2026-08-05T21:12:00+00:00",
+      "description": "Polish Veteran Keen On Making A Statement Against Quillan Salkilld This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Mateusz-Gamrot-Hero-.jpg?itok=h3ktjZOy",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "THAT PRIZE GUY NAMED OFFICIAL PARTNER OF UFC AND ZUFFA BOXING",
       "link": "https://www.ufc.com/news/prize-guy-named-official-partner-ufc-and-zuffa-boxing",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-01T21:00:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Medic vs Rodriguez On August 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080126-UFC-Belgrade-Bonus-Coverage-HERO.jpg?itok=7t5bSZ4L",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Belgrade",
-      "link": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-belgrade-official-scorecards",
-      "pubDate": "Sat, 01 Aug 2026 19:15:00 GMT",
-      "published_at": "2026-08-01T19:15:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Medić vs Rodriguez, Live From Belgrade Arena In Serbia On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
       "category": "UFC",
       "source": "UFC"
     }
