@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-05T22:16:46.098132+00:00",
+  "last_build_date": "2026-08-06T03:26:11.003691+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Ty Miller | Second Helpings",
+      "link": "https://www.ufc.com/news/ty-miller-second-helpings-ufc-vegas-120",
+      "guid": "https://www.ufc.com/news/ty-miller-second-helpings-ufc-vegas-120",
+      "pubDate": "Thu, 06 Aug 2026 01:11:00 GMT",
+      "published_at": "2026-08-06T01:11:00+00:00",
+      "description": "Promising Welterweight Primed For Sophomore Outing On Saturday Night",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/Ty-Miller-Hero-.jpg?itok=rvRzHeMK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Flyweight Champion Joshua Van Set For Rematch With Alexandre Pantoja At Crypto.com UFC 331",
+      "link": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
+      "guid": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
+      "pubDate": "Wed, 05 Aug 2026 23:00:00 GMT",
+      "published_at": "2026-08-05T23:00:00+00:00",
+      "description": "The September 19 Card In Los Angeles Also Features A Five-Round Lightweight Co-Main Event Between Arman Tsarukyan And Mauricio Ruffy",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-TEMP-HERO.jpg?itok=BAoiUnsm",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Mateusz Gamrot | Out To Prove A Point",
       "link": "https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120",
@@ -81,28 +103,6 @@
       "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Matusz-Gamrot-Hero-.jpg?itok=s8EURPdN",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Is Bringing Main Event Energy To PA",
-      "link": "https://www.ufc.com/news/ufc-bringing-main-event-energy-pa",
-      "guid": "https://www.ufc.com/news/ufc-bringing-main-event-energy-pa",
-      "pubDate": "Mon, 03 Aug 2026 18:58:00 GMT",
-      "published_at": "2026-08-03T18:58:00+00:00",
-      "description": "The Octagon Is Coming To The City Of Brotherly Love, For An Action Packed Card!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Philadelphia-Skyline-Hero-.jpg?itok=TCYzco5e",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Belgrade",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-belgrade",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-belgrade",
-      "pubDate": "Sat, 01 Aug 2026 21:00:00 GMT",
-      "published_at": "2026-08-01T21:00:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Medic vs Rodriguez On August 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080126-UFC-Belgrade-Bonus-Coverage-HERO.jpg?itok=7t5bSZ4L",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
