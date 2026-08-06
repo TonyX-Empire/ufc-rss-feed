@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-06T08:49:17.496582+00:00",
+  "last_build_date": "2026-08-06T11:29:09.591232+00:00",
   "item_count": 9,
   "items": [
     {
@@ -12,8 +12,8 @@
       "guid": "https://www.ufc.com/news/ty-miller-second-helpings-ufc-vegas-120",
       "pubDate": "Thu, 06 Aug 2026 01:11:00 GMT",
       "published_at": "2026-08-06T01:11:00+00:00",
-      "description": "Promising Welterweight Primed For Sophomore Outing On Saturday Night",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ty-Miller-Hero-.jpg?itok=rvRzHeMK",
+      "description": "Latest UFC news: Ty Miller | Second Helpings",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -23,8 +23,8 @@
       "guid": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
       "pubDate": "Wed, 05 Aug 2026 23:00:00 GMT",
       "published_at": "2026-08-05T23:00:00+00:00",
-      "description": "The September 19 Card In Los Angeles Also Features A Five-Round Lightweight Co-Main Event Between Arman Tsarukyan And Mauricio Ruffy",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-TEMP-HERO.jpg?itok=BAoiUnsm",
+      "description": "Latest UFC news: Flyweight Champion Joshua Van Set For Rematch With Alexandre Pantoja At Crypto.com UFC 331",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -34,8 +34,8 @@
       "guid": "https://www.ufc.com/news/mateusz-gamrot-out-to-prove-a-point-ufc-vegas-120",
       "pubDate": "Wed, 05 Aug 2026 21:12:00 GMT",
       "published_at": "2026-08-05T21:12:00+00:00",
-      "description": "Polish Veteran Keen On Making A Statement Against Quillan Salkilld This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Mateusz-Gamrot-Hero-.jpg?itok=h3ktjZOy",
+      "description": "Latest UFC news: Mateusz Gamrot | Out To Prove A Point",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -67,8 +67,8 @@
       "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-gamrot-vs-salkilld-thainara-miller-sousa",
       "pubDate": "Tue, 04 Aug 2026 14:00:00 GMT",
       "published_at": "2026-08-04T14:00:00+00:00",
-      "description": "Identifying Three Athletes To Pay Close Attention To Saturday And Going Forward",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080326-hero-alexia-thainara_GettyImages-2237786707.jpg?itok=uE5cLcO1",
+      "description": "Latest UFC news: Fighters On The Rise | UFC Fight Night: Gamrot vs Salkilld",
+      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -100,8 +100,8 @@
       "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-gamrot-vs-salkilld",
       "pubDate": "Mon, 03 Aug 2026 20:05:00 GMT",
       "published_at": "2026-08-03T20:05:00+00:00",
-      "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Matusz-Gamrot-Hero-.jpg?itok=s8EURPdN",
+      "description": "Latest UFC news: Fight By Fight Preview | UFC Fight Night: Gamrot vs Salkilld",
+      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
