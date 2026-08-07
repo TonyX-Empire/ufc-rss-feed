@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T00:09:41.902029+00:00",
+  "last_build_date": "2026-08-07T04:59:40.177516+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Callum Walsh: Relaxed And Ready To Shine On Home Soil | Zuffa Boxing 10",
+      "link": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
+      "guid": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
+      "pubDate": "Fri, 07 Aug 2026 01:18:00 GMT",
+      "published_at": "2026-08-07T01:18:00+00:00",
+      "description": "He Might Be Preparing For A Huge Fight On Home Soil, But Callum Walsh Was Still Happy To Chat About Life, Fighting, And Arguing With Kitchen Appliances...",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Tyler Denny Is Ready To Take His Chance | Zuffa Boxing 10",
       "link": "https://www.ufc.com/news/tyler-denny-ready-take-his-chance-zuffa-boxing-10-dublin",
@@ -14,6 +25,17 @@
       "published_at": "2026-08-06T22:22:00+00:00",
       "description": "Former European Champion Arrives In Zuffa Boxing Looking To Claim An Upset Win In His Opponent’s Backyard",
       "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080626-tyler-denny-training-zb-10-posing.jpg?itok=1ZF0cPCK",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Aaron McKenna | It’s Been A Long Time Coming | Zuffa Boxing 10",
+      "link": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
+      "guid": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
+      "pubDate": "Thu, 06 Aug 2026 21:36:00 GMT",
+      "published_at": "2026-08-06T21:36:00+00:00",
+      "description": "Irish World Title Challenger Finally Returns Home To Fight For Championship Gold In His First-Ever Pro Fight On Home Soil.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-aaron-mckenna-posing-zb-10.jpg?itok=wk_7uqIm",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-08-06T16:54:00+00:00",
       "description": "Streaking Lightweight Talks Rapid Rise, Mateusz Gamrot Ahead Of Main Event Debut",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Quillan-Flag-Hero-.jpg?itok=7TbxMtii",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ty Miller | Second Helpings",
-      "link": "https://www.ufc.com/news/ty-miller-second-helpings-ufc-vegas-120",
-      "guid": "https://www.ufc.com/news/ty-miller-second-helpings-ufc-vegas-120",
-      "pubDate": "Thu, 06 Aug 2026 01:11:00 GMT",
-      "published_at": "2026-08-06T01:11:00+00:00",
-      "description": "Promising Welterweight Primed For Sophomore Outing On Saturday Night",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ty-Miller-Hero-.jpg?itok=rvRzHeMK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Flyweight Champion Joshua Van Set For Rematch With Alexandre Pantoja At Crypto.com UFC 331",
-      "link": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
-      "pubDate": "Wed, 05 Aug 2026 23:00:00 GMT",
-      "published_at": "2026-08-05T23:00:00+00:00",
-      "description": "The September 19 Card In Los Angeles Also Features A Five-Round Lightweight Co-Main Event Between Arman Tsarukyan And Mauricio Ruffy",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-TEMP-HERO.jpg?itok=BAoiUnsm",
       "category": "UFC",
       "source": "UFC"
     }
