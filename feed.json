@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T10:06:17.730945+00:00",
+  "last_build_date": "2026-08-07T13:20:35.561150+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "DWCS Season 10 Episode 1 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-episode-1-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-episode-1-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 07 Aug 2026 13:00:00 GMT",
+      "published_at": "2026-08-07T13:00:00+00:00",
+      "description": "Dana White Contender Series Season 10 Episode 1 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/image/2025-08/GettyImages-2167622383_resized.jpg?itok=x1y_kr-Q",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Zuffa Boxing 10 Official Weigh-In Results",
       "link": "https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results",
@@ -92,17 +103,6 @@
       "description": "Ascending Brazilian Talks Critical Matchup With Amanda Lemos",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Alexia-Thainara-Hero-.jpg?itok=Qiv5vCm4",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-10",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-10",
-      "pubDate": "Thu, 06 Aug 2026 17:01:00 GMT",
-      "published_at": "2026-08-06T17:01:00+00:00",
-      "description": "Zuffa Boxing Makes Its Ireland Debut As A World Title Comes To Dublin's 3Arena. Here's Everything You Need To Know",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-Etinosa-McKenna-3Arena-faceoff.jpg?itok=H_R5q2Wp",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
