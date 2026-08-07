@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T16:01:27.165015+00:00",
+  "last_build_date": "2026-08-07T19:07:07.906743+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "José Montanha Ready To Finally Unleash ‘The Monster’",
+      "link": "https://www.ufc.com/news/jose-montanha-ready-to-finally-unleash-the-monster-ufc-vegas-120",
+      "guid": "https://www.ufc.com/news/jose-montanha-ready-to-finally-unleash-the-monster-ufc-vegas-120",
+      "pubDate": "Sat, 08 Aug 2026 06:03:00 GMT",
+      "published_at": "2026-08-08T06:03:00+00:00",
+      "description": "Patient Prospect José Montanha Finally Gets To Show Years Of Preparation Inside the Octagon",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080526-jose-montanha-portrait_GettyImages-2289243069.jpg?itok=_E3DXFqS",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Diego Ferreira Believes The Best Version Of Himself Is Back",
+      "link": "https://www.ufc.com/news/diego-ferreira-believes-best-version-himself-back-ufc-vegas-120",
+      "guid": "https://www.ufc.com/news/diego-ferreira-believes-best-version-himself-back-ufc-vegas-120",
+      "pubDate": "Fri, 07 Aug 2026 17:19:00 GMT",
+      "published_at": "2026-08-07T17:19:00+00:00",
+      "description": "Revitalized Veteran Diego Ferreira Targets Statement Victory With Renewed Preparation And Confidence",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080526-diego-ferreira-backstage-portrait_GettyImages-1491838975.jpg?itok=tCOJqqiM",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gigi Canuto | Doing It For The Plot",
+      "link": "https://www.ufc.com/news/gigi-canuto-doing-it-plot-ufc-vegas-120",
+      "guid": "https://www.ufc.com/news/gigi-canuto-doing-it-plot-ufc-vegas-120",
+      "pubDate": "Fri, 07 Aug 2026 17:10:00 GMT",
+      "published_at": "2026-08-07T17:10:00+00:00",
+      "description": "TUF 34 Alum Discusses Whirlwind Journey To Debuting This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080526-gigi-canuto-walkout_GettyImages-2289066828.jpg?itok=rBgZVwtG",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/updates-ufc-fight-night-gamrot-vs-salkilld",
+      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-gamrot-vs-salkilld",
+      "pubDate": "Fri, 07 Aug 2026 16:49:00 GMT",
+      "published_at": "2026-08-07T16:49:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | UFC Fight Night: Gamrot vs Salkilld",
       "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-weigh-in-results",
@@ -57,52 +101,8 @@
       "pubDate": "Thu, 06 Aug 2026 22:22:00 GMT",
       "published_at": "2026-08-06T22:22:00+00:00",
       "description": "Former European Champion Arrives In Zuffa Boxing Looking To Claim An Upset Win In His Opponent’s Backyard",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080626-tyler-denny-training-zb-10-posing.jpg?itok=1ZF0cPCK",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-tyler-denny-training-zb-10-posing.jpg?itok=1ZF0cPCK",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Aaron McKenna | It’s Been A Long Time Coming | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
-      "guid": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
-      "pubDate": "Thu, 06 Aug 2026 21:36:00 GMT",
-      "published_at": "2026-08-06T21:36:00+00:00",
-      "description": "Irish World Title Challenger Finally Returns Home To Fight For Championship Gold In His First-Ever Pro Fight On Home Soil.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-aaron-mckenna-posing-zb-10.jpg?itok=wk_7uqIm",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Steven Asplund Is Pulling Out All The Stops",
-      "link": "https://www.ufc.com/news/steven-asplund-pulling-out-all-stops-ufc-vegas-120-heavyweight",
-      "guid": "https://www.ufc.com/news/steven-asplund-pulling-out-all-stops-ufc-vegas-120-heavyweight",
-      "pubDate": "Thu, 06 Aug 2026 21:31:00 GMT",
-      "published_at": "2026-08-06T21:31:00+00:00",
-      "description": "After Suffering His First UFC Defeat Last Time Out, Steven Asplund Has Promised Himself He Won’t Short-Change Himself Ahead Of Fights Again",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080526-steven-asplund-smile_GettyImages-2251794175.jpg?itok=5rU9-7XQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Billy Quarantillo | New Weight Class, Same ‘Billy Q’",
-      "link": "https://www.ufc.com/news/billy-quarantillo-new-weight-class-same-billy-q-ufc-vegas-120",
-      "guid": "https://www.ufc.com/news/billy-quarantillo-new-weight-class-same-billy-q-ufc-vegas-120",
-      "pubDate": "Thu, 06 Aug 2026 20:27:00 GMT",
-      "published_at": "2026-08-06T20:27:00+00:00",
-      "description": "After Campaigning At Featherweight For His First 11 UFC Bouts, “Billy Q” Has Moved Up To 155 Pounds For A Vet-Versus-Vet Battle At Meta Apex.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Billy-Quarantillo-Hero-.jpg?itok=c_-GTQbC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Darren Elkins Is Determined To ‘Enjoy The Moment’ In Final UFC Fight",
-      "link": "https://www.ufc.com/news/darren-elkins-is-determined-to-enjoy-the-moment-in-final-ufc-fight",
-      "guid": "https://www.ufc.com/news/darren-elkins-is-determined-to-enjoy-the-moment-in-final-ufc-fight",
-      "pubDate": "Thu, 06 Aug 2026 18:25:00 GMT",
-      "published_at": "2026-08-06T18:25:00+00:00",
-      "description": "After An Action-Packed 15-year Career, “The Damage” Is Ready To Make The Walk For The Final Time, And He’s Determined To Enjoy His Last Dance In The Octagon.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Darren-Elkins-Hero-.jpg?itok=Ig476_uu",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
