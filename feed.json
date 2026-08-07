@@ -3,17 +3,28 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T07:35:58.740097+00:00",
+  "last_build_date": "2026-08-07T10:06:17.730945+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Callum Walsh: Relaxed And Ready To Shine On Home Soil | Zuffa Boxing 10",
+      "title": "Zuffa Boxing 10 Official Weigh-In Results",
+      "link": "https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results",
+      "pubDate": "Fri, 07 Aug 2026 08:45:00 GMT",
+      "published_at": "2026-08-07T08:45:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland, On August 8",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Callum Walsh Relaxed And Ready To Shine On Home Soil | Zuffa Boxing 10",
       "link": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
       "guid": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
       "pubDate": "Fri, 07 Aug 2026 01:18:00 GMT",
       "published_at": "2026-08-07T01:18:00+00:00",
       "description": "He Might Be Preparing For A Huge Fight On Home Soil, But Callum Walsh Was Still Happy To Chat About Life, Fighting, And Arguing With Kitchen Appliances...",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Zuffa Boxing Makes Its Ireland Debut As A World Title Comes To Dublin's 3Arena. Here's Everything You Need To Know",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-Etinosa-McKenna-3Arena-faceoff.jpg?itok=H_R5q2Wp",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Quillan Salkilld | A Dangerous Man",
-      "link": "https://www.ufc.com/news/quillan-salkilld-a-dangerous-man-ufc-vegas-120",
-      "guid": "https://www.ufc.com/news/quillan-salkilld-a-dangerous-man-ufc-vegas-120",
-      "pubDate": "Thu, 06 Aug 2026 16:54:00 GMT",
-      "published_at": "2026-08-06T16:54:00+00:00",
-      "description": "Streaking Lightweight Talks Rapid Rise, Mateusz Gamrot Ahead Of Main Event Debut",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Quillan-Flag-Hero-.jpg?itok=7TbxMtii",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
