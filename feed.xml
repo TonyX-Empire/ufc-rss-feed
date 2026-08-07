@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:01:27 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | UFC Fight Night: Gamrot vs Salkilld</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-weigh-in-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-weigh-in-results</guid>
+      <pubDate>Fri, 07 Aug 2026 15:30:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/030323-Mateusz-Gamrot-Ceremonial-GettyImages-1471066098.jpg?itok=RcgX9F23" alt="Official Weigh-In Results | UFC Fight Night: Gamrot vs Salkilld" /></p>
+<p>The Official Weights Of The Athletes Competing On Saturday, August 8 At Meta APEX In Las Vegas</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>DWCS Season 10 Episode 1 Preview: Athletes, Bouts, Start Times, Streaming</title>
       <link>https://www.ufc.com/news/dana-white-contender-series-season-10-episode-1-preview-athletes-bouts-start-times-streaming</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Darren-Elkins-Hero-.jpg?itok=Ig476_uu" alt="Darren Elkins Is Determined To ‘Enjoy The Moment’ In Final UFC Fight" /></p>
 <p>After An Action-Packed 15-year Career, “The Damage” Is Ready To Make The Walk For The Final Time, And He’s Determined To Enjoy His Last Dance In The Octagon.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Alexia Thainara Gets Her Moment In The Spotlight</title>
-      <link>https://www.ufc.com/news/alexia-thainara-gets-her-moment-in-the-spotlight-ufc-vegas-120</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/alexia-thainara-gets-her-moment-in-the-spotlight-ufc-vegas-120</guid>
-      <pubDate>Thu, 06 Aug 2026 18:11:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Alexia-Thainara-Hero-.jpg?itok=Qiv5vCm4" alt="Alexia Thainara Gets Her Moment In The Spotlight" /></p>
-<p>Ascending Brazilian Talks Critical Matchup With Amanda Lemos</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

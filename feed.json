@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T13:20:35.561150+00:00",
+  "last_build_date": "2026-08-07T16:01:27.165015+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Gamrot vs Salkilld",
+      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-weigh-in-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-weigh-in-results",
+      "pubDate": "Fri, 07 Aug 2026 15:30:00 GMT",
+      "published_at": "2026-08-07T15:30:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing On Saturday, August 8 At Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/030323-Mateusz-Gamrot-Ceremonial-GettyImages-1471066098.jpg?itok=RcgX9F23",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "DWCS Season 10 Episode 1 Preview: Athletes, Bouts, Start Times, Streaming",
       "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-episode-1-preview-athletes-bouts-start-times-streaming",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-06T18:25:00+00:00",
       "description": "After An Action-Packed 15-year Career, “The Damage” Is Ready To Make The Walk For The Final Time, And He’s Determined To Enjoy His Last Dance In The Octagon.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Darren-Elkins-Hero-.jpg?itok=Ig476_uu",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Alexia Thainara Gets Her Moment In The Spotlight",
-      "link": "https://www.ufc.com/news/alexia-thainara-gets-her-moment-in-the-spotlight-ufc-vegas-120",
-      "guid": "https://www.ufc.com/news/alexia-thainara-gets-her-moment-in-the-spotlight-ufc-vegas-120",
-      "pubDate": "Thu, 06 Aug 2026 18:11:00 GMT",
-      "published_at": "2026-08-06T18:11:00+00:00",
-      "description": "Ascending Brazilian Talks Critical Matchup With Amanda Lemos",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Alexia-Thainara-Hero-.jpg?itok=Qiv5vCm4",
       "category": "UFC",
       "source": "UFC"
     }
