@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-07T21:48:35.211253+00:00",
+  "last_build_date": "2026-08-08T02:08:36.348367+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Patient Prospect José Montanha Finally Gets To Show Years Of Preparation Inside the Octagon",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080526-jose-montanha-portrait_GettyImages-2289243069.jpg?itok=_E3DXFqS",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Etinosa Oliha | Inspired By Juventus | Zuffa Boxing 10",
+      "link": "https://www.ufc.com/news/etinosa-oliha-inspired-juventus-zuffa-boxing-10",
+      "guid": "https://www.ufc.com/news/etinosa-oliha-inspired-juventus-zuffa-boxing-10",
+      "pubDate": "Sat, 08 Aug 2026 00:25:00 GMT",
+      "published_at": "2026-08-08T00:25:00+00:00",
+      "description": "Italian World Title Challenger Grew Up Watching His Favorite Team Dominating Serie A. Now He Wants To Dominate The Zuffa Boxing Ring",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/080726-etinosa-oliha-official-weigh-in-zb-10.jpg?itok=9xP5Ad09",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-08-07T01:18:00+00:00",
       "description": "He Might Be Preparing For A Huge Fight On Home Soil, But Callum Walsh Was Still Happy To Chat About Life, Fighting, And Arguing With Kitchen Appliances...",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Tyler Denny Is Ready To Take His Chance | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/tyler-denny-ready-take-his-chance-zuffa-boxing-10-dublin",
-      "guid": "https://www.ufc.com/news/tyler-denny-ready-take-his-chance-zuffa-boxing-10-dublin",
-      "pubDate": "Thu, 06 Aug 2026 22:22:00 GMT",
-      "published_at": "2026-08-06T22:22:00+00:00",
-      "description": "Former European Champion Arrives In Zuffa Boxing Looking To Claim An Upset Win In His Opponent’s Backyard",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-tyler-denny-training-zb-10-posing.jpg?itok=1ZF0cPCK",
       "category": "Boxing",
       "source": "UFC"
     }
