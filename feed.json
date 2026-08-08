@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-08T13:04:35.461356+00:00",
+  "last_build_date": "2026-08-08T15:36:45.936274+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,17 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/060626-General-View-Meta-APEX-GettyImages-2280245980.jpg?itok=u6S7pk6O",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 10 Results",
+      "link": "https://www.ufc.com/news/zuffa-boxing-10-results",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-10-results",
+      "pubDate": "Sat, 08 Aug 2026 18:59:00 GMT",
+      "published_at": "2026-08-08T18:59:00+00:00",
+      "description": "Results, Highlights And More From Zuffa Boxing 10: McKenna vs Oliha, Live From 3Arena In Dublin, Ireland On August 8, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-zuffa-boxing-10-results-HERO.jpg?itok=Xv6gd99d",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-08-08T06:56:00+00:00",
       "description": "He Might Be Preparing For A Huge Fight On Home Soil, But Callum Walsh Was Still Happy To Chat About Life, Fighting, And Arguing With Kitchen Appliances...",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Tyler Denny Is Ready To Take His Chance | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/tyler-denny-ready-take-his-chance-zuffa-boxing-10-dublin",
-      "guid": "https://www.ufc.com/news/tyler-denny-ready-take-his-chance-zuffa-boxing-10-dublin",
-      "pubDate": "Sat, 08 Aug 2026 06:55:00 GMT",
-      "published_at": "2026-08-08T06:55:00+00:00",
-      "description": "Former European Champion Arrives In Zuffa Boxing Looking To Claim An Upset Win In His Opponent’s Backyard",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-tyler-denny-training-zb-10-posing.jpg?itok=1ZF0cPCK",
       "category": "Boxing",
       "source": "UFC"
     }
