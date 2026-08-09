@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-09T18:52:30.273713+00:00",
+  "last_build_date": "2026-08-09T21:40:07.982643+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 1 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 09 Aug 2026 20:33:00 GMT",
+      "published_at": "2026-08-09T20:33:00+00:00",
+      "description": "Looking At The Lineup For Tuesday’s Season 10 Premiere At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081225-DWCS_General-View-GettyImages-2229806044.jpg?itok=Fm8Czna9",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Fight Night: Gamrot vs Salkilld",
       "link": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-08T07:00:00+00:00",
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Aaron McKenna | It’s Been A Long Time Coming | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
-      "guid": "https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10",
-      "pubDate": "Sat, 08 Aug 2026 06:59:00 GMT",
-      "published_at": "2026-08-08T06:59:00+00:00",
-      "description": "Irish World Title Challenger Finally Returns Home To Fight For Championship Gold In His First-Ever Pro Fight On Home Soil.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-aaron-mckenna-posing-zb-10.jpg?itok=wk_7uqIm",
       "category": "Boxing",
       "source": "UFC"
     }

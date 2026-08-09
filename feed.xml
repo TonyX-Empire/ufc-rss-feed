@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Aug 2026 18:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 21:40:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 09 Aug 2026 20:33:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081225-DWCS_General-View-GettyImages-2229806044.jpg?itok=Fm8Czna9" alt="Week 1 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Looking At The Lineup For Tuesday’s Season 10 Premiere At Meta APEX</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Fight Night: Gamrot vs Salkilld</title>
       <link>https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld</link>
@@ -85,16 +95,6 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
 <p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Aaron McKenna | It’s Been A Long Time Coming | Zuffa Boxing 10</title>
-      <link>https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/aaron-mckenna-its-been-long-time-coming-zuffa-boxing-10</guid>
-      <pubDate>Sat, 08 Aug 2026 06:59:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080626-aaron-mckenna-posing-zb-10.jpg?itok=wk_7uqIm" alt="Aaron McKenna | It’s Been A Long Time Coming | Zuffa Boxing 10" /></p>
-<p>Irish World Title Challenger Finally Returns Home To Fight For Championship Gold In His First-Ever Pro Fight On Home Soil.</p>
 <p>Category: Boxing</p>]]></description>
     </item>
   </channel>
