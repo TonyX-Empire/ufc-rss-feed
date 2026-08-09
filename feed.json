@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-09T02:20:39.129562+00:00",
+  "last_build_date": "2026-08-09T04:24:07.171845+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Fight Night: Gamrot vs Salkilld",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld",
+      "pubDate": "Sun, 09 Aug 2026 04:00:00 GMT",
+      "published_at": "2026-08-09T04:00:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Meta APEX On August 8, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080826-hero-bonus-coverage.jpg?itok=6K6KUCEg",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC Fight Night: Gamrot vs Salkilld",
+      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
+      "pubDate": "Sun, 09 Aug 2026 03:20:00 GMT",
+      "published_at": "2026-08-09T03:20:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/080826-ufc-fight-night-gamrot-vs-salkilld-EVENT-ART.jpg?itok=RTefyyZN",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Official Scorecards | UFC Fight Night: Gamrot vs Salkilld",
       "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-scorecards-judges",
@@ -14,17 +36,6 @@
       "published_at": "2026-08-09T02:17:00+00:00",
       "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/022126-Bruce-Bufffer-GettyImages-2262869284.jpg?itok=kM7JwZ9Q",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
-      "pubDate": "Sun, 09 Aug 2026 02:14:00 GMT",
-      "published_at": "2026-08-09T02:14:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080826-ufc-fight-night-gamrot-vs-salkilld-EVENT-ART.jpg?itok=RTefyyZN",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-08T06:58:00+00:00",
       "description": "Italian World Title Challenger Grew Up Watching His Favorite Team Dominating Serie A. Now He Wants To Dominate The Zuffa Boxing Ring",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-08/080726-etinosa-oliha-official-weigh-in-zb-10.jpg?itok=9xP5Ad09",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Callum Walsh Relaxed And Ready To Shine On Home Soil | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
-      "guid": "https://www.ufc.com/news/callum-walsh-relaxed-and-ready-shine-home-soil-zuffa-boxing-10",
-      "pubDate": "Sat, 08 Aug 2026 06:56:00 GMT",
-      "published_at": "2026-08-08T06:56:00+00:00",
-      "description": "He Might Be Preparing For A Huge Fight On Home Soil, But Callum Walsh Was Still Happy To Chat About Life, Fighting, And Arguing With Kitchen Appliances...",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0",
       "category": "Boxing",
       "source": "UFC"
     }
