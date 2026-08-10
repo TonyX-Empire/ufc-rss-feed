@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-10T13:26:18.076665+00:00",
+  "last_build_date": "2026-08-10T16:04:23.538433+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Week 1 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-08T07:01:00+00:00",
       "description": "Zuffa Boxing Makes Its Ireland Debut As A World Title Comes To Dublin's 3Arena. Here's Everything You Need To Know",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-Etinosa-McKenna-3Arena-faceoff.jpg?itok=H_R5q2Wp",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
-      "published_at": "2026-08-08T07:00:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
       "source": "UFC"
     }
