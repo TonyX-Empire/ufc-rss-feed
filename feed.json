@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-10T19:07:13.573069+00:00",
+  "last_build_date": "2026-08-10T21:50:53.404803+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "TICKETS ON SALE NOW FOR DANA WHITE’S CONTENDER SERIES FOR THE FIRST TIME IN SHOW’S HISTORY",
+      "link": "https://www.ufc.com/news/tickets-sale-now-dana-whites-contender-series-first-time-shows-history",
+      "guid": "https://www.ufc.com/news/tickets-sale-now-dana-whites-contender-series-first-time-shows-history",
+      "pubDate": "Mon, 10 Aug 2026 21:30:00 GMT",
+      "published_at": "2026-08-10T21:30:00+00:00",
+      "description": "Latest UFC news: TICKETS ON SALE NOW FOR DANA WHITE’S CONTENDER SERIES FOR THE FIRST TIME IN SHOW’S HISTORY",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCSS10_PRO1_V2_60_HD_EN_Premieres0811_PARAP.00_00_59_29.Still001.jpg?itok=w76-2WsK",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-08T22:48:00+00:00",
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 10: McKenna vs Oliha, Live From 3Arena In Dublin, Ireland On August 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-zuffa-boxing-10-results-HERO.jpg?itok=Xv6gd99d",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 10",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-10",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-10",
-      "pubDate": "Sat, 08 Aug 2026 07:01:00 GMT",
-      "published_at": "2026-08-08T07:01:00+00:00",
-      "description": "Zuffa Boxing Makes Its Ireland Debut As A World Title Comes To Dublin's 3Arena. Here's Everything You Need To Know",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-Etinosa-McKenna-3Arena-faceoff.jpg?itok=H_R5q2Wp",
       "category": "Boxing",
       "source": "UFC"
     }
