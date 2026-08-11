@@ -5,8 +5,17 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Aug 2026 21:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 02:21:11 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-ufc-330-makhachev-vs-machado-garry</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-330-makhachev-vs-machado-garry</guid>
+      <pubDate>Mon, 10 Aug 2026 23:20:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>TICKETS ON SALE NOW FOR DANA WHITE’S CONTENDER SERIES FOR THE FIRST TIME IN SHOW’S HISTORY</title>
       <link>https://www.ufc.com/news/tickets-sale-now-dana-whites-contender-series-first-time-shows-history</link>
@@ -86,16 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080826-General-View-Octagon-Meta-APEX-GettyImages-2289634671.jpg?itok=CYXY9w9-" alt="Prelim Results | UFC Fight Night: Gamrot vs Salkilld" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Zuffa Boxing 10 Results + Scorecards</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-10-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-10-results</guid>
-      <pubDate>Sat, 08 Aug 2026 22:48:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080826-zuffa-boxing-10-results-HERO.jpg?itok=Xv6gd99d" alt="Zuffa Boxing 10 Results + Scorecards" /></p>
-<p>Results, Highlights, Scorecards And More From Zuffa Boxing 10: McKenna vs Oliha, Live From 3Arena In Dublin, Ireland On August 8, 2026</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>

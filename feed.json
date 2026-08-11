@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-10T21:50:53.404803+00:00",
+  "last_build_date": "2026-08-11T02:21:11.108508+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Mon, 10 Aug 2026 23:20:00 GMT",
+      "published_at": "2026-08-10T23:20:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "TICKETS ON SALE NOW FOR DANA WHITE’S CONTENDER SERIES FOR THE FIRST TIME IN SHOW’S HISTORY",
       "link": "https://www.ufc.com/news/tickets-sale-now-dana-whites-contender-series-first-time-shows-history",
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-General-View-Octagon-Meta-APEX-GettyImages-2289634671.jpg?itok=CYXY9w9-",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 10 Results + Scorecards",
-      "link": "https://www.ufc.com/news/zuffa-boxing-10-results",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-10-results",
-      "pubDate": "Sat, 08 Aug 2026 22:48:00 GMT",
-      "published_at": "2026-08-08T22:48:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 10: McKenna vs Oliha, Live From 3Arena In Dublin, Ireland On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-zuffa-boxing-10-results-HERO.jpg?itok=Xv6gd99d",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
