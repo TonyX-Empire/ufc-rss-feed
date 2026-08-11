@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-11T16:04:58.387004+00:00",
+  "last_build_date": "2026-08-11T19:12:47.796498+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Coach Conversation | Mackenzie Dern vs Gillian Robertson",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title",
+      "pubDate": "Tue, 11 Aug 2026 18:46:00 GMT",
+      "published_at": "2026-08-11T18:46:00+00:00",
+      "description": "Xtreme Couture’s Eddie Barraco Discusses Saturday’s Strawweight Title Fight",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-hero-mackenzie-dern-gillian-robertson.jpg?itok=CVnJpMhq",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai",
+      "pubDate": "Tue, 11 Aug 2026 17:42:00 GMT",
+      "published_at": "2026-08-11T17:42:00+00:00",
+      "description": "Spotlighting Three Streaking Standouts Ready To Show Out On Saturday",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-hero-myktybek-orolbai_GettyImages-2266541946.jpg?itok=I0725V-J",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Collect All 16 UFC Collectible Fighters, Available Now at Target!",
       "link": "https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target",
@@ -24,7 +46,7 @@
       "pubDate": "Tue, 11 Aug 2026 15:00:00 GMT",
       "published_at": "2026-08-11T15:00:00+00:00",
       "description": "UFC FIGHT NIGHT: BUCKLEY vs. MALOTT TICKETS ON SALE FRIDAY, AUGUST 14",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD",
       "category": "UFC",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "Looking At The Lineup For Tuesday’s Season 10 Premiere At Meta APEX",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081225-DWCS_General-View-GettyImages-2229806044.jpg?itok=Fm8Czna9",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld",
-      "guid": "https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld",
-      "pubDate": "Sun, 09 Aug 2026 18:33:00 GMT",
-      "published_at": "2026-08-09T18:33:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Gamrot vs Salkilld On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-Quillan-Salkilld-Reacts-THUMB-GettyImages-2289659614.jpg?itok=graTimjb",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld",
-      "pubDate": "Sun, 09 Aug 2026 04:00:00 GMT",
-      "published_at": "2026-08-09T04:00:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Meta APEX On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-hero-bonus-coverage.jpg?itok=6K6KUCEg",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]

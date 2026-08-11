@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Aug 2026 16:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:12:47 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coach Conversation | Mackenzie Dern vs Gillian Robertson</title>
+      <link>https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title</guid>
+      <pubDate>Tue, 11 Aug 2026 18:46:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081126-hero-mackenzie-dern-gillian-robertson.jpg?itok=CVnJpMhq" alt="Coach Conversation | Mackenzie Dern vs Gillian Robertson" /></p>
+<p>Xtreme Couture’s Eddie Barraco Discusses Saturday’s Strawweight Title Fight</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Fighters on the Rise | UFC 330: Makhachev vs Machado Garry</title>
+      <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai</guid>
+      <pubDate>Tue, 11 Aug 2026 17:42:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-hero-myktybek-orolbai_GettyImages-2266541946.jpg?itok=I0725V-J" alt="Fighters on the Rise | UFC 330: Makhachev vs Machado Garry" /></p>
+<p>Spotlighting Three Streaking Standouts Ready To Show Out On Saturday</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Collect All 16 UFC Collectible Fighters, Available Now at Target!</title>
       <link>https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target</link>
@@ -23,7 +43,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD" alt="PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD" alt="PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON" /></p>
 <p>UFC FIGHT NIGHT: BUCKLEY vs. MALOTT TICKETS ON SALE FRIDAY, AUGUST 14</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -75,26 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081225-DWCS_General-View-GettyImages-2229806044.jpg?itok=Fm8Czna9" alt="Week 1 Preview | Dana White’s Contender Series, Season 10" /></p>
 <p>Looking At The Lineup For Tuesday’s Season 10 Premiere At Meta APEX</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>The Scorecard | UFC Fight Night: Gamrot vs Salkilld</title>
-      <link>https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/the-scorecard-ufc-fight-night-gamrot-vs-salkilld</guid>
-      <pubDate>Sun, 09 Aug 2026 18:33:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080826-Quillan-Salkilld-Reacts-THUMB-GettyImages-2289659614.jpg?itok=graTimjb" alt="The Scorecard | UFC Fight Night: Gamrot vs Salkilld" /></p>
-<p>Highlighting The Biggest Winners From UFC Fight Night: Gamrot vs Salkilld On August 8, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC Fight Night: Gamrot vs Salkilld</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-fight-night-gamrot-vs-salkilld</guid>
-      <pubDate>Sun, 09 Aug 2026 04:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/080826-hero-bonus-coverage.jpg?itok=6K6KUCEg" alt="Bonus Coverage | UFC Fight Night: Gamrot vs Salkilld" /></p>
-<p>The Performances Awarded An Extra Bonus At Meta APEX On August 8, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>
