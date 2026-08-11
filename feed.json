@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-11T13:22:47.245831+00:00",
+  "last_build_date": "2026-08-11T16:04:58.387004+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Collect All 16 UFC Collectible Fighters, Available Now at Target!",
+      "link": "https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target",
+      "guid": "https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target",
+      "pubDate": "Tue, 11 Aug 2026 16:00:00 GMT",
+      "published_at": "2026-08-11T16:00:00+00:00",
+      "description": "Own the Octagon's Biggest Names.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080726-hero-collectable-figures.jpg?itok=mbFFa1p1",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON",
+      "link": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return",
+      "guid": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return",
+      "pubDate": "Tue, 11 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-11T15:00:00+00:00",
+      "description": "UFC FIGHT NIGHT: BUCKLEY vs. MALOTT TICKETS ON SALE FRIDAY, AUGUST 14",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "The Mission Continues For Unshakeable Ramiz Brahimaj",
+      "link": "https://www.ufc.com/news/mission-continues-unshakeable-ramiz-brahimaj-ufc-330-welterweight",
+      "guid": "https://www.ufc.com/news/mission-continues-unshakeable-ramiz-brahimaj-ufc-330-welterweight",
+      "pubDate": "Tue, 11 Aug 2026 13:45:00 GMT",
+      "published_at": "2026-08-11T13:45:00+00:00",
+      "description": "Welterweight Talks Mindset, Momentum Ahead Of UFC 330 Assignment",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-ramiz-brahimaj-backstage-portrait_GettyImages-2239258917.jpg?itok=80Dxar6e",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/fight-fight-preview-ufc-330-makhachev-vs-machado-garry",
@@ -69,39 +102,6 @@
       "published_at": "2026-08-09T04:00:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At Meta APEX On August 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-hero-bonus-coverage.jpg?itok=6K6KUCEg",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-results",
-      "pubDate": "Sun, 09 Aug 2026 03:20:00 GMT",
-      "published_at": "2026-08-09T03:20:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/080826-ufc-fight-night-gamrot-vs-salkilld-EVENT-ART.jpg?itok=RTefyyZN",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-scorecards-judges",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-official-scorecards-judges",
-      "pubDate": "Sun, 09 Aug 2026 02:17:00 GMT",
-      "published_at": "2026-08-09T02:17:00+00:00",
-      "description": "View The Official Judges' Scorecards From Every Bout At UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/022126-Bruce-Bufffer-GettyImages-2262869284.jpg?itok=kM7JwZ9Q",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Fight Night: Gamrot vs Salkilld",
-      "link": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-gamrot-vs-salkilld-prelim-results",
-      "pubDate": "Sun, 09 Aug 2026 00:55:00 GMT",
-      "published_at": "2026-08-09T00:55:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Gamrot vs Salkilld, Live From Meta APEX In Las Vegas On August 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-General-View-Octagon-Meta-APEX-GettyImages-2289634671.jpg?itok=CYXY9w9-",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
