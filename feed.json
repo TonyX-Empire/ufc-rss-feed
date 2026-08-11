@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-11T19:12:47.796498+00:00",
+  "last_build_date": "2026-08-11T21:56:45.450370+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 1 Results + Scorecards | Dana White's Contender Series Season 10",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results",
+      "pubDate": "Tue, 11 Aug 2026 23:00:00 GMT",
+      "published_at": "2026-08-11T23:00:00+00:00",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 1 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 11",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Coach Conversation | Mackenzie Dern vs Gillian Robertson",
       "link": "https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title",
@@ -24,7 +35,7 @@
       "pubDate": "Tue, 11 Aug 2026 17:42:00 GMT",
       "published_at": "2026-08-11T17:42:00+00:00",
       "description": "Spotlighting Three Streaking Standouts Ready To Show Out On Saturday",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-hero-myktybek-orolbai_GettyImages-2266541946.jpg?itok=I0725V-J",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-hero-myktybek-orolbai_GettyImages-2266541946.jpg?itok=I0725V-J",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-10T17:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 1 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-1-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Sun, 09 Aug 2026 20:33:00 GMT",
-      "published_at": "2026-08-09T20:33:00+00:00",
-      "description": "Looking At The Lineup For Tuesday’s Season 10 Premiere At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081225-DWCS_General-View-GettyImages-2229806044.jpg?itok=Fm8Czna9",
       "category": "News",
       "source": "UFC"
     }
