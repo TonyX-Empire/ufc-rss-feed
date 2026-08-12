@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-12T16:03:37.666570+00:00",
+  "last_build_date": "2026-08-12T19:12:37.377830+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Vicente Luque | Letting Go",
+      "link": "https://www.ufc.com/news/vicente-luque-letting-go-ufc-330",
+      "guid": "https://www.ufc.com/news/vicente-luque-letting-go-ufc-330",
+      "pubDate": "Wed, 12 Aug 2026 17:49:00 GMT",
+      "published_at": "2026-08-12T17:49:00+00:00",
+      "description": "Brazilian Veteran Discusses Fresh Start At Middleweight Ahead Of UFC 330",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Vicente-Luque-Hero-.jpg?itok=gqXNu9s1",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White On Contender Series Season 10, Week 1, Anthony Wint, Bilal Hasan, Tapping To Submissions + More",
+      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-1-anthony-wint-bilal-hasan-tapping-submissions-more",
+      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-1-anthony-wint-bilal-hasan-tapping-submissions-more",
+      "pubDate": "Wed, 12 Aug 2026 16:37:00 GMT",
+      "published_at": "2026-08-12T16:37:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 1 Post-Fight Press Conference In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2290088364.jpg?itok=rmZ588PT",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Donte Johnson | Fixing Things That Weren’t Quite Broken",
+      "link": "https://www.ufc.com/news/donte-johnson-fixing-things-werent-quite-broken-ufc-330",
+      "guid": "https://www.ufc.com/news/donte-johnson-fixing-things-werent-quite-broken-ufc-330",
+      "pubDate": "Wed, 12 Aug 2026 16:33:00 GMT",
+      "published_at": "2026-08-12T16:33:00+00:00",
+      "description": "Middleweight Prospect Talks Important Lessons, Moving To Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Donte-Johnson-Hero-.jpg?itok=7YGS3Ngg",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Welcome To The UFC | DWCS, Week 1, Season 10",
       "link": "https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10",
@@ -69,39 +102,6 @@
       "published_at": "2026-08-11T21:46:00+00:00",
       "description": "Martial arts projects will compete for BRL 25,000 in official UFC equipment. Fans will decide the winner.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/12374802159_CSR_SocialContent_VotingPhase_1920x1080.jpg?itok=pke76IQv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | Mackenzie Dern vs Gillian Robertson",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-330-mackenzie-dern-gillian-robertson-strawweight-title",
-      "pubDate": "Tue, 11 Aug 2026 18:46:00 GMT",
-      "published_at": "2026-08-11T18:46:00+00:00",
-      "description": "Xtreme Couture’s Eddie Barraco Discusses Saturday’s Strawweight Title Fight",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-hero-mackenzie-dern-gillian-robertson.jpg?itok=CVnJpMhq",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-330-fernandes-johnson-orolbai",
-      "pubDate": "Tue, 11 Aug 2026 17:42:00 GMT",
-      "published_at": "2026-08-11T17:42:00+00:00",
-      "description": "Spotlighting Three Streaking Standouts Ready To Show Out On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-hero-myktybek-orolbai_GettyImages-2266541946.jpg?itok=I0725V-J",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Collect All 16 UFC Collectible Fighters, Available Now at Target!",
-      "link": "https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target",
-      "guid": "https://www.ufc.com/news/collect-all-16-ufc-collectible-fighters-available-now-target",
-      "pubDate": "Tue, 11 Aug 2026 16:00:00 GMT",
-      "published_at": "2026-08-11T16:00:00+00:00",
-      "description": "Own the Octagon's Biggest Names.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080726-hero-collectable-figures.jpg?itok=mbFFa1p1",
       "category": "UFC",
       "source": "UFC"
     }
