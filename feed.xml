@@ -5,15 +5,25 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:03:37 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome To The UFC | DWCS, Week 1, Season 10</title>
+      <link>https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10</guid>
+      <pubDate>Wed, 12 Aug 2026 14:52:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/DWCS-S10-13.jpg?itok=gpwOZZeL" alt="Welcome To The UFC | DWCS, Week 1, Season 10" /></p>
+<p>Anthony Wint, Bilal Hasan, Thomas Pagliarulo And Joe Kropschot Score UFC Contracts As Quartet Successfully Pass “The World’s Toughest Job Interview” At Meta APEX</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Week 1 Results + Scorecards | Dana White's Contender Series Season 10</title>
       <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results</guid>
       <pubDate>Wed, 12 Aug 2026 02:01:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-Bilal-Hasan-Reacts-GettyImages-2290089521.jpg?itok=y2J1mfUl" alt="Week 1 Results + Scorecards | Dana White's Contender Series Season 10" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Reacts-GettyImages-2290089521.jpg?itok=y2J1mfUl" alt="Week 1 Results + Scorecards | Dana White's Contender Series Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 1 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 11</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/080726-hero-collectable-figures.jpg?itok=mbFFa1p1" alt="Collect All 16 UFC Collectible Fighters, Available Now at Target!" /></p>
 <p>Own the Octagon's Biggest Names.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON</title>
-      <link>https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD" alt="PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON" /></p>
-<p>UFC FIGHT NIGHT: BUCKLEY vs. MALOTT TICKETS ON SALE FRIDAY, AUGUST 14</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

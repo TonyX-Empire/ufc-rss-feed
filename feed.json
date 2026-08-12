@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-12T13:27:01.976515+00:00",
+  "last_build_date": "2026-08-12T16:03:37.666570+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Welcome To The UFC | DWCS, Week 1, Season 10",
+      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10",
+      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10",
+      "pubDate": "Wed, 12 Aug 2026 14:52:00 GMT",
+      "published_at": "2026-08-12T14:52:00+00:00",
+      "description": "Anthony Wint, Bilal Hasan, Thomas Pagliarulo And Joe Kropschot Score UFC Contracts As Quartet Successfully Pass “The World’s Toughest Job Interview” At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS-S10-13.jpg?itok=gpwOZZeL",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 1 Results + Scorecards | Dana White's Contender Series Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results",
@@ -13,7 +24,7 @@
       "pubDate": "Wed, 12 Aug 2026 02:01:00 GMT",
       "published_at": "2026-08-12T02:01:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 1 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 11",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-Bilal-Hasan-Reacts-GettyImages-2290089521.jpg?itok=y2J1mfUl",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Reacts-GettyImages-2290089521.jpg?itok=y2J1mfUl",
       "category": "News",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-11T16:00:00+00:00",
       "description": "Own the Octagon's Biggest Names.",
       "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/080726-hero-collectable-figures.jpg?itok=mbFFa1p1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "PIVOTAL WELTERWEIGHT BOUT BETWEEN JOAQUIN BUCKLEY AND MIKE MALOTT HEADLINES UFC RETURN TO EDMONTON",
-      "link": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return",
-      "guid": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return",
-      "pubDate": "Tue, 11 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-11T15:00:00+00:00",
-      "description": "UFC FIGHT NIGHT: BUCKLEY vs. MALOTT TICKETS ON SALE FRIDAY, AUGUST 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/101726-ufc-fight-night-buckley-vs-malott-TEMP-HERO.jpg?itok=GYos8ojD",
       "category": "UFC",
       "source": "UFC"
     }
