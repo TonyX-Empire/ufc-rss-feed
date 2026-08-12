@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-12T19:12:37.377830+00:00",
+  "last_build_date": "2026-08-12T21:55:23.929602+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Updates To UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/updates-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/updates-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Wed, 12 Aug 2026 20:43:00 GMT",
+      "published_at": "2026-08-12T20:43:00+00:00",
+      "description": "Latest UFC news: Updates To UFC 330: Makhachev vs Machado Garry",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081226-hero-philadelphia_GettyImages-1133847005.jpg?itok=7lk685Sj",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | UFC 330: Islam Makhachev vs Ian Machado Garry",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-330-islam-makhachev-vs-ian-machado-garry",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-330-islam-makhachev-vs-ian-machado-garry",
+      "pubDate": "Wed, 12 Aug 2026 19:50:00 GMT",
+      "published_at": "2026-08-12T19:50:00+00:00",
+      "description": "Sean Madden and E. Spencer Kyte Break Down Saturday’s UFC 330 Welterweight Title Fight",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Garry-Hero-.jpg?itok=bu9nK0vA",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "INAUGURAL MAX HOLLOWAY GOLF CLASSIC RAISES FUNDS TO SUPPORT HAWAI’I YOUTH",
+      "link": "https://www.ufc.com/news/inaugural-max-holloway-golf-classic-raises-funds-support-hawaii-youth",
+      "guid": "https://www.ufc.com/news/inaugural-max-holloway-golf-classic-raises-funds-support-hawaii-youth",
+      "pubDate": "Wed, 12 Aug 2026 18:33:00 GMT",
+      "published_at": "2026-08-12T18:33:00+00:00",
+      "description": "Inaugural tournament already generating impact with more than $75,000 awarded to four Hawaiʻi organizations",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/0S6A2489.jpg?itok=AfHexV_j",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Vicente Luque | Letting Go",
       "link": "https://www.ufc.com/news/vicente-luque-letting-go-ufc-330",
@@ -69,39 +102,6 @@
       "published_at": "2026-08-11T22:47:00+00:00",
       "description": "Middleweight Prospect Talks First Loss, Return To Action At UFC 330",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Masur-Abdul-Malik-Hero-.jpg?itok=Jg-CIBAN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Continues its Partnership with Jared Allen’s Homes for Wounded Warriors to Provide Custom Home Gyms and Physical Therapy Rooms for Disabled Veterans",
-      "link": "https://www.ufc.com/news/ufc-continues-its-partnership-jared-allens-homes-wounded-warriors-provide-custom-home-gyms-and",
-      "guid": "https://www.ufc.com/news/ufc-continues-its-partnership-jared-allens-homes-wounded-warriors-provide-custom-home-gyms-and",
-      "pubDate": "Tue, 11 Aug 2026 21:54:00 GMT",
-      "published_at": "2026-08-11T21:54:00+00:00",
-      "description": "Latest UFC news: UFC Continues its Partnership with Jared Allen’s Homes for Wounded Warriors to Provide Custom Home Gyms and Physical Therapy Rooms for Disabled Veterans",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Hero.jpg?itok=Ob9YsTDC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Celebrates International Fight Week with Community Impact Across Las Vegas",
-      "link": "https://www.ufc.com/news/ufc-celebrates-international-fight-week-community-impact-across-las-vegas",
-      "guid": "https://www.ufc.com/news/ufc-celebrates-international-fight-week-community-impact-across-las-vegas",
-      "pubDate": "Tue, 11 Aug 2026 21:54:00 GMT",
-      "published_at": "2026-08-11T21:54:00+00:00",
-      "description": "Latest UFC news: UFC Celebrates International Fight Week with Community Impact Across Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/BHO_1850.jpg?itok=JDAXQjBB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC LAUNCHES FIRST ULTIMATE GYM UPGRADE PROJECT FOR SOCIAL INSTITUTIONS IN BRAZIL",
-      "link": "https://www.ufc.com/news/ufc-launches-first-ultimate-gym-upgrade-project-social-institutions-brazil",
-      "guid": "https://www.ufc.com/news/ufc-launches-first-ultimate-gym-upgrade-project-social-institutions-brazil",
-      "pubDate": "Tue, 11 Aug 2026 21:46:00 GMT",
-      "published_at": "2026-08-11T21:46:00+00:00",
-      "description": "Martial arts projects will compete for BRL 25,000 in official UFC equipment. Fans will decide the winner.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/12374802159_CSR_SocialContent_VotingPhase_1920x1080.jpg?itok=pke76IQv",
       "category": "UFC",
       "source": "UFC"
     }
