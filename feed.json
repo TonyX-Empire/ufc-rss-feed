@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-13T16:03:37.773414+00:00",
+  "last_build_date": "2026-08-13T19:13:13.191027+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Ian Machado Garry | Promise Fulfilled",
+      "link": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
+      "guid": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
+      "pubDate": "Thu, 13 Aug 2026 17:20:00 GMT",
+      "published_at": "2026-08-13T17:20:00+00:00",
+      "description": "UFC 330 Title Challenger On The Cusp Of Achieving What He Said He Would Do",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Machado-Garry-Hero.jpg?itok=veEIhSUV",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Philly Special | Fabiano Buskei Relishes Being Back In Philadelphia",
+      "link": "https://www.ufc.com/news/philly-special-fabiano-buskei-relishes-being-back-philadelphia",
+      "guid": "https://www.ufc.com/news/philly-special-fabiano-buskei-relishes-being-back-philadelphia",
+      "pubDate": "Thu, 13 Aug 2026 17:02:00 GMT",
+      "published_at": "2026-08-13T17:02:00+00:00",
+      "description": "Octagon Translator Talks His Old Haunts And The Sites That Make The City Special",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/GettyImages-1521076432.jpg?itok=0sBEoF52",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Islam Makhachev Has History On His Mind",
       "link": "https://www.ufc.com/news/islam-makhachev-has-history-on-his-mind-ufc-330",
@@ -73,36 +95,14 @@
       "source": "UFC"
     },
     {
-      "title": "Dana White On Contender Series Season 10, Week 1, Anthony Wint, Bilal Hasan, Tapping To Submissions + More",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-1-anthony-wint-bilal-hasan-tapping-submissions-more",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-1-anthony-wint-bilal-hasan-tapping-submissions-more",
-      "pubDate": "Wed, 12 Aug 2026 16:37:00 GMT",
-      "published_at": "2026-08-12T16:37:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 1 Post-Fight Press Conference In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2290088364.jpg?itok=rmZ588PT",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Donte Johnson | Fixing Things That Weren’t Quite Broken",
-      "link": "https://www.ufc.com/news/donte-johnson-fixing-things-werent-quite-broken-ufc-330",
-      "guid": "https://www.ufc.com/news/donte-johnson-fixing-things-werent-quite-broken-ufc-330",
-      "pubDate": "Wed, 12 Aug 2026 16:33:00 GMT",
-      "published_at": "2026-08-12T16:33:00+00:00",
-      "description": "Middleweight Prospect Talks Important Lessons, Moving To Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Donte-Johnson-Hero-.jpg?itok=7YGS3Ngg",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS, Week 1, Season 10",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-week-1-season-10",
-      "pubDate": "Wed, 12 Aug 2026 14:52:00 GMT",
-      "published_at": "2026-08-12T14:52:00+00:00",
-      "description": "Anthony Wint, Bilal Hasan, Thomas Pagliarulo And Joe Kropschot Score UFC Contracts As Quartet Successfully Pass “The World’s Toughest Job Interview” At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS-S10-13.jpg?itok=gpwOZZeL",
-      "category": "UFC",
+      "title": "Mackenzie Dern Has The A-Z Of BJJ At The Ready",
+      "link": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
+      "guid": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
+      "pubDate": "Wed, 12 Aug 2026 16:39:00 GMT",
+      "published_at": "2026-08-12T16:39:00+00:00",
+      "description": "Reigning Women’s Strawweight Champion Mackenzie Dern Says Her Jiu-Jitsu Vocabulary Will Prove The Difference-Maker Against Gillian Robertson At UFC 330",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/Mackenzie-Dern-Hero-.jpg?itok=9vGOpg2_",
+      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
