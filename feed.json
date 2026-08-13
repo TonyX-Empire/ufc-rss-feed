@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-12T21:55:23.929602+00:00",
+  "last_build_date": "2026-08-13T02:35:23.215708+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Islam Makhachev Has History On His Mind",
+      "link": "https://www.ufc.com/news/islam-makhachev-has-history-on-his-mind-ufc-330",
+      "guid": "https://www.ufc.com/news/islam-makhachev-has-history-on-his-mind-ufc-330",
+      "pubDate": "Wed, 12 Aug 2026 23:55:00 GMT",
+      "published_at": "2026-08-12T23:55:00+00:00",
+      "description": "Welterweight Champion Islam Makhachev Wants To Keep Racking Up Accolades As He Prepares For His First Title Defense At 170 Pounds At UFC 330: Makhachev vs Machado Garry",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Islam-Makhachev-Hero-.jpg?itok=uYHlzecr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Ian Machado Garry And Gillian Robertson | Journey To The Title Shot",
+      "link": "https://www.ufc.com/news/ian-machado-garry-and-gillian-robertson-journey-title-shot",
+      "guid": "https://www.ufc.com/news/ian-machado-garry-and-gillian-robertson-journey-title-shot",
+      "pubDate": "Wed, 12 Aug 2026 22:20:00 GMT",
+      "published_at": "2026-08-12T22:20:00+00:00",
+      "description": "Gillian Robertson And Ian Machado Gary Have Taken Different Paths To Championship Opportunities At UFC 330",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Machado-Hero-.jpg?itok=MgUEFN8R",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Updates To UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/updates-ufc-330-makhachev-vs-machado-garry",
@@ -80,28 +102,6 @@
       "published_at": "2026-08-12T14:52:00+00:00",
       "description": "Anthony Wint, Bilal Hasan, Thomas Pagliarulo And Joe Kropschot Score UFC Contracts As Quartet Successfully Pass “The World’s Toughest Job Interview” At Meta APEX",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS-S10-13.jpg?itok=gpwOZZeL",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 1 Results + Scorecards | Dana White's Contender Series Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-1-results",
-      "pubDate": "Wed, 12 Aug 2026 02:01:00 GMT",
-      "published_at": "2026-08-12T02:01:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 1 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 11",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Reacts-GettyImages-2290089521.jpg?itok=y2J1mfUl",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Mansur Abdul-Malik Is Building Up His Callouses",
-      "link": "https://www.ufc.com/news/mansur-abdul-malik-is-building-up-his-callouses-ufc-330",
-      "guid": "https://www.ufc.com/news/mansur-abdul-malik-is-building-up-his-callouses-ufc-330",
-      "pubDate": "Tue, 11 Aug 2026 22:47:00 GMT",
-      "published_at": "2026-08-11T22:47:00+00:00",
-      "description": "Middleweight Prospect Talks First Loss, Return To Action At UFC 330",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Masur-Abdul-Malik-Hero-.jpg?itok=Jg-CIBAN",
       "category": "UFC",
       "source": "UFC"
     }
