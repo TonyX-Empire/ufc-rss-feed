@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:23:15 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry</guid>
+      <pubDate>Fri, 14 Aug 2026 15:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081526-UFC-330-WEIGH-Ins-Hero.jpg?itok=wjAgiQji" alt="Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry" /></p>
+<p>The Official Weights Of The Athletes Competing August 15 At Xfinity Mobile Arena In Philadelphia</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Ian Machado Garry | Promise Fulfilled</title>
       <link>https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Vicente-Luque-Hero-.jpg?itok=gqXNu9s1" alt="Vicente Luque | Letting Go" /></p>
 <p>Brazilian Veteran Discusses Fresh Start At Middleweight Ahead Of UFC 330</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Mackenzie Dern Has The A-Z Of BJJ At The Ready</title>
-      <link>https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330</guid>
-      <pubDate>Wed, 12 Aug 2026 16:39:00 GMT</pubDate>
-      <category>UFC BJJ</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Mackenzie-Dern-Hero-.jpg?itok=9vGOpg2_" alt="Mackenzie Dern Has The A-Z Of BJJ At The Ready" /></p>
-<p>Reigning Women’s Strawweight Champion Mackenzie Dern Says Her Jiu-Jitsu Vocabulary Will Prove The Difference-Maker Against Gillian Robertson At UFC 330</p>
-<p>Category: UFC BJJ</p>]]></description>
     </item>
   </channel>
 </rss>

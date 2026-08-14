@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-14T10:12:10.903555+00:00",
+  "last_build_date": "2026-08-14T13:23:15.115240+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing August 15 At Xfinity Mobile Arena In Philadelphia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-UFC-330-WEIGH-Ins-Hero.jpg?itok=wjAgiQji",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Ian Machado Garry | Promise Fulfilled",
       "link": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
@@ -92,17 +103,6 @@
       "description": "Brazilian Veteran Discusses Fresh Start At Middleweight Ahead Of UFC 330",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Vicente-Luque-Hero-.jpg?itok=gqXNu9s1",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Mackenzie Dern Has The A-Z Of BJJ At The Ready",
-      "link": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
-      "guid": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
-      "pubDate": "Wed, 12 Aug 2026 16:39:00 GMT",
-      "published_at": "2026-08-12T16:39:00+00:00",
-      "description": "Reigning Women’s Strawweight Champion Mackenzie Dern Says Her Jiu-Jitsu Vocabulary Will Prove The Difference-Maker Against Gillian Robertson At UFC 330",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Mackenzie-Dern-Hero-.jpg?itok=9vGOpg2_",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
