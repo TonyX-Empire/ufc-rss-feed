@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-14T13:23:15.115240+00:00",
+  "last_build_date": "2026-08-14T15:57:55.036201+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Jeremiah Wells | Back To Home Base",
+      "link": "https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330",
+      "guid": "https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330",
+      "pubDate": "Sat, 15 Aug 2026 05:54:00 GMT",
+      "published_at": "2026-08-15T05:54:00+00:00",
+      "description": "Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
+      "guid": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
+      "pubDate": "Fri, 14 Aug 2026 15:40:00 GMT",
+      "published_at": "2026-08-14T15:40:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gillian Robertson | Years In The Making",
+      "link": "https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight",
+      "guid": "https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "After 20 Fights In The UFC, “The Savage” Is Ready To Capture Championship Gold.",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/Faceoff-28.jpg?itok=z3uCux3s",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
+      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "Every Card Tells A Story",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
@@ -15,6 +59,17 @@
       "description": "The Official Weights Of The Athletes Competing August 15 At Xfinity Mobile Arena In Philadelphia",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-UFC-330-WEIGH-Ins-Hero.jpg?itok=wjAgiQji",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 2 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-2-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-2-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "Dana White's Contender Series Season 10 Episode 2 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-General-View-DWCS-Octagon.jpg?itok=H8fFQlit",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -47,61 +102,6 @@
       "published_at": "2026-08-12T23:55:00+00:00",
       "description": "Welterweight Champion Islam Makhachev Wants To Keep Racking Up Accolades As He Prepares For His First Title Defense At 170 Pounds At UFC 330: Makhachev vs Machado Garry",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Islam-Makhachev-Hero-.jpg?itok=uYHlzecr",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ian Machado Garry And Gillian Robertson | Journey To The Title Shot",
-      "link": "https://www.ufc.com/news/ian-machado-garry-and-gillian-robertson-journey-title-shot",
-      "guid": "https://www.ufc.com/news/ian-machado-garry-and-gillian-robertson-journey-title-shot",
-      "pubDate": "Wed, 12 Aug 2026 22:20:00 GMT",
-      "published_at": "2026-08-12T22:20:00+00:00",
-      "description": "Gillian Robertson And Ian Machado Gary Have Taken Different Paths To Championship Opportunities At UFC 330",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Machado-Hero-.jpg?itok=MgUEFN8R",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/updates-ufc-330-makhachev-vs-machado-garry",
-      "guid": "https://www.ufc.com/news/updates-ufc-330-makhachev-vs-machado-garry",
-      "pubDate": "Wed, 12 Aug 2026 20:43:00 GMT",
-      "published_at": "2026-08-12T20:43:00+00:00",
-      "description": "Latest UFC news: Updates To UFC 330: Makhachev vs Machado Garry",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081226-hero-philadelphia_GettyImages-1133847005.jpg?itok=7lk685Sj",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | UFC 330: Islam Makhachev vs Ian Machado Garry",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-330-islam-makhachev-vs-ian-machado-garry",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-330-islam-makhachev-vs-ian-machado-garry",
-      "pubDate": "Wed, 12 Aug 2026 19:50:00 GMT",
-      "published_at": "2026-08-12T19:50:00+00:00",
-      "description": "Sean Madden and E. Spencer Kyte Break Down Saturday’s UFC 330 Welterweight Title Fight",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Garry-Hero-.jpg?itok=bu9nK0vA",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "INAUGURAL MAX HOLLOWAY GOLF CLASSIC RAISES FUNDS TO SUPPORT HAWAI’I YOUTH",
-      "link": "https://www.ufc.com/news/inaugural-max-holloway-golf-classic-raises-funds-support-hawaii-youth",
-      "guid": "https://www.ufc.com/news/inaugural-max-holloway-golf-classic-raises-funds-support-hawaii-youth",
-      "pubDate": "Wed, 12 Aug 2026 18:33:00 GMT",
-      "published_at": "2026-08-12T18:33:00+00:00",
-      "description": "Inaugural tournament already generating impact with more than $75,000 awarded to four Hawaiʻi organizations",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/0S6A2489.jpg?itok=AfHexV_j",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Vicente Luque | Letting Go",
-      "link": "https://www.ufc.com/news/vicente-luque-letting-go-ufc-330",
-      "guid": "https://www.ufc.com/news/vicente-luque-letting-go-ufc-330",
-      "pubDate": "Wed, 12 Aug 2026 17:49:00 GMT",
-      "published_at": "2026-08-12T17:49:00+00:00",
-      "description": "Brazilian Veteran Discusses Fresh Start At Middleweight Ahead Of UFC 330",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Vicente-Luque-Hero-.jpg?itok=gqXNu9s1",
       "category": "UFC",
       "source": "UFC"
     }
