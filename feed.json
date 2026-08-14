@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-14T15:57:55.036201+00:00",
+  "last_build_date": "2026-08-14T19:04:12.822437+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,28 @@
       "published_at": "2026-08-15T05:54:00+00:00",
       "description": "Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/ufc-330-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-330-official-scorecards",
+      "pubDate": "Fri, 14 Aug 2026 17:15:00 GMT",
+      "published_at": "2026-08-14T17:15:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/ufc-330-prelims-results",
+      "guid": "https://www.ufc.com/news/ufc-330-prelims-results",
+      "pubDate": "Fri, 14 Aug 2026 16:33:00 GMT",
+      "published_at": "2026-08-14T16:33:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/012426-general-view-octagon-thumbnail-GettyImages-2258029547.jpg?itok=70XHCoYw",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,17 +62,6 @@
       "source": "UFC"
     },
     {
-      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
-      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "Every Card Tells A Story",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
@@ -73,6 +84,17 @@
       "source": "UFC"
     },
     {
+      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
+      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "Every Card Tells A Story",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Ian Machado Garry | Promise Fulfilled",
       "link": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
       "guid": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
@@ -80,28 +102,6 @@
       "published_at": "2026-08-13T17:20:00+00:00",
       "description": "UFC 330 Title Challenger On The Cusp Of Achieving What He Said He Would Do",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Machado-Garry-Hero.jpg?itok=veEIhSUV",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Philly Special | Fabiano Buskei Relishes Being Back In Philadelphia",
-      "link": "https://www.ufc.com/news/philly-special-fabiano-buskei-relishes-being-back-philadelphia",
-      "guid": "https://www.ufc.com/news/philly-special-fabiano-buskei-relishes-being-back-philadelphia",
-      "pubDate": "Thu, 13 Aug 2026 17:02:00 GMT",
-      "published_at": "2026-08-13T17:02:00+00:00",
-      "description": "Octagon Translator Talks His Old Haunts And The Sites That Make The City Special",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/GettyImages-1521076432.jpg?itok=0sBEoF52",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Islam Makhachev Has History On His Mind",
-      "link": "https://www.ufc.com/news/islam-makhachev-has-history-on-his-mind-ufc-330",
-      "guid": "https://www.ufc.com/news/islam-makhachev-has-history-on-his-mind-ufc-330",
-      "pubDate": "Wed, 12 Aug 2026 23:55:00 GMT",
-      "published_at": "2026-08-12T23:55:00+00:00",
-      "description": "Welterweight Champion Islam Makhachev Wants To Keep Racking Up Accolades As He Prepares For His First Title Defense At 170 Pounds At UFC 330: Makhachev vs Machado Garry",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Islam-Makhachev-Hero-.jpg?itok=uYHlzecr",
       "category": "UFC",
       "source": "UFC"
     }
