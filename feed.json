@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-15T12:52:14.614184+00:00",
+  "last_build_date": "2026-08-15T15:28:34.288725+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Sat, 15 Aug 2026 14:50:00 GMT",
+      "published_at": "2026-08-15T14:50:00+00:00",
+      "description": "Setting The Table For This Weekend’s Numbered Event In The City Of Brotherly Love",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-330-FBF-hero.jpg?itok=wF11WM-E",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Jeremiah Wells | Back To Home Base",
       "link": "https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330",
@@ -73,28 +84,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing August 15 At Xfinity Mobile Arena In Philadelphia",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-UFC-330-WEIGH-Ins-Hero.jpg?itok=wjAgiQji",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "DWCS Season 10 Episode 2 Preview: Athletes, Bouts, Start Times, Streaming",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-2-preview-athletes-bouts-start-times-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-2-preview-athletes-bouts-start-times-streaming",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "Dana White's Contender Series Season 10 Episode 2 Preview: Athletes, Bouts, Start Times, Streaming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-General-View-DWCS-Octagon.jpg?itok=H8fFQlit",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
       "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
       "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
       "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
@@ -102,6 +91,17 @@
       "published_at": "2026-08-14T15:00:00+00:00",
       "description": "Every Card Tells A Story",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing August 15 At Xfinity Mobile Arena In Philadelphia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-UFC-330-WEIGH-Ins-Hero.jpg?itok=wjAgiQji",
       "category": "UFC",
       "source": "UFC"
     }
