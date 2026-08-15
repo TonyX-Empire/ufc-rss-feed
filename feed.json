@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-14T21:32:08.216117+00:00",
+  "last_build_date": "2026-08-15T01:42:39.551072+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,17 @@
       "source": "UFC"
     },
     {
+      "title": "Islam Makhachev’s Case for G.O.A.T. Status",
+      "link": "https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330",
+      "guid": "https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330",
+      "pubDate": "Fri, 14 Aug 2026 15:53:00 GMT",
+      "published_at": "2026-08-14T15:53:00+00:00",
+      "description": "Where Does A Win At UFC 330 Put The Welterweight Champ In The Pantheon?",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081426-hero-islam-makhachev_GettyImages-2246911569.jpg?itok=RUj6F0lm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Main Card Results | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
       "guid": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
@@ -58,17 +69,6 @@
       "published_at": "2026-08-14T15:00:00+00:00",
       "description": "After 20 Fights In The UFC, “The Savage” Is Ready To Capture Championship Gold.",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-08/Faceoff-28.jpg?itok=z3uCux3s",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
-      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "Every Card Tells A Story",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
       "category": "UFC",
       "source": "UFC"
     },
@@ -95,13 +95,13 @@
       "source": "UFC"
     },
     {
-      "title": "Ian Machado Garry | Promise Fulfilled",
-      "link": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
-      "guid": "https://www.ufc.com/news/ian-machado-garry-promise-fulfilled-ufc-330",
-      "pubDate": "Thu, 13 Aug 2026 17:20:00 GMT",
-      "published_at": "2026-08-13T17:20:00+00:00",
-      "description": "UFC 330 Title Challenger On The Cusp Of Achieving What He Said He Would Do",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Ian-Machado-Garry-Hero.jpg?itok=veEIhSUV",
+      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
+      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "description": "Every Card Tells A Story",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
       "category": "UFC",
       "source": "UFC"
     }
