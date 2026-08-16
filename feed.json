@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-16T18:38:50.646111+00:00",
+  "last_build_date": "2026-08-16T21:27:22.042036+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 2 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 16 Aug 2026 20:00:00 GMT",
+      "published_at": "2026-08-16T20:00:00+00:00",
+      "description": "Setting The Table For Tuesday’s Second Episode Of The Season",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-Dana-Whites-Contender-Series-General-THUMB-GettyImages-2290077848.jpg?itok=lI8zZ9Bj",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Bigger Picture | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-15T05:54:00+00:00",
       "description": "Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Islam Makhachev’s Case for G.O.A.T. Status",
-      "link": "https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330",
-      "guid": "https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330",
-      "pubDate": "Fri, 14 Aug 2026 15:53:00 GMT",
-      "published_at": "2026-08-14T15:53:00+00:00",
-      "description": "Where Does A Win At UFC 330 Put The Welterweight Champ In The Pantheon?",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081426-hero-islam-makhachev_GettyImages-2246911569.jpg?itok=RUj6F0lm",
       "category": "UFC",
       "source": "UFC"
     }

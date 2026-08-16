@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Aug 2026 18:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:27:22 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 2 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 16 Aug 2026 20:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/081126-Dana-Whites-Contender-Series-General-THUMB-GettyImages-2290077848.jpg?itok=lI8zZ9Bj" alt="Week 2 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Setting The Table For Tuesday’s Second Episode Of The Season</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Bigger Picture | UFC 330: Makhachev vs Machado Garry</title>
       <link>https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54" alt="Jeremiah Wells | Back To Home Base" /></p>
 <p>Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Islam Makhachev’s Case for G.O.A.T. Status</title>
-      <link>https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/islam-makhachev-case-for-goat-status-ufc-330</guid>
-      <pubDate>Fri, 14 Aug 2026 15:53:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081426-hero-islam-makhachev_GettyImages-2246911569.jpg?itok=RUj6F0lm" alt="Islam Makhachev’s Case for G.O.A.T. Status" /></p>
-<p>Where Does A Win At UFC 330 Put The Welterweight Champ In The Pantheon?</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
