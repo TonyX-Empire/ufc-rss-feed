@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Aug 2026 15:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:38:50 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bigger Picture | UFC 330: Makhachev vs Machado Garry</title>
+      <link>https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry</guid>
+      <pubDate>Sun, 16 Aug 2026 17:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW" alt="The Bigger Picture | UFC 330: Makhachev vs Machado Garry" /></p>
+<p>Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC 330: Makhachev vs Machado Garry</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081426-hero-islam-makhachev_GettyImages-2246911569.jpg?itok=RUj6F0lm" alt="Islam Makhachev’s Case for G.O.A.T. Status" /></p>
 <p>Where Does A Win At UFC 330 Put The Welterweight Champ In The Pantheon?</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Gillian Robertson | Years In The Making</title>
-      <link>https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-08/Faceoff-28.jpg?itok=z3uCux3s" alt="Gillian Robertson | Years In The Making" /></p>
-<p>After 20 Fights In The UFC, “The Savage” Is Ready To Capture Championship Gold.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

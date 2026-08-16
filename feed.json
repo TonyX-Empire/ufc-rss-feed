@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-16T15:28:36.659040+00:00",
+  "last_build_date": "2026-08-16T18:38:50.646111+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Bigger Picture | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Sun, 16 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-16T17:00:00+00:00",
+      "description": "Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-14T15:53:00+00:00",
       "description": "Where Does A Win At UFC 330 Put The Welterweight Champ In The Pantheon?",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081426-hero-islam-makhachev_GettyImages-2246911569.jpg?itok=RUj6F0lm",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Gillian Robertson | Years In The Making",
-      "link": "https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight",
-      "guid": "https://www.ufc.com/news/gillian-robertson-years-making-ufc-330-strawweight",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "After 20 Fights In The UFC, “The Savage” Is Ready To Capture Championship Gold.",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/Faceoff-28.jpg?itok=z3uCux3s",
       "category": "UFC",
       "source": "UFC"
     }
