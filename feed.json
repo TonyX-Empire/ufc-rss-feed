@@ -3,17 +3,17 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-16T03:53:57.031260+00:00",
+  "last_build_date": "2026-08-16T06:52:41.150900+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Official Scorecards | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/ufc-330-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-330-official-scorecards",
-      "pubDate": "Sun, 16 Aug 2026 03:45:00 GMT",
-      "published_at": "2026-08-16T03:45:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd",
+      "title": "Bonus Coverage | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry",
+      "pubDate": "Sun, 16 Aug 2026 05:43:00 GMT",
+      "published_at": "2026-08-16T05:43:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Xfinity Mobile Arena On August 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-4.gif?itok=VXgRR3Sx",
       "category": "UFC",
       "source": "UFC"
     },
@@ -21,10 +21,21 @@
       "title": "Main Card Results | UFC 330: Makhachev vs Machado Garry",
       "link": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
       "guid": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
-      "pubDate": "Sun, 16 Aug 2026 03:16:00 GMT",
-      "published_at": "2026-08-16T03:16:00+00:00",
+      "pubDate": "Sun, 16 Aug 2026 05:41:00 GMT",
+      "published_at": "2026-08-16T05:41:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC 330: Makhachev vs Machado Garry",
+      "link": "https://www.ufc.com/news/ufc-330-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-330-official-scorecards",
+      "pubDate": "Sun, 16 Aug 2026 04:30:00 GMT",
+      "published_at": "2026-08-16T04:30:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-14T15:00:00+00:00",
       "description": "After 20 Fights In The UFC, “The Savage” Is Ready To Capture Championship Gold.",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-08/Faceoff-28.jpg?itok=z3uCux3s",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "2026 Topps Stadium Club UFC Available Now at UFC Store!",
-      "link": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "guid": "https://www.ufc.com/news/2026-topps-stadium-club-ufc-available-now-ufc-store",
-      "pubDate": "Fri, 14 Aug 2026 15:00:00 GMT",
-      "published_at": "2026-08-14T15:00:00+00:00",
-      "description": "Every Card Tells A Story",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/UFC.com-Digital-Assets-For-2026-Topps-Stadium-Club-UFC-%28Hero-1920x1080-RGB%29-%281%29.jpg?itok=B1rNy4Tq",
       "category": "UFC",
       "source": "UFC"
     }
