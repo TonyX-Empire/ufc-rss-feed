@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:48:03 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dana White On Islam Makhachev, Ian Machado Garry, Edson Barboza, The Philly Crowd &amp; More</title>
+      <link>https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more</guid>
+      <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081526-dana-white-ufc-330-HERO.jpg?itok=cdg_d4zT" alt="Dana White On Islam Makhachev, Ian Machado Garry, Edson Barboza, The Philly Crowd &amp; More" /></p>
+<p>UFC CEO Dana White Fielded Questions From The Media At The UFC 330 Post-Fight Press Conference In Philadelphia</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Week 2 Preview | Dana White’s Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-330-FBF-hero.jpg?itok=wF11WM-E" alt="UFC TONIGHT: Fight By Fight Preview | UFC 330: Makhachev vs Machado Garry" /></p>
 <p>Setting The Table For This Weekend’s Numbered Event In The City Of Brotherly Love</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Jeremiah Wells | Back To Home Base</title>
-      <link>https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330</guid>
-      <pubDate>Sat, 15 Aug 2026 05:54:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54" alt="Jeremiah Wells | Back To Home Base" /></p>
-<p>Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

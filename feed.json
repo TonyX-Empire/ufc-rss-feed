@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-16T21:27:22.042036+00:00",
+  "last_build_date": "2026-08-17T01:48:03.451438+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Islam Makhachev, Ian Machado Garry, Edson Barboza, The Philly Crowd & More",
+      "link": "https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more",
+      "guid": "https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more",
+      "pubDate": "Mon, 17 Aug 2026 01:30:00 GMT",
+      "published_at": "2026-08-17T01:30:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC 330 Post-Fight Press Conference In Philadelphia",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-dana-white-ufc-330-HERO.jpg?itok=cdg_d4zT",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Week 2 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-15T14:50:00+00:00",
       "description": "Setting The Table For This Weekend’s Numbered Event In The City Of Brotherly Love",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-330-FBF-hero.jpg?itok=wF11WM-E",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jeremiah Wells | Back To Home Base",
-      "link": "https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330",
-      "guid": "https://www.ufc.com/news/jeremiah-wells-back-to-home-base-ufc-330",
-      "pubDate": "Sat, 15 Aug 2026 05:54:00 GMT",
-      "published_at": "2026-08-15T05:54:00+00:00",
-      "description": "Phildelphia-based Welterweight Plans To Kick Off UFC 330 With A Bang.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/Jeremiah-Wells-Hero-.jpg?itok=mB5wdN54",
       "category": "UFC",
       "source": "UFC"
     }
