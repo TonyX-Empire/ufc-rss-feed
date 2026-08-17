@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:58:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:32:04 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | Dana White's Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</guid>
+      <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM" alt="Official Weigh-In Results | Dana White's Contender Series, Season 10" /></p>
+<p>The Official Weights Of The Athletes Competing For UFC Contracts In 2026</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Dana White On Islam Makhachev, Ian Machado Garry, Edson Barboza, The Philly Crowd &amp; More</title>
       <link>https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B" alt="Sacramento Fight Card Rounds Out With A Batch Of Fascinating Fights" /></p>
 <p>August 22 Fight Night Rounds Out With Exciting Matchups</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>UFC TONIGHT: Fight By Fight Preview | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/ufc-tonight-fight-fight-preview-ufc-330-makhachev-vs-machado-garry</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-tonight-fight-fight-preview-ufc-330-makhachev-vs-machado-garry</guid>
-      <pubDate>Sat, 15 Aug 2026 14:50:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-330-FBF-hero.jpg?itok=wF11WM-E" alt="UFC TONIGHT: Fight By Fight Preview | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>Setting The Table For This Weekend’s Numbered Event In The City Of Brotherly Love</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
