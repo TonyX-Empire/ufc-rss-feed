@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:56:23 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 2 Results + Scorecards | Dana White's Contender Series Season 10</title>
+      <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results</guid>
+      <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ" alt="Week 2 Results + Scorecards | Dana White's Contender Series Season 10" /></p>
+<p>Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Fight By Fight Preview | UFC Sacramento</title>
       <link>https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</link>
@@ -43,7 +53,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10</guid>
       <pubDate>Sun, 16 Aug 2026 20:00:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/DWCS-Week-2-Season-10-hero.jpg?itok=McmAxHc_" alt="Week 2 Preview | Dana White’s Contender Series, Season 10" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/DWCS-Week-2-Season-10-hero.jpg?itok=McmAxHc_" alt="Week 2 Preview | Dana White’s Contender Series, Season 10" /></p>
 <p>Setting The Table For Tuesday’s Second Episode Of The Season</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd" alt="Official Scorecards | UFC 330: Makhachev vs Machado Garry" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Prelim Results | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/ufc-330-prelims-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-330-prelims-results</guid>
-      <pubDate>Sun, 16 Aug 2026 02:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/012426-general-view-octagon-thumbnail-GettyImages-2258029547.jpg?itok=70XHCoYw" alt="Prelim Results | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
