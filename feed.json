@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-18T18:49:40.932827+00:00",
+  "last_build_date": "2026-08-18T21:31:01.521336+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Five Things To Know Before UFC Sacramento",
+      "link": "https://www.ufc.com/news/five-things-know-ufc-sacramento-hernandez-vs-rodrigues",
+      "guid": "https://www.ufc.com/news/five-things-know-ufc-sacramento-hernandez-vs-rodrigues",
+      "pubDate": "Tue, 18 Aug 2026 21:17:00 GMT",
+      "published_at": "2026-08-18T21:17:00+00:00",
+      "description": "A Few Top Storylines Heading Into UFC Fight Night: Hernandez vs Rodrigues On August 22",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-gregory-rodrigues-hand-raise_GettyImages-2265346554.jpg?itok=gtnrl7Ri",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Setting The Table For Tuesday’s Second Episode Of The Season",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS-Week-2-Season-10-hero.jpg?itok=McmAxHc_",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Bigger Picture | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry",
-      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry",
-      "pubDate": "Sun, 16 Aug 2026 17:00:00 GMT",
-      "published_at": "2026-08-16T17:00:00+00:00",
-      "description": "Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

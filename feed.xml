@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:31:01 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 2 Results + Scorecards | Dana White's Contender Series Season 10</title>
@@ -16,6 +16,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ" alt="Week 2 Results + Scorecards | Dana White's Contender Series Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18</p>
 <p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>Five Things To Know Before UFC Sacramento</title>
+      <link>https://www.ufc.com/news/five-things-know-ufc-sacramento-hernandez-vs-rodrigues</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/five-things-know-ufc-sacramento-hernandez-vs-rodrigues</guid>
+      <pubDate>Tue, 18 Aug 2026 21:17:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-gregory-rodrigues-hand-raise_GettyImages-2265346554.jpg?itok=gtnrl7Ri" alt="Five Things To Know Before UFC Sacramento" /></p>
+<p>A Few Top Storylines Heading Into UFC Fight Night: Hernandez vs Rodrigues On August 22</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Match By Match Preview | UFC BJJ 10: Tackett vs Gracie</title>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/DWCS-Week-2-Season-10-hero.jpg?itok=McmAxHc_" alt="Week 2 Preview | Dana White’s Contender Series, Season 10" /></p>
 <p>Setting The Table For Tuesday’s Second Episode Of The Season</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>The Bigger Picture | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-330-makhachev-vs-machado-garry</guid>
-      <pubDate>Sun, 16 Aug 2026 17:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW" alt="The Bigger Picture | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
