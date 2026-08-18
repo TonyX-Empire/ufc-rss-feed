@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-18T15:38:38.948298+00:00",
+  "last_build_date": "2026-08-18T18:49:40.932827+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,28 @@
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Match By Match Preview | UFC BJJ 10: Tackett vs Gracie",
+      "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie",
+      "guid": "https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie",
+      "pubDate": "Tue, 18 Aug 2026 17:10:00 GMT",
+      "published_at": "2026-08-18T17:10:00+00:00",
+      "description": "Two Titles Are On The Line At Meta APEX As Andrew Tackett and Rebeca Lima Look To Defend Their Belts At UFC BJJ 10.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-hero-andrew-tackett_GettyImages-2269592522.jpg?itok=z4HpnQAR",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Sacramento",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas",
+      "pubDate": "Tue, 18 Aug 2026 16:25:00 GMT",
+      "published_at": "2026-08-18T16:25:00+00:00",
+      "description": "Highlighting Three Ascending Talents To Watch This Weekend In Sacramento",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-hero-anthony-wint_GettyImages-2290095786.jpg?itok=nbngD_sY",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-08-16T17:00:00+00:00",
       "description": "Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry",
-      "pubDate": "Sun, 16 Aug 2026 05:43:00 GMT",
-      "published_at": "2026-08-16T05:43:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Xfinity Mobile Arena On August 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-4.gif?itok=VXgRR3Sx",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
-      "guid": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results",
-      "pubDate": "Sun, 16 Aug 2026 05:41:00 GMT",
-      "published_at": "2026-08-16T05:41:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud",
       "category": "UFC",
       "source": "UFC"
     }

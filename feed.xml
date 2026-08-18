@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:49:40 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 2 Results + Scorecards | Dana White's Contender Series Season 10</title>
@@ -16,6 +16,26 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ" alt="Week 2 Results + Scorecards | Dana White's Contender Series Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18</p>
 <p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>Match By Match Preview | UFC BJJ 10: Tackett vs Gracie</title>
+      <link>https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie</guid>
+      <pubDate>Tue, 18 Aug 2026 17:10:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-hero-andrew-tackett_GettyImages-2269592522.jpg?itok=z4HpnQAR" alt="Match By Match Preview | UFC BJJ 10: Tackett vs Gracie" /></p>
+<p>Two Titles Are On The Line At Meta APEX As Andrew Tackett and Rebeca Lima Look To Defend Their Belts At UFC BJJ 10.</p>
+<p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>Fighters on the Rise | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas</guid>
+      <pubDate>Tue, 18 Aug 2026 16:25:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-hero-anthony-wint_GettyImages-2290095786.jpg?itok=nbngD_sY" alt="Fighters on the Rise | UFC Sacramento" /></p>
+<p>Highlighting Three Ascending Talents To Watch This Weekend In Sacramento</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Fight By Fight Preview | UFC Sacramento</title>
@@ -75,26 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081526-islam-makhachev-pre-fight-HERO.jpg?itok=iMoeP3iW" alt="The Bigger Picture | UFC 330: Makhachev vs Machado Garry" /></p>
 <p>Unpacking Everything That Happened At Xfinity Mobile Arena On Saturday Night</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-330-makhachev-vs-machado-garry</guid>
-      <pubDate>Sun, 16 Aug 2026 05:43:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-4.gif?itok=VXgRR3Sx" alt="Bonus Coverage | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>The Performances Awarded An Extra Bonus At Xfinity Mobile Arena On August 15, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Main Card Results | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results</guid>
-      <pubDate>Sun, 16 Aug 2026 05:41:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud" alt="Main Card Results | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
