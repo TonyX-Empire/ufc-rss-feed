@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 15:38:38 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 2 Results + Scorecards | Dana White's Contender Series Season 10</title>
@@ -25,6 +25,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A" alt="Fight By Fight Preview | UFC Sacramento" /></p>
 <p>Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>UFC AND OVO TEAM UP TO DROP EXCLUSIVE COLLECTION THIS FRIDAY, AUGUST 21</title>
+      <link>https://www.ufc.com/news/ufc-and-ovo-team-drop-exclusive-collection-friday-august-21</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-and-ovo-team-drop-exclusive-collection-friday-august-21</guid>
+      <pubDate>Mon, 17 Aug 2026 22:29:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/060926_OVOxUFC4777.jpg?itok=PfSh6IdK" alt="UFC AND OVO TEAM UP TO DROP EXCLUSIVE COLLECTION THIS FRIDAY, AUGUST 21" /></p>
+<p>Canadian UFC Athlete Mike Malott Serves as the Face of the Collection, Featuring Fighter-Inspired Designs and Premium Lifestyle Apparel</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud" alt="Main Card Results | UFC 330: Makhachev vs Machado Garry" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Scorecards | UFC 330: Makhachev vs Machado Garry</title>
-      <link>https://www.ufc.com/news/ufc-330-official-scorecards</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-330-official-scorecards</guid>
-      <pubDate>Sun, 16 Aug 2026 04:30:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd" alt="Official Scorecards | UFC 330: Makhachev vs Machado Garry" /></p>
-<p>See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

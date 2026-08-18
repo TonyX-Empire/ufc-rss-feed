@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-18T13:00:03.105648+00:00",
+  "last_build_date": "2026-08-18T15:38:38.948298+00:00",
   "item_count": 9,
   "items": [
     {
@@ -25,6 +25,17 @@
       "published_at": "2026-08-17T23:57:00+00:00",
       "description": "Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC AND OVO TEAM UP TO DROP EXCLUSIVE COLLECTION THIS FRIDAY, AUGUST 21",
+      "link": "https://www.ufc.com/news/ufc-and-ovo-team-drop-exclusive-collection-friday-august-21",
+      "guid": "https://www.ufc.com/news/ufc-and-ovo-team-drop-exclusive-collection-friday-august-21",
+      "pubDate": "Mon, 17 Aug 2026 22:29:00 GMT",
+      "published_at": "2026-08-17T22:29:00+00:00",
+      "description": "Canadian UFC Athlete Mike Malott Serves as the Face of the Collection, Featuring Fighter-Inspired Designs and Premium Lifestyle Apparel",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/060926_OVOxUFC4777.jpg?itok=PfSh6IdK",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-16T05:41:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/081526-ufc-330-makhachev-vs-machado-garry-EVENT-ART.jpg?itok=PBVTnlud",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC 330: Makhachev vs Machado Garry",
-      "link": "https://www.ufc.com/news/ufc-330-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-330-official-scorecards",
-      "pubDate": "Sun, 16 Aug 2026 04:30:00 GMT",
-      "published_at": "2026-08-16T04:30:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/011825-Bruce-Buffer-Announcement-GettyImages-2194612752.jpg?itok=5uVooByd",
       "category": "UFC",
       "source": "UFC"
     }
