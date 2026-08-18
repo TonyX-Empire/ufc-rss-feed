@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:32:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:42:54 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</guid>
+      <pubDate>Mon, 17 Aug 2026 23:57:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A" alt="Fight By Fight Preview | UFC Sacramento" /></p>
+<p>Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Official Weigh-In Results | Dana White's Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/012426-general-view-octagon-thumbnail-GettyImages-2258029547.jpg?itok=70XHCoYw" alt="Prelim Results | UFC 330: Makhachev vs Machado Garry" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Sacramento Fight Card Rounds Out With A Batch Of Fascinating Fights</title>
-      <link>https://www.ufc.com/news/sacramento-fight-card-rounds-out-batch-fascinating-fights</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/sacramento-fight-card-rounds-out-batch-fascinating-fights</guid>
-      <pubDate>Sat, 15 Aug 2026 23:02:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B" alt="Sacramento Fight Card Rounds Out With A Batch Of Fascinating Fights" /></p>
-<p>August 22 Fight Night Rounds Out With Exciting Matchups</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>

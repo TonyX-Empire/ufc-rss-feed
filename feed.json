@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-17T21:32:26.061415+00:00",
+  "last_build_date": "2026-08-18T01:42:54.446498+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Sacramento",
+      "link": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
+      "guid": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
+      "pubDate": "Mon, 17 Aug 2026 23:57:00 GMT",
+      "published_at": "2026-08-17T23:57:00+00:00",
+      "description": "Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
@@ -92,17 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 330: Makhachev vs Machado Garry, Live From Philadelphia On Saturday, August 15, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/012426-general-view-octagon-thumbnail-GettyImages-2258029547.jpg?itok=70XHCoYw",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Sacramento Fight Card Rounds Out With A Batch Of Fascinating Fights",
-      "link": "https://www.ufc.com/news/sacramento-fight-card-rounds-out-batch-fascinating-fights",
-      "guid": "https://www.ufc.com/news/sacramento-fight-card-rounds-out-batch-fascinating-fights",
-      "pubDate": "Sat, 15 Aug 2026 23:02:00 GMT",
-      "published_at": "2026-08-15T23:02:00+00:00",
-      "description": "August 22 Fight Night Rounds Out With Exciting Matchups",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "News",
       "source": "UFC"
     }
   ]
