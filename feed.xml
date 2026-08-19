@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:45:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:32:30 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC BJJ 10: Tackett vs Gracie Results</title>
+      <link>https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b" alt="UFC BJJ 10: Tackett vs Gracie Results" /></p>
+<p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026</p>
+<p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>Shanelle Dyer | Back For More</title>
+      <link>https://www.ufc.com/news/shanelle-dyer-back-for-more-ufc-sacramento</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/shanelle-dyer-back-for-more-ufc-sacramento</guid>
+      <pubDate>Wed, 19 Aug 2026 20:20:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-shanelle-dyer-celebration_GettyImages-2267708609.jpg?itok=oOvFUhXg" alt="Shanelle Dyer | Back For More" /></p>
+<p>British Prospect Talks London Debut, Opening Saturday’s Event In Style</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Dana White On Contender Series Season 10, Week 2, Kaik Brito, Cristian Perez, Arguing With Matchmakers + More</title>
       <link>https://www.ufc.com/news/dana-white-contender-series-season-10-week-2-kaik-brito-cristian-perez-arguing-matchmakers</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-hero-andrew-tackett_GettyImages-2269592522.jpg?itok=z4HpnQAR" alt="Match By Match Preview | UFC BJJ 10: Tackett vs Gracie" /></p>
 <p>Two Titles Are On The Line At Meta APEX As Andrew Tackett and Rebeca Lima Look To Defend Their Belts At UFC BJJ 10.</p>
 <p>Category: UFC BJJ</p>]]></description>
-    </item>
-    <item>
-      <title>Fighters on the Rise | UFC Sacramento</title>
-      <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fighters-on-the-rise-ufc-sacramento-wint-jones-douglas</guid>
-      <pubDate>Tue, 18 Aug 2026 16:25:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-hero-anthony-wint_GettyImages-2290095786.jpg?itok=nbngD_sY" alt="Fighters on the Rise | UFC Sacramento" /></p>
-<p>Highlighting Three Ascending Talents To Watch This Weekend In Sacramento</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC Sacramento</title>
-      <link>https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</guid>
-      <pubDate>Mon, 17 Aug 2026 23:57:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A" alt="Fight By Fight Preview | UFC Sacramento" /></p>
-<p>Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
