@@ -3,18 +3,40 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-18T21:31:01.521336+00:00",
+  "last_build_date": "2026-08-19T01:45:06.264670+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Week 2 Results + Scorecards | Dana White's Contender Series Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results",
-      "pubDate": "Tue, 18 Aug 2026 23:00:00 GMT",
-      "published_at": "2026-08-18T23:00:00+00:00",
+      "pubDate": "Wed, 19 Aug 2026 01:20:00 GMT",
+      "published_at": "2026-08-19T01:20:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Mason Jones’ Big Bet is Paying Off",
+      "link": "https://www.ufc.com/news/mason-jones-big-bet-paying-off-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/mason-jones-big-bet-paying-off-ufc-sacramento",
+      "pubDate": "Wed, 19 Aug 2026 00:30:00 GMT",
+      "published_at": "2026-08-19T00:30:00+00:00",
+      "description": "‘The Dragon’ Talks Current Run Of Success, Tricky Matchup With MarQuel Mederos",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-mason-jones-celebration_GettyImages-2234047740.jpg?itok=mkHzSyjJ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Reinier de Ridder | Changing Things Up",
+      "link": "https://www.ufc.com/news/reinier-de-ridder-changing-things-ufc-sacramento-light-heavyweight",
+      "guid": "https://www.ufc.com/news/reinier-de-ridder-changing-things-ufc-sacramento-light-heavyweight",
+      "pubDate": "Tue, 18 Aug 2026 22:06:00 GMT",
+      "published_at": "2026-08-18T22:06:00+00:00",
+      "description": "Dutch Standout Discusses Shift To Light Heavyweight, Switching Gyms",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-reinier-de-ridder-pre-fight_GettyImages-2265353542.jpg?itok=s33uTl8U",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-08-17T17:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Islam Makhachev, Ian Machado Garry, Edson Barboza, The Philly Crowd & More",
-      "link": "https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more",
-      "guid": "https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more",
-      "pubDate": "Mon, 17 Aug 2026 01:30:00 GMT",
-      "published_at": "2026-08-17T01:30:00+00:00",
-      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC 330 Post-Fight Press Conference In Philadelphia",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081526-dana-white-ufc-330-HERO.jpg?itok=cdg_d4zT",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 2 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-2-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Sun, 16 Aug 2026 20:00:00 GMT",
-      "published_at": "2026-08-16T20:00:00+00:00",
-      "description": "Setting The Table For Tuesday’s Second Episode Of The Season",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS-Week-2-Season-10-hero.jpg?itok=McmAxHc_",
       "category": "News",
       "source": "UFC"
     }
