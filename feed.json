@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-20T18:51:15.412369+00:00",
+  "last_build_date": "2026-08-20T21:35:25.498958+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Sacramento",
+      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results",
+      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results",
+      "pubDate": "Sun, 23 Aug 2026 00:00:00 GMT",
+      "published_at": "2026-08-23T00:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-ufc-fight-night-herndandez-vs-rodrigues-EVENT-ART.jpg?itok=keBEvu7L",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Sacramento",
+      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results",
+      "pubDate": "Sat, 22 Aug 2026 21:00:00 GMT",
+      "published_at": "2026-08-22T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/050926-general-view-octagon-GettyImages-2275375114.jpg?itok=10Nnoewf",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Sacramento",
+      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-official-scorecards",
+      "pubDate": "Sat, 22 Aug 2026 21:00:00 GMT",
+      "published_at": "2026-08-22T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento, California On Saturday, August 22, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "UFC BJJ 10: Tackett vs Gracie Results",
       "link": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results",
@@ -15,6 +48,17 @@
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "POWER SLAP LANDS IN TEXAS ON THURSDAY SEPTEMBER 17",
+      "link": "https://www.ufc.com/news/power-slap-lands-texas-thursday-september-17",
+      "guid": "https://www.ufc.com/news/power-slap-lands-texas-thursday-september-17",
+      "pubDate": "Thu, 20 Aug 2026 18:20:00 GMT",
+      "published_at": "2026-08-20T18:20:00+00:00",
+      "description": "Power Slap 23: Wolverine vs Greenhalgh Features Two Marquee Title Matches. Get Tickets Now!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/0PS23_KA_Buildout_072826-1920x1080-1.jpg?itok=CgHo_OOb",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -58,50 +102,6 @@
       "published_at": "2026-08-19T20:20:00+00:00",
       "description": "British Prospect Talks London Debut, Opening Saturday’s Event In Style",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-shanelle-dyer-celebration_GettyImages-2267708609.jpg?itok=oOvFUhXg",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Contender Series Season 10, Week 2, Kaik Brito, Cristian Perez, Arguing With Matchmakers + More",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-2-kaik-brito-cristian-perez-arguing-matchmakers",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-2-kaik-brito-cristian-perez-arguing-matchmakers",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 GMT",
-      "published_at": "2026-08-19T18:10:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 2 Post-Fight Press Conference In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081926-dana-white-reaction_GettyImages-2291077461.jpg?itok=fDo6M6K7",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS Week 2, Season 10",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-2",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-2",
-      "pubDate": "Wed, 19 Aug 2026 16:51:00 GMT",
-      "published_at": "2026-08-19T16:51:00+00:00",
-      "description": "Kaik Brito, Trent Miller, Cristian Perez, Alik Lorenz, Roman Gabriel Puga, And Taner Trembley All Earned UFC Contracts On A Spectacular Night Of Fights At Meta APEX.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/DWCS10Ep2-11.jpg?itok=blclh-eE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 2 Results + Scorecards | Dana White's Contender Series Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-2-results",
-      "pubDate": "Wed, 19 Aug 2026 01:20:00 GMT",
-      "published_at": "2026-08-19T01:20:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 2 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 18",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-Kaik-Brito-Reacts-GettyImages-2291076091.jpg?itok=n9UEznrB",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Mason Jones’ Big Bet is Paying Off",
-      "link": "https://www.ufc.com/news/mason-jones-big-bet-paying-off-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/mason-jones-big-bet-paying-off-ufc-sacramento",
-      "pubDate": "Wed, 19 Aug 2026 00:30:00 GMT",
-      "published_at": "2026-08-19T00:30:00+00:00",
-      "description": "‘The Dragon’ Talks Current Run Of Success, Tricky Matchup With MarQuel Mederos",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-mason-jones-celebration_GettyImages-2234047740.jpg?itok=mkHzSyjJ",
       "category": "UFC",
       "source": "UFC"
     }
