@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:32:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:43:45 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UFC BJJ 10: Tackett vs Gracie Results</title>
@@ -16,6 +16,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b" alt="UFC BJJ 10: Tackett vs Gracie Results" /></p>
 <p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026</p>
 <p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>Anthony Hernandez | Representing For The 5-3-0</title>
+      <link>https://www.ufc.com/news/anthony-hernandez-representing-for-the-530-ufc-sacramento</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/anthony-hernandez-representing-for-the-530-ufc-sacramento</guid>
+      <pubDate>Wed, 19 Aug 2026 23:56:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-hernandez-introduction_GettyImages-2262889917_0.jpg?itok=F3IOEMD1" alt="Anthony Hernandez | Representing For The 5-3-0" /></p>
+<p>Hometown Middleweight Talks Fighting In Sacramento, Handling Business This Weekend</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Shanelle Dyer | Back For More</title>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-gregory-rodrigues-hand-raise_GettyImages-2265346554.jpg?itok=gtnrl7Ri" alt="Five Things To Know Before UFC Sacramento" /></p>
 <p>A Few Top Storylines Heading Into UFC Fight Night: Hernandez vs Rodrigues On August 22</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Match By Match Preview | UFC BJJ 10: Tackett vs Gracie</title>
-      <link>https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie</guid>
-      <pubDate>Tue, 18 Aug 2026 17:10:00 GMT</pubDate>
-      <category>UFC BJJ</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-hero-andrew-tackett_GettyImages-2269592522.jpg?itok=z4HpnQAR" alt="Match By Match Preview | UFC BJJ 10: Tackett vs Gracie" /></p>
-<p>Two Titles Are On The Line At Meta APEX As Andrew Tackett and Rebeca Lima Look To Defend Their Belts At UFC BJJ 10.</p>
-<p>Category: UFC BJJ</p>]]></description>
     </item>
   </channel>
 </rss>

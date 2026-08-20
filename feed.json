@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-19T21:32:30.053895+00:00",
+  "last_build_date": "2026-08-20T01:43:45.443676+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Anthony Hernandez | Representing For The 5-3-0",
+      "link": "https://www.ufc.com/news/anthony-hernandez-representing-for-the-530-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/anthony-hernandez-representing-for-the-530-ufc-sacramento",
+      "pubDate": "Wed, 19 Aug 2026 23:56:00 GMT",
+      "published_at": "2026-08-19T23:56:00+00:00",
+      "description": "Hometown Middleweight Talks Fighting In Sacramento, Handling Business This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-hernandez-introduction_GettyImages-2262889917_0.jpg?itok=F3IOEMD1",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "A Few Top Storylines Heading Into UFC Fight Night: Hernandez vs Rodrigues On August 22",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-gregory-rodrigues-hand-raise_GettyImages-2265346554.jpg?itok=gtnrl7Ri",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Match By Match Preview | UFC BJJ 10: Tackett vs Gracie",
-      "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie",
-      "guid": "https://www.ufc.com/news/match-match-preview-ufc-bjj-10-tackett-vs-gracie",
-      "pubDate": "Tue, 18 Aug 2026 17:10:00 GMT",
-      "published_at": "2026-08-18T17:10:00+00:00",
-      "description": "Two Titles Are On The Line At Meta APEX As Andrew Tackett and Rebeca Lima Look To Defend Their Belts At UFC BJJ 10.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-hero-andrew-tackett_GettyImages-2269592522.jpg?itok=z4HpnQAR",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
