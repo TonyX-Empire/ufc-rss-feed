@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-21T15:40:51.328240+00:00",
+  "last_build_date": "2026-08-21T18:48:25.217496+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,11 +40,44 @@
       "source": "UFC"
     },
     {
+      "title": "Anthony Wint Has Arrived",
+      "link": "https://www.ufc.com/news/anthony-wint-has-arrived-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/anthony-wint-has-arrived-ufc-sacramento",
+      "pubDate": "Fri, 21 Aug 2026 17:16:00 GMT",
+      "published_at": "2026-08-21T17:16:00+00:00",
+      "description": "Contender Series Grad Talks Quick Turnaround, Influence Of Those Around Him",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-wint-hand-raise_GettyImages-2290093419.jpg?itok=x2qmxLbW",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "MarQuel Mederos | 'Welcome To My Introduction’",
+      "link": "https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento",
+      "pubDate": "Fri, 21 Aug 2026 16:46:00 GMT",
+      "published_at": "2026-08-21T16:46:00+00:00",
+      "description": "Matched Against One Of The Lightweight Division’s True Warriors, MarQuel Mederos Plans On Alerting The World To His Own Destructive Talents At UFC Sacramento.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-marquel-mederos-hand-raise_GettyImages-2219094529.jpg?itok=0AiXwFXz",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Lerryan Douglas | Return of 'The Gunslinger'",
+      "link": "https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento",
+      "pubDate": "Fri, 21 Aug 2026 16:40:00 GMT",
+      "published_at": "2026-08-21T16:40:00+00:00",
+      "description": "Talented Brazilian Takes Aim At Second Veteran Opponent In Sacramento",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-lerryan-douglas-celebration_GettyImages-2268847521.jpg?itok=TmVgI2EI",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | UFC Sacramento",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
-      "pubDate": "Fri, 21 Aug 2026 14:26:00 GMT",
-      "published_at": "2026-08-21T14:26:00+00:00",
+      "pubDate": "Fri, 21 Aug 2026 16:00:00 GMT",
+      "published_at": "2026-08-21T16:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c",
       "category": "UFC Fight Night",
@@ -68,41 +101,8 @@
       "pubDate": "Fri, 21 Aug 2026 13:00:00 GMT",
       "published_at": "2026-08-21T13:00:00+00:00",
       "description": "Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-bilal-hasan-enters-octagon%29GettyImages-2290669894.jpg?itok=-NpzRWnE",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Post-Fight-ThumbGettyImages-2290095567.jpg?itok=7bvDHg2L",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 10: Tackett vs Gracie Results",
-      "link": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results",
-      "guid": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results",
-      "pubDate": "Fri, 21 Aug 2026 03:00:00 GMT",
-      "published_at": "2026-08-21T03:00:00+00:00",
-      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Carli Judice | Stay ‘Crispy’",
-      "link": "https://www.ufc.com/news/carli-judice-stay-crispy-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/carli-judice-stay-crispy-ufc-sacramento",
-      "pubDate": "Fri, 21 Aug 2026 01:36:00 GMT",
-      "published_at": "2026-08-21T01:36:00+00:00",
-      "description": "Rising Flyweight Has Found Her Form In The Octagon, And Plans To Climb The Division, Step-By-Step, Just By Being Herself.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081926-carli-judice-hand-raise_GettyImages-2226043886.jpg?itok=XGnRK--e",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Marcio Barbosa | Keep An Eye On 'Ticotô'",
-      "link": "https://www.ufc.com/news/marcio-barbosa-keep-an-eye-on-ticoto-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/marcio-barbosa-keep-an-eye-on-ticoto-ufc-sacramento",
-      "pubDate": "Thu, 20 Aug 2026 23:15:00 GMT",
-      "published_at": "2026-08-20T23:15:00+00:00",
-      "description": "Brazilian Featherweight Let’s His Loud Performances Speak For Him",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081926-marcio-barbosa-hand-raise_GettyImages-2271970239.jpg?itok=Xtt2BU5_",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
