@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-21T09:44:46.647716+00:00",
+  "last_build_date": "2026-08-21T13:02:36.420167+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,17 @@
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento, California On Saturday, August 22, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way",
+      "link": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
+      "guid": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
+      "pubDate": "Fri, 21 Aug 2026 13:00:00 GMT",
+      "published_at": "2026-08-21T13:00:00+00:00",
+      "description": "Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082026-bilal-hasan-enters-octagon%29GettyImages-2290669894.jpg?itok=-NpzRWnE",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-08-20T17:20:00+00:00",
       "description": "California Lightweight Is Unbeaten In Five UFC Fights, And Wants To Prove That He Deserves Main Card Billing After UFC Sacramento.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-hero-chris-padilla_GettyImages-2245747269.jpg?itok=NYOw4lkA",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Gregory Rodrigues | Attitude Of Gratitude",
-      "link": "https://www.ufc.com/news/gregory-rodrigues-attitude-of-gratitude-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/gregory-rodrigues-attitude-of-gratitude-ufc-sacramento",
-      "pubDate": "Thu, 20 Aug 2026 16:47:00 GMT",
-      "published_at": "2026-08-20T16:47:00+00:00",
-      "description": "Middleweight Contender Is Staying Grounded And Grateful As He Prepares For The Biggest Test Of His Career To Date.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081926-gregory-rodrigues-enters-octagon_GettyImages-2265345991.jpg?itok=OYV4Am7b",
       "category": "UFC",
       "source": "UFC"
     }

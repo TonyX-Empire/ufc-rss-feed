@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:02:36 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Sacramento</title>
@@ -36,6 +36,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2" alt="Official Scorecards | UFC Sacramento" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento, California On Saturday, August 22, 2026</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way</title>
+      <link>https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs</guid>
+      <pubDate>Fri, 21 Aug 2026 13:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/082026-bilal-hasan-enters-octagon%29GettyImages-2290669894.jpg?itok=-NpzRWnE" alt="Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way" /></p>
+<p>Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark</p>
+<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>UFC BJJ 10: Tackett vs Gracie Results</title>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-hero-chris-padilla_GettyImages-2245747269.jpg?itok=NYOw4lkA" alt="Chris Padilla Knows He Belongs On The Big Stage" /></p>
 <p>California Lightweight Is Unbeaten In Five UFC Fights, And Wants To Prove That He Deserves Main Card Billing After UFC Sacramento.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Gregory Rodrigues | Attitude Of Gratitude</title>
-      <link>https://www.ufc.com/news/gregory-rodrigues-attitude-of-gratitude-ufc-sacramento</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/gregory-rodrigues-attitude-of-gratitude-ufc-sacramento</guid>
-      <pubDate>Thu, 20 Aug 2026 16:47:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081926-gregory-rodrigues-enters-octagon_GettyImages-2265345991.jpg?itok=OYV4Am7b" alt="Gregory Rodrigues | Attitude Of Gratitude" /></p>
-<p>Middleweight Contender Is Staying Grounded And Grateful As He Prepares For The Biggest Test Of His Career To Date.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
