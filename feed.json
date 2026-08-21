@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-21T13:02:36.420167+00:00",
+  "last_build_date": "2026-08-21T15:40:51.328240+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,13 +40,35 @@
       "source": "UFC"
     },
     {
+      "title": "Official Weigh-In Results | UFC Sacramento",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
+      "pubDate": "Fri, 21 Aug 2026 14:26:00 GMT",
+      "published_at": "2026-08-21T14:26:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
+      "published_at": "2026-08-21T14:00:00+00:00",
+      "description": "Dana White Contender Series Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/generic-dwcs-octagon-apex_GettyImages-2291061875.jpg?itok=M6lvYGU1",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way",
       "link": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
       "guid": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
       "pubDate": "Fri, 21 Aug 2026 13:00:00 GMT",
       "published_at": "2026-08-21T13:00:00+00:00",
       "description": "Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082026-bilal-hasan-enters-octagon%29GettyImages-2290669894.jpg?itok=-NpzRWnE",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-bilal-hasan-enters-octagon%29GettyImages-2290669894.jpg?itok=-NpzRWnE",
       "category": "News",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-08-20T23:15:00+00:00",
       "description": "Brazilian Featherweight Let’s His Loud Performances Speak For Him",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081926-marcio-barbosa-hand-raise_GettyImages-2271970239.jpg?itok=Xtt2BU5_",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "POWER SLAP LANDS IN TEXAS ON THURSDAY SEPTEMBER 17",
-      "link": "https://www.ufc.com/news/power-slap-lands-texas-thursday-september-17",
-      "guid": "https://www.ufc.com/news/power-slap-lands-texas-thursday-september-17",
-      "pubDate": "Thu, 20 Aug 2026 18:20:00 GMT",
-      "published_at": "2026-08-20T18:20:00+00:00",
-      "description": "Power Slap 23: Wolverine vs Greenhalgh Features Two Marquee Title Matches. Get Tickets Now!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/0PS23_KA_Buildout_072826-1920x1080-1.jpg?itok=CgHo_OOb",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Chris Padilla Knows He Belongs On The Big Stage",
-      "link": "https://www.ufc.com/news/chris-padilla-knows-he-belongs-on-the-big-stage-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/chris-padilla-knows-he-belongs-on-the-big-stage-ufc-sacramento",
-      "pubDate": "Thu, 20 Aug 2026 17:20:00 GMT",
-      "published_at": "2026-08-20T17:20:00+00:00",
-      "description": "California Lightweight Is Unbeaten In Five UFC Fights, And Wants To Prove That He Deserves Main Card Billing After UFC Sacramento.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-hero-chris-padilla_GettyImages-2245747269.jpg?itok=NYOw4lkA",
       "category": "UFC",
       "source": "UFC"
     }
