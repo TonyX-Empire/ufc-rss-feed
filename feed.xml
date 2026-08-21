@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:55:24 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Sacramento</title>
@@ -15,16 +15,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082226-ufc-fight-night-herndandez-vs-rodrigues-EVENT-ART.jpg?itok=keBEvu7L" alt="Main Card Results | UFC Sacramento" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Prelim Results | UFC Sacramento</title>
-      <link>https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results</guid>
-      <pubDate>Sat, 22 Aug 2026 21:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/050926-general-view-octagon-GettyImages-2275375114.jpg?itok=10Nnoewf" alt="Prelim Results | UFC Sacramento" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -38,10 +28,20 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
+      <title>Prelim Results | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results</guid>
+      <pubDate>Sat, 22 Aug 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/050926-general-view-octagon-GettyImages-2275375114.jpg?itok=10Nnoewf" alt="Prelim Results | UFC Sacramento" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
       <title>UFC BJJ 10: Tackett vs Gracie Results</title>
       <link>https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-results</guid>
-      <pubDate>Fri, 21 Aug 2026 01:38:00 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 03:00:00 GMT</pubDate>
       <category>UFC BJJ</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-ufc-bjj-10-tackett-gracie-EVENT-ART.jpg?itok=c3A3ai6b" alt="UFC BJJ 10: Tackett vs Gracie Results" /></p>
 <p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 10: Tackett vs Gracie At Meta APEX In Las Vegas, Nevada On August 20, 2026</p>
