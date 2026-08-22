@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:40:36 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Sacramento</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/050926-general-view-octagon-GettyImages-2275375114.jpg?itok=10Nnoewf" alt="Prelim Results | UFC Sacramento" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>UFC TONIGHT: Fight By Fight Preview | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues</guid>
+      <pubDate>Sat, 22 Aug 2026 16:15:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A" alt="UFC TONIGHT: Fight By Fight Preview | UFC Sacramento" /></p>
+<p>Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -85,16 +95,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/generic-dwcs-octagon-apex_GettyImages-2291061875.jpg?itok=M6lvYGU1" alt="DWCS Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming" /></p>
 <p>Dana White Contender Series Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way</title>
-      <link>https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs</guid>
-      <pubDate>Fri, 21 Aug 2026 13:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Post-Fight-ThumbGettyImages-2290095567.jpg?itok=7bvDHg2L" alt="Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way" /></p>
-<p>Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>

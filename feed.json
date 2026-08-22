@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-22T15:28:29.042004+00:00",
+  "last_build_date": "2026-08-22T18:40:36.575008+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-08-22T21:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/050926-general-view-octagon-GettyImages-2275375114.jpg?itok=10Nnoewf",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Sacramento",
+      "link": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
+      "guid": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
+      "pubDate": "Sat, 22 Aug 2026 16:15:00 GMT",
+      "published_at": "2026-08-22T16:15:00+00:00",
+      "description": "Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-21T14:00:00+00:00",
       "description": "Dana White Contender Series Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/generic-dwcs-octagon-apex_GettyImages-2291061875.jpg?itok=M6lvYGU1",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Bilal Hasan Is Here To Impress And Enjoy The Journey Along The Way",
-      "link": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
-      "guid": "https://www.ufc.com/news/bilal-hasan-here-impress-and-enjoy-journey-along-way-dwcs",
-      "pubDate": "Fri, 21 Aug 2026 13:00:00 GMT",
-      "published_at": "2026-08-21T13:00:00+00:00",
-      "description": "Dana White’s Contender Series Breakout Star Bilal Hasan Is Ready To Make His Mark",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081126-Bilal-Hasan-Post-Fight-ThumbGettyImages-2290095567.jpg?itok=7bvDHg2L",
       "category": "News",
       "source": "UFC"
     }
