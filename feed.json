@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-23T03:55:35.305778+00:00",
+  "last_build_date": "2026-08-23T06:53:24.906378+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Sacramento",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-sacramento",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-sacramento",
+      "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
+      "published_at": "2026-08-23T04:01:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus August 22, 2026 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1.gif?itok=cik-X_m4",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Sacramento",
       "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results",
@@ -92,17 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "DWCS Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming",
-      "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
-      "published_at": "2026-08-21T14:00:00+00:00",
-      "description": "Dana White Contender Series Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/generic-dwcs-octagon-apex_GettyImages-2291061875.jpg?itok=M6lvYGU1",
-      "category": "News",
       "source": "UFC"
     }
   ]

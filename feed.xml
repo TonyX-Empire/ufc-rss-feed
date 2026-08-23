@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:53:24 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bonus Coverage | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/bonus-coverage-ufc-sacramento</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-sacramento</guid>
+      <pubDate>Sun, 23 Aug 2026 04:01:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1.gif?itok=cik-X_m4" alt="Bonus Coverage | UFC Sacramento" /></p>
+<p>The Performances Awarded An Extra Bonus August 22, 2026 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC Sacramento</title>
       <link>https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c" alt="Official Weigh-In Results | UFC Sacramento" /></p>
 <p>The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>DWCS Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming</title>
-      <link>https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dwcs-season-10-episode-3-preview-athletes-bouts-start-times-streaming</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/generic-dwcs-octagon-apex_GettyImages-2291061875.jpg?itok=M6lvYGU1" alt="DWCS Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming" /></p>
-<p>Dana White Contender Series Season 10 Episode 3 Preview: Athletes, Bouts, Start Times, Streaming</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
