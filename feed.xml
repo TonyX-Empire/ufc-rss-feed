@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:28:16 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 3 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 23 Aug 2026 21:10:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-08/00%20-%20Backstage-2024-08-13_CU-0022_resized.JPG?itok=C-4uxppE" alt="Week 3 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Outlining The Matchup Set To Take Place Tuesday At Meta APEX</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>The Scorecard | UFC Sacramento</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues</guid>
+      <pubDate>Sun, 23 Aug 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082326-marquel-mederos-hand-raise_GettyImages-2291620223.jpg?itok=slb-4TyN" alt="The Scorecard | UFC Sacramento" /></p>
+<p>Highlighting The Biggest Winners From UFC Fight Night: Hernandez vs Rodrigues on August 22, 2026.</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Sacramento</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-sacramento</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-marquel-mederos-hand-raise_GettyImages-2219094529.jpg?itok=0AiXwFXz" alt="MarQuel Mederos | 'Welcome To My Introduction’" /></p>
 <p>Matched Against One Of The Lightweight Division’s True Warriors, MarQuel Mederos Plans On Alerting The World To His Own Destructive Talents At UFC Sacramento.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Lerryan Douglas | Return of 'The Gunslinger'</title>
-      <link>https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento</guid>
-      <pubDate>Fri, 21 Aug 2026 16:40:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-lerryan-douglas-celebration_GettyImages-2268847521.jpg?itok=TmVgI2EI" alt="Lerryan Douglas | Return of 'The Gunslinger'" /></p>
-<p>Talented Brazilian Takes Aim At Second Veteran Opponent In Sacramento</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Sacramento</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues</guid>
-      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c" alt="Official Weigh-In Results | UFC Sacramento" /></p>
-<p>The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

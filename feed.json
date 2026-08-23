@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-23T18:39:50.010642+00:00",
+  "last_build_date": "2026-08-23T21:28:16.479588+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 3 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 23 Aug 2026 21:10:00 GMT",
+      "published_at": "2026-08-23T21:10:00+00:00",
+      "description": "Outlining The Matchup Set To Take Place Tuesday At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/00%20-%20Backstage-2024-08-13_CU-0022_resized.JPG?itok=C-4uxppE",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Sacramento",
+      "link": "https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues",
+      "pubDate": "Sun, 23 Aug 2026 21:00:00 GMT",
+      "published_at": "2026-08-23T21:00:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Hernandez vs Rodrigues on August 22, 2026.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082326-marquel-mederos-hand-raise_GettyImages-2291620223.jpg?itok=slb-4TyN",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Sacramento",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-sacramento",
@@ -81,28 +103,6 @@
       "description": "Matched Against One Of The Lightweight Division’s True Warriors, MarQuel Mederos Plans On Alerting The World To His Own Destructive Talents At UFC Sacramento.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-marquel-mederos-hand-raise_GettyImages-2219094529.jpg?itok=0AiXwFXz",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Lerryan Douglas | Return of 'The Gunslinger'",
-      "link": "https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/lerryan-douglas-return-of-the-gunslinger-ufc-sacramento",
-      "pubDate": "Fri, 21 Aug 2026 16:40:00 GMT",
-      "published_at": "2026-08-21T16:40:00+00:00",
-      "description": "Talented Brazilian Takes Aim At Second Veteran Opponent In Sacramento",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-lerryan-douglas-celebration_GettyImages-2268847521.jpg?itok=TmVgI2EI",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Sacramento",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-sacramento-fight-night-hernandez-rodrigues",
-      "pubDate": "Fri, 21 Aug 2026 16:00:00 GMT",
-      "published_at": "2026-08-21T16:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing August 22 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-UFC-SACRAMENTO-weigh-in-hero.jpg?itok=xPGvmr2c",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
