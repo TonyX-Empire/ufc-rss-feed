@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-24T13:05:01.634418+00:00",
+  "last_build_date": "2026-08-24T15:47:52.150225+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-24T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Week 3 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-21T17:16:00+00:00",
       "description": "Contender Series Grad Talks Quick Turnaround, Influence Of Those Around Him",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-wint-hand-raise_GettyImages-2290093419.jpg?itok=x2qmxLbW",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "MarQuel Mederos | 'Welcome To My Introduction’",
-      "link": "https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento",
-      "pubDate": "Fri, 21 Aug 2026 16:46:00 GMT",
-      "published_at": "2026-08-21T16:46:00+00:00",
-      "description": "Matched Against One Of The Lightweight Division’s True Warriors, MarQuel Mederos Plans On Alerting The World To His Own Destructive Talents At UFC Sacramento.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082026-marquel-mederos-hand-raise_GettyImages-2219094529.jpg?itok=0AiXwFXz",
       "category": "UFC",
       "source": "UFC"
     }

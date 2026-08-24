@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:47:52 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | Dana White's Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</guid>
+      <pubDate>Mon, 24 Aug 2026 17:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM" alt="Official Weigh-In Results | Dana White's Contender Series, Season 10" /></p>
+<p>The Official Weights Of The Athletes Competing For UFC Contracts In 2026</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Week 3 Preview | Dana White’s Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-wint-hand-raise_GettyImages-2290093419.jpg?itok=x2qmxLbW" alt="Anthony Wint Has Arrived" /></p>
 <p>Contender Series Grad Talks Quick Turnaround, Influence Of Those Around Him</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>MarQuel Mederos | 'Welcome To My Introduction’</title>
-      <link>https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/marquel-mederos-welcome-to-my-introduction-ufc-sacramento</guid>
-      <pubDate>Fri, 21 Aug 2026 16:46:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082026-marquel-mederos-hand-raise_GettyImages-2219094529.jpg?itok=0AiXwFXz" alt="MarQuel Mederos | 'Welcome To My Introduction’" /></p>
-<p>Matched Against One Of The Lightweight Division’s True Warriors, MarQuel Mederos Plans On Alerting The World To His Own Destructive Talents At UFC Sacramento.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
