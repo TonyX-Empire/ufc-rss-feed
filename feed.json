@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-24T18:51:13.110593+00:00",
+  "last_build_date": "2026-08-24T21:36:25.284914+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Sacramento Return, Former Fighters As Officials, Anthony Wint’s Debut + More",
+      "link": "https://www.ufc.com/news/dana-white-sacramento-return-former-fighters-officials-anthony-wints-debut-more",
+      "guid": "https://www.ufc.com/news/dana-white-sacramento-return-former-fighters-officials-anthony-wints-debut-more",
+      "pubDate": "Mon, 24 Aug 2026 20:30:00 GMT",
+      "published_at": "2026-08-24T20:30:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC Fight Night: Hernandez vs Rodrigues Post-Fight Press Conference In Sacramento.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082426-hero-dana-white.jpg?itok=ewwqn58m",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
@@ -15,6 +26,17 @@
       "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Two Championship-Style Trucks from Ram, UFC, and RealTruck to Be Auctioned for Charity During Barrett-Jackson’s 2026 Las Vegas Auction",
+      "link": "https://www.ufc.com/news/two-championship-style-trucks-ram-ufc-and-realtruck-be-auctioned-charity-during-barrett",
+      "guid": "https://www.ufc.com/news/two-championship-style-trucks-ram-ufc-and-realtruck-be-auctioned-charity-during-barrett",
+      "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-24T17:00:00+00:00",
+      "description": "Dana White will step onto the auction block on Sept. 11 to help sell a one-of-one 2027 Ram 1500 Rumble Bee SRT and a 2005 Ram 1500 SRT-10 customized by RealTruck.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/2Seal-VRT-Head-to-Head-v5.jpg?itok=nYw-SRWp",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-08-22T23:49:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2291612413.jpg?itok=7eiUUfie",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Sacramento",
-      "link": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
-      "guid": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues",
-      "pubDate": "Sat, 22 Aug 2026 16:15:00 GMT",
-      "published_at": "2026-08-22T16:15:00+00:00",
-      "description": "Setting The Table For Saturday’s UFC Fight Night: Hernandez vs Rodrigues",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/UFC-Sacramento-FBF-hero.jpg?itok=O5xhyK3A",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Anthony Wint Has Arrived",
-      "link": "https://www.ufc.com/news/anthony-wint-has-arrived-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/anthony-wint-has-arrived-ufc-sacramento",
-      "pubDate": "Fri, 21 Aug 2026 17:16:00 GMT",
-      "published_at": "2026-08-21T17:16:00+00:00",
-      "description": "Contender Series Grad Talks Quick Turnaround, Influence Of Those Around Him",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/081826-anthony-wint-hand-raise_GettyImages-2290093419.jpg?itok=x2qmxLbW",
       "category": "UFC",
       "source": "UFC"
     }
