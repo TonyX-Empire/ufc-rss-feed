@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-25T15:51:17.749503+00:00",
+  "last_build_date": "2026-08-25T18:49:49.134688+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Lawrence Lui: ‘I Belong Here’",
+      "link": "https://www.ufc.com/news/lawrence-lui-i-belong-here-ufc-shanghai",
+      "guid": "https://www.ufc.com/news/lawrence-lui-i-belong-here-ufc-shanghai",
+      "pubDate": "Tue, 25 Aug 2026 18:07:00 GMT",
+      "published_at": "2026-08-25T18:07:00+00:00",
+      "description": "The Latest To Come Off The City Kickboxing Production Line, Road To UFC Season 4 Winner Lawrence Lui Is Looks To Announce Himself On The World Stage",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082526-hero-lawrence-lui_GettyImages-2259296745.jpg?itok=3R7FUwHa",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "George Mangos | One Down, Two To Go",
+      "link": "https://www.ufc.com/news/george-mangos-one-down-two-to-go-road-to-ufc",
+      "guid": "https://www.ufc.com/news/george-mangos-one-down-two-to-go-road-to-ufc",
+      "pubDate": "Tue, 25 Aug 2026 17:35:00 GMT",
+      "published_at": "2026-08-25T17:35:00+00:00",
+      "description": "Australian Expecting More From Himself As Road To UFC Rolls On In Shanghai",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082526-hero-george-mangos_GettyImages-2278610952.jpg?itok=k3uX-r2P",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 11: Musumeci vs Mitchell Fight Card",
+      "link": "https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-fight-card",
+      "guid": "https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-fight-card",
+      "pubDate": "Tue, 25 Aug 2026 16:47:00 GMT",
+      "published_at": "2026-08-25T16:47:00+00:00",
+      "description": "UFC BJJ 11: Musumeci vs Mitchell is live on Thursday, September 24th, starting at 5 PM PT / 8 PM ET streaming LIVE on the UFC BJJ YouTube channel",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-05/052126-Mikey-Musumeci-Reacts-GettyImages-2277582757-2.jpg?itok=TnW-EnAf",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
     {
       "title": "Fighters on the Rise | UFC Shanghai",
       "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-shanghai-bilal-hasan-namsrai-batbayar-rei-tsuruya",
@@ -40,17 +73,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
-      "published_at": "2026-08-24T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
       "title": "Two Championship-Style Trucks from Ram, UFC, and RealTruck to Be Auctioned for Charity During Barrett-Jackson’s 2026 Las Vegas Auction",
       "link": "https://www.ufc.com/news/two-championship-style-trucks-ram-ufc-and-realtruck-be-auctioned-charity-during-barrett",
       "guid": "https://www.ufc.com/news/two-championship-style-trucks-ram-ufc-and-realtruck-be-auctioned-charity-during-barrett",
@@ -62,6 +84,17 @@
       "source": "UFC"
     },
     {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-24T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Week 3 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10",
       "guid": "https://www.ufc.com/news/week-3-preview-dana-whites-contender-series-season-10",
@@ -70,39 +103,6 @@
       "description": "Outlining The Matchup Set To Take Place Tuesday At Meta APEX",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/00%20-%20Backstage-2024-08-13_CU-0022_resized.JPG?itok=C-4uxppE",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Sacramento",
-      "link": "https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-sacramento-hernandez-vs-rodrigues",
-      "pubDate": "Sun, 23 Aug 2026 21:00:00 GMT",
-      "published_at": "2026-08-23T21:00:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Hernandez vs Rodrigues on August 22, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082326-marquel-mederos-hand-raise_GettyImages-2291620223.jpg?itok=slb-4TyN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Sacramento",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-sacramento",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-sacramento",
-      "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
-      "published_at": "2026-08-23T04:01:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus August 22, 2026 At Golden 1 Center For UFC Fight Night: Hernandez vs Rodrigues",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1.gif?itok=cik-X_m4",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Sacramento",
-      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results",
-      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-results",
-      "pubDate": "Sun, 23 Aug 2026 03:05:00 GMT",
-      "published_at": "2026-08-23T03:05:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-ufc-fight-night-herndandez-vs-rodrigues-EVENT-ART.jpg?itok=keBEvu7L",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
