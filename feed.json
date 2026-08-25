@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-24T21:36:25.284914+00:00",
+  "last_build_date": "2026-08-25T01:44:12.935649+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters on the Rise | UFC Shanghai",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-shanghai-bilal-hasan-namsrai-batbayar-rei-tsuruya",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-shanghai-bilal-hasan-namsrai-batbayar-rei-tsuruya",
+      "pubDate": "Mon, 24 Aug 2026 22:42:00 GMT",
+      "published_at": "2026-08-24T22:42:00+00:00",
+      "description": "Three Fresh-Faced Flyweights Step Into The Spotlight As UFC Returns To Shanghai For UFC Fight Night: Nurmagomedov vs Song",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082426-ufc-shanghai-fotr-bilal-hissan_GettyImages-2290095643.jpg?itok=4_otjALM",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Shanghai",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-shanghai-umar-nurmagomedov-vs-song-yadong",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-shanghai-umar-nurmagomedov-vs-song-yadong",
+      "pubDate": "Mon, 24 Aug 2026 21:44:00 GMT",
+      "published_at": "2026-08-24T21:44:00+00:00",
+      "description": "Setting The Table For Saturday’s Early Morning Action In Shanghai",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082426-hero-umar-nurmagomedov_GettyImages-2258027628.jpg?itok=rw675LmI",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Dana White On Sacramento Return, Former Fighters As Officials, Anthony Wint’s Debut + More",
       "link": "https://www.ufc.com/news/dana-white-sacramento-return-former-fighters-officials-anthony-wints-debut-more",
@@ -80,28 +102,6 @@
       "published_at": "2026-08-23T03:05:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082226-ufc-fight-night-herndandez-vs-rodrigues-EVENT-ART.jpg?itok=keBEvu7L",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Sacramento",
-      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-official-scorecards",
-      "pubDate": "Sun, 23 Aug 2026 03:02:00 GMT",
-      "published_at": "2026-08-23T03:02:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento, California On Saturday, August 22, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-04/091023-Bruce-Buffer-Announcement-THUMB-GettyImages-1670605253.jpg?itok=sE3jvmy2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Sacramento",
-      "link": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-sacramento-hernandez-vs-rodrigues-prelim-results",
-      "pubDate": "Sat, 22 Aug 2026 23:49:00 GMT",
-      "published_at": "2026-08-22T23:49:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Hernandez vs Rodrigues, Live From Sacramento On Saturday, August 22, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2291612413.jpg?itok=7eiUUfie",
       "category": "UFC",
       "source": "UFC"
     }
