@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-26T16:24:17.091823+00:00",
+  "last_build_date": "2026-08-26T19:55:27.864595+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Contender Series Season 10, Week 3, Alex Apodaca, Bella Mir’s Next Move, Ronald Humphrey + More",
+      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-3-alex-apodaca-bella-mirs-next-move-ronald-humphrey",
+      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-3-alex-apodaca-bella-mirs-next-move-ronald-humphrey",
+      "pubDate": "Wed, 26 Aug 2026 17:19:00 GMT",
+      "published_at": "2026-08-26T17:19:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 3 Post-Fight Press Conference In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-dana-white_GettyImages-2292060485.jpg?itok=Dj17FT-Q",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Jack Jenkins | Finally Back And Ready To Break Out",
+      "link": "https://www.ufc.com/news/jack-jenkins-finally-back-and-ready-to-break-out",
+      "guid": "https://www.ufc.com/news/jack-jenkins-finally-back-and-ready-to-break-out",
+      "pubDate": "Wed, 26 Aug 2026 16:54:00 GMT",
+      "published_at": "2026-08-26T16:54:00+00:00",
+      "description": "Australian DWCS Alumnus Talks Extended Layoff, Charitable Efforts, Facing Sean Woodson",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-jack-jenkins_GettyImages-2236878196.jpg?itok=uQ6n82JF",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Denise Gomes | The Tip Of The Iceberg",
       "link": "https://www.ufc.com/news/denise-gomes-the-tip-of-the-iceberg-ufc-shanghai",
@@ -81,28 +103,6 @@
       "description": "Longtime Fighter And Analyst Talks Making His Debut On Commentary This Weekend",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082526-hero-michael-chiesa_GettyImages-2271957788.jpg?itok=vrFJF_dy",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Takaya Suzuki | A Serious Prospect, As Unserious As They Come",
-      "link": "https://www.ufc.com/news/takaya-suzuki-a-serious-prospect-as-unserious-as-they-come-road-to-ufc",
-      "guid": "https://www.ufc.com/news/takaya-suzuki-a-serious-prospect-as-unserious-as-they-come-road-to-ufc",
-      "pubDate": "Tue, 25 Aug 2026 19:12:00 GMT",
-      "published_at": "2026-08-25T19:12:00+00:00",
-      "description": "Japanese Flyweight Prospect Joyous And Playful Ahead Of Pivotal RTU Semifinal Matchup In Shanghai",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082526-hero-takaya-suzuki_GettyImages-2278749652.jpg?itok=vf_h5Olg",
-      "category": "Road to UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Yan Xiaonan Has Her Sights Set On The Title",
-      "link": "https://www.ufc.com/news/yan-xiaonan-has-her-sights-set-on-the-title-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/yan-xiaonan-has-her-sights-set-on-the-title-ufc-shanghai",
-      "pubDate": "Tue, 25 Aug 2026 18:23:00 GMT",
-      "published_at": "2026-08-25T18:23:00+00:00",
-      "description": "Former Strawweight Title Challenger Yan Xiaonan Plans Big Performance On Home Soil To Be In Line For Another Shot At UFC Gold",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082526-hero-yan-xiaonan_GettyImages-2186472135.jpg?itok=ZAzgDFmc",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
