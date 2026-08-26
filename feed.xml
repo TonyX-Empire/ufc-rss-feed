@@ -5,8 +5,27 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:24:17 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Denise Gomes | The Tip Of The Iceberg</title>
+      <link>https://www.ufc.com/news/denise-gomes-the-tip-of-the-iceberg-ufc-shanghai</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/denise-gomes-the-tip-of-the-iceberg-ufc-shanghai</guid>
+      <pubDate>Wed, 26 Aug 2026 16:02:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082626-hero-denise-gomes_GettyImages-2292138793.jpg?itok=HPOPdRaK" alt="Denise Gomes | The Tip Of The Iceberg" /></p>
+<p>Brazilian Strawweight Contender Wants To Move Towards Title Contention By Demonstrating That She’s Much More Than Just A Striker.</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-3</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-3</guid>
+      <pubDate>Wed, 26 Aug 2026 14:24:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Week 3 Results + Scorecards | Dana White's Contender Series Season 10</title>
       <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-3-results</link>
@@ -76,26 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082526-hero-yan-xiaonan_GettyImages-2186472135.jpg?itok=ZAzgDFmc" alt="Yan Xiaonan Has Her Sights Set On The Title" /></p>
 <p>Former Strawweight Title Challenger Yan Xiaonan Plans Big Performance On Home Soil To Be In Line For Another Shot At UFC Gold</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Lawrence Lui: ‘I Belong Here’</title>
-      <link>https://www.ufc.com/news/lawrence-lui-i-belong-here-ufc-shanghai</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/lawrence-lui-i-belong-here-ufc-shanghai</guid>
-      <pubDate>Tue, 25 Aug 2026 18:07:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082526-hero-lawrence-lui_GettyImages-2259296745.jpg?itok=3R7FUwHa" alt="Lawrence Lui: ‘I Belong Here’" /></p>
-<p>The Latest To Come Off The City Kickboxing Production Line, Road To UFC Season 4 Winner Lawrence Lui Is Looks To Announce Himself On The World Stage</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>George Mangos | One Down, Two To Go</title>
-      <link>https://www.ufc.com/news/george-mangos-one-down-two-to-go-road-to-ufc</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/george-mangos-one-down-two-to-go-road-to-ufc</guid>
-      <pubDate>Tue, 25 Aug 2026 17:35:00 GMT</pubDate>
-      <category>Road to UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/082526-hero-george-mangos_GettyImages-2278610952.jpg?itok=k3uX-r2P" alt="George Mangos | One Down, Two To Go" /></p>
-<p>Australian Expecting More From Himself As Road To UFC Rolls On In Shanghai</p>
-<p>Category: Road to UFC</p>]]></description>
     </item>
   </channel>
 </rss>
