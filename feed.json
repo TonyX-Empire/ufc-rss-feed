@@ -3,17 +3,17 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-27T00:38:08.794010+00:00",
+  "last_build_date": "2026-08-27T14:03:40.922665+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Official Weigh-In Results | Road To UFC Season 5, Semifinals",
       "link": "https://www.ufc.com/news/official-weigh-results-road-ufc-season-5-semifinals",
       "guid": "https://www.ufc.com/news/official-weigh-results-road-ufc-season-5-semifinals",
-      "pubDate": "Thu, 27 Aug 2026 00:00:00 GMT",
-      "published_at": "2026-08-27T00:00:00+00:00",
+      "pubDate": "Thu, 27 Aug 2026 01:05:00 GMT",
+      "published_at": "2026-08-27T01:05:00+00:00",
       "description": "Official Weights Of The Athletes Competing Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/GettyImages-2278532888.jpg?itok=vY166DyT",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2278532888.jpg?itok=vY166DyT",
       "category": "Road to UFC",
       "source": "UFC"
     },
@@ -35,7 +35,7 @@
       "pubDate": "Wed, 26 Aug 2026 22:01:00 GMT",
       "published_at": "2026-08-26T22:01:00+00:00",
       "description": "Undefeated Featherweight Prospect Tommy McMillen Is Making A Habit Of Entertaining Fight Fans And Enjoying The Fruits Of His Labor",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082626-hero-tommy-mcmillen.jpg?itok=iC3gQlet",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-tommy-mcmillen.jpg?itok=iC3gQlet",
       "category": "News",
       "source": "UFC"
     },
