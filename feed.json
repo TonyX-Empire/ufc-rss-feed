@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-28T00:21:10.717004+00:00",
+  "last_build_date": "2026-08-28T15:14:48.719925+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Road To UFC Results | Season 5, Semifinals",
+      "link": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results",
+      "guid": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results",
+      "pubDate": "Fri, 28 Aug 2026 12:56:00 GMT",
+      "published_at": "2026-08-28T12:56:00+00:00",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Road To UFC Season 5 Semifinals, Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2292435530.jpg?itok=y7dv7RCu",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch The Semifinals Of Road To UFC Season 5",
+      "link": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
+      "guid": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
+      "pubDate": "Fri, 28 Aug 2026 09:00:00 GMT",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "description": "Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament",
+      "image": "https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_",
+      "category": "Road to UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC Shanghai",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night",
+      "pubDate": "Fri, 28 Aug 2026 01:49:00 GMT",
+      "published_at": "2026-08-28T01:49:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing August 29 At UFC Fight Night: Nurmagomedov vs Song In China",
+      "image": "https://ufc.com/images/styles/card/s3/2023-01/GettyImages-1379657376.jpg?itok=C38Zjbca",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Song Yadong Seeking Another Massive Moment in Shanghai",
       "link": "https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai",
@@ -35,7 +68,7 @@
       "pubDate": "Thu, 27 Aug 2026 01:05:00 GMT",
       "published_at": "2026-08-27T01:05:00+00:00",
       "description": "Official Weights Of The Athletes Competing Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2278532888.jpg?itok=vY166DyT",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2292232971%20%281%29.jpg?itok=C2FvY65t",
       "category": "Road to UFC",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Undefeated Featherweight Prospect Tommy McMillen Is Making A Habit Of Entertaining Fight Fans And Enjoying The Fruits Of His Labor",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-tommy-mcmillen.jpg?itok=iC3gQlet",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Contender Series Season 10, Week 3, Alex Apodaca, Bella Mir’s Next Move, Ronald Humphrey + More",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-3-alex-apodaca-bella-mirs-next-move-ronald-humphrey",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-3-alex-apodaca-bella-mirs-next-move-ronald-humphrey",
-      "pubDate": "Wed, 26 Aug 2026 17:19:00 GMT",
-      "published_at": "2026-08-26T17:19:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 3 Post-Fight Press Conference In Las Vegas",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/DWCS-week-3-winners-Dana.jpg?itok=AqXioDK8",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Jack Jenkins | Finally Back And Ready To Break Out",
-      "link": "https://www.ufc.com/news/jack-jenkins-finally-back-and-ready-to-break-out",
-      "guid": "https://www.ufc.com/news/jack-jenkins-finally-back-and-ready-to-break-out",
-      "pubDate": "Wed, 26 Aug 2026 16:54:00 GMT",
-      "published_at": "2026-08-26T16:54:00+00:00",
-      "description": "Australian DWCS Alumnus Talks Extended Layoff, Charitable Efforts, Facing Sean Woodson",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-jack-jenkins_GettyImages-2236878196.jpg?itok=uQ6n82JF",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Denise Gomes | The Tip Of The Iceberg",
-      "link": "https://www.ufc.com/news/denise-gomes-the-tip-of-the-iceberg-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/denise-gomes-the-tip-of-the-iceberg-ufc-shanghai",
-      "pubDate": "Wed, 26 Aug 2026 16:02:00 GMT",
-      "published_at": "2026-08-26T16:02:00+00:00",
-      "description": "Brazilian Strawweight Contender Wants To Move Towards Title Contention By Demonstrating That She’s Much More Than Just A Striker.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-denise-gomes_GettyImages-2292138793.jpg?itok=HPOPdRaK",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
