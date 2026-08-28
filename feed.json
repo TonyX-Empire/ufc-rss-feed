@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-27T14:03:40.922665+00:00",
+  "last_build_date": "2026-08-28T00:21:10.717004+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Song Yadong Seeking Another Massive Moment in Shanghai",
+      "link": "https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai",
+      "guid": "https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai",
+      "pubDate": "Thu, 27 Aug 2026 19:32:00 GMT",
+      "published_at": "2026-08-27T19:32:00+00:00",
+      "description": "China's Song Yadong Aims To Make Title Case By Beating Nurmagomedov On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-song-yadong_GettyImages-2278919155.jpg?itok=hMJu0dT4",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Umar Nurmagomedov | Staying Active, Handling Business",
+      "link": "https://www.ufc.com/news/umar-nurmagomedov-staying-active-handling-business-ufc-shanghai",
+      "guid": "https://www.ufc.com/news/umar-nurmagomedov-staying-active-handling-business-ufc-shanghai",
+      "pubDate": "Thu, 27 Aug 2026 19:10:00 GMT",
+      "published_at": "2026-08-27T19:10:00+00:00",
+      "description": "Bantamweight Standout Umar Nurmagomedov Talks Title Aspirations, Tough Pairing With Song Yadong At UFC Shanghai",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-umar-nurmagomedov_GettyImages-2292137772.jpg?itok=v5sViO6r",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Road To UFC Season 5, Semifinals",
       "link": "https://www.ufc.com/news/official-weigh-results-road-ufc-season-5-semifinals",
@@ -18,13 +40,24 @@
       "source": "UFC"
     },
     {
+      "title": "Jose Miguel Delgado | From Yuma, With Love",
+      "link": "https://www.ufc.com/news/jose-miguel-delgado-from-yuma-with-love-noche-ufc",
+      "guid": "https://www.ufc.com/news/jose-miguel-delgado-from-yuma-with-love-noche-ufc",
+      "pubDate": "Wed, 26 Aug 2026 22:34:00 GMT",
+      "published_at": "2026-08-26T22:34:00+00:00",
+      "description": "Stepping In For A Short-Notice Main Event, Arizona’s Jose Miguel Delgado Hopes To Take The Next Step Toward His Ultimate Goals At Noche UFC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-jose-miguel-delgado.jpg?itok=quraTw1y",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Rei Tsuruya | Prospect Rising",
       "link": "https://www.ufc.com/news/rei-tsuruya-prospect-rising-ufc-shanghai",
       "guid": "https://www.ufc.com/news/rei-tsuruya-prospect-rising-ufc-shanghai",
       "pubDate": "Wed, 26 Aug 2026 22:23:00 GMT",
       "published_at": "2026-08-26T22:23:00+00:00",
       "description": "Japan’s Surging Rei Tsuruya Makes Quick Return With UFC Flyweight Rankings in Sight",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082626-hero-rei-tsuruya_GettyImages-2278892529.jpg?itok=1NblPNmT",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-rei-tsuruya_GettyImages-2278892529.jpg?itok=1NblPNmT",
       "category": "UFC",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-08-26T16:02:00+00:00",
       "description": "Brazilian Strawweight Contender Wants To Move Towards Title Contention By Demonstrating That She’s Much More Than Just A Striker.",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-denise-gomes_GettyImages-2292138793.jpg?itok=HPOPdRaK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-3",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-3",
-      "pubDate": "Wed, 26 Aug 2026 14:24:00 GMT",
-      "published_at": "2026-08-26T14:24:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 3 Results + Scorecards | Dana White's Contender Series Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-3-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-3-results",
-      "pubDate": "Wed, 26 Aug 2026 02:00:00 GMT",
-      "published_at": "2026-08-26T02:00:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 3 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On August 25",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/250826-ronald-humphrey-br-GettyImages-2292051691.jpg?itok=2wUCP5Lu",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Kai Asakura | Location, Location, Location",
-      "link": "https://www.ufc.com/news/kai-asakura-ready-to-thrive-in-bantamweight-division-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/kai-asakura-ready-to-thrive-in-bantamweight-division-ufc-shanghai",
-      "pubDate": "Tue, 25 Aug 2026 22:23:00 GMT",
-      "published_at": "2026-08-25T22:23:00+00:00",
-      "description": "Having Switched To The Bantamweight Division, Japanese Superstar Kai Asakura Is Ready To Thrive In UFC, Starting at UFC Shanghai",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082526-HERO-ufc-shanghai-kai-asakura_GettyImages-2278907662.jpg.jpg?itok=QlRs6S2c",
       "category": "UFC",
       "source": "UFC"
     }
