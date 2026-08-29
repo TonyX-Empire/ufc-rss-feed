@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-28T15:14:48.719925+00:00",
+  "last_build_date": "2026-08-29T01:42:49.112009+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Shanghai",
+      "link": "https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song",
+      "guid": "https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song",
+      "pubDate": "Sat, 29 Aug 2026 10:00:00 GMT",
+      "published_at": "2026-08-29T10:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082926-ufc-fight-night-nurmagomedov-vs-song-EVENT-ART.jpg?itok=cCXqAT6q",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Shanghai",
+      "link": "https://www.ufc.com/news/ufc-shanghai-official-scorecards-nurmagomedov-vs-song",
+      "guid": "https://www.ufc.com/news/ufc-shanghai-official-scorecards-nurmagomedov-vs-song",
+      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "published_at": "2026-08-29T07:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-joe-martinez_GettyImages-2220165427.jpg?itok=l1pzvWy6",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Shanghai",
+      "link": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
+      "guid": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
+      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "published_at": "2026-08-29T07:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-Genera-View-Octagon-GettyImages-2292404876.jpg?itok=zayyiRSC",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 4 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-4-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-4-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 28 Aug 2026 16:56:00 GMT",
+      "published_at": "2026-08-28T16:56:00+00:00",
+      "description": "Dana White’s Contender Series Season 10 Episode 4 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-hero-dwcs-generic_GettyImages-2205265695.jpg?itok=v0ZEWyrh",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Road To UFC Results | Season 5, Semifinals",
       "link": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results",
@@ -59,50 +103,6 @@
       "description": "Bantamweight Standout Umar Nurmagomedov Talks Title Aspirations, Tough Pairing With Song Yadong At UFC Shanghai",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-umar-nurmagomedov_GettyImages-2292137772.jpg?itok=v5sViO6r",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Road To UFC Season 5, Semifinals",
-      "link": "https://www.ufc.com/news/official-weigh-results-road-ufc-season-5-semifinals",
-      "guid": "https://www.ufc.com/news/official-weigh-results-road-ufc-season-5-semifinals",
-      "pubDate": "Thu, 27 Aug 2026 01:05:00 GMT",
-      "published_at": "2026-08-27T01:05:00+00:00",
-      "description": "Official Weights Of The Athletes Competing Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2292232971%20%281%29.jpg?itok=C2FvY65t",
-      "category": "Road to UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jose Miguel Delgado | From Yuma, With Love",
-      "link": "https://www.ufc.com/news/jose-miguel-delgado-from-yuma-with-love-noche-ufc",
-      "guid": "https://www.ufc.com/news/jose-miguel-delgado-from-yuma-with-love-noche-ufc",
-      "pubDate": "Wed, 26 Aug 2026 22:34:00 GMT",
-      "published_at": "2026-08-26T22:34:00+00:00",
-      "description": "Stepping In For A Short-Notice Main Event, Arizona’s Jose Miguel Delgado Hopes To Take The Next Step Toward His Ultimate Goals At Noche UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-jose-miguel-delgado.jpg?itok=quraTw1y",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Rei Tsuruya | Prospect Rising",
-      "link": "https://www.ufc.com/news/rei-tsuruya-prospect-rising-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/rei-tsuruya-prospect-rising-ufc-shanghai",
-      "pubDate": "Wed, 26 Aug 2026 22:23:00 GMT",
-      "published_at": "2026-08-26T22:23:00+00:00",
-      "description": "Japan’s Surging Rei Tsuruya Makes Quick Return With UFC Flyweight Rankings in Sight",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-rei-tsuruya_GettyImages-2278892529.jpg?itok=1NblPNmT",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "There’s No Party Like A Tommy McMillen Party",
-      "link": "https://www.ufc.com/news/theres-no-party-like-a-tommy-mcmillen-party-noche-ufc",
-      "guid": "https://www.ufc.com/news/theres-no-party-like-a-tommy-mcmillen-party-noche-ufc",
-      "pubDate": "Wed, 26 Aug 2026 22:01:00 GMT",
-      "published_at": "2026-08-26T22:01:00+00:00",
-      "description": "Undefeated Featherweight Prospect Tommy McMillen Is Making A Habit Of Entertaining Fight Fans And Enjoying The Fruits Of His Labor",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082626-hero-tommy-mcmillen.jpg?itok=iC3gQlet",
-      "category": "News",
       "source": "UFC"
     }
   ]
