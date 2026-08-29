@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-29T09:57:00.677864+00:00",
+  "last_build_date": "2026-08-29T16:38:54.195631+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Shanghai",
+      "link": "https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage",
+      "pubDate": "Sat, 29 Aug 2026 14:00:00 GMT",
+      "published_at": "2026-08-29T14:00:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Shanghai Oriental Sports Center On August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1_0.gif?itok=WTF1znlJ",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Shanghai",
+      "link": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
+      "guid": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
+      "pubDate": "Sat, 29 Aug 2026 12:00:00 GMT",
+      "published_at": "2026-08-29T12:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-Genera-View-Octagon-GettyImages-2292404876.jpg?itok=zayyiRSC",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Shanghai",
       "link": "https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song",
@@ -25,17 +47,6 @@
       "published_at": "2026-08-29T07:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-joe-martinez_GettyImages-2220165427.jpg?itok=l1pzvWy6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Shanghai",
-      "link": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
-      "guid": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
-      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "published_at": "2026-08-29T07:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-Genera-View-Octagon-GettyImages-2292404876.jpg?itok=zayyiRSC",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-08-27T19:32:00+00:00",
       "description": "China's Song Yadong Aims To Make Title Case By Beating Nurmagomedov On Saturday",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-song-yadong_GettyImages-2278919155.jpg?itok=hMJu0dT4",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Umar Nurmagomedov | Staying Active, Handling Business",
-      "link": "https://www.ufc.com/news/umar-nurmagomedov-staying-active-handling-business-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/umar-nurmagomedov-staying-active-handling-business-ufc-shanghai",
-      "pubDate": "Thu, 27 Aug 2026 19:10:00 GMT",
-      "published_at": "2026-08-27T19:10:00+00:00",
-      "description": "Bantamweight Standout Umar Nurmagomedov Talks Title Aspirations, Tough Pairing With Song Yadong At UFC Shanghai",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-umar-nurmagomedov_GettyImages-2292137772.jpg?itok=v5sViO6r",
       "category": "UFC",
       "source": "UFC"
     }
