@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:56:18 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 4 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 30 Aug 2026 20:21:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/083026-hero-dwcs-season-10-sp-4-preview_GettyImages-2292055598.jpg?itok=fVgmYncY" alt="Week 4 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Taking A Look At The Contests Hitting The Octagon This Week At Meta APEX</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>The Scorecard | UFC Shanghai</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-shanghai</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-shanghai</guid>
+      <pubDate>Sun, 30 Aug 2026 19:29:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/8292026-Song-Yadong-UFC-Shanghai-GettyImages-2292564691.jpeg?itok=zjPK3Kcz" alt="The Scorecard | UFC Shanghai" /></p>
+<p>Highlighting the biggest winners from UFC Fight Night: Nurmagomedov vs Song in Shanghai, China, on August 29, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Shanghai</title>
       <link>https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_" alt="How To Watch The Semifinals Of Road To UFC Season 5" /></p>
 <p>Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament</p>
 <p>Category: Road to UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Shanghai</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night</guid>
-      <pubDate>Fri, 28 Aug 2026 01:49:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2023-01/GettyImages-1379657376.jpg?itok=C38Zjbca" alt="Official Weigh-In Results | UFC Shanghai" /></p>
-<p>The Official Weights Of The Athletes Competing August 29 At UFC Fight Night: Nurmagomedov vs Song In China</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Song Yadong Seeking Another Massive Moment in Shanghai</title>
-      <link>https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai</guid>
-      <pubDate>Thu, 27 Aug 2026 19:32:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082726-hero-song-yadong_GettyImages-2278919155.jpg?itok=hMJu0dT4" alt="Song Yadong Seeking Another Massive Moment in Shanghai" /></p>
-<p>China's Song Yadong Aims To Make Title Case By Beating Nurmagomedov On Saturday</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

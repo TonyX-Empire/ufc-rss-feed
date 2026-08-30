@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-30T16:34:26.272065+00:00",
+  "last_build_date": "2026-08-30T20:56:18.084445+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 4 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 30 Aug 2026 20:21:00 GMT",
+      "published_at": "2026-08-30T20:21:00+00:00",
+      "description": "Taking A Look At The Contests Hitting The Octagon This Week At Meta APEX",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/083026-hero-dwcs-season-10-sp-4-preview_GettyImages-2292055598.jpg?itok=fVgmYncY",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Shanghai",
+      "link": "https://www.ufc.com/news/scorecard-ufc-shanghai",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-shanghai",
+      "pubDate": "Sun, 30 Aug 2026 19:29:00 GMT",
+      "published_at": "2026-08-30T19:29:00+00:00",
+      "description": "Highlighting the biggest winners from UFC Fight Night: Nurmagomedov vs Song in Shanghai, China, on August 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/8292026-Song-Yadong-UFC-Shanghai-GettyImages-2292564691.jpeg?itok=zjPK3Kcz",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Shanghai",
       "link": "https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage",
@@ -81,28 +103,6 @@
       "description": "Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament",
       "image": "https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_",
       "category": "Road to UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Shanghai",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-shanghai-nurmagomedov-song-fight-night",
-      "pubDate": "Fri, 28 Aug 2026 01:49:00 GMT",
-      "published_at": "2026-08-28T01:49:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing August 29 At UFC Fight Night: Nurmagomedov vs Song In China",
-      "image": "https://ufc.com/images/styles/card/s3/2023-01/GettyImages-1379657376.jpg?itok=C38Zjbca",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Song Yadong Seeking Another Massive Moment in Shanghai",
-      "link": "https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/song-yadong-seeking-another-massive-moment-ufc-shanghai",
-      "pubDate": "Thu, 27 Aug 2026 19:32:00 GMT",
-      "published_at": "2026-08-27T19:32:00+00:00",
-      "description": "China's Song Yadong Aims To Make Title Case By Beating Nurmagomedov On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-song-yadong_GettyImages-2278919155.jpg?itok=hMJu0dT4",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
