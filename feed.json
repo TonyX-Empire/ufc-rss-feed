@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-31T13:29:18.116880+00:00",
+  "last_build_date": "2026-08-31T20:45:15.994485+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 4 Results + Scorecards | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-4-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-4-results",
+      "pubDate": "Tue, 01 Sep 2026 23:00:00 GMT",
+      "published_at": "2026-09-01T23:00:00+00:00",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 4 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 1, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Daniil Donchenko Got His Wish",
+      "link": "https://www.ufc.com/news/daniil-donchenko-got-his-wish-ufc-paris",
+      "guid": "https://www.ufc.com/news/daniil-donchenko-got-his-wish-ufc-paris",
+      "pubDate": "Mon, 31 Aug 2026 18:33:00 GMT",
+      "published_at": "2026-08-31T18:33:00+00:00",
+      "description": "The Ultimate Fighter Season 33 Welterweight Winner Asked To Fight In Paris, And Now He's Gearing Up To Face Punahele Soriano In UFC's Return To Accor Arena On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/062726-Daniil-Donchenko-Reacts-HERO-GettyImages-2283568972.jpg?itok=SvSPjo77",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 31 Aug 2026 17:00:00 GMT",
+      "published_at": "2026-08-31T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | UFC Paris",
       "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse",
@@ -70,39 +103,6 @@
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/082926-ufc-fight-night-nurmagomedov-vs-song-EVENT-ART.jpg?itok=cCXqAT6q",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Shanghai",
-      "link": "https://www.ufc.com/news/ufc-shanghai-official-scorecards-nurmagomedov-vs-song",
-      "guid": "https://www.ufc.com/news/ufc-shanghai-official-scorecards-nurmagomedov-vs-song",
-      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "published_at": "2026-08-29T07:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082726-hero-joe-martinez_GettyImages-2220165427.jpg?itok=l1pzvWy6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "DWCS Season 10 Episode 4 Preview: Athletes, Bouts, Start Times, Streaming",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-4-preview-athletes-bouts-start-times-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-4-preview-athletes-bouts-start-times-streaming",
-      "pubDate": "Fri, 28 Aug 2026 16:56:00 GMT",
-      "published_at": "2026-08-28T16:56:00+00:00",
-      "description": "Dana White’s Contender Series Season 10 Episode 4 Preview: Athletes, Bouts, Start Times, Streaming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-hero-dwcs-generic_GettyImages-2205265695.jpg?itok=v0ZEWyrh",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Road To UFC Results | Season 5, Semifinals",
-      "link": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results",
-      "guid": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results",
-      "pubDate": "Fri, 28 Aug 2026 12:56:00 GMT",
-      "published_at": "2026-08-28T12:56:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Road To UFC Season 5 Semifinals, Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2292435530.jpg?itok=y7dv7RCu",
-      "category": "Road to UFC",
       "source": "UFC"
     }
   ]
