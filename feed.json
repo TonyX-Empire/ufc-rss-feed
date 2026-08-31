@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-08-31T05:18:13.496772+00:00",
+  "last_build_date": "2026-08-31T13:29:18.116880+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Paris",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse",
+      "pubDate": "Mon, 31 Aug 2026 05:44:00 GMT",
+      "published_at": "2026-08-31T05:44:00+00:00",
+      "description": "Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/083126-hero-dan-hooker_GettyImages-2259322740.jpg?itok=0cbYA-if",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 4 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10",
@@ -91,17 +102,6 @@
       "published_at": "2026-08-28T12:56:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Road To UFC Season 5 Semifinals, Live From Oriental Sports Center In Shanghai, China On August 28, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/GettyImages-2292435530.jpg?itok=y7dv7RCu",
-      "category": "Road to UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch The Semifinals Of Road To UFC Season 5",
-      "link": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
-      "guid": "https://www.ufc.com/news/how-to-watch-road-to-ufc-season-5-opening-rounds",
-      "pubDate": "Fri, 28 Aug 2026 09:00:00 GMT",
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "description": "Find Out Where You Can Watch Asia Pacific's Top MMA Talent Collide For Another Season Of The Road To UFC Tournament",
-      "image": "https://ufc.com/images/styles/card/s3/2026-05/052325-RTU-Octagon-HERO-GettyImages-2216423582.jpg?itok=GD0ybKo_",
       "category": "Road to UFC",
       "source": "UFC"
     }
