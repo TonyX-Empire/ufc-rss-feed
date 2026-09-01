@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-01T08:32:34.852706+00:00",
+  "last_build_date": "2026-09-01T14:05:33.988419+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,28 @@
       "published_at": "2026-09-01T23:00:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 4 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Paris",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto",
+      "pubDate": "Tue, 01 Sep 2026 10:36:00 GMT",
+      "published_at": "2026-09-01T10:36:00+00:00",
+      "description": "Shining A Spotlight On Three Athletes Set To Shine On Saturday In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hero-nursulton-ruziboev_GettyImages-2283574277.jpg?itok=iZfaf9nm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Monthly Report | August 2026",
+      "link": "https://www.ufc.com/news/monthly-report-august-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-august-2026",
+      "pubDate": "Tue, 01 Sep 2026 10:00:00 GMT",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090126-hero-julia-polastri_GettyImages-2292534788.jpg?itok=oRDcEHS6",
       "category": "News",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "The Performances Awarded An Extra Bonus At Shanghai Oriental Sports Center On August 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1_0.gif?itok=WTF1znlJ",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Shanghai",
-      "link": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
-      "guid": "https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song",
-      "pubDate": "Sat, 29 Aug 2026 12:00:00 GMT",
-      "published_at": "2026-08-29T12:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082826-Genera-View-Octagon-GettyImages-2292404876.jpg?itok=zayyiRSC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Shanghai",
-      "link": "https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song",
-      "guid": "https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song",
-      "pubDate": "Sat, 29 Aug 2026 10:00:00 GMT",
-      "published_at": "2026-08-29T10:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082926-ufc-fight-night-nurmagomedov-vs-song-EVENT-ART.jpg?itok=cCXqAT6q",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:32:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:05:33 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 4 Results + Scorecards | Dana White's Contender Series, Season 10</title>
@@ -15,6 +15,26 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ" alt="Week 4 Results + Scorecards | Dana White's Contender Series, Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 4 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 1, 2026</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>Fighters on the Rise | UFC Paris</title>
+      <link>https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto</guid>
+      <pubDate>Tue, 01 Sep 2026 10:36:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-hero-nursulton-ruziboev_GettyImages-2283574277.jpg?itok=iZfaf9nm" alt="Fighters on the Rise | UFC Paris" /></p>
+<p>Shining A Spotlight On Three Athletes Set To Shine On Saturday In Paris</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Monthly Report | August 2026</title>
+      <link>https://www.ufc.com/news/monthly-report-august-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/monthly-report-august-2026</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090126-hero-julia-polastri_GettyImages-2292534788.jpg?itok=oRDcEHS6" alt="Monthly Report | August 2026" /></p>
+<p>Highlighting The Standout Action From Inside The Octagon Over The Previous Month</p>
 <p>Category: News</p>]]></description>
     </item>
     <item>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1_0.gif?itok=WTF1znlJ" alt="Bonus Coverage | UFC Shanghai" /></p>
 <p>The Performances Awarded An Extra Bonus At Shanghai Oriental Sports Center On August 29, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Prelim Results | UFC Shanghai</title>
-      <link>https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-shanghai-prelim-results-nurmagomedov-vs-song</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082826-Genera-View-Octagon-GettyImages-2292404876.jpg?itok=zayyiRSC" alt="Prelim Results | UFC Shanghai" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Main Card Results | UFC Shanghai</title>
-      <link>https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-shanghai-results-nurmagomedov-vs-song</guid>
-      <pubDate>Sat, 29 Aug 2026 10:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082926-ufc-fight-night-nurmagomedov-vs-song-EVENT-ART.jpg?itok=cCXqAT6q" alt="Main Card Results | UFC Shanghai" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Nurmagomedov vs Song, Live From Shanghai On Saturday, August 29, 2026</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
