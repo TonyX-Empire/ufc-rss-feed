@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:13:30 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 4 Results + Scorecards | Dana White's Contender Series, Season 10</title>
@@ -18,12 +18,22 @@
 <p>Category: News</p>]]></description>
     </item>
     <item>
+      <title>Punahele Soriano | Happiest In The Background</title>
+      <link>https://www.ufc.com/news/punahele-soriano-happiest-in-the-background-ufc-paris</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/punahele-soriano-happiest-in-the-background-ufc-paris</guid>
+      <pubDate>Tue, 01 Sep 2026 18:58:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-punahele-soriano-celebration_GettyImages-2262870763.jpg?itok=kEckZyzQ" alt="Punahele Soriano | Happiest In The Background" /></p>
+<p>Streaking Welterweight Talks Winning Streak, Enjoying Being Under The Radar</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
       <title>The 10 | Spotlighting September’s Most Exciting Matchups</title>
       <link>https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups</link>
       <guid isPermaLink="true">https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups</guid>
       <pubDate>Tue, 01 Sep 2026 17:42:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-08/082426-tommy-mcmillen-trains-at-red-hawk-academy-12.jpg?itok=90ThQ_q7" alt="The 10 | Spotlighting September’s Most Exciting Matchups" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/082426-tommy-mcmillen-trains-at-red-hawk-academy-12.jpg?itok=90ThQ_q7" alt="The 10 | Spotlighting September’s Most Exciting Matchups" /></p>
 <p>Delivering An Advanced Look At Some Of The Top Contests Set To Hit The Octagon This Month</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM" alt="Official Weigh-In Results | Dana White's Contender Series, Season 10" /></p>
 <p>The Official Weights Of The Athletes Competing For UFC Contracts In 2026</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC Paris</title>
-      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</guid>
-      <pubDate>Mon, 31 Aug 2026 05:44:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/083126-hero-dan-hooker_GettyImages-2259322740.jpg?itok=0cbYA-if" alt="Fight By Fight Preview | UFC Paris" /></p>
-<p>Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
