@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-01T14:05:33.988419+00:00",
+  "last_build_date": "2026-09-01T18:21:06.709111+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,39 @@
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 4 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 1, 2026",
       "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "The 10 | Spotlighting September’s Most Exciting Matchups",
+      "link": "https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups",
+      "guid": "https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups",
+      "pubDate": "Tue, 01 Sep 2026 17:42:00 GMT",
+      "published_at": "2026-09-01T17:42:00+00:00",
+      "description": "Delivering An Advanced Look At Some Of The Top Contests Set To Hit The Octagon This Month",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/082426-tommy-mcmillen-trains-at-red-hawk-academy-12.jpg?itok=90ThQ_q7",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Updates To UFC Paris",
+      "link": "https://www.ufc.com/news/updates-ufc-fight-night-paris-2026",
+      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-paris-2026",
+      "pubDate": "Tue, 01 Sep 2026 17:06:00 GMT",
+      "published_at": "2026-09-01T17:06:00+00:00",
+      "description": "Key Information For The UFC Fight Night: Hooker vs Parnasse Card Happening September 5 At Accor Arena",
+      "image": "https://ufc.com/images/styles/card/s3/2025-09/GettyImages-1420600233.jpg?itok=c7JKOjWk",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Venum Launches New UFC Unity Fight Week Collection",
+      "link": "https://www.ufc.com/news/venum-launches-new-ufc-unity-fight-week-collection",
+      "guid": "https://www.ufc.com/news/venum-launches-new-ufc-unity-fight-week-collection",
+      "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT",
+      "published_at": "2026-09-01T15:00:00+00:00",
+      "description": "Discover the Full Range at UFC Store!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/1920x1080-hero-thumbnail_Unity.jpg?itok=M4fZGgDP",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -35,7 +68,7 @@
       "pubDate": "Tue, 01 Sep 2026 10:00:00 GMT",
       "published_at": "2026-09-01T10:00:00+00:00",
       "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090126-hero-julia-polastri_GettyImages-2292534788.jpg?itok=oRDcEHS6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hero-julia-polastri_GettyImages-2292534788.jpg?itok=oRDcEHS6",
       "category": "News",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/083126-hero-dan-hooker_GettyImages-2259322740.jpg?itok=0cbYA-if",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 4 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-4-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Sun, 30 Aug 2026 20:21:00 GMT",
-      "published_at": "2026-08-30T20:21:00+00:00",
-      "description": "Taking A Look At The Contests Hitting The Octagon This Week At Meta APEX",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-08/083026-hero-dwcs-season-10-sp-4-preview_GettyImages-2292055598.jpg?itok=fVgmYncY",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Shanghai",
-      "link": "https://www.ufc.com/news/scorecard-ufc-shanghai",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-shanghai",
-      "pubDate": "Sun, 30 Aug 2026 19:29:00 GMT",
-      "published_at": "2026-08-30T19:29:00+00:00",
-      "description": "Highlighting the biggest winners from UFC Fight Night: Nurmagomedov vs Song in Shanghai, China, on August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/8292026-Song-Yadong-UFC-Shanghai-GettyImages-2292564691.jpeg?itok=zjPK3Kcz",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Shanghai",
-      "link": "https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-shanghai-2026-bonus-coverage",
-      "pubDate": "Sat, 29 Aug 2026 14:00:00 GMT",
-      "published_at": "2026-08-29T14:00:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Shanghai Oriental Sports Center On August 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/BrowserPreview_tmp-1_0.gif?itok=WTF1znlJ",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
