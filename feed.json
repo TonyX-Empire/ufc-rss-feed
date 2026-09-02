@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-02T16:28:06.814421+00:00",
+  "last_build_date": "2026-09-02T20:55:57.846486+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,17 +14,6 @@
       "published_at": "2026-09-05T19:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,6 +29,72 @@
       "source": "UFC"
     },
     {
+      "title": "Prelim Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White On Contender Series Season 10, Week 4, Adam Darby, Silvestre Sanchez, Gabriel Lorenco, matchmaking successes + more",
+      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-4-adam-darby-silvestre-sanchez-gabriel-lorenco",
+      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-4-adam-darby-silvestre-sanchez-gabriel-lorenco",
+      "pubDate": "Wed, 02 Sep 2026 19:24:00 GMT",
+      "published_at": "2026-09-02T19:24:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 4 Post-Fight Press Conference In Las Vegas.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-dana-white-generic_GettyImages-2290665758.jpg?itok=xplRDrXK",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Glendale’s Vast Offerings Get The Spotlight During Noche UFC Fight Week",
+      "link": "https://www.ufc.com/news/glendales-vast-offerings-get-spotlight-during-noche-ufc-fight-week",
+      "guid": "https://www.ufc.com/news/glendales-vast-offerings-get-spotlight-during-noche-ufc-fight-week",
+      "pubDate": "Wed, 02 Sep 2026 18:45:00 GMT",
+      "published_at": "2026-09-02T18:45:00+00:00",
+      "description": "Make The Most Of Your UFC Weekend By Staying In Glendale And Enjoying Everything The City Has To Offer",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/general-view-westgate-daytime.jpg?itok=qF1hvpAQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Garcia vs Benn Official Fight Card",
+      "link": "https://www.ufc.com/news/garcia-vs-benn-official-fight-card",
+      "guid": "https://www.ufc.com/news/garcia-vs-benn-official-fight-card",
+      "pubDate": "Wed, 02 Sep 2026 18:30:00 GMT",
+      "published_at": "2026-09-02T18:30:00+00:00",
+      "description": "Boxing Super Fight Lands At T-Mobile Arena Sept. 12 With Two Titles Up For Grabs",
+      "image": "",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Dan Hooker | Back On The Grind",
+      "link": "https://www.ufc.com/news/dan-hooker-back-on-the-grind-ufc-paris-lightweight",
+      "guid": "https://www.ufc.com/news/dan-hooker-back-on-the-grind-ufc-paris-lightweight",
+      "pubDate": "Wed, 02 Sep 2026 17:37:00 GMT",
+      "published_at": "2026-09-02T17:37:00+00:00",
+      "description": "Lightweight Mainstay Recommitted Ahead Of Headlining Assignment In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-dan-hooker-ufc-paris-portrait.jpg?itok=927Hux1V",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Welcome To The UFC | DWCS, Season 10, Week 4",
+      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-4",
+      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-4",
+      "pubDate": "Wed, 02 Sep 2026 16:34:00 GMT",
+      "published_at": "2026-09-02T16:34:00+00:00",
+      "description": "Five More Fighters Were Added To The UFC Roster After Another Spectacular Night On Week 4 Of Dana White’s Contender Series In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-adam-darby-reaction_GettyImages-2293087338.jpg?itok=y7r9jjqz",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Get To Know Salahdine Parnasse | UFC Paris",
       "link": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
       "guid": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
@@ -47,61 +102,6 @@
       "published_at": "2026-09-02T12:47:00+00:00",
       "description": "Learn More About French Lightweight Salahdine Parnasse Before He Makes His Anticipated Debut At UFC Fight Night: Hooker vs Parnasse In Paris",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-hero-salahdine-parnasse.jpg?itok=I1mRqP6W",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 4 Results + Scorecards | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-4-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-4-results",
-      "pubDate": "Wed, 02 Sep 2026 01:46:00 GMT",
-      "published_at": "2026-09-02T01:46:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 4 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 1, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293082933.jpg?itok=aJJIgJqn",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Punahele Soriano | Happiest In The Background",
-      "link": "https://www.ufc.com/news/punahele-soriano-happiest-in-the-background-ufc-paris",
-      "guid": "https://www.ufc.com/news/punahele-soriano-happiest-in-the-background-ufc-paris",
-      "pubDate": "Tue, 01 Sep 2026 18:58:00 GMT",
-      "published_at": "2026-09-01T18:58:00+00:00",
-      "description": "Streaking Welterweight Talks Winning Streak, Enjoying Being Under The Radar",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-punahele-soriano-celebration_GettyImages-2262870763.jpg?itok=kEckZyzQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The 10 | Spotlighting September’s Most Exciting Matchups",
-      "link": "https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups",
-      "guid": "https://www.ufc.com/news/10-spotlighting-septembers-most-exciting-matchups",
-      "pubDate": "Tue, 01 Sep 2026 17:42:00 GMT",
-      "published_at": "2026-09-01T17:42:00+00:00",
-      "description": "Delivering An Advanced Look At Some Of The Top Contests Set To Hit The Octagon This Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/082426-tommy-mcmillen-trains-at-red-hawk-academy-12.jpg?itok=90ThQ_q7",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Paris",
-      "link": "https://www.ufc.com/news/updates-ufc-fight-night-paris-2026",
-      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-paris-2026",
-      "pubDate": "Tue, 01 Sep 2026 17:06:00 GMT",
-      "published_at": "2026-09-01T17:06:00+00:00",
-      "description": "Key Information For The UFC Fight Night: Hooker vs Parnasse Card Happening September 5 At Accor Arena",
-      "image": "https://ufc.com/images/styles/card/s3/2025-09/GettyImages-1420600233.jpg?itok=c7JKOjWk",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Venum Launches New UFC Unity Fight Week Collection",
-      "link": "https://www.ufc.com/news/venum-launches-new-ufc-unity-fight-week-collection",
-      "guid": "https://www.ufc.com/news/venum-launches-new-ufc-unity-fight-week-collection",
-      "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT",
-      "published_at": "2026-09-01T15:00:00+00:00",
-      "description": "Discover the Full Range at UFC Store!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/1920x1080-hero-thumbnail_Unity.jpg?itok=M4fZGgDP",
       "category": "UFC",
       "source": "UFC"
     }
