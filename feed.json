@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-02T20:55:57.846486+00:00",
+  "last_build_date": "2026-09-02T23:14:16.069626+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-09-05T19:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,13 +40,13 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
+      "title": "The Ryan Spann Show Returns",
+      "link": "https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight",
+      "guid": "https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight",
+      "pubDate": "Wed, 02 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-02T21:00:00+00:00",
+      "description": "Talented Heavyweight Talks Staying Focused, Making The Most Of His Gifts",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-ryan-spann-weigh-in_GettyImages-2225884626.jpg?itok=0LFZzT-R",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-09-02T16:34:00+00:00",
       "description": "Five More Fighters Were Added To The UFC Roster After Another Spectacular Night On Week 4 Of Dana White’s Contender Series In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-adam-darby-reaction_GettyImages-2293087338.jpg?itok=y7r9jjqz",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Get To Know Salahdine Parnasse | UFC Paris",
-      "link": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
-      "guid": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
-      "pubDate": "Wed, 02 Sep 2026 12:47:00 GMT",
-      "published_at": "2026-09-02T12:47:00+00:00",
-      "description": "Learn More About French Lightweight Salahdine Parnasse Before He Makes His Anticipated Debut At UFC Fight Night: Hooker vs Parnasse In Paris",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-hero-salahdine-parnasse.jpg?itok=I1mRqP6W",
       "category": "UFC",
       "source": "UFC"
     }

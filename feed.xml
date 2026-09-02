@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:14:16 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Paris</title>
@@ -15,6 +15,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl" alt="Main Card Results | UFC Paris" /></p>
 <p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Prelim Results | UFC Paris</title>
+      <link>https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse</guid>
+      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph" alt="Prelim Results | UFC Paris" /></p>
+<p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -28,13 +38,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Prelim Results | UFC Paris</title>
-      <link>https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse</guid>
-      <pubDate>Sat, 05 Sep 2026 16:00:00 GMT</pubDate>
+      <title>The Ryan Spann Show Returns</title>
+      <link>https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight</guid>
+      <pubDate>Wed, 02 Sep 2026 21:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph" alt="Prelim Results | UFC Paris" /></p>
-<p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-ryan-spann-weigh-in_GettyImages-2225884626.jpg?itok=0LFZzT-R" alt="The Ryan Spann Show Returns" /></p>
+<p>Talented Heavyweight Talks Staying Focused, Making The Most Of His Gifts</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-adam-darby-reaction_GettyImages-2293087338.jpg?itok=y7r9jjqz" alt="Welcome To The UFC | DWCS, Season 10, Week 4" /></p>
 <p>Five More Fighters Were Added To The UFC Roster After Another Spectacular Night On Week 4 Of Dana White’s Contender Series In Las Vegas</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Get To Know Salahdine Parnasse | UFC Paris</title>
-      <link>https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris</guid>
-      <pubDate>Wed, 02 Sep 2026 12:47:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-hero-salahdine-parnasse.jpg?itok=I1mRqP6W" alt="Get To Know Salahdine Parnasse | UFC Paris" /></p>
-<p>Learn More About French Lightweight Salahdine Parnasse Before He Makes His Anticipated Debut At UFC Fight Night: Hooker vs Parnasse In Paris</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
