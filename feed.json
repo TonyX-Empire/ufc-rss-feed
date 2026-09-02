@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-02T11:07:40.082819+00:00",
+  "last_build_date": "2026-09-02T16:28:06.814421+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 19:00:00 GMT",
+      "published_at": "2026-09-05T19:00:00+00:00",
+      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Get To Know Salahdine Parnasse | UFC Paris",
+      "link": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
+      "guid": "https://www.ufc.com/news/get-know-salahdine-parnasse-ufc-paris",
+      "pubDate": "Wed, 02 Sep 2026 12:47:00 GMT",
+      "published_at": "2026-09-02T12:47:00+00:00",
+      "description": "Learn More About French Lightweight Salahdine Parnasse Before He Makes His Anticipated Debut At UFC Fight Night: Hooker vs Parnasse In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-hero-salahdine-parnasse.jpg?itok=I1mRqP6W",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 4 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-4-results",
@@ -59,50 +103,6 @@
       "description": "Discover the Full Range at UFC Store!",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/1920x1080-hero-thumbnail_Unity.jpg?itok=M4fZGgDP",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Paris",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-paris-parnasse-ruziboev-pinto",
-      "pubDate": "Tue, 01 Sep 2026 10:36:00 GMT",
-      "published_at": "2026-09-01T10:36:00+00:00",
-      "description": "Shining A Spotlight On Three Athletes Set To Shine On Saturday In Paris",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hero-nursulton-ruziboev_GettyImages-2283574277.jpg?itok=iZfaf9nm",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Monthly Report | August 2026",
-      "link": "https://www.ufc.com/news/monthly-report-august-2026",
-      "guid": "https://www.ufc.com/news/monthly-report-august-2026",
-      "pubDate": "Tue, 01 Sep 2026 10:00:00 GMT",
-      "published_at": "2026-09-01T10:00:00+00:00",
-      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hero-julia-polastri_GettyImages-2292534788.jpg?itok=oRDcEHS6",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Daniil Donchenko Got His Wish",
-      "link": "https://www.ufc.com/news/daniil-donchenko-got-his-wish-ufc-paris",
-      "guid": "https://www.ufc.com/news/daniil-donchenko-got-his-wish-ufc-paris",
-      "pubDate": "Mon, 31 Aug 2026 18:33:00 GMT",
-      "published_at": "2026-08-31T18:33:00+00:00",
-      "description": "The Ultimate Fighter Season 33 Welterweight Winner Asked To Fight In Paris, And Now He's Gearing Up To Face Punahele Soriano In UFC's Return To Accor Arena On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/062726-Daniil-Donchenko-Reacts-HERO-GettyImages-2283568972.jpg?itok=SvSPjo77",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "pubDate": "Mon, 31 Aug 2026 17:00:00 GMT",
-      "published_at": "2026-08-31T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
       "source": "UFC"
     }
   ]
