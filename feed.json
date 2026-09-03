@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-03T16:18:42.802336+00:00",
+  "last_build_date": "2026-09-03T20:54:29.676924+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,17 +14,6 @@
       "published_at": "2026-09-05T19:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,13 +29,68 @@
       "source": "UFC"
     },
     {
+      "title": "Prelim Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Salahdine Parnasse | Time To Shine",
+      "link": "https://www.ufc.com/news/salahdine-parnasse-time-shine-ufc-paris",
+      "guid": "https://www.ufc.com/news/salahdine-parnasse-time-shine-ufc-paris",
+      "pubDate": "Thu, 03 Sep 2026 21:02:00 GMT",
+      "published_at": "2026-09-03T21:02:00+00:00",
+      "description": "Debuting French Lightweight Discusses Move To UFC, Matchup With Dan Hooker",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/image/2026-09/090526-Salahdine-Parnasse-train-hero-DSC04189.jpg?itok=08plp5bv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Farès Ziam | Ready To Start Another Run",
+      "link": "https://www.ufc.com/news/fares-ziam-ready-to-start-another-run-ufc-paris",
+      "guid": "https://www.ufc.com/news/fares-ziam-ready-to-start-another-run-ufc-paris",
+      "pubDate": "Thu, 03 Sep 2026 18:33:00 GMT",
+      "published_at": "2026-09-03T18:33:00+00:00",
+      "description": "French Lightweight Talks June Loss, Fighting Fellow French Lightweight Axel Sola In Paris At UFC Fight Night: Hooker vs Parnasse On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-fares-ziam-weigh-in_GettyImages-2250236201.jpg?itok=kjcyFb7P",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mario Pinto | Welcoming The Challenge",
+      "link": "https://www.ufc.com/news/mario-pinto-welcoming-challenge",
+      "guid": "https://www.ufc.com/news/mario-pinto-welcoming-challenge",
+      "pubDate": "Thu, 03 Sep 2026 18:18:00 GMT",
+      "published_at": "2026-09-03T18:18:00+00:00",
+      "description": "Rising Heavyweight Prospect Gets His Biggest Test To Date, And Is Happy To Embrace The Challenge",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-mario-pinto-backstage-portrait_GettyImages-2202742094.jpg?itok=PH1pvM7z",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Kurtis Campbell | Second Time’s The Charm",
+      "link": "https://www.ufc.com/news/kurtis-campbell-2nd-time-charm-ufc-paris",
+      "guid": "https://www.ufc.com/news/kurtis-campbell-2nd-time-charm-ufc-paris",
+      "pubDate": "Thu, 03 Sep 2026 17:18:00 GMT",
+      "published_at": "2026-09-03T17:18:00+00:00",
+      "description": "After Taking His First Pro Loss On His Octagon Debut, England’s Kurtis Campbell Plans To Put Things Right On His Return In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-kurtis-campbell-celebration_GettyImages-2238433318.jpg?itok=Pt_q0Rwc",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Michael ‘Venom’ Page | Allow Me To Reintroduce Myself",
       "link": "https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris",
       "guid": "https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris",
       "pubDate": "Thu, 03 Sep 2026 15:44:00 GMT",
       "published_at": "2026-09-03T15:44:00+00:00",
       "description": "Frustrated With A Lack Of Willing Dance Partners At 170, “MVP” Has Moved Back Up To 185 Pounds, Where He Plans To Return To His Spectacular, Show-Stealing Ways",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_",
       "category": "UFC",
       "source": "UFC"
     },
@@ -58,50 +102,6 @@
       "published_at": "2026-09-02T21:00:00+00:00",
       "description": "Talented Heavyweight Talks Staying Focused, Making The Most Of His Gifts",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-ryan-spann-weigh-in_GettyImages-2225884626.jpg?itok=0LFZzT-R",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Contender Series Season 10, Week 4, Adam Darby, Silvestre Sanchez, Gabriel Lorenco, matchmaking successes + more",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-4-adam-darby-silvestre-sanchez-gabriel-lorenco",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-4-adam-darby-silvestre-sanchez-gabriel-lorenco",
-      "pubDate": "Wed, 02 Sep 2026 19:24:00 GMT",
-      "published_at": "2026-09-02T19:24:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 4 Post-Fight Press Conference In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-dana-white-generic_GettyImages-2290665758.jpg?itok=xplRDrXK",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Glendale’s Vast Offerings Get The Spotlight During Noche UFC Fight Week",
-      "link": "https://www.ufc.com/news/glendales-vast-offerings-get-spotlight-during-noche-ufc-fight-week",
-      "guid": "https://www.ufc.com/news/glendales-vast-offerings-get-spotlight-during-noche-ufc-fight-week",
-      "pubDate": "Wed, 02 Sep 2026 18:45:00 GMT",
-      "published_at": "2026-09-02T18:45:00+00:00",
-      "description": "Make The Most Of Your UFC Weekend By Staying In Glendale And Enjoying Everything The City Has To Offer",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/general-view-westgate-daytime.jpg?itok=qF1hvpAQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Garcia vs Benn Official Fight Card",
-      "link": "https://www.ufc.com/news/garcia-vs-benn-official-fight-card",
-      "guid": "https://www.ufc.com/news/garcia-vs-benn-official-fight-card",
-      "pubDate": "Wed, 02 Sep 2026 18:30:00 GMT",
-      "published_at": "2026-09-02T18:30:00+00:00",
-      "description": "Boxing Super Fight Lands At T-Mobile Arena Sept. 12 With Two Titles Up For Grabs",
-      "image": "",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dan Hooker | Back On The Grind",
-      "link": "https://www.ufc.com/news/dan-hooker-back-on-the-grind-ufc-paris-lightweight",
-      "guid": "https://www.ufc.com/news/dan-hooker-back-on-the-grind-ufc-paris-lightweight",
-      "pubDate": "Wed, 02 Sep 2026 17:37:00 GMT",
-      "published_at": "2026-09-02T17:37:00+00:00",
-      "description": "Lightweight Mainstay Recommitted Ahead Of Headlining Assignment In Paris",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-dan-hooker-ufc-paris-portrait.jpg?itok=927Hux1V",
       "category": "UFC",
       "source": "UFC"
     }
