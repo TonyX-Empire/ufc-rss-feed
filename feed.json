@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-03T20:54:29.676924+00:00",
+  "last_build_date": "2026-09-03T23:11:42.320457+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,17 +14,6 @@
       "published_at": "2026-09-05T19:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,13 +29,24 @@
       "source": "UFC"
     },
     {
+      "title": "Official Scorecards | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Salahdine Parnasse | Time To Shine",
       "link": "https://www.ufc.com/news/salahdine-parnasse-time-shine-ufc-paris",
       "guid": "https://www.ufc.com/news/salahdine-parnasse-time-shine-ufc-paris",
       "pubDate": "Thu, 03 Sep 2026 21:02:00 GMT",
       "published_at": "2026-09-03T21:02:00+00:00",
       "description": "Debuting French Lightweight Discusses Move To UFC, Matchup With Dan Hooker",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/image/2026-09/090526-Salahdine-Parnasse-train-hero-DSC04189.jpg?itok=08plp5bv",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/090526-Salahdine-Parnasse-train-hero-DSC04189.jpg?itok=08plp5bv",
       "category": "UFC",
       "source": "UFC"
     },
