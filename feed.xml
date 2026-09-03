@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:18:42 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Paris</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958" alt="Official Scorecards | UFC Paris" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Michael ‘Venom’ Page | Allow Me To Reintroduce Myself</title>
+      <link>https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris</guid>
+      <pubDate>Thu, 03 Sep 2026 15:44:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_" alt="Michael ‘Venom’ Page | Allow Me To Reintroduce Myself" /></p>
+<p>Frustrated With A Lack Of Willing Dance Partners At 170, “MVP” Has Moved Back Up To 185 Pounds, Where He Plans To Return To His Spectacular, Show-Stealing Ways</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-dan-hooker-ufc-paris-portrait.jpg?itok=927Hux1V" alt="Dan Hooker | Back On The Grind" /></p>
 <p>Lightweight Mainstay Recommitted Ahead Of Headlining Assignment In Paris</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Welcome To The UFC | DWCS, Season 10, Week 4</title>
-      <link>https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-4</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-4</guid>
-      <pubDate>Wed, 02 Sep 2026 16:34:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-adam-darby-reaction_GettyImages-2293087338.jpg?itok=y7r9jjqz" alt="Welcome To The UFC | DWCS, Season 10, Week 4" /></p>
-<p>Five More Fighters Were Added To The UFC Roster After Another Spectacular Night On Week 4 Of Dana White’s Contender Series In Las Vegas</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
