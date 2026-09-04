@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-04T20:41:07.876392+00:00",
+  "last_build_date": "2026-09-04T22:57:23.530059+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-09-05T16:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Nathaniel Wood | Content, But Still Pushing",
+      "link": "https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris",
+      "guid": "https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris",
+      "pubDate": "Fri, 04 Sep 2026 22:30:00 GMT",
+      "published_at": "2026-09-04T22:30:00+00:00",
+      "description": "British Featherweight Shares Outlook On Opponent Changes, Professional Standing Ahead Of Return To The Octagon At UFC Fight Night: Hooker vs Parnasse In Paris On September 5, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090226-nathaniel-wood-backstage-portrait_GettyImages-2267730443.jpg?itok=zCYe4nUk",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Rising Heavyweight Prospect Gets His Biggest Test To Date, And Is Happy To Embrace The Challenge",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-mario-pinto-backstage-portrait_GettyImages-2202742094.jpg?itok=PH1pvM7z",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Kurtis Campbell | Second Time’s The Charm",
-      "link": "https://www.ufc.com/news/kurtis-campbell-2nd-time-charm-ufc-paris",
-      "guid": "https://www.ufc.com/news/kurtis-campbell-2nd-time-charm-ufc-paris",
-      "pubDate": "Thu, 03 Sep 2026 17:18:00 GMT",
-      "published_at": "2026-09-03T17:18:00+00:00",
-      "description": "After Taking His First Pro Loss On His Octagon Debut, England’s Kurtis Campbell Plans To Put Things Right On His Return In Paris",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-kurtis-campbell-celebration_GettyImages-2238433318.jpg?itok=Pt_q0Rwc",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
