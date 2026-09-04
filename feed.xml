@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:14:15 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Paris</title>
@@ -36,6 +36,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph" alt="Prelim Results | UFC Paris" /></p>
 <p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming</title>
+      <link>https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX" alt="DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming" /></p>
+<p>Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming</p>
+<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>Official Weigh-In Results | UFC Paris</title>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-kurtis-campbell-celebration_GettyImages-2238433318.jpg?itok=Pt_q0Rwc" alt="Kurtis Campbell | Second Time’s The Charm" /></p>
 <p>After Taking His First Pro Loss On His Octagon Debut, England’s Kurtis Campbell Plans To Put Things Right On His Return In Paris</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Michael ‘Venom’ Page | Allow Me To Reintroduce Myself</title>
-      <link>https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris</guid>
-      <pubDate>Thu, 03 Sep 2026 15:44:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_" alt="Michael ‘Venom’ Page | Allow Me To Reintroduce Myself" /></p>
-<p>Frustrated With A Lack Of Willing Dance Partners At 170, “MVP” Has Moved Back Up To 185 Pounds, Where He Plans To Return To His Spectacular, Show-Stealing Ways</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

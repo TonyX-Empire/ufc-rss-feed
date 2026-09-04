@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-04T11:05:41.984432+00:00",
+  "last_build_date": "2026-09-04T16:14:15.258001+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,17 @@
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 04 Sep 2026 14:00:00 GMT",
+      "published_at": "2026-09-04T14:00:00+00:00",
+      "description": "Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-09-03T17:18:00+00:00",
       "description": "After Taking His First Pro Loss On His Octagon Debut, England’s Kurtis Campbell Plans To Put Things Right On His Return In Paris",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-kurtis-campbell-celebration_GettyImages-2238433318.jpg?itok=Pt_q0Rwc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Michael ‘Venom’ Page | Allow Me To Reintroduce Myself",
-      "link": "https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris",
-      "guid": "https://www.ufc.com/news/michael-venom-page-mvp-reintroduce-myself-ufc-paris",
-      "pubDate": "Thu, 03 Sep 2026 15:44:00 GMT",
-      "published_at": "2026-09-03T15:44:00+00:00",
-      "description": "Frustrated With A Lack Of Willing Dance Partners At 170, “MVP” Has Moved Back Up To 185 Pounds, Where He Plans To Return To His Spectacular, Show-Stealing Ways",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_",
       "category": "UFC",
       "source": "UFC"
     }
