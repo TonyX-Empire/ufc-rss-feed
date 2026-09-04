@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-04T04:16:36.063184+00:00",
+  "last_build_date": "2026-09-04T11:05:41.984432+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-09-05T19:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,14 +40,14 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
-      "category": "UFC",
+      "title": "Official Weigh-In Results | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse",
+      "pubDate": "Fri, 04 Sep 2026 07:50:00 GMT",
+      "published_at": "2026-09-04T07:50:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing Sept. 5 At Accor Arena For UFC Fight Night: Hooker vs Parnasse",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2247796853.jpg?itok=qr1tRjbA",
+      "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-09-03T15:44:00+00:00",
       "description": "Frustrated With A Lack Of Willing Dance Partners At 170, “MVP” Has Moved Back Up To 185 Pounds, Where He Plans To Return To His Spectacular, Show-Stealing Ways",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-michael-venom-page-introduction_GettyImages-2267741459.jpg?itok=1jekypU_",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Ryan Spann Show Returns",
-      "link": "https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight",
-      "guid": "https://www.ufc.com/news/ryan-spann-show-returns-ufc-paris-heavyweight",
-      "pubDate": "Wed, 02 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-02T21:00:00+00:00",
-      "description": "Talented Heavyweight Talks Staying Focused, Making The Most Of His Gifts",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-ryan-spann-weigh-in_GettyImages-2225884626.jpg?itok=0LFZzT-R",
       "category": "UFC",
       "source": "UFC"
     }
