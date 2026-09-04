@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-04T16:14:15.258001+00:00",
+  "last_build_date": "2026-09-04T20:41:07.876392+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,17 +18,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-05T16:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | UFC Paris",
       "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
       "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
@@ -36,6 +25,17 @@
       "published_at": "2026-09-05T16:00:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090626-General-View-Accor-Arena-HERO-GettyImages-2234057723.jpg?itok=zrXd1wph",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Paris",
+      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
       "category": "UFC",
       "source": "UFC"
     },
