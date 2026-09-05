@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-05T10:27:24.363167+00:00",
+  "last_build_date": "2026-09-05T15:02:01.495387+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-09-05T16:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC TODAY: Fight By Fight Preview | UFC Paris",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse",
+      "pubDate": "Sat, 05 Sep 2026 14:00:00 GMT",
+      "published_at": "2026-09-05T14:00:00+00:00",
+      "description": "Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hooker-parnasse-faceoff-social-HP-HERO.jpg?itok=LvBJAng0",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "French Lightweight Talks June Loss, Fighting Fellow French Lightweight Axel Sola In Paris At UFC Fight Night: Hooker vs Parnasse On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-fares-ziam-weigh-in_GettyImages-2250236201.jpg?itok=kjcyFb7P",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Mario Pinto | Welcoming The Challenge",
-      "link": "https://www.ufc.com/news/mario-pinto-welcoming-challenge",
-      "guid": "https://www.ufc.com/news/mario-pinto-welcoming-challenge",
-      "pubDate": "Thu, 03 Sep 2026 18:18:00 GMT",
-      "published_at": "2026-09-03T18:18:00+00:00",
-      "description": "Rising Heavyweight Prospect Gets His Biggest Test To Date, And Is Happy To Embrace The Challenge",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-mario-pinto-backstage-portrait_GettyImages-2202742094.jpg?itok=PH1pvM7z",
-      "category": "News",
       "source": "UFC"
     }
   ]

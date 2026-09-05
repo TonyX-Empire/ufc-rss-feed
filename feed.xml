@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:02:01 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Paris</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/091325-Bruce-Buffer-Announcement-GettyImages-2235251183.jpg?itok=mIJse958" alt="Official Scorecards | UFC Paris" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>UFC TODAY: Fight By Fight Preview | UFC Paris</title>
+      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</guid>
+      <pubDate>Sat, 05 Sep 2026 14:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-hooker-parnasse-faceoff-social-HP-HERO.jpg?itok=LvBJAng0" alt="UFC TODAY: Fight By Fight Preview | UFC Paris" /></p>
+<p>Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-fares-ziam-weigh-in_GettyImages-2250236201.jpg?itok=kjcyFb7P" alt="Farès Ziam | Ready To Start Another Run" /></p>
 <p>French Lightweight Talks June Loss, Fighting Fellow French Lightweight Axel Sola In Paris At UFC Fight Night: Hooker vs Parnasse On Saturday, September 5, 2026</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Mario Pinto | Welcoming The Challenge</title>
-      <link>https://www.ufc.com/news/mario-pinto-welcoming-challenge</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/mario-pinto-welcoming-challenge</guid>
-      <pubDate>Thu, 03 Sep 2026 18:18:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-mario-pinto-backstage-portrait_GettyImages-2202742094.jpg?itok=PH1pvM7z" alt="Mario Pinto | Welcoming The Challenge" /></p>
-<p>Rising Heavyweight Prospect Gets His Biggest Test To Date, And Is Happy To Embrace The Challenge</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
