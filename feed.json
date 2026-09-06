@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-05T22:46:08.672763+00:00",
+  "last_build_date": "2026-09-06T04:21:16.663974+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Sat, 05 Sep 2026 22:45:00 GMT",
       "published_at": "2026-09-05T22:45:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Hooker vs Parnasse On September 5, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090526-ufc-paris-bonus-cverage-thumbnail.jpg?itok=2U0X5Apo",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090526-ufc-paris-bonus-cverage-thumbnail.jpg?itok=2U0X5Apo",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
