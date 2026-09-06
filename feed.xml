@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:51:13 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Paris</title>
+      <link>https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita</guid>
+      <pubDate>Sun, 06 Sep 2026 15:15:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293715946.jpg?itok=4T0TWTaj" alt="The Scorecard | UFC Paris" /></p>
+<p>Highlighting The Biggest Winners From UFC Fight Night: Hooker vs Parnasse On September 5, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Paris</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX" alt="DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming" /></p>
 <p>Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Paris</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse</guid>
-      <pubDate>Fri, 04 Sep 2026 07:50:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2247796853.jpg?itok=qr1tRjbA" alt="Official Weigh-In Results | UFC Paris" /></p>
-<p>The Official Weights Of The Athletes Competing Sept. 5 At Accor Arena For UFC Fight Night: Hooker vs Parnasse</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

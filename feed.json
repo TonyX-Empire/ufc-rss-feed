@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-06T15:22:20.925080+00:00",
+  "last_build_date": "2026-09-06T22:51:13.352088+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Paris",
+      "link": "https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita",
+      "guid": "https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita",
+      "pubDate": "Sun, 06 Sep 2026 15:15:00 GMT",
+      "published_at": "2026-09-06T15:15:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Hooker vs Parnasse On September 5, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293715946.jpg?itok=4T0TWTaj",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Paris",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026",
@@ -92,17 +103,6 @@
       "description": "Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-paris-official-weigh-in-results-hooker-parnasse",
-      "pubDate": "Fri, 04 Sep 2026 07:50:00 GMT",
-      "published_at": "2026-09-04T07:50:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing Sept. 5 At Accor Arena For UFC Fight Night: Hooker vs Parnasse",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2247796853.jpg?itok=qr1tRjbA",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
