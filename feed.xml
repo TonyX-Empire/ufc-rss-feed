@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:05:08 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 5 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Mon, 07 Sep 2026 19:34:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/image/2026-09/GettyImages-2294003224.jpg?itok=Xnpsse9V" alt="Week 5 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | Dana White's Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</guid>
+      <pubDate>Mon, 07 Sep 2026 17:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM" alt="Official Weigh-In Results | Dana White's Contender Series, Season 10" /></p>
+<p>The Official Weights Of The Athletes Competing For UFC Contracts In 2026</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Fight By Fight Preview | Noche UFC</title>
       <link>https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026</link>
@@ -16,16 +36,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn" alt="Fight By Fight Preview | Noche UFC" /></p>
 <p>Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Week 5 Preview | Dana White’s Contender Series, Season 10</title>
-      <link>https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</guid>
-      <pubDate>Sun, 06 Sep 2026 23:34:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-08/DWCS-general-generic-hero-BW-_0012_GettyImages-1425704068.jpg?itok=306i_6BD" alt="Week 5 Preview | Dana White’s Contender Series, Season 10" /></p>
-<p>Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas</p>
-<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>The Scorecard | UFC Paris</title>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293670159.jpg?itok=DDj4u2Du" alt="Prelim Results | UFC Paris" /></p>
 <p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC TODAY: Fight By Fight Preview | UFC Paris</title>
-      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-paris-hooker-vs-parnasse</guid>
-      <pubDate>Sat, 05 Sep 2026 14:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-hooker-parnasse-faceoff-social-HP-HERO.jpg?itok=LvBJAng0" alt="UFC TODAY: Fight By Fight Preview | UFC Paris" /></p>
-<p>Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
