@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-06T22:51:13.352088+00:00",
+  "last_build_date": "2026-09-07T04:20:17.981852+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | Noche UFC",
+      "link": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
+      "pubDate": "Mon, 07 Sep 2026 01:51:00 GMT",
+      "published_at": "2026-09-07T01:51:00+00:00",
+      "description": "Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Week 5 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 06 Sep 2026 23:34:00 GMT",
+      "published_at": "2026-09-06T23:34:00+00:00",
+      "description": "Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/DWCS-general-generic-hero-BW-_0012_GettyImages-1425704068.jpg?itok=306i_6BD",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Paris",
       "link": "https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita",
@@ -81,28 +103,6 @@
       "description": "Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090126-hooker-parnasse-faceoff-social-HP-HERO.jpg?itok=LvBJAng0",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Nathaniel Wood | Content, But Still Pushing",
-      "link": "https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris",
-      "guid": "https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris",
-      "pubDate": "Fri, 04 Sep 2026 22:30:00 GMT",
-      "published_at": "2026-09-04T22:30:00+00:00",
-      "description": "British Featherweight Shares Outlook On Opponent Changes, Professional Standing Ahead Of Return To The Octagon At UFC Fight Night: Hooker vs Parnasse In Paris On September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090226-nathaniel-wood-backstage-portrait_GettyImages-2267730443.jpg?itok=zCYe4nUk",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming",
-      "pubDate": "Fri, 04 Sep 2026 14:00:00 GMT",
-      "published_at": "2026-09-04T14:00:00+00:00",
-      "description": "Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX",
-      "category": "News",
       "source": "UFC"
     }
   ]

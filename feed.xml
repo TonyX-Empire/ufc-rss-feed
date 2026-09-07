@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:51:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:20:17 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | Noche UFC</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026</guid>
+      <pubDate>Mon, 07 Sep 2026 01:51:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn" alt="Fight By Fight Preview | Noche UFC" /></p>
+<p>Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Week 5 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 06 Sep 2026 23:34:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-08/DWCS-general-generic-hero-BW-_0012_GettyImages-1425704068.jpg?itok=306i_6BD" alt="Week 5 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Paris</title>
       <link>https://www.ufc.com/news/paris-scorecard-parnasse-pinto-campbell-sola-keita</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090126-hooker-parnasse-faceoff-social-HP-HERO.jpg?itok=LvBJAng0" alt="UFC TODAY: Fight By Fight Preview | UFC Paris" /></p>
 <p>Previewing All The Action Set To Hit Accor Arena On Saturday Night In Paris</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Nathaniel Wood | Content, But Still Pushing</title>
-      <link>https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/nathaniel-wood-content-but-still-pushing-ufc-paris</guid>
-      <pubDate>Fri, 04 Sep 2026 22:30:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090226-nathaniel-wood-backstage-portrait_GettyImages-2267730443.jpg?itok=zCYe4nUk" alt="Nathaniel Wood | Content, But Still Pushing" /></p>
-<p>British Featherweight Shares Outlook On Opponent Changes, Professional Standing Ahead Of Return To The Octagon At UFC Fight Night: Hooker vs Parnasse In Paris On September 5, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming</title>
-      <link>https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dwcs-season-10-episode-5-preview-athletes-bouts-start-times-streaming</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/081126-General-View-Octagon-DWCS-GettyImages-2290092796.jpg?itok=EFyjNkCX" alt="DWCS Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming" /></p>
-<p>Dana White’s Contender Series Season 10 Episode 5 Preview: Athletes, Bouts, Start Times, Streaming</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
