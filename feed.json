@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-08T11:06:13.497975+00:00",
+  "last_build_date": "2026-09-08T16:32:07.343314+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 5 Results + Scorecards | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-5-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-5-results",
+      "pubDate": "Tue, 08 Sep 2026 23:00:00 GMT",
+      "published_at": "2026-09-08T23:00:00+00:00",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 5 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 8, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold",
+      "link": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
+      "guid": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
+      "pubDate": "Tue, 08 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "description": "Former Champion Talks Importance Of Annual September Event, Championship Aspirations Ahead Of Clash With Manon Fiorot On Saturday at Noche UFC",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | Noche UFC",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-noche-ufc-mcmillen-rongzhu-tarin",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-noche-ufc-mcmillen-rongzhu-tarin",
+      "pubDate": "Tue, 08 Sep 2026 15:00:00 GMT",
+      "published_at": "2026-09-08T15:00:00+00:00",
+      "description": "Highlighting Three Athletes Poised To Make Waves This Weekend At Noche UFC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090726-hero-tommy-mcmillen_GettyImages-2286690298.jpg?itok=EEDqqNqq",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 5 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10",
@@ -69,39 +102,6 @@
       "published_at": "2026-09-05T22:44:00+00:00",
       "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-official-scorecards-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-05T21:00:00+00:00",
-      "description": "See How The Judges Scored Every Round Of Every Fight From UFC Fight Night: Hooker vs Parnasse, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2025-02/010225-hero-joe-martinez-hero-ufc-arabia-saudita-GettyImages-2197119463.jpg?itok=shmLVqFB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Undisputed Flyweight Title Up For Grabs At UFC 332 In Salt Lake City",
-      "link": "https://www.ufc.com/news/undisputed-flyweight-title-grabs-ufc-332-salt-lake-city",
-      "guid": "https://www.ufc.com/news/undisputed-flyweight-title-grabs-ufc-332-salt-lake-city",
-      "pubDate": "Sat, 05 Sep 2026 20:15:00 GMT",
-      "published_at": "2026-09-05T20:15:00+00:00",
-      "description": "Natalia Silva Faces Wang Cong For Undisputed Flyweight Gold On October 3, 2026, Live On CBS And Paramount+",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090526-natalia-silva-wong-cong-HERO.jpg?itok=SStjOSYr",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-prelim-results-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 18:45:00 GMT",
-      "published_at": "2026-09-05T18:45:00+00:00",
-      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293670159.jpg?itok=DDj4u2Du",
       "category": "UFC",
       "source": "UFC"
     }
