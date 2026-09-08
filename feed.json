@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-08T16:32:07.343314+00:00",
+  "last_build_date": "2026-09-08T21:02:21.023612+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,13 +18,35 @@
       "source": "UFC"
     },
     {
+      "title": "Jean Silva | Living In His Own Madness",
+      "link": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
+      "guid": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
+      "pubDate": "Tue, 08 Sep 2026 20:26:00 GMT",
+      "published_at": "2026-09-08T20:26:00+00:00",
+      "description": "Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-jean-silva-backstage-_GettyImages-2258035927.jpg?itok=1kp8bYNN",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jose Miguel Delgado | Everything Has Built To This Moment",
+      "link": "https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc",
+      "guid": "https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc",
+      "pubDate": "Tue, 08 Sep 2026 17:58:00 GMT",
+      "published_at": "2026-09-08T17:58:00+00:00",
+      "description": "Rising Star Jose Miguel Delgado Discusses Noche UFC Main Event With Jean Silva, Dreams Becoming Reality",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-hero-jose-miguel-delgado_GettyImages-2286686431.jpg?itok=XLsgTyv0",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold",
       "link": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
       "guid": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
       "pubDate": "Tue, 08 Sep 2026 16:00:00 GMT",
       "published_at": "2026-09-08T16:00:00+00:00",
       "description": "Former Champion Talks Importance Of Annual September Event, Championship Aspirations Ahead Of Clash With Manon Fiorot On Saturday at Noche UFC",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-09-06T15:15:00+00:00",
       "description": "Highlighting The Biggest Winners From UFC Fight Night: Hooker vs Parnasse On September 5, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293715946.jpg?itok=4T0TWTaj",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Paris",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026",
-      "pubDate": "Sat, 05 Sep 2026 22:45:00 GMT",
-      "published_at": "2026-09-05T22:45:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Hooker vs Parnasse On September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090526-ufc-paris-bonus-cverage-thumbnail.jpg?itok=2U0X5Apo",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Paris",
-      "link": "https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse",
-      "guid": "https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse",
-      "pubDate": "Sat, 05 Sep 2026 22:44:00 GMT",
-      "published_at": "2026-09-05T22:44:00+00:00",
-      "description": "UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl",
       "category": "UFC",
       "source": "UFC"
     }

@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:02:21 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 5 Results + Scorecards | Dana White's Contender Series, Season 10</title>
@@ -18,12 +18,32 @@
 <p>Category: News</p>]]></description>
     </item>
     <item>
+      <title>Jean Silva | Living In His Own Madness</title>
+      <link>https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight</guid>
+      <pubDate>Tue, 08 Sep 2026 20:26:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-jean-silva-backstage-_GettyImages-2258035927.jpg?itok=1kp8bYNN" alt="Jean Silva | Living In His Own Madness" /></p>
+<p>Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Jose Miguel Delgado | Everything Has Built To This Moment</title>
+      <link>https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc</guid>
+      <pubDate>Tue, 08 Sep 2026 17:58:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-hero-jose-miguel-delgado_GettyImages-2286686431.jpg?itok=XLsgTyv0" alt="Jose Miguel Delgado | Everything Has Built To This Moment" /></p>
+<p>Rising Star Jose Miguel Delgado Discusses Noche UFC Main Event With Jean Silva, Dreams Becoming Reality</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
       <title>Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold</title>
       <link>https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold</link>
       <guid isPermaLink="true">https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold</guid>
       <pubDate>Tue, 08 Sep 2026 16:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY" alt="Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY" alt="Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold" /></p>
 <p>Former Champion Talks Importance Of Annual September Event, Championship Aspirations Ahead Of Clash With Manon Fiorot On Saturday at Noche UFC</p>
 <p>Category: UFC</p>]]></description>
     </item>
@@ -75,26 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2293715946.jpg?itok=4T0TWTaj" alt="The Scorecard | UFC Paris" /></p>
 <p>Highlighting The Biggest Winners From UFC Fight Night: Hooker vs Parnasse On September 5, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC Paris</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-fight-night-paris-2026</guid>
-      <pubDate>Sat, 05 Sep 2026 22:45:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090526-ufc-paris-bonus-cverage-thumbnail.jpg?itok=2U0X5Apo" alt="Bonus Coverage | UFC Paris" /></p>
-<p>The Performances Awarded An Extra Bonus At UFC Fight Night: Hooker vs Parnasse On September 5, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Main Card Results | UFC Paris</title>
-      <link>https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-paris-results-hooker-vs-parnasse</guid>
-      <pubDate>Sat, 05 Sep 2026 22:44:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/090526-ufc-fight-night-hooker-vs-parnasse-EVENT-ART.jpg?itok=cr6kqKnl" alt="Main Card Results | UFC Paris" /></p>
-<p>UFC Fight Night: Hooker vs Parnasse Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Accor Arena On Saturday, September 5, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
