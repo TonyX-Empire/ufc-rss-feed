@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-09T16:28:20.687410+00:00",
+  "last_build_date": "2026-09-09T20:51:26.811558+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Manon Fiorot | ‘The Beast’ Is Back In Enemy Territory",
+      "link": "https://www.ufc.com/news/manon-fiorot-the-beast-is-back-in-enemy-territory-noche-ufc",
+      "guid": "https://www.ufc.com/news/manon-fiorot-the-beast-is-back-in-enemy-territory-noche-ufc",
+      "pubDate": "Wed, 09 Sep 2026 18:36:00 GMT",
+      "published_at": "2026-09-09T18:36:00+00:00",
+      "description": "Flyweight Standout Manon Fiorot Discusses Changes In Preparation And Making A Case For Another Championship Opportunity This Weekend Against Alexa Grasso",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090826-manon-fiorot-reaction_GettyImages-2241901909.jpg?itok=3H_v8Ei5",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Title Fight Preview | Ryan Garcia vs Conor Benn",
+      "link": "https://www.ufc.com/news/title-fight-preview-ryan-garcia-vs-conor-benn",
+      "guid": "https://www.ufc.com/news/title-fight-preview-ryan-garcia-vs-conor-benn",
+      "pubDate": "Wed, 09 Sep 2026 18:15:00 GMT",
+      "published_at": "2026-09-09T18:15:00+00:00",
+      "description": "World Championship Gold Is On The Line As England’s “Destroyer” Crosses The Pond Looking To Dethrone “King Ry” on September 12.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-conor-benn-ryan-garcia-faceoff-fanatics-fest.jpg?itok=Q8Y_6r1b",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Jose Miguel Delgado’s Arizona Essentials",
+      "link": "https://www.ufc.com/news/jose-miguel-delgados-arizona-essentials",
+      "guid": "https://www.ufc.com/news/jose-miguel-delgados-arizona-essentials",
+      "pubDate": "Wed, 09 Sep 2026 16:19:00 GMT",
+      "published_at": "2026-09-09T16:19:00+00:00",
+      "description": "Yuma-Born And Phoenix-Based Featherweight Jose Miguel Delgado Gives Some Of His Favorite Things About Living In The 48th State",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/082426-jose-miguel-delgado-trains-at-the-lab-11.jpg?itok=VRDsZ-6S",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Dana White On Contender Series Season 10, Week 5 Contract Winners, Jai Opetaia, Salahdine Parnasse + More",
       "link": "https://www.ufc.com/news/dana-white-contender-series-season-10-week-5-contract-winners-jai-opetaia-salahdine-parnasse",
@@ -13,7 +46,7 @@
       "pubDate": "Wed, 09 Sep 2026 15:04:00 GMT",
       "published_at": "2026-09-09T15:04:00+00:00",
       "description": "Dana White Fielded Questions From The Media At The Dana White’s Contender Series Season 10, Week 5 Post-Fight Press Conference In Las Vegas.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-hero-dana-white_GettyImages-2294235118.jpg?itok=Gp7ZgqY5",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-hero-dana-white_GettyImages-2294235118.jpg?itok=Gp7ZgqY5",
       "category": "News",
       "source": "UFC"
     },
@@ -24,7 +57,7 @@
       "pubDate": "Wed, 09 Sep 2026 14:50:00 GMT",
       "published_at": "2026-09-09T14:50:00+00:00",
       "description": "A Quartet Of Undefeated Prospects Celebrated Earning UFC Contracts After Big Performances On Week 5 Of Dana White’s Contender Series.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-hero-isaac-moreno_GettyImages-2294235085.jpg?itok=xpSlyCeX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-hero-isaac-moreno_GettyImages-2294235085.jpg?itok=xpSlyCeX",
       "category": "UFC",
       "source": "UFC"
     },
@@ -35,7 +68,7 @@
       "pubDate": "Wed, 09 Sep 2026 14:27:00 GMT",
       "published_at": "2026-09-09T14:27:00+00:00",
       "description": "Towering Dutch Striker Yousri Belgaroui Talks Motivation And Validation Ahead Of Noche UFC Clash With Djorden Santos",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090826-yousri-blegaroui-backstage_GettyImages-2268851725.jpg?itok=Z4MoYgtt",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-yousri-blegaroui-backstage_GettyImages-2268851725.jpg?itok=Z4MoYgtt",
       "category": "News",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-09-08T17:58:00+00:00",
       "description": "Rising Star Jose Miguel Delgado Discusses Noche UFC Main Event With Jean Silva, Dreams Becoming Reality",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-hero-jose-miguel-delgado_GettyImages-2286686431.jpg?itok=XLsgTyv0",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Alexa Grasso | Back at Noche UFC, Back on the Hunt for Gold",
-      "link": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
-      "guid": "https://www.ufc.com/news/alexa-grasso-back-noche-ufc-back-hunt-gold",
-      "pubDate": "Tue, 08 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-08T16:00:00+00:00",
-      "description": "Former Champion Talks Importance Of Annual September Event, Championship Aspirations Ahead Of Clash With Manon Fiorot On Saturday at Noche UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090726-alexa-grasso-walkin_GettyImages-2268851037.jpg?itok=abgQaVGY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | Noche UFC",
-      "link": "https://www.ufc.com/news/fighters-on-the-rise-noche-ufc-mcmillen-rongzhu-tarin",
-      "guid": "https://www.ufc.com/news/fighters-on-the-rise-noche-ufc-mcmillen-rongzhu-tarin",
-      "pubDate": "Tue, 08 Sep 2026 15:00:00 GMT",
-      "published_at": "2026-09-08T15:00:00+00:00",
-      "description": "Highlighting Three Athletes Poised To Make Waves This Weekend At Noche UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090726-hero-tommy-mcmillen_GettyImages-2286690298.jpg?itok=EEDqqNqq",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 5 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-5-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Mon, 07 Sep 2026 19:34:00 GMT",
-      "published_at": "2026-09-07T19:34:00+00:00",
-      "description": "Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2294003224.jpg?itok=Xnpsse9V",
       "category": "News",
       "source": "UFC"
     }
