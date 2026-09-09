@@ -5,15 +5,25 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:08:27 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last Time In Glendale</title>
+      <link>https://www.ufc.com/news/last-time-in-glendale-ufc-263</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/last-time-in-glendale-ufc-263</guid>
+      <pubDate>Wed, 09 Sep 2026 21:21:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090926-israel-adesanya-hand-raise_GettyImages-1323282944.jpg?itok=eUcwO-BC" alt="Last Time In Glendale" /></p>
+<p>Ahead Of The Octagon’s Return To Glendale, Arizona, We Are Taking A Look At The Last Time The UFC Held An Event Over Five Years Ago</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Manon Fiorot | ‘The Beast’ Is Back In Enemy Territory</title>
       <link>https://www.ufc.com/news/manon-fiorot-the-beast-is-back-in-enemy-territory-noche-ufc</link>
       <guid isPermaLink="true">https://www.ufc.com/news/manon-fiorot-the-beast-is-back-in-enemy-territory-noche-ufc</guid>
       <pubDate>Wed, 09 Sep 2026 18:36:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090826-manon-fiorot-reaction_GettyImages-2241901909.jpg?itok=3H_v8Ei5" alt="Manon Fiorot | ‘The Beast’ Is Back In Enemy Territory" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-manon-fiorot-reaction_GettyImages-2241901909.jpg?itok=3H_v8Ei5" alt="Manon Fiorot | ‘The Beast’ Is Back In Enemy Territory" /></p>
 <p>Flyweight Standout Manon Fiorot Discusses Changes In Preparation And Making A Case For Another Championship Opportunity This Weekend Against Alexa Grasso</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -23,7 +33,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/title-fight-preview-ryan-garcia-vs-conor-benn</guid>
       <pubDate>Wed, 09 Sep 2026 18:15:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-conor-benn-ryan-garcia-faceoff-fanatics-fest.jpg?itok=Q8Y_6r1b" alt="Title Fight Preview | Ryan Garcia vs Conor Benn" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090926-conor-benn-ryan-garcia-faceoff-fanatics-fest.jpg?itok=Q8Y_6r1b" alt="Title Fight Preview | Ryan Garcia vs Conor Benn" /></p>
 <p>World Championship Gold Is On The Line As England’s “Destroyer” Crosses The Pond Looking To Dethrone “King Ry” on September 12.</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-jean-silva-backstage-_GettyImages-2258035927.jpg?itok=1kp8bYNN" alt="Jean Silva | Living In His Own Madness" /></p>
 <p>Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Jose Miguel Delgado | Everything Has Built To This Moment</title>
-      <link>https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc</guid>
-      <pubDate>Tue, 08 Sep 2026 17:58:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-hero-jose-miguel-delgado_GettyImages-2286686431.jpg?itok=XLsgTyv0" alt="Jose Miguel Delgado | Everything Has Built To This Moment" /></p>
-<p>Rising Star Jose Miguel Delgado Discusses Noche UFC Main Event With Jean Silva, Dreams Becoming Reality</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>

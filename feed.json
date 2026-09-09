@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-09T20:51:26.811558+00:00",
+  "last_build_date": "2026-09-09T23:08:27.097279+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Last Time In Glendale",
+      "link": "https://www.ufc.com/news/last-time-in-glendale-ufc-263",
+      "guid": "https://www.ufc.com/news/last-time-in-glendale-ufc-263",
+      "pubDate": "Wed, 09 Sep 2026 21:21:00 GMT",
+      "published_at": "2026-09-09T21:21:00+00:00",
+      "description": "Ahead Of The Octagon’s Return To Glendale, Arizona, We Are Taking A Look At The Last Time The UFC Held An Event Over Five Years Ago",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-israel-adesanya-hand-raise_GettyImages-1323282944.jpg?itok=eUcwO-BC",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Manon Fiorot | ‘The Beast’ Is Back In Enemy Territory",
       "link": "https://www.ufc.com/news/manon-fiorot-the-beast-is-back-in-enemy-territory-noche-ufc",
@@ -13,7 +24,7 @@
       "pubDate": "Wed, 09 Sep 2026 18:36:00 GMT",
       "published_at": "2026-09-09T18:36:00+00:00",
       "description": "Flyweight Standout Manon Fiorot Discusses Changes In Preparation And Making A Case For Another Championship Opportunity This Weekend Against Alexa Grasso",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090826-manon-fiorot-reaction_GettyImages-2241901909.jpg?itok=3H_v8Ei5",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-manon-fiorot-reaction_GettyImages-2241901909.jpg?itok=3H_v8Ei5",
       "category": "News",
       "source": "UFC"
     },
@@ -24,7 +35,7 @@
       "pubDate": "Wed, 09 Sep 2026 18:15:00 GMT",
       "published_at": "2026-09-09T18:15:00+00:00",
       "description": "World Championship Gold Is On The Line As England’s “Destroyer” Crosses The Pond Looking To Dethrone “King Ry” on September 12.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-conor-benn-ryan-garcia-faceoff-fanatics-fest.jpg?itok=Q8Y_6r1b",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-conor-benn-ryan-garcia-faceoff-fanatics-fest.jpg?itok=Q8Y_6r1b",
       "category": "News",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-jean-silva-backstage-_GettyImages-2258035927.jpg?itok=1kp8bYNN",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jose Miguel Delgado | Everything Has Built To This Moment",
-      "link": "https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc",
-      "guid": "https://www.ufc.com/news/jose-miguel-delgado-everything-has-built-moment-noche-ufc",
-      "pubDate": "Tue, 08 Sep 2026 17:58:00 GMT",
-      "published_at": "2026-09-08T17:58:00+00:00",
-      "description": "Rising Star Jose Miguel Delgado Discusses Noche UFC Main Event With Jean Silva, Dreams Becoming Reality",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-hero-jose-miguel-delgado_GettyImages-2286686431.jpg?itok=XLsgTyv0",
-      "category": "News",
       "source": "UFC"
     }
   ]
