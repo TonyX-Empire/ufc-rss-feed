@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-10T04:23:44.307705+00:00",
+  "last_build_date": "2026-09-10T11:07:11.187464+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Thu, 10 Sep 2026 00:16:00 GMT",
       "published_at": "2026-09-10T00:16:00+00:00",
       "description": "Cruiserweight Bragging Rights Are Up For Grabs As Rival World Champions Jai Opetaia And Noel Mikaelian Go Head-To-Head In Las Vegas.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-jai-noel-faceoff-las-vegas_GettyImages-2293716150.jpg?itok=BdRS-2wT",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-jai-noel-faceoff-las-vegas_GettyImages-2293716150.jpg?itok=BdRS-2wT",
       "category": "News",
       "source": "UFC"
     },
