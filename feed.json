@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-10T11:07:11.187464+00:00",
+  "last_build_date": "2026-09-10T16:17:27.798982+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Da’Mazion Vanhouter Wants To Be The Next Great American Heavyweight",
+      "link": "https://www.ufc.com/news/damazion-vanhouter-wants-to-be-the-next-great-american-heavyweight-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/damazion-vanhouter-wants-to-be-the-next-great-american-heavyweight-garcia-vs-benn",
+      "pubDate": "Thu, 10 Sep 2026 15:41:00 GMT",
+      "published_at": "2026-09-10T15:41:00+00:00",
+      "description": "Rising Heavyweight Prospect Plans To Continue His Rise To Eventually Bring The Heavyweight Glory Days Back To American Boxing.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/GettyImages-2291393364.jpg?itok=cfHUH8A3",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Conor Benn | History Repeating",
+      "link": "https://www.ufc.com/news/conor-benn-history-repeating-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/conor-benn-history-repeating-garcia-vs-benn",
+      "pubDate": "Thu, 10 Sep 2026 15:35:00 GMT",
+      "published_at": "2026-09-10T15:35:00+00:00",
+      "description": "England’s Conor Benn Has Arrived In Las Vegas Looking For Family History To Repeat Itself, With A World Championship Victory In Sin City.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/091226-Conor-Benn-Vegas-Hero-AAA01969.jpg?itok=Y6k-HZBg",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Title Fight Preview | Jai Opetaia vs Noel Mikaelian",
       "link": "https://www.ufc.com/news/title-fight-preview-jai-opetaia-vs-noel-mikaelian",
@@ -81,28 +103,6 @@
       "description": "A Quartet Of Undefeated Prospects Celebrated Earning UFC Contracts After Big Performances On Week 5 Of Dana White’s Contender Series.",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-hero-isaac-moreno_GettyImages-2294235085.jpg?itok=xpSlyCeX",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Yousri Belgaroui | Middleweight’s New Boogeyman",
-      "link": "https://www.ufc.com/news/yousri-belgaroui-middleweights-new-boogeyman-noche-ufc",
-      "guid": "https://www.ufc.com/news/yousri-belgaroui-middleweights-new-boogeyman-noche-ufc",
-      "pubDate": "Wed, 09 Sep 2026 14:27:00 GMT",
-      "published_at": "2026-09-09T14:27:00+00:00",
-      "description": "Towering Dutch Striker Yousri Belgaroui Talks Motivation And Validation Ahead Of Noche UFC Clash With Djorden Santos",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-yousri-blegaroui-backstage_GettyImages-2268851725.jpg?itok=Z4MoYgtt",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 5 Results + Scorecards | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-5-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-5-results",
-      "pubDate": "Wed, 09 Sep 2026 02:00:00 GMT",
-      "published_at": "2026-09-09T02:00:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 5 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 8, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-christian-natvidad-reacts-GettyImages-2294224679.jpg?itok=kJWaUisX",
-      "category": "News",
       "source": "UFC"
     }
   ]
