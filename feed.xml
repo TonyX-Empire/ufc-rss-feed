@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:23:44 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Title Fight Preview | Jai Opetaia vs Noel Mikaelian</title>
+      <link>https://www.ufc.com/news/title-fight-preview-jai-opetaia-vs-noel-mikaelian</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/title-fight-preview-jai-opetaia-vs-noel-mikaelian</guid>
+      <pubDate>Thu, 10 Sep 2026 00:16:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-jai-noel-faceoff-las-vegas_GettyImages-2293716150.jpg?itok=BdRS-2wT" alt="Title Fight Preview | Jai Opetaia vs Noel Mikaelian" /></p>
+<p>Cruiserweight Bragging Rights Are Up For Grabs As Rival World Champions Jai Opetaia And Noel Mikaelian Go Head-To-Head In Las Vegas.</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Last Time In Glendale</title>
       <link>https://www.ufc.com/news/last-time-in-glendale-ufc-263</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-christian-natvidad-reacts-GettyImages-2294224679.jpg?itok=kJWaUisX" alt="Week 5 Results + Scorecards | Dana White's Contender Series, Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 5 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 8, 2026</p>
 <p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Jean Silva | Living In His Own Madness</title>
-      <link>https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight</guid>
-      <pubDate>Tue, 08 Sep 2026 20:26:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-jean-silva-backstage-_GettyImages-2258035927.jpg?itok=1kp8bYNN" alt="Jean Silva | Living In His Own Madness" /></p>
-<p>Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
