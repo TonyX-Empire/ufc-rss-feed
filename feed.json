@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-10T20:45:50.907529+00:00",
+  "last_build_date": "2026-09-10T23:03:45.663912+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Results + Scorecards | Garcia vs Benn",
+      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-12T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -40,13 +51,24 @@
       "source": "UFC"
     },
     {
+      "title": "Jai Opetaia | Belt Hunter",
+      "link": "https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn",
+      "pubDate": "Thu, 10 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-10T21:00:00+00:00",
+      "description": "New Zealand’s Cruiserweight World Champion Is On A Mission To Collect Every 200-Pound World Title Belt On The Planet.",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2293716126.jpg?itok=DVSl08E-",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "David Martinez | Step Into The Fire Zone",
       "link": "https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc",
       "guid": "https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc",
       "pubDate": "Thu, 10 Sep 2026 20:35:00 GMT",
       "published_at": "2026-09-10T20:35:00+00:00",
       "description": "Mexican Knockout Artist Welcomes Dan Ige To The Bantamweight Division, And Promises To Bring The Heat",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-david-martinez-pre-fight_GettyImages-2235281371.jpg?itok=-oOF9zXH",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-david-martinez-pre-fight_GettyImages-2235281371.jpg?itok=-oOF9zXH",
       "category": "News",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-09-10T18:20:00+00:00",
       "description": "Undefeated Contender Series Grad Marwan Rahiki Talks Rapid Ascent, Clash With Tommy McMillen, Importance Of Staying Active",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-marwan-rahiki-reaction_GettyImages-2241100057.jpg?itok=JS0ne8lx",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Garcia vs Benn",
-      "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "pubDate": "Thu, 10 Sep 2026 17:45:00 GMT",
-      "published_at": "2026-09-10T17:45:00+00:00",
-      "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Ryan Garcia | 'King Ry' Is Ready To Reign Again",
-      "link": "https://www.ufc.com/news/ryan-garcia-king-ry-is-ready-to-reign-again-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/ryan-garcia-king-ry-is-ready-to-reign-again-garcia-vs-benn",
-      "pubDate": "Thu, 10 Sep 2026 15:42:00 GMT",
-      "published_at": "2026-09-10T15:42:00+00:00",
-      "description": "Ryan Garcia Is Back On Top Of The World, And Wants To Deliver A Statement With An Emphatic Victory Over Conor Benn On September 12.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-hero-ryan-garcia_EM1_0498.jpg?itok=C-U_aMFh",
       "category": "News",
       "source": "UFC"
     }

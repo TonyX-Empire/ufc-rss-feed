@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:03:45 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | Noche UFC</title>
@@ -16,6 +16,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX" alt="Main Card Results | Noche UFC" /></p>
 <p>Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Results + Scorecards | Garcia vs Benn</title>
+      <link>https://www.ufc.com/news/garcia-vs-benn-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/garcia-vs-benn-results</guid>
+      <pubDate>Sat, 12 Sep 2026 21:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF" alt="Results + Scorecards | Garcia vs Benn" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12</p>
+<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>Official Scorecards | Noche UFC</title>
@@ -38,12 +48,22 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
+      <title>Jai Opetaia | Belt Hunter</title>
+      <link>https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn</guid>
+      <pubDate>Thu, 10 Sep 2026 21:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2293716126.jpg?itok=DVSl08E-" alt="Jai Opetaia | Belt Hunter" /></p>
+<p>New Zealand’s Cruiserweight World Champion Is On A Mission To Collect Every 200-Pound World Title Belt On The Planet.</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
       <title>David Martinez | Step Into The Fire Zone</title>
       <link>https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc</link>
       <guid isPermaLink="true">https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc</guid>
       <pubDate>Thu, 10 Sep 2026 20:35:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-david-martinez-pre-fight_GettyImages-2235281371.jpg?itok=-oOF9zXH" alt="David Martinez | Step Into The Fire Zone" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090926-david-martinez-pre-fight_GettyImages-2235281371.jpg?itok=-oOF9zXH" alt="David Martinez | Step Into The Fire Zone" /></p>
 <p>Mexican Knockout Artist Welcomes Dan Ige To The Bantamweight Division, And Promises To Bring The Heat</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -75,26 +95,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/090826-marwan-rahiki-reaction_GettyImages-2241100057.jpg?itok=JS0ne8lx" alt="Marwan Rahiki | Another Speed Runner Has Arrived" /></p>
 <p>Undefeated Contender Series Grad Marwan Rahiki Talks Rapid Ascent, Clash With Tommy McMillen, Importance Of Staying Active</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>How To Watch Garcia vs Benn</title>
-      <link>https://www.ufc.com/news/how-to-watch-garcia-vs-benn</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-garcia-vs-benn</guid>
-      <pubDate>Thu, 10 Sep 2026 17:45:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO" alt="How To Watch Garcia vs Benn" /></p>
-<p>Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Ryan Garcia | 'King Ry' Is Ready To Reign Again</title>
-      <link>https://www.ufc.com/news/ryan-garcia-king-ry-is-ready-to-reign-again-garcia-vs-benn</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ryan-garcia-king-ry-is-ready-to-reign-again-garcia-vs-benn</guid>
-      <pubDate>Thu, 10 Sep 2026 15:42:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091026-hero-ryan-garcia_EM1_0498.jpg?itok=C-U_aMFh" alt="Ryan Garcia | 'King Ry' Is Ready To Reign Again" /></p>
-<p>Ryan Garcia Is Back On Top Of The World, And Wants To Deliver A Statement With An Emphatic Victory Over Conor Benn On September 12.</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>
