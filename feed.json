@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-11T11:05:50.011157+00:00",
+  "last_build_date": "2026-09-11T16:21:28.675916+00:00",
   "item_count": 9,
   "items": [
     {
@@ -51,6 +51,50 @@
       "source": "UFC"
     },
     {
+      "title": "Official Weigh-In Results | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-silva-delgado-official-weigh-in-results",
+      "guid": "https://www.ufc.com/news/noche-ufc-silva-delgado-official-weigh-in-results",
+      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-11T16:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing Sept. 12 At Desert Diamond Arena, In Glendale, AZ",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2257871596.jpg?itok=DWy0g28_",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Garcia vs Benn",
+      "link": "https://www.ufc.com/news/official-weigh-results-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/official-weigh-results-garcia-vs-benn",
+      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-11T16:00:00+00:00",
+      "description": "Boxing Super Fight Lands At T-Mobile Arena Sept. 12, With Two Titles Up For Grabs",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2270753305.jpg?itok=nz4fk4tD",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Curtis Blaydes | One Fight At A Time",
+      "link": "https://www.ufc.com/news/curtis-blaydes-one-fight-at-a-time-noche-ufc",
+      "guid": "https://www.ufc.com/news/curtis-blaydes-one-fight-at-a-time-noche-ufc",
+      "pubDate": "Fri, 11 Sep 2026 15:44:00 GMT",
+      "published_at": "2026-09-11T15:44:00+00:00",
+      "description": "Veteran Heavyweight Knows Not To Look Too Far Ahead, But He Is Planning A Bounce-Back Win On Saturday Night At Noche UFC.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-curtis-blaydes-walkout_GettyImages-2270927690.jpg?itok=a79L2CBV",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 6 Preview: Athletes, Bouts, Start Times, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-6-preview-athletes-bouts-start-times-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-6-preview-athletes-bouts-start-times-streaming",
+      "pubDate": "Fri, 11 Sep 2026 13:00:00 GMT",
+      "published_at": "2026-09-11T13:00:00+00:00",
+      "description": "Dana White’s Contender Series Season 10 Episode 6 Preview: Athletes, Bouts, Start Times, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/dwcs-generic-octagon_GettyImages-2290092796.jpg?itok=8ofjnxo1",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "Jai Opetaia | Belt Hunter",
       "link": "https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn",
       "guid": "https://www.ufc.com/news/jai-opetaia-belt-hunter-garcia-vs-benn",
@@ -58,50 +102,6 @@
       "published_at": "2026-09-10T21:00:00+00:00",
       "description": "New Zealand’s Cruiserweight World Champion Is On A Mission To Collect Every 200-Pound World Title Belt On The Planet.",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2293716126.jpg?itok=DVSl08E-",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "David Martinez | Step Into The Fire Zone",
-      "link": "https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc",
-      "guid": "https://www.ufc.com/news/david-martinez-step-fire-zone-noche-ufc",
-      "pubDate": "Thu, 10 Sep 2026 20:35:00 GMT",
-      "published_at": "2026-09-10T20:35:00+00:00",
-      "description": "Mexican Knockout Artist Welcomes Dan Ige To The Bantamweight Division, And Promises To Bring The Heat",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-david-martinez-pre-fight_GettyImages-2235281371.jpg?itok=-oOF9zXH",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Tommy McMillen Is Turning Doubters Into Believers",
-      "link": "https://www.ufc.com/news/tommy-mcmillen-is-turning-doubters-into-believers-noche-ufc",
-      "guid": "https://www.ufc.com/news/tommy-mcmillen-is-turning-doubters-into-believers-noche-ufc",
-      "pubDate": "Thu, 10 Sep 2026 19:58:00 GMT",
-      "published_at": "2026-09-10T19:58:00+00:00",
-      "description": "All-Action Featherweight Is Silencing The Haters And Proving Himself Right, While Building A Reputation As One Of The UFC’s Most Exciting Prospects.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-hero-tommy-mcmillen_GettyImages-2286690451.jpg?itok=gosyrLQA",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "A Full Day Of Combat Sports On September 12 Between Noche UFC And Garcia vs Benn",
-      "link": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
-      "pubDate": "Thu, 10 Sep 2026 18:48:00 GMT",
-      "published_at": "2026-09-10T18:48:00+00:00",
-      "description": "From Noche UFC To Garcia vs Benn, Fight Fans Have A Full Slate Of Action To Watch On September 12",
-      "image": "https://ufc.com/images/styles/card/s3/image/2022-11/GettyImages-858817470.jpg?itok=NjCkO9SX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Marwan Rahiki | Another Speed Runner Has Arrived",
-      "link": "https://www.ufc.com/news/marwan-rahiki-another-speed-runner-has-arrived-noche-ufc",
-      "guid": "https://www.ufc.com/news/marwan-rahiki-another-speed-runner-has-arrived-noche-ufc",
-      "pubDate": "Thu, 10 Sep 2026 18:20:00 GMT",
-      "published_at": "2026-09-10T18:20:00+00:00",
-      "description": "Undefeated Contender Series Grad Marwan Rahiki Talks Rapid Ascent, Clash With Tommy McMillen, Importance Of Staying Active",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090826-marwan-rahiki-reaction_GettyImages-2241100057.jpg?itok=JS0ne8lx",
       "category": "News",
       "source": "UFC"
     }
