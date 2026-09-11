@@ -3,20 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-11T20:52:46.596350+00:00",
+  "last_build_date": "2026-09-11T23:10:09.287128+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "Main Card Results | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-12T21:00:00+00:00",
-      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
-      "category": "UFC",
-      "source": "UFC"
-    },
     {
       "title": "Results + Scorecards | Garcia vs Benn",
       "link": "https://www.ufc.com/news/garcia-vs-benn-results",
@@ -29,13 +18,13 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
-      "published_at": "2026-09-12T18:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
+      "title": "Main Card Results | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-12T21:00:00+00:00",
+      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
       "category": "UFC",
       "source": "UFC"
     },
@@ -51,6 +40,17 @@
       "source": "UFC"
     },
     {
+      "title": "Official Scorecards | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
+      "published_at": "2026-09-12T18:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Dan Ige | A Change Can Do You Good",
       "link": "https://www.ufc.com/news/dan-ige-a-change-can-do-you-good-noche-ufc",
       "guid": "https://www.ufc.com/news/dan-ige-a-change-can-do-you-good-noche-ufc",
@@ -62,13 +62,24 @@
       "source": "UFC"
     },
     {
+      "title": "Regina Tarin Is Ready For Her Encore",
+      "link": "https://www.ufc.com/news/regina-tarin-ready-her-encore-noche-ufc",
+      "guid": "https://www.ufc.com/news/regina-tarin-ready-her-encore-noche-ufc",
+      "pubDate": "Fri, 11 Sep 2026 22:14:00 GMT",
+      "published_at": "2026-09-11T22:14:00+00:00",
+      "description": "After A Whirlwind Debut In Mexico City, Unbeaten Prospect Thrilled To Open Noche UFC Against JJ Aldrich On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-regina-tarin-introduction_GettyImages-2264106874.jpg?itok=ifX13BGx",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "A Few Good Days in the Gym Produce Only Good Results for Tommy Gantt",
       "link": "https://www.ufc.com/news/a-few-good-days-in-the-gym-produce-only-good-results-fortommy-gantt-noche-ufc",
       "guid": "https://www.ufc.com/news/a-few-good-days-in-the-gym-produce-only-good-results-fortommy-gantt-noche-ufc",
       "pubDate": "Fri, 11 Sep 2026 19:34:00 GMT",
       "published_at": "2026-09-11T19:34:00+00:00",
       "description": "Undefeated Lightweight Tommy Gantt Reflects On Debut Win Ahead Of Sophomore Appearance Opposite Drakkar Klose On Saturday Afternoon At Noche UFC",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/090926-tommy-gantt-dwcs_GettyImages-2235840250.jpg?itok=eOxHLDWu",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-tommy-gantt-dwcs_GettyImages-2235840250.jpg?itok=eOxHLDWu",
       "category": "News",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-09-11T16:41:00+00:00",
       "description": "Former Two-Time Flyweight Champion Is Fast Approaching A Decade In The UFC, But The Mexican Fan-Favorite Says He Still Has Plenty Of Gas In The Tank.",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-brandon-moreno-walkin_GettyImages-2264135269.jpg?itok=KfiLOo6i",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Garcia vs Benn",
-      "link": "https://www.ufc.com/news/official-weigh-results-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/official-weigh-results-garcia-vs-benn",
-      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-11T16:00:00+00:00",
-      "description": "Boxing Super Fight Lands At T-Mobile Arena Sept. 12, With Two Titles Up For Grabs",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2270753305.jpg?itok=nz4fk4tD",
       "category": "News",
       "source": "UFC"
     }
