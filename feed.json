@@ -3,20 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-12T10:35:15.941640+00:00",
+  "last_build_date": "2026-09-12T15:26:38.874631+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "Main Card Results | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-12T21:00:00+00:00",
-      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
-      "category": "UFC",
-      "source": "UFC"
-    },
     {
       "title": "Results + Scorecards | Garcia vs Benn",
       "link": "https://www.ufc.com/news/garcia-vs-benn-results",
@@ -29,13 +18,13 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
-      "published_at": "2026-09-12T18:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
+      "title": "Main Card Results | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-12T21:00:00+00:00",
+      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
       "category": "UFC",
       "source": "UFC"
     },
@@ -47,6 +36,17 @@
       "published_at": "2026-09-12T18:00:00+00:00",
       "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
+      "published_at": "2026-09-12T18:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
       "category": "UFC",
       "source": "UFC"
     },
