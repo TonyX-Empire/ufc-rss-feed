@@ -3,20 +3,9 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-12T15:26:38.874631+00:00",
+  "last_build_date": "2026-09-12T20:28:40.026452+00:00",
   "item_count": 9,
   "items": [
-    {
-      "title": "Results + Scorecards | Garcia vs Benn",
-      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-12T21:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
-      "category": "News",
-      "source": "UFC"
-    },
     {
       "title": "Main Card Results | Noche UFC",
       "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
@@ -29,24 +18,79 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
-      "published_at": "2026-09-12T18:00:00+00:00",
-      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
-      "category": "UFC",
+      "title": "Results + Scorecards | Garcia vs Benn",
+      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-12T21:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
+      "category": "News",
       "source": "UFC"
     },
     {
       "title": "Official Scorecards | Noche UFC",
       "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
       "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 18:00:00 GMT",
-      "published_at": "2026-09-12T18:00:00+00:00",
+      "pubDate": "Sat, 12 Sep 2026 20:06:00 GMT",
+      "published_at": "2026-09-12T20:06:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 18:41:00 GMT",
+      "published_at": "2026-09-12T18:41:00+00:00",
+      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "A Full Day Of Combat Sports On September 12 Between Noche UFC And Garcia vs Benn",
+      "link": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
+      "pubDate": "Sat, 12 Sep 2026 17:48:00 GMT",
+      "published_at": "2026-09-12T17:48:00+00:00",
+      "description": "From Noche UFC To Garcia vs Benn, Fight Fans Have A Full Slate Of Action To Watch On September 12",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/MixCollage-11-Sep-2026-11-50-AM-2405.jpg?itok=xVmZKgu3",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Tonight: Fight By Fight Preview | Noche UFC",
+      "link": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
+      "pubDate": "Sat, 12 Sep 2026 16:51:00 GMT",
+      "published_at": "2026-09-12T16:51:00+00:00",
+      "description": "Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Garcia vs Benn",
+      "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
+      "pubDate": "Sat, 12 Sep 2026 16:45:00 GMT",
+      "published_at": "2026-09-12T16:45:00+00:00",
+      "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Jean Silva | Living In His Own Madness",
+      "link": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
+      "guid": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
+      "pubDate": "Sat, 12 Sep 2026 16:26:00 GMT",
+      "published_at": "2026-09-12T16:26:00+00:00",
+      "description": "Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2294807689.jpg?itok=ldgF0kNa",
       "category": "UFC",
       "source": "UFC"
     },
@@ -58,50 +102,6 @@
       "published_at": "2026-09-12T05:25:00+00:00",
       "description": "Veteran Discusses Shift To Bantamweight, Matchup With David Martinez Saturday At Noche UFC",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-dan-ige-prefight_GettyImages-2262885372.jpg?itok=qDCHrysh",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Regina Tarin Is Ready For Her Encore",
-      "link": "https://www.ufc.com/news/regina-tarin-ready-her-encore-noche-ufc",
-      "guid": "https://www.ufc.com/news/regina-tarin-ready-her-encore-noche-ufc",
-      "pubDate": "Fri, 11 Sep 2026 22:14:00 GMT",
-      "published_at": "2026-09-11T22:14:00+00:00",
-      "description": "After A Whirlwind Debut In Mexico City, Unbeaten Prospect Thrilled To Open Noche UFC Against JJ Aldrich On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-regina-tarin-introduction_GettyImages-2264106874.jpg?itok=ifX13BGx",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "A Few Good Days in the Gym Produce Only Good Results for Tommy Gantt",
-      "link": "https://www.ufc.com/news/a-few-good-days-in-the-gym-produce-only-good-results-fortommy-gantt-noche-ufc",
-      "guid": "https://www.ufc.com/news/a-few-good-days-in-the-gym-produce-only-good-results-fortommy-gantt-noche-ufc",
-      "pubDate": "Fri, 11 Sep 2026 19:34:00 GMT",
-      "published_at": "2026-09-11T19:34:00+00:00",
-      "description": "Undefeated Lightweight Tommy Gantt Reflects On Debut Win Ahead Of Sophomore Appearance Opposite Drakkar Klose On Saturday Afternoon At Noche UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-tommy-gantt-dwcs_GettyImages-2235840250.jpg?itok=eOxHLDWu",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "WOMEN'S FLYWEIGHT CHAMPIONSHIP LEADS SHOWCASE OF RISING STARS IN UFC RETURN TO SALT LAKE CITY",
-      "link": "https://www.ufc.com/news/womens-flyweight-championship-leads-showcase-rising-stars-ufc-return-salt-lake-city",
-      "guid": "https://www.ufc.com/news/womens-flyweight-championship-leads-showcase-rising-stars-ufc-return-salt-lake-city",
-      "pubDate": "Fri, 11 Sep 2026 17:16:00 GMT",
-      "published_at": "2026-09-11T17:16:00+00:00",
-      "description": "FEATURED BOUTS: (#1) NATALIA SILVA vs (#8) WANG CONG, (#9) DEIVESON FIGUEIREDO vs (#11) PAYTON TALBOTT",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/100326-ufc-332-silva-vs-cong-TEMP-HERO.jpg?itok=DK1lzzo5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Brandon Moreno | ‘The Assassin Baby’ Is Ready To Rock",
-      "link": "https://www.ufc.com/news/brandon-moreno-the-assassin-baby-is-ready-to-rock-noche-ufc",
-      "guid": "https://www.ufc.com/news/brandon-moreno-the-assassin-baby-is-ready-to-rock-noche-ufc",
-      "pubDate": "Fri, 11 Sep 2026 16:41:00 GMT",
-      "published_at": "2026-09-11T16:41:00+00:00",
-      "description": "Former Two-Time Flyweight Champion Is Fast Approaching A Decade In The UFC, But The Mexican Fan-Favorite Says He Still Has Plenty Of Gas In The Tank.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-brandon-moreno-walkin_GettyImages-2264135269.jpg?itok=KfiLOo6i",
       "category": "News",
       "source": "UFC"
     }
