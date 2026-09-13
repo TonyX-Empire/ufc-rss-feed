@@ -3,29 +3,73 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-12T22:56:24.457729+00:00",
+  "last_build_date": "2026-09-13T04:35:06.441289+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Results + Scorecards | Garcia vs Benn",
+      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
+      "pubDate": "Sun, 13 Sep 2026 02:30:00 GMT",
+      "published_at": "2026-09-13T02:30:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Bonus Coverage | Noche UFC",
+      "link": "https://www.ufc.com/news/bonus-coverage-noche-ufc-glendale-2026",
+      "guid": "https://www.ufc.com/news/bonus-coverage-noche-ufc-glendale-2026",
+      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-13T01:00:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Desert Diamond Arena, Glendale, AZ On September 12, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/BrowserPreview_tmp-1.gif?itok=9t-TJ-v1",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Power Slap 23 Takes Over Texas This Thursday",
+      "link": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
+      "guid": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
+      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-13T01:00:00+00:00",
+      "description": "Double Eagle Energy Power Slap 23: Wolverine vs Greenhalgh Takes Place Thursday, September 17 At United Supermarkets Arena In Lubbock, Texas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-power-slap-23-keyart.jpg?itok=9NP1WyJN",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Garcia vs Benn",
+      "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
+      "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
+      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-13T01:00:00+00:00",
+      "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | Noche UFC",
       "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
       "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 22:45:00 GMT",
-      "published_at": "2026-09-12T22:45:00+00:00",
+      "pubDate": "Sun, 13 Sep 2026 00:36:00 GMT",
+      "published_at": "2026-09-13T00:36:00+00:00",
       "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
       "category": "UFC",
       "source": "UFC"
     },
     {
-      "title": "Results + Scorecards | Garcia vs Benn",
-      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "pubDate": "Sat, 12 Sep 2026 22:00:00 GMT",
-      "published_at": "2026-09-12T22:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
-      "category": "News",
+      "title": "Official Scorecards | Noche UFC",
+      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
+      "pubDate": "Sat, 12 Sep 2026 23:18:00 GMT",
+      "published_at": "2026-09-12T23:18:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -36,17 +80,6 @@
       "published_at": "2026-09-12T21:37:00+00:00",
       "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 21:27:00 GMT",
-      "published_at": "2026-09-12T21:27:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
       "category": "UFC",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Garcia vs Benn",
-      "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "pubDate": "Sat, 12 Sep 2026 16:45:00 GMT",
-      "published_at": "2026-09-12T16:45:00+00:00",
-      "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Jean Silva | Living In His Own Madness",
-      "link": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
-      "guid": "https://www.ufc.com/news/jean-silva-living-his-own-madness-noche-ufc-featherweight",
-      "pubDate": "Sat, 12 Sep 2026 16:26:00 GMT",
-      "published_at": "2026-09-12T16:26:00+00:00",
-      "description": "Featherweight Standout Discusses Noche UFC Main Event With Jose Miguel Delgado, Focus On Earning A Championship Opportunity",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2294807689.jpg?itok=ldgF0kNa",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dan Ige | A Change Can Do You Good",
-      "link": "https://www.ufc.com/news/dan-ige-a-change-can-do-you-good-noche-ufc",
-      "guid": "https://www.ufc.com/news/dan-ige-a-change-can-do-you-good-noche-ufc",
-      "pubDate": "Sat, 12 Sep 2026 05:25:00 GMT",
-      "published_at": "2026-09-12T05:25:00+00:00",
-      "description": "Veteran Discusses Shift To Bantamweight, Matchup With David Martinez Saturday At Noche UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/090926-dan-ige-prefight_GettyImages-2262885372.jpg?itok=qDCHrysh",
-      "category": "News",
       "source": "UFC"
     }
   ]
