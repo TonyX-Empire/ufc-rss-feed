@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-13T16:06:49.886118+00:00",
+  "last_build_date": "2026-09-13T20:39:57.806788+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Ryan Garcia And Jai Opetaia’s Wins, Conor Benn’s Next Move, David Benavidez + More",
+      "link": "https://www.ufc.com/news/dana-white-ryan-garcia-and-jai-opetaias-wins-conor-benns-next-move-david-benavidez-more",
+      "guid": "https://www.ufc.com/news/dana-white-ryan-garcia-and-jai-opetaias-wins-conor-benns-next-move-david-benavidez-more",
+      "pubDate": "Sun, 13 Sep 2026 19:41:00 GMT",
+      "published_at": "2026-09-13T19:41:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Garcia vs Benn Post-Fight Press Conference In Las Vegas.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/091326-hero-dana-white_GettyImages-2294063359.jpg?itok=NK8_XdEb",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | Noche UFC",
+      "link": "https://www.ufc.com/news/scorecard-noche-ufc-silva-vs-delgado-glendale",
+      "guid": "https://www.ufc.com/news/scorecard-noche-ufc-silva-vs-delgado-glendale",
+      "pubDate": "Sun, 13 Sep 2026 19:41:00 GMT",
+      "published_at": "2026-09-13T19:41:00+00:00",
+      "description": "Highlighting the biggest winners from Noche UFC: Silva vs Delgado on September 12, 2026.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-hero-brandon-moreno_GettyImages-2294957250.jpg?itok=mCM9tiZu",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Results + Scorecards | Garcia vs Benn",
       "link": "https://www.ufc.com/news/garcia-vs-benn-results",
@@ -80,28 +102,6 @@
       "published_at": "2026-09-12T21:37:00+00:00",
       "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "A Full Day Of Combat Sports On September 12 Between Noche UFC And Garcia vs Benn",
-      "link": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/full-day-combat-sports-september-12-between-noche-ufc-and-garcia-vs-benn",
-      "pubDate": "Sat, 12 Sep 2026 17:48:00 GMT",
-      "published_at": "2026-09-12T17:48:00+00:00",
-      "description": "From Noche UFC To Garcia vs Benn, Fight Fans Have A Full Slate Of Action To Watch On September 12",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/MixCollage-11-Sep-2026-11-50-AM-2405.jpg?itok=xVmZKgu3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Tonight: Fight By Fight Preview | Noche UFC",
-      "link": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-noche-ufc-phoenix-silva-delgado-2026",
-      "pubDate": "Sat, 12 Sep 2026 16:51:00 GMT",
-      "published_at": "2026-09-12T16:51:00+00:00",
-      "description": "Diving Into The Matchups Set To Hit The Octagon This Weekend At Noche UFC: Silva vs Delgado",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Noche-26-FBF-Hero.jpg?itok=D_vCqOMn",
       "category": "UFC",
       "source": "UFC"
     }
