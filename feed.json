@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-13T11:38:02.006934+00:00",
+  "last_build_date": "2026-09-13T16:06:49.886118+00:00",
   "item_count": 9,
   "items": [
     {
@@ -29,17 +29,6 @@
       "source": "UFC"
     },
     {
-      "title": "Power Slap 23 Takes Over Texas This Thursday",
-      "link": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
-      "guid": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
-      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-13T01:00:00+00:00",
-      "description": "Double Eagle Energy Power Slap 23: Wolverine vs Greenhalgh Takes Place Thursday, September 17 At United Supermarkets Arena In Lubbock, Texas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-power-slap-23-keyart.jpg?itok=9NP1WyJN",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
       "title": "How To Watch Garcia vs Benn",
       "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
       "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
@@ -47,6 +36,17 @@
       "published_at": "2026-09-13T01:00:00+00:00",
       "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Power Slap 23 Takes Over Texas This Thursday",
+      "link": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
+      "guid": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
+      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-13T01:00:00+00:00",
+      "description": "Double Eagle Energy Power Slap 23: Wolverine vs Greenhalgh Takes Place Thursday, September 17 At United Supermarkets Arena In Lubbock, Texas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-power-slap-23-keyart.jpg?itok=9NP1WyJN",
       "category": "News",
       "source": "UFC"
     },
