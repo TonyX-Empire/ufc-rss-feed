@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-14T12:32:29.082131+00:00",
+  "last_build_date": "2026-09-14T19:48:18.491668+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
+      "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT",
+      "published_at": "2026-09-15T23:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2",
+      "pubDate": "Mon, 14 Sep 2026 18:42:00 GMT",
+      "published_at": "2026-09-14T18:42:00+00:00",
+      "description": "Laying Out The Lineup For Saturday’s Return To Los Angeles",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-joshua-van_GettyImages-2290511338.jpg?itok=MnMh7QJy",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 14 Sep 2026 17:00:00 GMT",
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Dana White On Ryan Garcia And Jai Opetaia’s Wins, Conor Benn’s Next Move, David Benavidez + More",
       "link": "https://www.ufc.com/news/dana-white-ryan-garcia-and-jai-opetaias-wins-conor-benns-next-move-david-benavidez-more",
@@ -13,7 +46,7 @@
       "pubDate": "Sun, 13 Sep 2026 19:41:00 GMT",
       "published_at": "2026-09-13T19:41:00+00:00",
       "description": "Dana White Fielded Questions From The Media At The Garcia vs Benn Post-Fight Press Conference In Las Vegas.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/091326-hero-dana-white_GettyImages-2294063359.jpg?itok=NK8_XdEb",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-hero-dana-white_GettyImages-2294063359.jpg?itok=NK8_XdEb",
       "category": "News",
       "source": "UFC"
     },
@@ -70,39 +103,6 @@
       "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-results-silva-vs-delgado",
-      "pubDate": "Sun, 13 Sep 2026 00:36:00 GMT",
-      "published_at": "2026-09-13T00:36:00+00:00",
-      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg?itok=5UKSXYYX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-official-scorecards-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 23:18:00 GMT",
-      "published_at": "2026-09-12T23:18:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From Noche UFC: Silva vs Delgado, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-bruce-buffer-announcement-hero.jpg?itok=yDwCcJ21",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | Noche UFC",
-      "link": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
-      "guid": "https://www.ufc.com/news/noche-ufc-prelim-results-silva-vs-delgado",
-      "pubDate": "Sat, 12 Sep 2026 21:37:00 GMT",
-      "published_at": "2026-09-12T21:37:00+00:00",
-      "description": "Noche UFC: Silva vs Delgado Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Desert Diamond Arena In Glendale On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-Noche-UFC-General-Octagon-GettyImages-2236134032-2.jpg?itok=fEJt2S8a",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
