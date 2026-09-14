@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-14T19:48:18.491668+00:00",
+  "last_build_date": "2026-09-14T23:49:15.324590+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,61 @@
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Updates To Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/updates-cryptocom-ufc-331-van-vs-pantoja-2",
+      "guid": "https://www.ufc.com/news/updates-cryptocom-ufc-331-van-vs-pantoja-2",
+      "pubDate": "Mon, 14 Sep 2026 23:30:00 GMT",
+      "published_at": "2026-09-14T23:30:00+00:00",
+      "description": "Change To Crypto.com UFC 331 In Los Angeles",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/week-6-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-6-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 14 Sep 2026 20:09:00 GMT",
+      "published_at": "2026-09-14T20:09:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/fighters-rise-cryptocom-ufc-331-van-vs-pantoja-2-baraniewski-steveson-gandra",
+      "guid": "https://www.ufc.com/news/fighters-rise-cryptocom-ufc-331-van-vs-pantoja-2-baraniewski-steveson-gandra",
+      "pubDate": "Mon, 14 Sep 2026 19:43:00 GMT",
+      "published_at": "2026-09-14T19:43:00+00:00",
+      "description": "Highlighting Three Athletes Poised To Make Waves This Weekend At Crypto.com UFC 331: Van vs Pantoja 2",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-iwo-baraniewski_GettyImages-2280244367.jpg?itok=VkAk0Hgt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch And Stream Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "pubDate": "Mon, 14 Sep 2026 19:30:00 GMT",
+      "published_at": "2026-09-14T19:30:00+00:00",
+      "description": "Find Start Times And Fight Card Info For Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-EVENT-ART.jpg?itok=XXGsxoUr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/zuffa-boxing-11-official-fight-card",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-11-official-fight-card",
+      "pubDate": "Mon, 14 Sep 2026 19:29:00 GMT",
+      "published_at": "2026-09-14T19:29:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -47,61 +102,6 @@
       "published_at": "2026-09-13T19:41:00+00:00",
       "description": "Dana White Fielded Questions From The Media At The Garcia vs Benn Post-Fight Press Conference In Las Vegas.",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-hero-dana-white_GettyImages-2294063359.jpg?itok=NK8_XdEb",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | Noche UFC",
-      "link": "https://www.ufc.com/news/scorecard-noche-ufc-silva-vs-delgado-glendale",
-      "guid": "https://www.ufc.com/news/scorecard-noche-ufc-silva-vs-delgado-glendale",
-      "pubDate": "Sun, 13 Sep 2026 19:41:00 GMT",
-      "published_at": "2026-09-13T19:41:00+00:00",
-      "description": "Highlighting the biggest winners from Noche UFC: Silva vs Delgado on September 12, 2026.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-hero-brandon-moreno_GettyImages-2294957250.jpg?itok=mCM9tiZu",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Results + Scorecards | Garcia vs Benn",
-      "link": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "guid": "https://www.ufc.com/news/garcia-vs-benn-results",
-      "pubDate": "Sun, 13 Sep 2026 02:30:00 GMT",
-      "published_at": "2026-09-13T02:30:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews, Scorecards And More From Garcia vs Benn In Las Vegas On Saturday, September 12",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-garcia-vs-benn-results-HERO.jpg?itok=2xwk7UxF",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | Noche UFC",
-      "link": "https://www.ufc.com/news/bonus-coverage-noche-ufc-glendale-2026",
-      "guid": "https://www.ufc.com/news/bonus-coverage-noche-ufc-glendale-2026",
-      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-13T01:00:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Desert Diamond Arena, Glendale, AZ On September 12, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/BrowserPreview_tmp-1.gif?itok=9t-TJ-v1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Power Slap 23 Takes Over Texas This Thursday",
-      "link": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
-      "guid": "https://www.ufc.com/news/power-slap-23-wolverine-vs-greenhalgh-takes-over-lubbock-texas-thursday-september-17",
-      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-13T01:00:00+00:00",
-      "description": "Double Eagle Energy Power Slap 23: Wolverine vs Greenhalgh Takes Place Thursday, September 17 At United Supermarkets Arena In Lubbock, Texas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-power-slap-23-keyart.jpg?itok=9NP1WyJN",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Garcia vs Benn",
-      "link": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "guid": "https://www.ufc.com/news/how-to-watch-garcia-vs-benn",
-      "pubDate": "Sun, 13 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-13T01:00:00+00:00",
-      "description": "Find Start Times, Streaming Information, Fight Card Details And More For Garcia vs Benn, Live From T-Mobile Arena In Las Vegas On September 12, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-garcia-benn-how-to-watch-hero.jpg?itok=WQ4TbrmO",
       "category": "News",
       "source": "UFC"
     }
