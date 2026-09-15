@@ -3,17 +3,28 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-15T11:35:12.302904+00:00",
+  "last_build_date": "2026-09-15T16:48:59.959346+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Search results | UFC",
+      "title": "Week 6 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
       "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT",
       "published_at": "2026-09-15T23:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 6 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 15, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | Crypto.com UFC 331: Joshua Van vs Alexandre Pantoja 2",
+      "link": "https://www.ufc.com/news/coach-conversation-cryptocom-ufc-331-joshua-van-vs-alexandre-pantoja-2",
+      "guid": "https://www.ufc.com/news/coach-conversation-cryptocom-ufc-331-joshua-van-vs-alexandre-pantoja-2",
+      "pubDate": "Tue, 15 Sep 2026 16:15:00 GMT",
+      "published_at": "2026-09-15T16:15:00+00:00",
+      "description": "New England Cartel Leader Tyson Chartier Returns To Discuss Saturday’s Flyweight Title Rematch",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/120526-Pantoja-Van-Faceoff-GettyImages-2250242472.jpg?itok=gqBYaNUq",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,14 +40,14 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Week 6 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-6-preview-dana-whites-contender-series-season-10",
       "guid": "https://www.ufc.com/news/week-6-preview-dana-whites-contender-series-season-10",
       "pubDate": "Mon, 14 Sep 2026 20:09:00 GMT",
       "published_at": "2026-09-14T20:09:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
+      "description": "Previewing The Matchups Set To Take Place On Tuesday Night In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-dwcs-week-6-season-10-GettyImages-2295258259.jpg?itok=kA6l52os",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -62,13 +73,13 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Zuffa Boxing 11 Official Fight Card",
       "link": "https://www.ufc.com/news/zuffa-boxing-11-official-fight-card",
       "guid": "https://www.ufc.com/news/zuffa-boxing-11-official-fight-card",
       "pubDate": "Mon, 14 Sep 2026 19:29:00 GMT",
       "published_at": "2026-09-14T19:29:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Fisher vs Pirotton Headlines A Stacked Card Coming To Copper Box Arena In London On September 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/Z11_Faceoff-Graphic-Zuffa-Boxing.jpg?itok=adXpGxSF",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-09-14T17:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Ryan Garcia And Jai Opetaia’s Wins, Conor Benn’s Next Move, David Benavidez + More",
-      "link": "https://www.ufc.com/news/dana-white-ryan-garcia-and-jai-opetaias-wins-conor-benns-next-move-david-benavidez-more",
-      "guid": "https://www.ufc.com/news/dana-white-ryan-garcia-and-jai-opetaias-wins-conor-benns-next-move-david-benavidez-more",
-      "pubDate": "Sun, 13 Sep 2026 19:41:00 GMT",
-      "published_at": "2026-09-13T19:41:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Garcia vs Benn Post-Fight Press Conference In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091326-hero-dana-white_GettyImages-2294063359.jpg?itok=NK8_XdEb",
       "category": "News",
       "source": "UFC"
     }
