@@ -3,18 +3,29 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-15T21:11:15.101725+00:00",
+  "last_build_date": "2026-09-16T04:36:52.512426+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Week 6 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
-      "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT",
-      "published_at": "2026-09-15T23:00:00+00:00",
+      "pubDate": "Wed, 16 Sep 2026 01:30:00 GMT",
+      "published_at": "2026-09-16T01:30:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 6 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091526-Luis-Hernandez-Reacts-GettyImages-2295492038.jpg?itok=fKWxuytp",
       "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Alexandre Pantoja | Enjoying The Moment Differently This Time",
+      "link": "https://www.ufc.com/news/alexandre-pantoja-enjoying-moment-differently-time-crypto-dot-com-ufc-331",
+      "guid": "https://www.ufc.com/news/alexandre-pantoja-enjoying-moment-differently-time-crypto-dot-com-ufc-331",
+      "pubDate": "Tue, 15 Sep 2026 22:17:00 GMT",
+      "published_at": "2026-09-15T22:17:00+00:00",
+      "description": "Former Flyweight Champion Alexandre Pantoja Opens Up About Feeling More Comfortable Ahead Of Second Opportunity To Challenge For UFC Gold This Weekend At UFC 331 In Los Angeles",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-ufc-331-hero-alexandre-pantoja_GettyImages-2222688917.jpg?itok=6uEpd75v",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Laying Out The Lineup For Saturday’s Return To Los Angeles",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-joshua-van_GettyImages-2290511338.jpg?itok=MnMh7QJy",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "pubDate": "Mon, 14 Sep 2026 17:00:00 GMT",
-      "published_at": "2026-09-14T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
       "source": "UFC"
     }
   ]
