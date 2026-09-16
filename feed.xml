@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:41:51 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From The Octagon To The Aisle: UFC And FoodStory Brands Launch Main Event™ Protein Bars</title>
+      <link>https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars</guid>
+      <pubDate>Wed, 16 Sep 2026 16:37:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B" alt="From The Octagon To The Aisle: UFC And FoodStory Brands Launch Main Event™ Protein Bars" /></p>
+<p>Co-owned By UFC &amp; FoodStory Brands And Developed Alongside The UFC Performance Institute, Main Event Raises The Bar For Performance Nutrition With A Protein Bar Built For Everyday</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Week 6 Results + Scorecards | Dana White's Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/Z11_Faceoff-Graphic-Zuffa-Boxing.jpg?itok=adXpGxSF" alt="Zuffa Boxing 11 Official Fight Card" /></p>
 <p>Fisher vs Pirotton Headlines A Stacked Card Coming To Copper Box Arena In London On September 2026</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | Crypto.com UFC 331: Van vs Pantoja 2</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2</guid>
-      <pubDate>Mon, 14 Sep 2026 18:42:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091426-hero-joshua-van_GettyImages-2290511338.jpg?itok=MnMh7QJy" alt="Fight By Fight Preview | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
-<p>Laying Out The Lineup For Saturday’s Return To Los Angeles</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

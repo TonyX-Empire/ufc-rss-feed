@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-16T11:21:37.483128+00:00",
+  "last_build_date": "2026-09-16T16:41:51.652348+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "From The Octagon To The Aisle: UFC And FoodStory Brands Launch Main Event™ Protein Bars",
+      "link": "https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars",
+      "guid": "https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars",
+      "pubDate": "Wed, 16 Sep 2026 16:37:00 GMT",
+      "published_at": "2026-09-16T16:37:00+00:00",
+      "description": "Co-owned By UFC & FoodStory Brands And Developed Alongside The UFC Performance Institute, Main Event Raises The Bar For Performance Nutrition With A Protein Bar Built For Everyday",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 6 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
@@ -92,17 +103,6 @@
       "description": "Fisher vs Pirotton Headlines A Stacked Card Coming To Copper Box Arena In London On September 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/Z11_Faceoff-Graphic-Zuffa-Boxing.jpg?itok=adXpGxSF",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Crypto.com UFC 331: Van vs Pantoja 2",
-      "link": "https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-cryptocom-ufc-331-van-vs-pantoja-2",
-      "pubDate": "Mon, 14 Sep 2026 18:42:00 GMT",
-      "published_at": "2026-09-14T18:42:00+00:00",
-      "description": "Laying Out The Lineup For Saturday’s Return To Los Angeles",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-joshua-van_GettyImages-2290511338.jpg?itok=MnMh7QJy",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
