@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-17T16:48:56.729023+00:00",
+  "last_build_date": "2026-09-17T21:14:05.105380+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-results",
+      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-results",
+      "pubDate": "Sun, 20 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-20T01:00:00+00:00",
+      "description": "Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-EVENT-ART.jpg?itok=XXGsxoUr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
+      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
+      "pubDate": "Sat, 19 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-19T21:00:00+00:00",
+      "description": "Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-General-View-Octagon-GettyImages-2294955370.jpg?itok=o9j3nYcB",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
+      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
+      "pubDate": "Sat, 19 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-19T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Iwo Baraniewski | You Ain’t Seen Nothing Yet",
       "link": "https://www.ufc.com/news/iwo-baraniewski-seen-nothing-yet-crypto-com-ufc-331",
@@ -24,7 +57,7 @@
       "pubDate": "Thu, 17 Sep 2026 16:11:00 GMT",
       "published_at": "2026-09-17T16:11:00+00:00",
       "description": "Tickets go on sale on Friday, October 9",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/091726-hero-generic-qatar-octagon_GettyImages-2247930470.jpg?itok=OabMcB0Y",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-generic-qatar-octagon_GettyImages-2247930470.jpg?itok=OabMcB0Y",
       "category": "UFC",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-09-16T18:56:00+00:00",
       "description": "Flyweight Champion Joshua Van Discusses Significance Of Main Event Assignment, Importance Of Rematch With Alexandre Pantoja At UFC 331 in Los Angeles",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-ufc-331-joshua-van_GettyImages-2275388691.jpg?itok=Lp-UFb2k",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Charles Jourdain | The Professional",
-      "link": "https://www.ufc.com/news/charles-jourdain-the-professional-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/charles-jourdain-the-professional-cryptocom-ufc-331",
-      "pubDate": "Wed, 16 Sep 2026 18:15:00 GMT",
-      "published_at": "2026-09-16T18:15:00+00:00",
-      "description": "Ascending French-Canadian Charles Jourdain Seeks Fourth Straight Bantamweight Win This Weekend In Clash With Former Title Challenger Marlon ‘Chito’ Vera",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-charles-jourdain_GettyImages-2271980872.jpg?itok=vtl8ynrE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS, Season 10, Week 6",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-6",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-6",
-      "pubDate": "Wed, 16 Sep 2026 16:59:00 GMT",
-      "published_at": "2026-09-16T16:59:00+00:00",
-      "description": "Season 10 Of Dana White’s Contender Series Set A New Record For Contract Offers As Four More Fighters Joined The UFC Roster After Another Spectacular Night At Meta APEX.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-akbar-abdullaev_GettyImages-2295498768.jpg?itok=ybDPrgmV",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ryan Gandra | Intensely Focused On The Basics",
-      "link": "https://www.ufc.com/news/ryan-gandra-intensely-focused-on-the-basics-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/ryan-gandra-intensely-focused-on-the-basics-cryptocom-ufc-331",
-      "pubDate": "Wed, 16 Sep 2026 16:58:00 GMT",
-      "published_at": "2026-09-16T16:58:00+00:00",
-      "description": "Ascending Brazilian Middleweight Ryan Gandra Talks Whirlwind 12 Months, Climbing The Divisional Ranks Ahead Of Showdown With Ozzy Diaz On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-ryan-gandra_GettyImages-2285681081.jpg?itok=MrX71VWP",
       "category": "UFC",
       "source": "UFC"
     }
