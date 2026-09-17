@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-16T21:12:28.150843+00:00",
+  "last_build_date": "2026-09-17T04:41:57.839490+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Casey O’Neill Found Herself Again",
+      "link": "https://www.ufc.com/news/casey-oneill-found-herself-again-cryptocom-ufc-331",
+      "guid": "https://www.ufc.com/news/casey-oneill-found-herself-again-cryptocom-ufc-331",
+      "pubDate": "Wed, 16 Sep 2026 21:11:00 GMT",
+      "published_at": "2026-09-16T21:11:00+00:00",
+      "description": "Back Training In Thailand And Back To Full Health, Casey O’Neill Is Ready To Get Back To Making Waves In The Flyweight Division",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-casey-oneill_GettyImages-2268829944.jpg?itok=mY86NvTG",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "FEATHERWEIGHT SHOW MATCH HEADLINES EXCITING UFC BJJ 11 CARD ON SEPTEMBER 24",
       "link": "https://www.ufc.com/news/featherweight-show-match-headlines-exciting-ufc-bjj-11-card-september-24",
@@ -91,17 +102,6 @@
       "published_at": "2026-09-15T22:17:00+00:00",
       "description": "Former Flyweight Champion Alexandre Pantoja Opens Up About Feeling More Comfortable Ahead Of Second Opportunity To Challenge For UFC Gold This Weekend At UFC 331 In Los Angeles",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-ufc-331-hero-alexandre-pantoja_GettyImages-2222688917.jpg?itok=6uEpd75v",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | Crypto.com UFC 331: Joshua Van vs Alexandre Pantoja 2",
-      "link": "https://www.ufc.com/news/coach-conversation-cryptocom-ufc-331-joshua-van-vs-alexandre-pantoja-2",
-      "guid": "https://www.ufc.com/news/coach-conversation-cryptocom-ufc-331-joshua-van-vs-alexandre-pantoja-2",
-      "pubDate": "Tue, 15 Sep 2026 16:15:00 GMT",
-      "published_at": "2026-09-15T16:15:00+00:00",
-      "description": "New England Cartel Leader Tyson Chartier Returns To Discuss Saturday’s Flyweight Title Rematch",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/120526-Pantoja-Van-Faceoff-GettyImages-2250242472.jpg?itok=gqBYaNUq",
       "category": "UFC",
       "source": "UFC"
     }
