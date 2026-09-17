@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-17T11:29:23.347220+00:00",
+  "last_build_date": "2026-09-17T16:48:56.729023+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Iwo Baraniewski | You Ain’t Seen Nothing Yet",
+      "link": "https://www.ufc.com/news/iwo-baraniewski-seen-nothing-yet-crypto-com-ufc-331",
+      "guid": "https://www.ufc.com/news/iwo-baraniewski-seen-nothing-yet-crypto-com-ufc-331",
+      "pubDate": "Thu, 17 Sep 2026 16:20:00 GMT",
+      "published_at": "2026-09-17T16:20:00+00:00",
+      "description": "Polish Light Heavyweight Is On The Fast-Track To The Top, But He Says He Hasn’t Unleashed His Entire Arsenal Yet",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2280245730.jpg?itok=e9U_UREK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC AND VISIT QATAR ANNOUNCE UFC’S RETURN TO DOHA ON NOVEMBER 21",
+      "link": "https://www.ufc.com/news/ufc-and-visit-qatar-announce-ufcs-return-doha-november-21",
+      "guid": "https://www.ufc.com/news/ufc-and-visit-qatar-announce-ufcs-return-doha-november-21",
+      "pubDate": "Thu, 17 Sep 2026 16:11:00 GMT",
+      "published_at": "2026-09-17T16:11:00+00:00",
+      "description": "Tickets go on sale on Friday, October 9",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/091726-hero-generic-qatar-octagon_GettyImages-2247930470.jpg?itok=OabMcB0Y",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Robelis Despaigne | ‘The Big Boy’ Is Back",
+      "link": "https://www.ufc.com/news/robelis-despaigne-the-big-boy-is-back-cryptocom-ufc-331",
+      "guid": "https://www.ufc.com/news/robelis-despaigne-the-big-boy-is-back-cryptocom-ufc-331",
+      "pubDate": "Thu, 17 Sep 2026 16:11:00 GMT",
+      "published_at": "2026-09-17T16:11:00+00:00",
+      "description": "Cuban Knockout Machine Robelis Despaigne Is Back In The UFC, And He Plans To Blast His Way To A Heavyweight Title Shot.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-robelis-despaigne_GettyImages-2179634069.jpg?itok=kWqOPWru",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Casey O’Neill Found Herself Again",
       "link": "https://www.ufc.com/news/casey-oneill-found-herself-again-cryptocom-ufc-331",
@@ -69,39 +102,6 @@
       "published_at": "2026-09-16T16:58:00+00:00",
       "description": "Ascending Brazilian Middleweight Ryan Gandra Talks Whirlwind 12 Months, Climbing The Divisional Ranks Ahead Of Showdown With Ozzy Diaz On Saturday",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091426-hero-ryan-gandra_GettyImages-2285681081.jpg?itok=MrX71VWP",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "From The Octagon To The Aisle: UFC And FoodStory Brands Launch Main Event Protein Bars",
-      "link": "https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars",
-      "guid": "https://www.ufc.com/news/octagon-aisle-ufc-and-foodstory-brands-launch-main-eventtm-protein-bars",
-      "pubDate": "Wed, 16 Sep 2026 16:37:00 GMT",
-      "published_at": "2026-09-16T16:37:00+00:00",
-      "description": "Co-owned By UFC & FoodStory Brands And Developed Alongside The UFC Performance Institute, Main Event Raises The Bar For Performance Nutrition With A Protein Bar Built For Everyday",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 6 Results + Scorecards | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-6-results",
-      "pubDate": "Wed, 16 Sep 2026 01:30:00 GMT",
-      "published_at": "2026-09-16T01:30:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 6 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On September 15, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091526-Luis-Hernandez-Reacts-GettyImages-2295492038.jpg?itok=fKWxuytp",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Alexandre Pantoja | Enjoying The Moment Differently This Time",
-      "link": "https://www.ufc.com/news/alexandre-pantoja-enjoying-moment-differently-time-crypto-dot-com-ufc-331",
-      "guid": "https://www.ufc.com/news/alexandre-pantoja-enjoying-moment-differently-time-crypto-dot-com-ufc-331",
-      "pubDate": "Tue, 15 Sep 2026 22:17:00 GMT",
-      "published_at": "2026-09-15T22:17:00+00:00",
-      "description": "Former Flyweight Champion Alexandre Pantoja Opens Up About Feeling More Comfortable Ahead Of Second Opportunity To Challenge For UFC Gold This Weekend At UFC 331 In Los Angeles",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-ufc-331-hero-alexandre-pantoja_GettyImages-2222688917.jpg?itok=6uEpd75v",
       "category": "UFC",
       "source": "UFC"
     }
