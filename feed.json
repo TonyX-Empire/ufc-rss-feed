@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-18T16:17:40.480894+00:00",
+  "last_build_date": "2026-09-18T20:48:52.673163+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,39 @@
       "source": "UFC"
     },
     {
+      "title": "Arman Tsarukyan Is Out To Prove He Is ‘Contender No. 1’",
+      "link": "https://www.ufc.com/news/arman-tsarukyan-out-prove-hes-contender-no-1-crypto-ufc-331",
+      "guid": "https://www.ufc.com/news/arman-tsarukyan-out-prove-hes-contender-no-1-crypto-ufc-331",
+      "pubDate": "Fri, 18 Sep 2026 18:13:00 GMT",
+      "published_at": "2026-09-18T18:13:00+00:00",
+      "description": "Armenia's Arman Tsarukyan Discusses Fighting In Los Angeles, Staying Active Outside The Octagon, And Making A Statement Against Mauricio Ruffy At Crypto.com UFC 331: Van vs Pantoja",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091826-hero-ufc-331-arman-tsarukyan-feature_GettyImages-2247974430.jpg?itok=z_hWJlNY",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Marlon Vera | A New Chapter For 'Chito'",
+      "link": "https://www.ufc.com/news/marlon-vera-new-chapter-for-chito-crypto-ufc-331",
+      "guid": "https://www.ufc.com/news/marlon-vera-new-chapter-for-chito-crypto-ufc-331",
+      "pubDate": "Fri, 18 Sep 2026 16:54:00 GMT",
+      "published_at": "2026-09-18T16:54:00+00:00",
+      "description": "After Years Of Training Camp Consistency, Marlon “Chito” Vera Switched Things Up In A Bid To Turn His Form Around And Return To Bantamweight Contention Once Again.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091826-hero-ufc-331-marlon-vera-feature_GettyImages-2241904414.jpg?itok=elDuqaID",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mauricio Ruffy Is Prepared For His Breakout Moment",
+      "link": "https://www.ufc.com/news/mauricio-ruffy-is-prepared-for-his-breakout-moment-cryptocom-ufc-331",
+      "guid": "https://www.ufc.com/news/mauricio-ruffy-is-prepared-for-his-breakout-moment-cryptocom-ufc-331",
+      "pubDate": "Fri, 18 Sep 2026 16:37:00 GMT",
+      "published_at": "2026-09-18T16:37:00+00:00",
+      "description": "Brazilian Knockout Artist Mauricio Ruffy Stands On The Brink Of Championship Contention And Plans Another Show-Stopping Performance To Earn A Title Shot.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-mauricio-ruffy_GettyImages-2281619784.jpg?itok=jkG_uvCK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2",
       "link": "https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2",
       "guid": "https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2",
@@ -70,39 +103,6 @@
       "description": "Tickets go on sale on Friday, October 9",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-generic-qatar-octagon_GettyImages-2247930470.jpg?itok=OabMcB0Y",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Robelis Despaigne | ‘The Big Boy’ Is Back",
-      "link": "https://www.ufc.com/news/robelis-despaigne-the-big-boy-is-back-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/robelis-despaigne-the-big-boy-is-back-cryptocom-ufc-331",
-      "pubDate": "Thu, 17 Sep 2026 16:11:00 GMT",
-      "published_at": "2026-09-17T16:11:00+00:00",
-      "description": "Cuban Knockout Machine Robelis Despaigne Is Back In The UFC, And He Plans To Blast His Way To A Heavyweight Title Shot.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-robelis-despaigne_GettyImages-2179634069.jpg?itok=kWqOPWru",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Casey O’Neill Found Herself Again",
-      "link": "https://www.ufc.com/news/casey-oneill-found-herself-again-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/casey-oneill-found-herself-again-cryptocom-ufc-331",
-      "pubDate": "Wed, 16 Sep 2026 21:11:00 GMT",
-      "published_at": "2026-09-16T21:11:00+00:00",
-      "description": "Back Training In Thailand And Back To Full Health, Casey O’Neill Is Ready To Get Back To Making Waves In The Flyweight Division",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-casey-oneill_GettyImages-2268829944.jpg?itok=mY86NvTG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "FEATHERWEIGHT SHOW MATCH HEADLINES EXCITING UFC BJJ 11 CARD ON SEPTEMBER 24",
-      "link": "https://www.ufc.com/news/featherweight-show-match-headlines-exciting-ufc-bjj-11-card-september-24",
-      "guid": "https://www.ufc.com/news/featherweight-show-match-headlines-exciting-ufc-bjj-11-card-september-24",
-      "pubDate": "Wed, 16 Sep 2026 19:57:00 GMT",
-      "published_at": "2026-09-16T19:57:00+00:00",
-      "description": "LIVE ON UFC FIGHT PASS THURSDAY, SEPTEMBER 24 AT 8 PM ET / 5 PM PT",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-08/0-12461089215_BJJ11_Landing_page_1920x1080_Textless.jpg?itok=Re1-1kdj",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
