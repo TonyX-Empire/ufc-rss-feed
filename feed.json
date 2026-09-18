@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-18T11:02:29.303665+00:00",
+  "last_build_date": "2026-09-18T16:17:40.480894+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-09-19T21:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2",
+      "guid": "https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2",
+      "pubDate": "Fri, 18 Sep 2026 16:25:00 GMT",
+      "published_at": "2026-09-18T16:25:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing September 19 At crypto.com Arena In Los Angeles, CA",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2222531383.jpg?itok=WSKwxLVn",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "LIVE ON UFC FIGHT PASS THURSDAY, SEPTEMBER 24 AT 8 PM ET / 5 PM PT",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-08/0-12461089215_BJJ11_Landing_page_1920x1080_Textless.jpg?itok=Re1-1kdj",
       "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Joshua Van | Ready to Keep Making History",
-      "link": "https://www.ufc.com/news/joshua-van-ready-to-keep-making-history-crypto-ufc-331-los-angeles",
-      "guid": "https://www.ufc.com/news/joshua-van-ready-to-keep-making-history-crypto-ufc-331-los-angeles",
-      "pubDate": "Wed, 16 Sep 2026 18:56:00 GMT",
-      "published_at": "2026-09-16T18:56:00+00:00",
-      "description": "Flyweight Champion Joshua Van Discusses Significance Of Main Event Assignment, Importance Of Rematch With Alexandre Pantoja At UFC 331 in Los Angeles",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091626-hero-ufc-331-joshua-van_GettyImages-2275388691.jpg?itok=Lp-UFb2k",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

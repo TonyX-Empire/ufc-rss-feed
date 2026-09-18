@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:17:40 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | Crypto.com UFC 331: Van vs Pantoja 2</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil" alt="Official Scorecards | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2</title>
+      <link>https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2</guid>
+      <pubDate>Fri, 18 Sep 2026 16:25:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2222531383.jpg?itok=WSKwxLVn" alt="Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
+<p>The Official Weights Of The Athletes Competing September 19 At crypto.com Arena In Los Angeles, CA</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-08/0-12461089215_BJJ11_Landing_page_1920x1080_Textless.jpg?itok=Re1-1kdj" alt="FEATHERWEIGHT SHOW MATCH HEADLINES EXCITING UFC BJJ 11 CARD ON SEPTEMBER 24" /></p>
 <p>LIVE ON UFC FIGHT PASS THURSDAY, SEPTEMBER 24 AT 8 PM ET / 5 PM PT</p>
 <p>Category: UFC BJJ</p>]]></description>
-    </item>
-    <item>
-      <title>Joshua Van | Ready to Keep Making History</title>
-      <link>https://www.ufc.com/news/joshua-van-ready-to-keep-making-history-crypto-ufc-331-los-angeles</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/joshua-van-ready-to-keep-making-history-crypto-ufc-331-los-angeles</guid>
-      <pubDate>Wed, 16 Sep 2026 18:56:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091626-hero-ufc-331-joshua-van_GettyImages-2275388691.jpg?itok=Lp-UFb2k" alt="Joshua Van | Ready to Keep Making History" /></p>
-<p>Flyweight Champion Joshua Van Discusses Significance Of Main Event Assignment, Importance Of Rematch With Alexandre Pantoja At UFC 331 in Los Angeles</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
