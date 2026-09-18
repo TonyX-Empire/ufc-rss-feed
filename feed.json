@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-18T20:48:52.673163+00:00",
+  "last_build_date": "2026-09-18T23:11:21.722023+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-09-19T21:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gable Steveson | Unfazed Under Pressure",
+      "link": "https://www.ufc.com/news/gable-steveson-unfazed-under-pressure-cryptocom-ufc-331",
+      "guid": "https://www.ufc.com/news/gable-steveson-unfazed-under-pressure-cryptocom-ufc-331",
+      "pubDate": "Fri, 18 Sep 2026 19:07:00 GMT",
+      "published_at": "2026-09-18T19:07:00+00:00",
+      "description": "Heavyweight Prospect Gable Steveson Reflects On UFC Debut, Learning On The Job, Return To Action At Crypto.com UFC 331 This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091826-hero-gable-steveson_GettyImages-2285697855.jpg?itok=57cQ1NY2",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-09-17T16:20:00+00:00",
       "description": "Polish Light Heavyweight Is On The Fast-Track To The Top, But He Says He Hasn’t Unleashed His Entire Arsenal Yet",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2280245730.jpg?itok=e9U_UREK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC AND VISIT QATAR ANNOUNCE UFC’S RETURN TO DOHA ON NOVEMBER 21",
-      "link": "https://www.ufc.com/news/ufc-and-visit-qatar-announce-ufcs-return-doha-november-21",
-      "guid": "https://www.ufc.com/news/ufc-and-visit-qatar-announce-ufcs-return-doha-november-21",
-      "pubDate": "Thu, 17 Sep 2026 16:11:00 GMT",
-      "published_at": "2026-09-17T16:11:00+00:00",
-      "description": "Tickets go on sale on Friday, October 9",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091726-hero-generic-qatar-octagon_GettyImages-2247930470.jpg?itok=OabMcB0Y",
       "category": "UFC",
       "source": "UFC"
     }
