@@ -3,17 +3,39 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-19T22:52:04.202734+00:00",
+  "last_build_date": "2026-09-20T04:42:50.241106+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | Crypto.com UFC 331: Van vs Pantoja 2",
+      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
+      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
+      "pubDate": "Sun, 20 Sep 2026 04:15:00 GMT",
+      "published_at": "2026-09-20T04:15:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | Crypto.com UFC 331: Van vs Pantoja 2",
       "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-results",
       "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-results",
-      "pubDate": "Sun, 20 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-20T01:00:00+00:00",
+      "pubDate": "Sun, 20 Sep 2026 04:09:00 GMT",
+      "published_at": "2026-09-20T04:09:00+00:00",
       "description": "Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-EVENT-ART.jpg?itok=XXGsxoUr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Gane-Hokit, Harrison-Nunes Headline UFC 334 In New York City",
+      "link": "https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city",
+      "guid": "https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city",
+      "pubDate": "Sun, 20 Sep 2026 01:58:00 GMT",
+      "published_at": "2026-09-20T01:58:00+00:00",
+      "description": "Heavyweight And Women’s Bantamweight Belts Go Up For Grabs In The World’s Most Famous Arena On November 14",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-ufc-334-announcement-HERO.jpg?itok=tzYXcIzc",
       "category": "UFC",
       "source": "UFC"
     },
@@ -21,21 +43,10 @@
       "title": "Prelim Results | Crypto.com UFC 331: Van vs Pantoja 2",
       "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
       "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
-      "pubDate": "Sat, 19 Sep 2026 22:30:00 GMT",
-      "published_at": "2026-09-19T22:30:00+00:00",
+      "pubDate": "Sun, 20 Sep 2026 01:48:00 GMT",
+      "published_at": "2026-09-20T01:48:00+00:00",
       "description": "Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-General-View-Octagon-GettyImages-2294955370.jpg?itok=o9j3nYcB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | Crypto.com UFC 331: Van vs Pantoja 2",
-      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
-      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-official-scorecards",
-      "pubDate": "Sat, 19 Sep 2026 22:15:00 GMT",
-      "published_at": "2026-09-19T22:15:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From Crypto.com UFC 331: Van vs Pantoja 2, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-09-18T16:25:00+00:00",
       "description": "The Official Weights Of The Athletes Competing September 19 At crypto.com Arena In Los Angeles, CA",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2222531383.jpg?itok=WSKwxLVn",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Iwo Baraniewski | You Ain’t Seen Nothing Yet",
-      "link": "https://www.ufc.com/news/iwo-baraniewski-seen-nothing-yet-crypto-com-ufc-331",
-      "guid": "https://www.ufc.com/news/iwo-baraniewski-seen-nothing-yet-crypto-com-ufc-331",
-      "pubDate": "Thu, 17 Sep 2026 16:20:00 GMT",
-      "published_at": "2026-09-17T16:20:00+00:00",
-      "description": "Polish Light Heavyweight Is On The Fast-Track To The Top, But He Says He Hasn’t Unleashed His Entire Arsenal Yet",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2280245730.jpg?itok=e9U_UREK",
       "category": "UFC",
       "source": "UFC"
     }
