@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:09:03 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Official Scorecards | Crypto.com UFC 331: Van vs Pantoja 2</title>
@@ -25,6 +25,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-08/091926-ufc-331-van-vs-pantoja-2-EVENT-ART.jpg?itok=XXGsxoUr" alt="Main Card Results | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
 <p>Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Main Card Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Bonus Coverage | Crypto.com UFC 331</title>
+      <link>https://www.ufc.com/news/crypto-dotcom-ufc-331-coverage-performance-bonus</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/crypto-dotcom-ufc-331-coverage-performance-bonus</guid>
+      <pubDate>Sun, 20 Sep 2026 04:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-hero-bonus-coverage.jpg?itok=Qm7yn5AE" alt="Bonus Coverage | Crypto.com UFC 331" /></p>
+<p>The Performances Awarded An Extra Bonus At crypto.com Arena, On Sept. 19. 2026 In Los Angeles, CA</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091726-hero-mauricio-ruffy_GettyImages-2281619784.jpg?itok=jkG_uvCK" alt="Mauricio Ruffy Is Prepared For His Breakout Moment" /></p>
 <p>Brazilian Knockout Artist Mauricio Ruffy Stands On The Brink Of Championship Contention And Plans Another Show-Stopping Performance To Earn A Title Shot.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2</title>
-      <link>https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-cryptocom-ufc-331-van-vs-pantoja-2</guid>
-      <pubDate>Fri, 18 Sep 2026 16:25:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/GettyImages-2222531383.jpg?itok=WSKwxLVn" alt="Official Weigh-In Results | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
-<p>The Official Weights Of The Athletes Competing September 19 At crypto.com Arena In Los Angeles, CA</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
