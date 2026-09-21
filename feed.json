@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-21T12:38:22.626433+00:00",
+  "last_build_date": "2026-09-21T19:56:16.212674+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White on Joshua Van, Arman Tsarukyan, Tom Aspinall + More",
+      "link": "https://www.ufc.com/news/dana-white-joshua-van-arman-tsarukyan-tom-aspinall-more",
+      "guid": "https://www.ufc.com/news/dana-white-joshua-van-arman-tsarukyan-tom-aspinall-more",
+      "pubDate": "Mon, 21 Sep 2026 17:36:00 GMT",
+      "published_at": "2026-09-21T17:36:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The Crypto.com UFC 331 Post-Fight Press Conference In Los Angeles.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092126-hero-dana-white_GettyImages-2295989769.jpg?itok=gGddAPXH",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-rosas-jr-vs-barcelos",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-rosas-jr-vs-barcelos",
+      "pubDate": "Mon, 21 Sep 2026 17:16:00 GMT",
+      "published_at": "2026-09-21T17:16:00+00:00",
+      "description": "Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092126-hero-raul-rosas-jr_GettyImages-2265351383.jpg?itok=kB3ocxSP",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+      "published_at": "2026-09-21T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Bigger Picture | Crypto.com UFC 331: Van vs Pantoja 2",
       "link": "https://www.ufc.com/news/the-bigger-picture-cryptocom-ufc-331-van-vs-pantoja-2",
@@ -69,39 +102,6 @@
       "published_at": "2026-09-20T01:58:00+00:00",
       "description": "Heavyweight And Women’s Bantamweight Belts Go Up For Grabs In The World’s Most Famous Arena On November 14",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-ufc-334-announcement-HERO.jpg?itok=tzYXcIzc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | Crypto.com UFC 331: Van vs Pantoja 2",
-      "link": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
-      "guid": "https://www.ufc.com/news/cryptocom-ufc-331-van-vs-pantoja-2-prelim-results",
-      "pubDate": "Sun, 20 Sep 2026 01:48:00 GMT",
-      "published_at": "2026-09-20T01:48:00+00:00",
-      "description": "Crypto.com UFC 331: Van vs Pantoja 2 Results, Highlights, Post-Fight Interviews With The Prelim Winners And More, Live From Crypto.com Arena In Los Angeles On September 19, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-General-View-Octagon-GettyImages-2294955370.jpg?itok=o9j3nYcB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Gable Steveson | Unfazed Under Pressure",
-      "link": "https://www.ufc.com/news/gable-steveson-unfazed-under-pressure-cryptocom-ufc-331",
-      "guid": "https://www.ufc.com/news/gable-steveson-unfazed-under-pressure-cryptocom-ufc-331",
-      "pubDate": "Fri, 18 Sep 2026 19:07:00 GMT",
-      "published_at": "2026-09-18T19:07:00+00:00",
-      "description": "Heavyweight Prospect Gable Steveson Reflects On UFC Debut, Learning On The Job, Return To Action At Crypto.com UFC 331 This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091826-hero-gable-steveson_GettyImages-2285697855.jpg?itok=57cQ1NY2",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Arman Tsarukyan Is Out To Prove He Is ‘Contender No. 1’",
-      "link": "https://www.ufc.com/news/arman-tsarukyan-out-prove-hes-contender-no-1-crypto-ufc-331",
-      "guid": "https://www.ufc.com/news/arman-tsarukyan-out-prove-hes-contender-no-1-crypto-ufc-331",
-      "pubDate": "Fri, 18 Sep 2026 18:13:00 GMT",
-      "published_at": "2026-09-18T18:13:00+00:00",
-      "description": "Armenia's Arman Tsarukyan Discusses Fighting In Los Angeles, Staying Active Outside The Octagon, And Making A Statement Against Mauricio Ruffy At Crypto.com UFC 331: Van vs Pantoja",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091826-hero-ufc-331-arman-tsarukyan-feature_GettyImages-2247974430.jpg?itok=z_hWJlNY",
       "category": "UFC",
       "source": "UFC"
     }
