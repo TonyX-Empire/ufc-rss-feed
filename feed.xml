@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:24:38 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live Now: Garcia vs Benn Memorabilia Auction</title>
+      <link>https://www.ufc.com/news/live-now-garcia-vs-benn-memorabilia-auction</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/live-now-garcia-vs-benn-memorabilia-auction</guid>
+      <pubDate>Tue, 22 Sep 2026 09:05:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/OTHER_260921_Auction_GENR_1920x1080_notext.jpg?itok=b8eE0-bu" alt="Live Now: Garcia vs Benn Memorabilia Auction" /></p>
+<p>Until October 1, Bid On Authenticated Items From September's Mega Event</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Dana White on Joshua Van, Arman Tsarukyan, Tom Aspinall + More</title>
       <link>https://www.ufc.com/news/dana-white-joshua-van-arman-tsarukyan-tom-aspinall-more</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-hero-bonus-coverage.jpg?itok=Qm7yn5AE" alt="Bonus Coverage | Crypto.com UFC 331" /></p>
 <p>The Performances Awarded An Extra Bonus At crypto.com Arena, On Sept. 19. 2026 In Los Angeles, CA</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Gane-Hokit, Harrison-Nunes Headline UFC 334 In New York City</title>
-      <link>https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city</guid>
-      <pubDate>Sun, 20 Sep 2026 01:58:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-ufc-334-announcement-HERO.jpg?itok=tzYXcIzc" alt="Gane-Hokit, Harrison-Nunes Headline UFC 334 In New York City" /></p>
-<p>Heavyweight And Women’s Bantamweight Belts Go Up For Grabs In The World’s Most Famous Arena On November 14</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-22T04:44:47.215381+00:00",
+  "last_build_date": "2026-09-22T11:24:38.793465+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Live Now: Garcia vs Benn Memorabilia Auction",
+      "link": "https://www.ufc.com/news/live-now-garcia-vs-benn-memorabilia-auction",
+      "guid": "https://www.ufc.com/news/live-now-garcia-vs-benn-memorabilia-auction",
+      "pubDate": "Tue, 22 Sep 2026 09:05:00 GMT",
+      "published_at": "2026-09-22T09:05:00+00:00",
+      "description": "Until October 1, Bid On Authenticated Items From September's Mega Event",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/OTHER_260921_Auction_GENR_1920x1080_notext.jpg?itok=b8eE0-bu",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Dana White on Joshua Van, Arman Tsarukyan, Tom Aspinall + More",
       "link": "https://www.ufc.com/news/dana-white-joshua-van-arman-tsarukyan-tom-aspinall-more",
@@ -91,17 +102,6 @@
       "published_at": "2026-09-20T04:00:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At crypto.com Arena, On Sept. 19. 2026 In Los Angeles, CA",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-hero-bonus-coverage.jpg?itok=Qm7yn5AE",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Gane-Hokit, Harrison-Nunes Headline UFC 334 In New York City",
-      "link": "https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city",
-      "guid": "https://www.ufc.com/news/gane-hokit-harrison-nunes-headline-ufc-334-new-york-city",
-      "pubDate": "Sun, 20 Sep 2026 01:58:00 GMT",
-      "published_at": "2026-09-20T01:58:00+00:00",
-      "description": "Heavyweight And Women’s Bantamweight Belts Go Up For Grabs In The World’s Most Famous Arena On November 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-ufc-334-announcement-HERO.jpg?itok=tzYXcIzc",
       "category": "UFC",
       "source": "UFC"
     }
