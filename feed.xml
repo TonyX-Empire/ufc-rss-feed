@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:33:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:22:02 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Watch Zuffa Boxing</title>
+      <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</guid>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
+<p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>Search results | UFC</title>
       <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-7-results</link>
@@ -85,16 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Joshua-Van-GettyImages-2296159988.jpg?itok=jGzaeavT" alt="The Bigger Picture | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
 <p>Dissecting The Takeaways From A Thrilling Night In Los Angeles</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Week 7 Preview | Dana White’s Contender Series, Season 10</title>
-      <link>https://www.ufc.com/news/week-7-preview-dana-whites-contender-series-season-10</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/week-7-preview-dana-whites-contender-series-season-10</guid>
-      <pubDate>Sun, 20 Sep 2026 15:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/081126-general-view-octagon-GettyImages-2290092796.jpg?itok=ilbzC3ih" alt="Week 7 Preview | Dana White’s Contender Series, Season 10" /></p>
-<p>Taking A Look At The Contests Hitting The Cage This Week At Meta APEX</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
