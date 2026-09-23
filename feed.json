@@ -3,15 +3,15 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-22T21:11:31.521425+00:00",
+  "last_build_date": "2026-09-23T04:33:51.116688+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-7-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-7-results",
-      "pubDate": "Tue, 22 Sep 2026 23:00:00 GMT",
-      "published_at": "2026-09-22T23:00:00+00:00",
+      "pubDate": "Wed, 23 Sep 2026 01:40:00 GMT",
+      "published_at": "2026-09-23T01:40:00+00:00",
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
       "category": "UFC",
@@ -24,7 +24,7 @@
       "pubDate": "Tue, 22 Sep 2026 20:44:00 GMT",
       "published_at": "2026-09-22T20:44:00+00:00",
       "description": "Newly Promoted To Undisputed Champion, France’s Ciryl Gane Enjoyed The Fruits Of His Labor This Summer Before Getting Back To Work Ahead Of UFC 334",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/092226-ciryl-gane-backstage-with-belts_GettyImages-2281638769.jpg?itok=EIy28_ZF",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-ciryl-gane-backstage-with-belts_GettyImages-2281638769.jpg?itok=EIy28_ZF",
       "category": "UFC",
       "source": "UFC"
     },
