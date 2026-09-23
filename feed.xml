@@ -5,8 +5,27 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:44:00 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-7</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-7</guid>
+      <pubDate>Wed, 23 Sep 2026 16:21:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Updates To Zuffa Boxing 11</title>
+      <link>https://www.ufc.com/news/updates-zuffa-boxing-11</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/updates-zuffa-boxing-11</guid>
+      <pubDate>Wed, 23 Sep 2026 15:19:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="Updates To Zuffa Boxing 11" /></p>
+<p>Key Info For The Fisher vs Pirotton Card Happening Live From London On September 26</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>How To Watch Zuffa Boxing</title>
       <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
@@ -75,26 +94,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092126-hero-raul-rosas-jr_GettyImages-2265351383.jpg?itok=kB3ocxSP" alt="Fight By Fight Preview | UFC Fight Night: Rosas Jr. vs Barcelos" /></p>
 <p>Previewing All The Action Set To Hit Meta APEX On Saturday Night In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | Dana White's Contender Series, Season 10</title>
-      <link>https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10</guid>
-      <pubDate>Mon, 21 Sep 2026 17:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM" alt="Official Weigh-In Results | Dana White's Contender Series, Season 10" /></p>
-<p>The Official Weights Of The Athletes Competing For UFC Contracts In 2026</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>The Bigger Picture | Crypto.com UFC 331: Van vs Pantoja 2</title>
-      <link>https://www.ufc.com/news/the-bigger-picture-cryptocom-ufc-331-van-vs-pantoja-2</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-cryptocom-ufc-331-van-vs-pantoja-2</guid>
-      <pubDate>Sun, 20 Sep 2026 15:45:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Joshua-Van-GettyImages-2296159988.jpg?itok=jGzaeavT" alt="The Bigger Picture | Crypto.com UFC 331: Van vs Pantoja 2" /></p>
-<p>Dissecting The Takeaways From A Thrilling Night In Los Angeles</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
