@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-24T17:00:54.868276+00:00",
+  "last_build_date": "2026-09-24T21:25:54.553094+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,13 +18,57 @@
       "source": "UFC"
     },
     {
+      "title": "Melissa Amaya | A Love Letter to Everyone That Helped Her",
+      "link": "https://www.ufc.com/news/melissa-amaya-a-love-letter-to-everyone-that-helped-her-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/melissa-amaya-a-love-letter-to-everyone-that-helped-her-ufc-vegas-121",
+      "pubDate": "Thu, 24 Sep 2026 21:30:00 GMT",
+      "published_at": "2026-09-24T21:30:00+00:00",
+      "description": "TUF Finalist Melissa Amaya Sees Win On Saturday As A ‘Thank You’ To All Those Who Aided Her In Her MMA Journey",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-melissa-amaya-walkout_GettyImages-2289066822.jpg?itok=IJIuBiyh",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Updates To UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/updates-ufc-fight-night-rosas-jr-vs-barcelos-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-rosas-jr-vs-barcelos-ufc-vegas-121",
+      "pubDate": "Thu, 24 Sep 2026 18:13:00 GMT",
+      "published_at": "2026-09-24T18:13:00+00:00",
+      "description": "Key Info For Saturday's Fight Night Live From META Apex In Las Vegas On September 26",
+      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-General-View-Octagon-Meta-APEX-GettyImages-2289634671.jpg?itok=CYXY9w9-",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Michael Pirotton | Silence Is Golden | Zuffa Boxing 11",
+      "link": "https://www.ufc.com/news/michael-pirotton-silence-golden-zuffa-boxing-11",
+      "guid": "https://www.ufc.com/news/michael-pirotton-silence-golden-zuffa-boxing-11",
+      "pubDate": "Thu, 24 Sep 2026 17:40:00 GMT",
+      "published_at": "2026-09-24T17:40:00+00:00",
+      "description": "Belgian Heavyweight Michael Pirotton Is Ready To Show Up And Silence The London Crowd With An Upset Victory Over Johnny Fisher At Zuffa Boxing 11",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-michael-pirotton-zb11-media-day.jpg?itok=FmIdr0K5",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Norma Dumont Is Finally Getting Her Wish",
+      "link": "https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121",
+      "pubDate": "Thu, 24 Sep 2026 17:10:00 GMT",
+      "published_at": "2026-09-24T17:10:00+00:00",
+      "description": "After Repeatedly Agreeing To Fight Ailin Perez, Brazilian Contender Norma Dumont Now Has Her Rival In Her Sights, And She Plans To Enjoy What Comes Next.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-hero-norma-dumont_GettyImages-2273155742.jpg?itok=Cm3DbjlQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Johnny Fisher | The Road Starts Here | Zuffa Boxing 11",
       "link": "https://www.ufc.com/news/johnny-fisher-road-starts-here-zuffa-boxing-11",
       "guid": "https://www.ufc.com/news/johnny-fisher-road-starts-here-zuffa-boxing-11",
       "pubDate": "Thu, 24 Sep 2026 17:00:00 GMT",
       "published_at": "2026-09-24T17:00:00+00:00",
       "description": "After Bouncing Back From His First Career Loss, “The Romford Bull” Is Ready To Entertain On His Zuffa Boxing Debut.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/092326-johnny-fisher-training-ZB11.jpg?itok=AyerGyLl",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-johnny-fisher-training-ZB11.jpg?itok=AyerGyLl",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -58,50 +102,6 @@
       "published_at": "2026-09-23T20:32:00+00:00",
       "description": "After Getting His Zuffa Boxing Career Off To A Winning Start, Lee Cutler Is Chasing A More Emphatic Result At Zuffa Boxing 11",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-lee-cutler-reaction_GettyImages-2291374663.jpg?itok=w_hV_ZEL",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Brady Hiestand | ‘Bam Bam’ Amped Up For Team’s Big Week",
-      "link": "https://www.ufc.com/news/brady-hiestand-bam-bam-amped-teams-big-week-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/brady-hiestand-bam-bam-amped-teams-big-week-ufc-vegas-121",
-      "pubDate": "Wed, 23 Sep 2026 18:34:00 GMT",
-      "published_at": "2026-09-23T18:34:00+00:00",
-      "description": "Returning Bantamweight Talks Journey Back To Octagon, Huge Week For Team In Las Vegas, Facing Rinya Nakamura",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-brady-hiestand-celebration_GettyImages-1484216917.jpg?itok=L-eF-PQy",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Contender Series Week 7, Contract Decisions, Gable Steveson + More",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-week-7-contract-decisions-gable-steveson-more",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-week-7-contract-decisions-gable-steveson-more",
-      "pubDate": "Wed, 23 Sep 2026 16:44:00 GMT",
-      "published_at": "2026-09-23T16:44:00+00:00",
-      "description": "UFC CEO Dana White Fielded Questions From The Media At The Dana White’s Contender Series Week 7 Post-Fight Press Conference In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/050426-Dana-White-Press-Conference-GettyImages-1487591005.jpg?itok=lg8HAOhh",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS, Season 10, Week 7",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-7",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-7",
-      "pubDate": "Wed, 23 Sep 2026 16:21:00 GMT",
-      "published_at": "2026-09-23T16:21:00+00:00",
-      "description": "Week 7 Saw Six More Prospects Earn UFC Deals From UFC President Dana White As The Meta APEX Was Treated To Another Spectacular Night Of Contender Series Fights.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-damien-piwowarczyk-celebration_GettyImages-2296647539.jpg?itok=3rIIyc2e",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 11",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
-      "pubDate": "Wed, 23 Sep 2026 15:23:00 GMT",
-      "published_at": "2026-09-23T15:23:00+00:00",
-      "description": "Zuffa Boxing Heads To London, England, Where The Copper Box Arena Plays Host To Zuffa Boxing 11, And The Eagerly Awaited Zuffa Boxing Debut Of Johnny Fisher",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/EM1_5373.jpg?itok=aSdjCjEf",
       "category": "Boxing",
       "source": "UFC"
     }
