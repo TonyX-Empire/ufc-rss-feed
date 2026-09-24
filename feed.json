@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-23T21:25:04.548712+00:00",
+  "last_build_date": "2026-09-24T04:31:05.318883+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,6 +18,28 @@
       "source": "UFC"
     },
     {
+      "title": "Kayla Allen | It’s Time To Shine | Zuffa Boxing 11",
+      "link": "https://www.ufc.com/news/kayla-allen-its-time-shine-zuffa-boxing-11",
+      "guid": "https://www.ufc.com/news/kayla-allen-its-time-shine-zuffa-boxing-11",
+      "pubDate": "Wed, 23 Sep 2026 23:30:00 GMT",
+      "published_at": "2026-09-23T23:30:00+00:00",
+      "description": "After Taking Up Boxing During The Pandemic, Kayla Allen Is Ready To Become The UK’s Next Female Boxing Star.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-Kayla-Allen-wrap-hero.jpg?itok=qqNxBv34",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Ailin Perez: ‘I’m Gonna Get That Title’",
+      "link": "https://www.ufc.com/news/ailin-perez-im-gonna-get-that-title-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/ailin-perez-im-gonna-get-that-title-ufc-vegas-121",
+      "pubDate": "Wed, 23 Sep 2026 22:00:00 GMT",
+      "published_at": "2026-09-23T22:00:00+00:00",
+      "description": "The Streaking Ailin Perez Talks Fight With Norma Dumont, Outlines Plans For Claiming UFC Gold",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-ailin-perez-backstage-portrait_GettyImages-2264125641.jpg?itok=cxEEr0VH",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Lee Cutler | Onwards And Upwards | Zuffa Boxing 11",
       "link": "https://www.ufc.com/news/lee-cutler-onwards-and-upwards-zuffa-boxing-11",
       "guid": "https://www.ufc.com/news/lee-cutler-onwards-and-upwards-zuffa-boxing-11",
@@ -26,6 +48,17 @@
       "description": "After Getting His Zuffa Boxing Career Off To A Winning Start, Lee Cutler Is Chasing A More Emphatic Result At Zuffa Boxing 11",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-lee-cutler-reaction_GettyImages-2291374663.jpg?itok=w_hV_ZEL",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Brady Hiestand | ‘Bam Bam’ Amped Up For Team’s Big Week",
+      "link": "https://www.ufc.com/news/brady-hiestand-bam-bam-amped-teams-big-week-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/brady-hiestand-bam-bam-amped-teams-big-week-ufc-vegas-121",
+      "pubDate": "Wed, 23 Sep 2026 18:34:00 GMT",
+      "published_at": "2026-09-23T18:34:00+00:00",
+      "description": "Returning Bantamweight Talks Journey Back To Octagon, Huge Week For Team In Las Vegas, Facing Rinya Nakamura",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-brady-hiestand-celebration_GettyImages-1484216917.jpg?itok=L-eF-PQy",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -70,39 +103,6 @@
       "description": "Key Info For The Fisher vs Pirotton Card Happening Live From London On September 26",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-7-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-7-results",
-      "pubDate": "Wed, 23 Sep 2026 01:40:00 GMT",
-      "published_at": "2026-09-23T01:40:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ciryl Gane | Undisputed And Ready To Defend",
-      "link": "https://www.ufc.com/news/ciryl-gane-undisputed-and-ready-defend-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/ciryl-gane-undisputed-and-ready-defend-polymarket-ufc-334",
-      "pubDate": "Tue, 22 Sep 2026 20:44:00 GMT",
-      "published_at": "2026-09-22T20:44:00+00:00",
-      "description": "Newly Promoted To Undisputed Champion, France’s Ciryl Gane Enjoyed The Fruits Of His Labor This Summer Before Getting Back To Work Ahead Of UFC 334",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-ciryl-gane-backstage-with-belts_GettyImages-2281638769.jpg?itok=EIy28_ZF",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
