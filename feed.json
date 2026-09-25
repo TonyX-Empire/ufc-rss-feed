@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-25T11:40:35.070700+00:00",
+  "last_build_date": "2026-09-25T17:02:45.871608+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121",
+      "pubDate": "Fri, 25 Sep 2026 14:30:00 GMT",
+      "published_at": "2026-09-25T14:30:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing Sept. 26, 2026 At Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2207408530.jpg?itok=HY2QNeN-",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming",
+      "pubDate": "Fri, 25 Sep 2026 13:00:00 GMT",
+      "published_at": "2026-09-25T13:00:00+00:00",
+      "description": "Dana White’s Contender Series Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-dwcs-octagon_GettyImages-2296645138.jpg?itok=xODP7zcd",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Tina Black Just Needs To Be Herself",
+      "link": "https://www.ufc.com/news/tina-black-just-needs-be-herself-ufc-vegas-121",
+      "guid": "https://www.ufc.com/news/tina-black-just-needs-be-herself-ufc-vegas-121",
+      "pubDate": "Fri, 25 Sep 2026 12:00:00 GMT",
+      "published_at": "2026-09-25T12:00:00+00:00",
+      "description": "TUF 34 Standout Talks Being The Favorite, Reaching The Finals, And Readying To Make Her UFC Dreams Come True",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-tina-black-pre-fight-shoot.jpg?itok=h7IebfXU",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Weigh-In Results | Zuffa Boxing 11",
       "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11",
@@ -70,39 +103,6 @@
       "description": "After Making History As The Youngest Fighter To Sign For The UFC, Raul Rosas Jr. Plans To Force Himself Into Contention With A Big Win In His First UFC Main Event.",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-raul-rosas-jr-enters-octagon_GettyImages-2265351326.jpg?itok=A55ptyA2",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Melissa Amaya | A Love Letter to Everyone That Helped Her",
-      "link": "https://www.ufc.com/news/melissa-amaya-a-love-letter-to-everyone-that-helped-her-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/melissa-amaya-a-love-letter-to-everyone-that-helped-her-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 21:30:00 GMT",
-      "published_at": "2026-09-24T21:30:00+00:00",
-      "description": "TUF Finalist Melissa Amaya Sees Win On Saturday As A ‘Thank You’ To All Those Who Aided Her In Her MMA Journey",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092226-melissa-amaya-walkout_GettyImages-2289066822.jpg?itok=IJIuBiyh",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Fight Night: Rosas Jr. vs Barcelos",
-      "link": "https://www.ufc.com/news/updates-ufc-fight-night-rosas-jr-vs-barcelos-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-rosas-jr-vs-barcelos-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 18:13:00 GMT",
-      "published_at": "2026-09-24T18:13:00+00:00",
-      "description": "Key Info For Saturday's Fight Night Live From META Apex In Las Vegas On September 26",
-      "image": "https://ufc.com/images/styles/card/s3/2026-08/080826-General-View-Octagon-Meta-APEX-GettyImages-2289634671.jpg?itok=CYXY9w9-",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Michael Pirotton | Silence Is Golden | Zuffa Boxing 11",
-      "link": "https://www.ufc.com/news/michael-pirotton-silence-golden-zuffa-boxing-11",
-      "guid": "https://www.ufc.com/news/michael-pirotton-silence-golden-zuffa-boxing-11",
-      "pubDate": "Thu, 24 Sep 2026 17:40:00 GMT",
-      "published_at": "2026-09-24T17:40:00+00:00",
-      "description": "Belgian Heavyweight Michael Pirotton Is Ready To Show Up And Silence The London Crowd With An Upset Victory Over Johnny Fisher At Zuffa Boxing 11",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-michael-pirotton-zb11-media-day.jpg?itok=FmIdr0K5",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
