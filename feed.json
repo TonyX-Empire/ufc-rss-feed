@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-25T04:42:26.624630+00:00",
+  "last_build_date": "2026-09-25T11:40:35.070700+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 11",
+      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11",
+      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11",
+      "pubDate": "Fri, 25 Sep 2026 06:30:00 GMT",
+      "published_at": "2026-09-25T06:30:00+00:00",
+      "description": "The Athletes Of Fisher vs Pirotton Step On The Scale To Make It Official For September 26, 2026 In London",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "UFC BJJ 11: Musumeci vs Mitchell Results",
       "link": "https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-results",
@@ -92,17 +103,6 @@
       "description": "Belgian Heavyweight Michael Pirotton Is Ready To Show Up And Silence The London Crowd With An Upset Victory Over Johnny Fisher At Zuffa Boxing 11",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-michael-pirotton-zb11-media-day.jpg?itok=FmIdr0K5",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Norma Dumont Is Finally Getting Her Wish",
-      "link": "https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 17:10:00 GMT",
-      "published_at": "2026-09-24T17:10:00+00:00",
-      "description": "After Repeatedly Agreeing To Fight Ailin Perez, Brazilian Contender Norma Dumont Now Has Her Rival In Her Sights, And She Plans To Enjoy What Comes Next.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-hero-norma-dumont_GettyImages-2273155742.jpg?itok=Cm3DbjlQ",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

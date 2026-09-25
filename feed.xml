@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2026 04:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:40:34 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | Zuffa Boxing 11</title>
+      <link>https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11</guid>
+      <pubDate>Fri, 25 Sep 2026 06:30:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" alt="Official Weigh-In Results | Zuffa Boxing 11" /></p>
+<p>The Athletes Of Fisher vs Pirotton Step On The Scale To Make It Official For September 26, 2026 In London</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>UFC BJJ 11: Musumeci vs Mitchell Results</title>
       <link>https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-results</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092326-michael-pirotton-zb11-media-day.jpg?itok=FmIdr0K5" alt="Michael Pirotton | Silence Is Golden | Zuffa Boxing 11" /></p>
 <p>Belgian Heavyweight Michael Pirotton Is Ready To Show Up And Silence The London Crowd With An Upset Victory Over Johnny Fisher At Zuffa Boxing 11</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Norma Dumont Is Finally Getting Her Wish</title>
-      <link>https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/norma-dumont-is-finally-getting-her-wish-ufc-vegas-121</guid>
-      <pubDate>Thu, 24 Sep 2026 17:10:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092426-hero-norma-dumont_GettyImages-2273155742.jpg?itok=Cm3DbjlQ" alt="Norma Dumont Is Finally Getting Her Wish" /></p>
-<p>After Repeatedly Agreeing To Fight Ailin Perez, Brazilian Contender Norma Dumont Now Has Her Rival In Her Sights, And She Plans To Enjoy What Comes Next.</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
