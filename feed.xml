@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:27:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zuffa Boxing 11 Results + Scorecards</title>
+      <link>https://www.ufc.com/news/zuffa-boxing-11-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-11-results</guid>
+      <pubDate>Sat, 26 Sep 2026 16:00:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092626-zuffa-boxing-11-event-art.jpg?itok=BsmGhQd1" alt="Zuffa Boxing 11 Results + Scorecards" /></p>
+<p>Results, Highlights, Scorecards And More From Zuffa Boxing 11: Fisher vs Pirotton, Live From Copper Box Arena In London, England On September 26, 2026</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos</title>
       <link>https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092326-rinya-nakamura-reaction_GettyImages-2228252704.jpg?itok=dmNqiG2E" alt="The Yamato-Damashii of Rinya Nakamura" /></p>
 <p>Japanese Bantamweight Discusses Fighting Inspirations, Showcasing His Spirit In The Octagon, And Facing Brady Hiestand On Saturday</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Raul Rosas Jr. | From Prospect To Contender</title>
-      <link>https://www.ufc.com/news/raul-rosas-jr-from-prospect-to-contender-ufc-vegas-121</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/raul-rosas-jr-from-prospect-to-contender-ufc-vegas-121</guid>
-      <pubDate>Thu, 24 Sep 2026 22:07:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092326-raul-rosas-jr-enters-octagon_GettyImages-2265351326.jpg?itok=A55ptyA2" alt="Raul Rosas Jr. | From Prospect To Contender" /></p>
-<p>After Making History As The Youngest Fighter To Sign For The UFC, Raul Rosas Jr. Plans To Force Himself Into Contention With A Big Win In His First UFC Main Event.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
