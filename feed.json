@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-26T11:14:13.336933+00:00",
+  "last_build_date": "2026-09-26T16:16:05.922496+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,17 +14,6 @@
       "published_at": "2026-09-27T00:00:00+00:00",
       "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-ufc-fight-night-rosas-jr-vs-barcelos-EVENT-ART.jpg?itok=IDYH0iDY",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos",
-      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
-      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-26T21:00:00+00:00",
-      "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/060626-General-view-Octagon-GettyImages-2280245979.jpg?itok=WT6d_bxQ",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -40,13 +29,46 @@
       "source": "UFC"
     },
     {
+      "title": "Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-26T21:00:00+00:00",
+      "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/060626-General-view-Octagon-GettyImages-2280245979.jpg?itok=WT6d_bxQ",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
       "title": "Zuffa Boxing 11 Results + Scorecards",
       "link": "https://www.ufc.com/news/zuffa-boxing-11-results",
       "guid": "https://www.ufc.com/news/zuffa-boxing-11-results",
-      "pubDate": "Sat, 26 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-26T16:00:00+00:00",
+      "pubDate": "Sat, 26 Sep 2026 20:00:00 GMT",
+      "published_at": "2026-09-26T20:00:00+00:00",
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 11: Fisher vs Pirotton, Live From Copper Box Arena In London, England On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-zuffa-boxing-11-event-art.jpg?itok=BsmGhQd1",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | Zuffa Boxing 11",
+      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
+      "pubDate": "Sat, 26 Sep 2026 16:23:00 GMT",
+      "published_at": "2026-09-26T16:23:00+00:00",
+      "description": "Zuffa Boxing Heads To London, England, Where The Copper Box Arena Plays Host To Zuffa Boxing 11, And The Eagerly Awaited Zuffa Boxing Debut Of Johnny Fisher",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/EM1_5373.jpg?itok=aSdjCjEf",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Sat, 26 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-26T16:00:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "TUF 34 Standout Talks Being The Favorite, Reaching The Finals, And Readying To Make Her UFC Dreams Come True",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-tina-black-pre-fight-shoot.jpg?itok=h7IebfXU",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Zuffa Boxing 11",
-      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11",
-      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-11",
-      "pubDate": "Fri, 25 Sep 2026 06:30:00 GMT",
-      "published_at": "2026-09-25T06:30:00+00:00",
-      "description": "The Athletes Of Fisher vs Pirotton Step On The Scale To Make It Official For September 26, 2026 In London",
-      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 11: Musumeci vs Mitchell Results",
-      "link": "https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-results",
-      "guid": "https://www.ufc.com/news/ufc-bjj-11-musumeci-vs-mitchell-results",
-      "pubDate": "Fri, 25 Sep 2026 03:25:00 GMT",
-      "published_at": "2026-09-25T03:25:00+00:00",
-      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 11: Musumeci vs Mitchell At Meta APEX In Las Vegas, Nevada On September 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-ufc-bjj-11-EVENT-ART.jpg?itok=ZtdiHADq",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
