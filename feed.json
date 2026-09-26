@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-26T16:16:05.922496+00:00",
+  "last_build_date": "2026-09-26T20:59:39.146556+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,17 +18,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Fight Night: Rosas Jr. vs Barcelos",
-      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
-      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
-      "published_at": "2026-09-26T21:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Rosas Jr. vs Barcelos, Live From Meta APEX In Las Vegas On September 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
@@ -36,6 +25,17 @@
       "published_at": "2026-09-26T21:00:00+00:00",
       "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/060626-General-view-Octagon-GettyImages-2280245979.jpg?itok=WT6d_bxQ",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-26T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Rosas Jr. vs Barcelos, Live From Meta APEX In Las Vegas On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
