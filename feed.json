@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-25T21:27:07.882646+00:00",
+  "last_build_date": "2026-09-26T04:44:56.888373+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-results",
+      "pubDate": "Sun, 27 Sep 2026 00:00:00 GMT",
+      "published_at": "2026-09-27T00:00:00+00:00",
+      "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-ufc-fight-night-rosas-jr-vs-barcelos-EVENT-ART.jpg?itok=IDYH0iDY",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-26T21:00:00+00:00",
+      "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/060626-General-view-Octagon-GettyImages-2280245979.jpg?itok=WT6d_bxQ",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "published_at": "2026-09-26T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Rosas Jr. vs Barcelos, Live From Meta APEX In Las Vegas On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Zuffa Boxing 11 Results + Scorecards",
       "link": "https://www.ufc.com/news/zuffa-boxing-11-results",
@@ -70,39 +103,6 @@
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 11: Musumeci vs Mitchell At Meta APEX In Las Vegas, Nevada On September 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-ufc-bjj-11-EVENT-ART.jpg?itok=ZtdiHADq",
       "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Josiah Harrell Is Chasing Progression, Not Perfection",
-      "link": "https://www.ufc.com/news/josiah-harrell-chasing-progression-not-perfection-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/josiah-harrell-chasing-progression-not-perfection-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 23:40:00 GMT",
-      "published_at": "2026-09-24T23:40:00+00:00",
-      "description": "After Tasting Defeat For The First Time In His UFC Debut, Josiah Harrell Is Back, Looking To Showcase His Improvements En Route To His First Win In The Octagon.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-josiah-harrell-pre-fight_GettyImages-2262881615.jpg?itok=qxImPtNA",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Raoni Barcelos | Get Ready For A New Chapter",
-      "link": "https://www.ufc.com/news/raoni-barcelos-get-ready-for-a-new-chapter-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/raoni-barcelos-get-ready-for-a-new-chapter-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 22:47:00 GMT",
-      "published_at": "2026-09-24T22:47:00+00:00",
-      "description": "Veteran Bantamweight Raoni Barcelos Plans To Make His First UFC Main Event Assignment Count With The Biggest Win Of His Career.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-raoni-barcelos-hand-raise_GettyImages-2245738801.jpg?itok=A08ZdKm1",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Yamato-Damashii of Rinya Nakamura",
-      "link": "https://www.ufc.com/news/the-yamato-damashii-rinya-nakamura-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/the-yamato-damashii-rinya-nakamura-ufc-vegas-121",
-      "pubDate": "Thu, 24 Sep 2026 22:09:00 GMT",
-      "published_at": "2026-09-24T22:09:00+00:00",
-      "description": "Japanese Bantamweight Discusses Fighting Inspirations, Showcasing His Spirit In The Octagon, And Facing Brady Hiestand On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-rinya-nakamura-reaction_GettyImages-2228252704.jpg?itok=dmNqiG2E",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
