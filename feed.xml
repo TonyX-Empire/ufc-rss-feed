@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:51:58 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 8 Preview | Dana White’s Contender Series, Season 10</title>
+      <link>https://www.ufc.com/news/week-8-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-8-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092626-hero-generic-dwcs-octagonGettyImages-2296645138.jpg?itok=xIGkBl9T" alt="Week 8 Preview | Dana White’s Contender Series, Season 10" /></p>
+<p>Taking A Look At The Contests Hitting The Cage This Week At Meta APEX</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos</title>
       <link>https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
 <p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos</title>
-      <link>https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121</guid>
-      <pubDate>Fri, 25 Sep 2026 14:30:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2207408530.jpg?itok=HY2QNeN-" alt="Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos" /></p>
-<p>The Official Weights Of The Athletes Competing Sept. 26, 2026 At Meta APEX In Las Vegas</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>

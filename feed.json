@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-27T11:53:53.119572+00:00",
+  "last_build_date": "2026-09-27T16:51:58.337233+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 8 Preview | Dana White’s Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/week-8-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-8-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 27 Sep 2026 15:00:00 GMT",
+      "published_at": "2026-09-27T15:00:00+00:00",
+      "description": "Taking A Look At The Contests Hitting The Cage This Week At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-hero-generic-dwcs-octagonGettyImages-2296645138.jpg?itok=xIGkBl9T",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos",
@@ -92,17 +103,6 @@
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-fight-night-rosas-barcelos-vegas-121",
-      "pubDate": "Fri, 25 Sep 2026 14:30:00 GMT",
-      "published_at": "2026-09-25T14:30:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing Sept. 26, 2026 At Meta APEX In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2207408530.jpg?itok=HY2QNeN-",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
