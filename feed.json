@@ -3,15 +3,26 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-26T23:32:26.607686+00:00",
+  "last_build_date": "2026-09-27T05:08:45.424918+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC Fight Night Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-rosas-jr-vs-barcelos",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-rosas-jr-vs-barcelos",
+      "pubDate": "Sun, 27 Sep 2026 03:38:00 GMT",
+      "published_at": "2026-09-27T03:38:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Meta APEX On September 26, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/BrowserPreview_tmp-3_0.gif?itok=OaUhJzAK",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-results",
-      "pubDate": "Sun, 27 Sep 2026 00:00:00 GMT",
-      "published_at": "2026-09-27T00:00:00+00:00",
+      "pubDate": "Sun, 27 Sep 2026 02:50:00 GMT",
+      "published_at": "2026-09-27T02:50:00+00:00",
       "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091026-ufc-fight-night-rosas-jr-vs-barcelos-EVENT-ART.jpg?itok=IDYH0iDY",
       "category": "UFC Fight Night",
@@ -21,8 +32,8 @@
       "title": "Official Scorecards | UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
       "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-official-scorecards",
-      "pubDate": "Sat, 26 Sep 2026 23:07:00 GMT",
-      "published_at": "2026-09-26T23:07:00+00:00",
+      "pubDate": "Sun, 27 Sep 2026 01:21:00 GMT",
+      "published_at": "2026-09-27T01:21:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Rosas Jr. vs Barcelos, Live From Meta APEX In Las Vegas On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
       "category": "UFC Fight Night",
@@ -32,10 +43,10 @@
       "title": "Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-rosas-jr-vs-barcelos-prelim-results",
-      "pubDate": "Sat, 26 Sep 2026 22:17:00 GMT",
-      "published_at": "2026-09-26T22:17:00+00:00",
+      "pubDate": "Sat, 26 Sep 2026 23:55:00 GMT",
+      "published_at": "2026-09-26T23:55:00+00:00",
       "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/060626-General-view-Octagon-GettyImages-2280245979.jpg?itok=WT6d_bxQ",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-hero-brady-hiestand_GettyImages-2297315016_0.jpg?itok=PbeNXikv",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Dana White’s Contender Series Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-dwcs-octagon_GettyImages-2296645138.jpg?itok=xODP7zcd",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Tina Black Just Needs To Be Herself",
-      "link": "https://www.ufc.com/news/tina-black-just-needs-be-herself-ufc-vegas-121",
-      "guid": "https://www.ufc.com/news/tina-black-just-needs-be-herself-ufc-vegas-121",
-      "pubDate": "Fri, 25 Sep 2026 12:00:00 GMT",
-      "published_at": "2026-09-25T12:00:00+00:00",
-      "description": "TUF 34 Standout Talks Being The Favorite, Reaching The Finals, And Readying To Make Her UFC Dreams Come True",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092326-tina-black-pre-fight-shoot.jpg?itok=h7IebfXU",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
