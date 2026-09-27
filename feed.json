@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-27T05:08:45.424918+00:00",
+  "last_build_date": "2026-09-27T11:53:53.119572+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos",
+      "link": "https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos",
+      "guid": "https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos",
+      "pubDate": "Sun, 27 Sep 2026 05:54:00 GMT",
+      "published_at": "2026-09-27T05:54:00+00:00",
+      "description": "Latest UFC news: Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos",
+      "image": "https://ufc.com/images/styles/card/s3/2026-02/101224-General-view-apex-octagon-GettyImages-2178130258.jpg?itok=s0pHgslo",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Fight Night Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-rosas-jr-vs-barcelos",
@@ -92,17 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing Sept. 26, 2026 At Meta APEX In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2207408530.jpg?itok=HY2QNeN-",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "DWCS Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming",
-      "pubDate": "Fri, 25 Sep 2026 13:00:00 GMT",
-      "published_at": "2026-09-25T13:00:00+00:00",
-      "description": "Dana White’s Contender Series Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092426-dwcs-octagon_GettyImages-2296645138.jpg?itok=xODP7zcd",
-      "category": "News",
       "source": "UFC"
     }
   ]

@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Sep 2026 05:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:53:53 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos</title>
+      <link>https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/update-raoni-barcelos-following-ufc-fight-night-rosas-jr-vs-barcelos</guid>
+      <pubDate>Sun, 27 Sep 2026 05:54:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-02/101224-General-view-apex-octagon-GettyImages-2178130258.jpg?itok=s0pHgslo" alt="Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos" /></p>
+<p>Latest UFC news: Update on Raoni Barcelos following UFC Fight Night: Rosas Jr. vs Barcelos</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Fight Night Rosas Jr. vs Barcelos</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-rosas-jr-vs-barcelos</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/GettyImages-2207408530.jpg?itok=HY2QNeN-" alt="Official Weigh-In Results | UFC Fight Night: Rosas Jr vs Barcelos" /></p>
 <p>The Official Weights Of The Athletes Competing Sept. 26, 2026 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>DWCS Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming</title>
-      <link>https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dwcs-season-10-episode-8-preview-athletes-bouts-start-time-streaming</guid>
-      <pubDate>Fri, 25 Sep 2026 13:00:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092426-dwcs-octagon_GettyImages-2296645138.jpg?itok=xODP7zcd" alt="DWCS Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming" /></p>
-<p>Dana White’s Contender Series Season 10 Episode 8 Preview: Athletes, Bouts, Start Time, Streaming</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
