@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-28T13:40:29.427463+00:00",
+  "last_build_date": "2026-09-28T21:11:10.420637+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Coach Conversation | UFC 332: Natalia Silva vs Wang Cong",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong",
+      "pubDate": "Mon, 28 Sep 2026 16:47:00 GMT",
+      "published_at": "2026-09-28T16:47:00+00:00",
+      "description": "Xtreme Couture Coach Eddie Barraco Breaks Down Saturday’s Women’s Flyweight Title Fight",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-natalia-silva-wang-cong-backstage-HERO.jpg?itok=zpT137rN",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC 332: Silva vs Wang",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
+      "pubDate": "Mon, 28 Sep 2026 16:21:00 GMT",
+      "published_at": "2026-09-28T16:21:00+00:00",
+      "description": "Setting The Table For This Weekend’s Number Event In Salt Lake City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092726-hero-natalia-silva-wang-cong-.jpg?itok=FO3Kf45g",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Fight Night: Rosas Jr. vs Barcelos",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-rosas-jr-vs-barcelos",
@@ -81,28 +103,6 @@
       "description": "UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-hero-brady-hiestand_GettyImages-2297315016_0.jpg?itok=PbeNXikv",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 11 Results + Scorecards",
-      "link": "https://www.ufc.com/news/zuffa-boxing-11-results",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-11-results",
-      "pubDate": "Sat, 26 Sep 2026 20:00:00 GMT",
-      "published_at": "2026-09-26T20:00:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 11: Fisher vs Pirotton, Live From Copper Box Arena In London, England On September 26, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092626-zuffa-boxing-11-event-art.jpg?itok=BsmGhQd1",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 11",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton",
-      "pubDate": "Sat, 26 Sep 2026 16:23:00 GMT",
-      "published_at": "2026-09-26T16:23:00+00:00",
-      "description": "Zuffa Boxing Heads To London, England, Where The Copper Box Arena Plays Host To Zuffa Boxing 11, And The Eagerly Awaited Zuffa Boxing Debut Of Johnny Fisher",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-09/EM1_5373.jpg?itok=aSdjCjEf",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]

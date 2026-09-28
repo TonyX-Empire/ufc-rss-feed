@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:40:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:11:10 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coach Conversation | UFC 332: Natalia Silva vs Wang Cong</title>
+      <link>https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong</guid>
+      <pubDate>Mon, 28 Sep 2026 16:47:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092826-natalia-silva-wang-cong-backstage-HERO.jpg?itok=zpT137rN" alt="Coach Conversation | UFC 332: Natalia Silva vs Wang Cong" /></p>
+<p>Xtreme Couture Coach Eddie Barraco Breaks Down Saturday’s Women’s Flyweight Title Fight</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Fight By Fight Preview | UFC 332: Silva vs Wang</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city</guid>
+      <pubDate>Mon, 28 Sep 2026 16:21:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092726-hero-natalia-silva-wang-cong-.jpg?itok=FO3Kf45g" alt="Fight By Fight Preview | UFC 332: Silva vs Wang" /></p>
+<p>Setting The Table For This Weekend’s Number Event In Salt Lake City</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Fight Night: Rosas Jr. vs Barcelos</title>
       <link>https://www.ufc.com/news/scorecard-ufc-fight-night-rosas-jr-vs-barcelos</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092626-hero-brady-hiestand_GettyImages-2297315016_0.jpg?itok=PbeNXikv" alt="Prelim Results | UFC Fight Night: Rosas Jr. vs Barcelos" /></p>
 <p>UFC Fight Night: Rosas Jr. vs Barcelos Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On September 26, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Zuffa Boxing 11 Results + Scorecards</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-11-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-11-results</guid>
-      <pubDate>Sat, 26 Sep 2026 20:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092626-zuffa-boxing-11-event-art.jpg?itok=BsmGhQd1" alt="Zuffa Boxing 11 Results + Scorecards" /></p>
-<p>Results, Highlights, Scorecards And More From Zuffa Boxing 11: Fisher vs Pirotton, Live From Copper Box Arena In London, England On September 26, 2026</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | Zuffa Boxing 11</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-11-fisher-pirotton</guid>
-      <pubDate>Sat, 26 Sep 2026 16:23:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/EM1_5373.jpg?itok=aSdjCjEf" alt="Fight By Fight Preview | Zuffa Boxing 11" /></p>
-<p>Zuffa Boxing Heads To London, England, Where The Copper Box Arena Plays Host To Zuffa Boxing 11, And The Eagerly Awaited Zuffa Boxing Debut Of Johnny Fisher</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
