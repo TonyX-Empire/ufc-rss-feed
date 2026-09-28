@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Sep 2026 21:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:09:35 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Fight Night: Rosas Jr. vs Barcelos</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-fight-night-rosas-jr-vs-barcelos</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-rosas-jr-vs-barcelos</guid>
+      <pubDate>Sun, 27 Sep 2026 21:13:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/092726-hero-luiz-hernandez_GettyImages-2297320967.jpg?itok=6sVX6GYe" alt="The Scorecard | UFC Fight Night: Rosas Jr. vs Barcelos" /></p>
+<p>Highlighting the biggest winners from UFC Fight Night: Rosas Jr vs Barcelos on September 26, 2026.</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Week 8 Preview | Dana White’s Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/week-8-preview-dana-whites-contender-series-season-10</link>
@@ -85,16 +95,6 @@
       <category>Boxing</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-09/EM1_5373.jpg?itok=aSdjCjEf" alt="Fight By Fight Preview | Zuffa Boxing 11" /></p>
 <p>Zuffa Boxing Heads To London, England, Where The Copper Box Arena Plays Host To Zuffa Boxing 11, And The Eagerly Awaited Zuffa Boxing Debut Of Johnny Fisher</p>
-<p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>How To Watch Zuffa Boxing</title>
-      <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</guid>
-      <pubDate>Sat, 26 Sep 2026 16:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
-<p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
 <p>Category: Boxing</p>]]></description>
     </item>
   </channel>
