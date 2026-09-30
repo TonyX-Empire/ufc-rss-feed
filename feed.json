@@ -3,15 +3,15 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-30T00:17:19.599350+00:00",
+  "last_build_date": "2026-09-30T09:34:05.244554+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
-      "pubDate": "Wed, 30 Sep 2026 00:01:00 GMT",
-      "published_at": "2026-09-30T00:01:00+00:00",
+      "pubDate": "Wed, 30 Sep 2026 01:00:00 GMT",
+      "published_at": "2026-09-30T01:00:00+00:00",
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
       "category": "UFC",
