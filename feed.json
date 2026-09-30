@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-29T19:55:28.603203+00:00",
+  "last_build_date": "2026-09-30T00:17:19.599350+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
+      "pubDate": "Wed, 30 Sep 2026 00:01:00 GMT",
+      "published_at": "2026-09-30T00:01:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Tickets On Sale For UFC Fight Night Events At Meta APEX",
+      "link": "https://www.ufc.com/news/tickets-sale-october-10-october-31-and-november-7-ufc-fight-night-events-meta-apex",
+      "guid": "https://www.ufc.com/news/tickets-sale-october-10-october-31-and-november-7-ufc-fight-night-events-meta-apex",
+      "pubDate": "Tue, 29 Sep 2026 22:33:00 GMT",
+      "published_at": "2026-09-29T22:33:00+00:00",
+      "description": "Join Us In Las Vegas October 10, October 31 And November 7, 2026 For 3 Incredible Nights",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Alden Coria Wants To Make A Bigger Splash",
+      "link": "https://www.ufc.com/news/alden-coria-wants-make-bigger-splash-ufc-332-salt-lake-city",
+      "guid": "https://www.ufc.com/news/alden-coria-wants-make-bigger-splash-ufc-332-salt-lake-city",
+      "pubDate": "Tue, 29 Sep 2026 22:30:00 GMT",
+      "published_at": "2026-09-29T22:30:00+00:00",
+      "description": "Flyweight Dark Horse Talks Disappointing July Win, UFC 332 Assignment Against Imanol Rodriguez",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-alden-coria-hand-raise_GettyImages-2235256034.jpg?itok=d1lFa-Pe",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Journey To The Flyweight Title | Natalia Silva vs Wang Cong",
       "link": "https://www.ufc.com/news/journey-flyweight-title-natalia-silva-vs-wang-cong-ufc-332",
@@ -13,7 +46,7 @@
       "pubDate": "Tue, 29 Sep 2026 19:15:00 GMT",
       "published_at": "2026-09-29T19:15:00+00:00",
       "description": "Championship Gold Is Up For Grabs In Salt Lake City. Look Back At The Journey Both Flyweights Took To Seize Their Opportunity",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/092926-flyweight-title-journey-thumb.jpg?itok=0WpkKaKY",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-flyweight-title-journey-thumb.jpg?itok=0WpkKaKY",
       "category": "UFC",
       "source": "UFC"
     },
@@ -26,17 +59,6 @@
       "description": "Everything You Need To Know About How Saturday’s Action Is Structured To Unfold Inside Delta Center",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-03/Delta-Center-General-Generic-hero-SLC-GettyImages-1579658509.jpg?itok=19W2CtPK",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Tickets On Sale For October 10, October 31 And November 7 UFC Fight Night Events At Meta APEX",
-      "link": "https://www.ufc.com/news/tickets-sale-october-10-october-31-and-november-7-ufc-fight-night-events-meta-apex",
-      "guid": "https://www.ufc.com/news/tickets-sale-october-10-october-31-and-november-7-ufc-fight-night-events-meta-apex",
-      "pubDate": "Tue, 29 Sep 2026 18:40:00 GMT",
-      "published_at": "2026-09-29T18:40:00+00:00",
-      "description": "Latest UFC news: Tickets On Sale For October 10, October 31 And November 7 UFC Fight Night Events At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
@@ -62,17 +84,6 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
-      "pubDate": "Mon, 28 Sep 2026 23:01:00 GMT",
-      "published_at": "2026-09-28T23:01:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Updates To UFC 332: Silva vs Wang",
       "link": "https://www.ufc.com/news/updates-to-ufc-332-silva-vs-wang",
       "guid": "https://www.ufc.com/news/updates-to-ufc-332-silva-vs-wang",
@@ -91,17 +102,6 @@
       "published_at": "2026-09-28T16:47:00+00:00",
       "description": "Xtreme Couture Coach Eddie Barraco Breaks Down Saturday’s Women’s Flyweight Title Fight",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-natalia-silva-wang-cong-backstage-HERO.jpg?itok=zpT137rN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC 332: Silva vs Wang",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
-      "pubDate": "Mon, 28 Sep 2026 16:21:00 GMT",
-      "published_at": "2026-09-28T16:21:00+00:00",
-      "description": "Setting The Table For This Weekend’s Number Event In Salt Lake City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092726-hero-natalia-silva-wang-cong-.jpg?itok=FO3Kf45g",
       "category": "UFC",
       "source": "UFC"
     }
