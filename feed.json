@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-09-30T09:34:05.244554+00:00",
+  "last_build_date": "2026-09-30T17:56:34.461779+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Contender Series 10, Week 8 Contract Winners, Illegal Knees, Raoni Barcelos + More",
+      "link": "https://www.ufc.com/news/dana-white-contender-series-10-week-8-contract-winners-illegal-knees-raoni-barcelos-more",
+      "guid": "https://www.ufc.com/news/dana-white-contender-series-10-week-8-contract-winners-illegal-knees-raoni-barcelos-more",
+      "pubDate": "Wed, 30 Sep 2026 17:28:00 GMT",
+      "published_at": "2026-09-30T17:28:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The Dana White’s Contender Series 10 Week 8 Post-Fight Press Conference In Las Vegas.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/093026-hero-dana-white_GettyImages-2297802925.jpg?itok=o-G2JWsB",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 12: Moura vs Fornarino Fight Card",
+      "link": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-fight-card",
+      "guid": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-fight-card",
+      "pubDate": "Wed, 30 Sep 2026 16:00:00 GMT",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "description": "UFC BJJ 12: Moura vs Fornarino Is Live On Thursday, October 8, Starting At 8pm ET/5pm PT, Streaming LIVE On UFC FIGHT PASS",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/100826-ufc-bjj-12-moura-vs-fornarino-TEMP-HERO.jpg?itok=rPRWxk4N",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
     {
       "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
@@ -81,28 +103,6 @@
       "description": "PREMIUM TICKETS AVAILABLE NOW",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/Sydney_2026.jpeg?itok=WQjpsNev",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC 332: Silva vs Wang",
-      "link": "https://www.ufc.com/news/updates-to-ufc-332-silva-vs-wang",
-      "guid": "https://www.ufc.com/news/updates-to-ufc-332-silva-vs-wang",
-      "pubDate": "Mon, 28 Sep 2026 21:30:00 GMT",
-      "published_at": "2026-09-28T21:30:00+00:00",
-      "description": "Key Information For Saturday's UFC 332: Silva vs Wang Event, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/100526-general-view-octagon-delta-center-GettyImages-2176989770.jpg?itok=ttab6t7k",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | UFC 332: Natalia Silva vs Wang Cong",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-332-natalia-silva-vs-wang-cong",
-      "pubDate": "Mon, 28 Sep 2026 16:47:00 GMT",
-      "published_at": "2026-09-28T16:47:00+00:00",
-      "description": "Xtreme Couture Coach Eddie Barraco Breaks Down Saturday’s Women’s Flyweight Title Fight",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-natalia-silva-wang-cong-backstage-HERO.jpg?itok=zpT137rN",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
