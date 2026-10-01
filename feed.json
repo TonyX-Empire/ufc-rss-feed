@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-01T12:59:36.438128+00:00",
+  "last_build_date": "2026-10-01T20:17:48.961606+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,61 @@
       "source": "UFC"
     },
     {
+      "title": "Women's Flyweight Division In The Spotlight",
+      "link": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
+      "guid": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
+      "pubDate": "Thu, 01 Oct 2026 19:27:00 GMT",
+      "published_at": "2026-10-01T19:27:00+00:00",
+      "description": "Saturday's Title Fight At UFC 332 Isn't The Only Big Fight Going Down At 125 Pounds",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/092926-natalia-silva-wang-cong-faceoff-delta-center.jpg?itok=ySAgtJRa",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Best Moments From Salt Lake City",
+      "link": "https://www.ufc.com/news/best-moments-salt-lake-city",
+      "guid": "https://www.ufc.com/news/best-moments-salt-lake-city",
+      "pubDate": "Thu, 01 Oct 2026 18:56:00 GMT",
+      "published_at": "2026-10-01T18:56:00+00:00",
+      "description": "Ahead Of UFC 332: Silva vs Wang, We Take A Look Back At The Best Moments To Happen Inside Delta Center",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-derrick-lewis-celebration_GettyImages-1579784478.jpg?itok=fnCOOxTB",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Natalia Silva | Belief Above All Else",
+      "link": "https://www.ufc.com/news/natalia-silva-belief-above-all-else-ufc-332",
+      "guid": "https://www.ufc.com/news/natalia-silva-belief-above-all-else-ufc-332",
+      "pubDate": "Thu, 01 Oct 2026 16:56:00 GMT",
+      "published_at": "2026-10-01T16:56:00+00:00",
+      "description": "Brazilian Title Natalia Silva Challenger Gets Emotional Discussing Her Journey To Saturday’s UFC 332 Championship Main Event",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-natalia-silva-faceoff-portrait_0.jpg?itok=U8tlXlTv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Roberto Soldić | No More ‘What Ifs’ – ‘Robocop’ Has Arrived",
+      "link": "https://www.ufc.com/news/roberto-soldic-no-more-what-ifs-robocop-has-arrived-ufc-332",
+      "guid": "https://www.ufc.com/news/roberto-soldic-no-more-what-ifs-robocop-has-arrived-ufc-332",
+      "pubDate": "Thu, 01 Oct 2026 16:39:00 GMT",
+      "published_at": "2026-10-01T16:39:00+00:00",
+      "description": "Big-Punching Welterweight Roberto Soldić Brings His World-Renowned Knockout Power To The Octagon At UFC 332.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-roberto-soldic_UFC332MD-25.jpg?itok=D9liCZcq",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Payton Talbott Understands Himself Better Now",
+      "link": "https://www.ufc.com/news/payton-talbott-understands-himself-better-now-ufc-332",
+      "guid": "https://www.ufc.com/news/payton-talbott-understands-himself-better-now-ufc-332",
+      "pubDate": "Thu, 01 Oct 2026 16:06:00 GMT",
+      "published_at": "2026-10-01T16:06:00+00:00",
+      "description": "Ascending Bantamweight Payton Talbott Reflects On Henry Cejudo Win, Time Away Ahead Of UFC 332 Return",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-payton-talbott_GettyImages-2250446429.jpg?itok=Gd4HKKwO",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Ateba Gautier | A Changed Man Two Years Later",
       "link": "https://www.ufc.com/news/ateba-gautier-a-changed-man-two-years-later-ufc-332",
       "guid": "https://www.ufc.com/news/ateba-gautier-a-changed-man-two-years-later-ufc-332",
@@ -47,61 +102,6 @@
       "published_at": "2026-09-30T20:33:00+00:00",
       "description": "Dana White's Contender Series Graduate Discusses All That Is Different Two Years Into His UFC Journey, Plus The One Things That Will Forever Remain The Same Ahead Of UFC 332",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-hero-ateba-gautier_GettyImages-2275372210.jpg?itok=GBw1oQd-",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Anthony Wint | Forever A Work In Progress",
-      "link": "https://www.ufc.com/news/anthony-wint-forever-a-work-in-progress-ufc-332",
-      "guid": "https://www.ufc.com/news/anthony-wint-forever-a-work-in-progress-ufc-332",
-      "pubDate": "Wed, 30 Sep 2026 19:27:00 GMT",
-      "published_at": "2026-09-30T19:27:00+00:00",
-      "description": "Ascending Heavyweight Anthony Wint Talks Busy Schedule, Calculated Risks, Football Influence On MMA Outlook",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/093026-hero-anthony-wint_GettyImages-2291615752.jpg?itok=SelHV1y3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS, Season 10, Week 8",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-8",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-8",
-      "pubDate": "Wed, 30 Sep 2026 17:46:00 GMT",
-      "published_at": "2026-09-30T17:46:00+00:00",
-      "description": "Tuesday, September 9 saw a four-bout lineup produce four more UFC signings on Week 8 of Dana White’s Contender Series.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/093026-hero-george-staines_GettyImages-2297803028.jpg?itok=p_WCFIo3",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On Contender Series 10, Week 8 Contract Winners, Illegal Knees, Raoni Barcelos + More",
-      "link": "https://www.ufc.com/news/dana-white-contender-series-10-week-8-contract-winners-illegal-knees-raoni-barcelos-more",
-      "guid": "https://www.ufc.com/news/dana-white-contender-series-10-week-8-contract-winners-illegal-knees-raoni-barcelos-more",
-      "pubDate": "Wed, 30 Sep 2026 17:28:00 GMT",
-      "published_at": "2026-09-30T17:28:00+00:00",
-      "description": "UFC CEO Dana White Fielded Questions From The Media At The Dana White’s Contender Series 10 Week 8 Post-Fight Press Conference In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/093026-hero-dana-white_GettyImages-2297802925.jpg?itok=o-G2JWsB",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 12: Moura vs Fornarino Fight Card",
-      "link": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-fight-card",
-      "guid": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-fight-card",
-      "pubDate": "Wed, 30 Sep 2026 16:00:00 GMT",
-      "published_at": "2026-09-30T16:00:00+00:00",
-      "description": "UFC BJJ 12: Moura vs Fornarino Is Live On Thursday, October 8, Starting At 8pm ET/5pm PT, Streaming LIVE On UFC FIGHT PASS",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/100826-ufc-bjj-12-moura-vs-fornarino-TEMP-HERO.jpg?itok=rPRWxk4N",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-8-results",
-      "pubDate": "Wed, 30 Sep 2026 01:00:00 GMT",
-      "published_at": "2026-09-30T01:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
       "category": "UFC",
       "source": "UFC"
     }
