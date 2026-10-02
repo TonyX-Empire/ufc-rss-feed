@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-01T20:17:48.961606+00:00",
+  "last_build_date": "2026-10-02T00:38:48.946600+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,39 @@
       "source": "UFC"
     },
     {
+      "title": "The 10 | What A Wicked October It Will Be",
+      "link": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
+      "guid": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
+      "pubDate": "Thu, 01 Oct 2026 23:37:00 GMT",
+      "published_at": "2026-10-01T23:37:00+00:00",
+      "description": "Examining The Loaded October Schedule Inside The Octagon",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-petr-yan_GettyImages-2250455330.jpg?itok=7AIL_kD1",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Sean Sharaf And The 'Overwhelming' Aftermath Of His Historic Win",
+      "link": "https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win",
+      "guid": "https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win",
+      "pubDate": "Thu, 01 Oct 2026 22:10:00 GMT",
+      "published_at": "2026-10-01T22:10:00+00:00",
+      "description": "Heavyweight And Former U.S. Marine Sean Sharaf Changed His Life With His 12-Second Knockout Over Gable Steveson At UFC 331 And Is Riding The Wave Of Post-Fight Attention",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-sean-sharaf-check-in_GettyImages-2296152698.jpg?itok=m44ZQbq_",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Wang Cong | ‘The Joker’ Eyes The Last Laugh",
+      "link": "https://www.ufc.com/news/wang-cong-the-joker-eyes-the-last-laugh-ufc-332",
+      "guid": "https://www.ufc.com/news/wang-cong-the-joker-eyes-the-last-laugh-ufc-332",
+      "pubDate": "Thu, 01 Oct 2026 22:00:00 GMT",
+      "published_at": "2026-10-01T22:00:00+00:00",
+      "description": "Wang Cong Has Taken The Fast Lane To The Top Of The Flyweight Division As She Plans Her Takeover With A Win Over Natalia Silva At UFC 332 On October 3 In Salt Lake City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-wang-cong-introduction_GettyImages-2285690063.jpg?itok=Q71YcyG8",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Women's Flyweight Division In The Spotlight",
       "link": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
       "guid": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
@@ -69,39 +102,6 @@
       "published_at": "2026-10-01T16:56:00+00:00",
       "description": "Brazilian Title Natalia Silva Challenger Gets Emotional Discussing Her Journey To Saturday’s UFC 332 Championship Main Event",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-natalia-silva-faceoff-portrait_0.jpg?itok=U8tlXlTv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Roberto Soldić | No More ‘What Ifs’ – ‘Robocop’ Has Arrived",
-      "link": "https://www.ufc.com/news/roberto-soldic-no-more-what-ifs-robocop-has-arrived-ufc-332",
-      "guid": "https://www.ufc.com/news/roberto-soldic-no-more-what-ifs-robocop-has-arrived-ufc-332",
-      "pubDate": "Thu, 01 Oct 2026 16:39:00 GMT",
-      "published_at": "2026-10-01T16:39:00+00:00",
-      "description": "Big-Punching Welterweight Roberto Soldić Brings His World-Renowned Knockout Power To The Octagon At UFC 332.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-roberto-soldic_UFC332MD-25.jpg?itok=D9liCZcq",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Payton Talbott Understands Himself Better Now",
-      "link": "https://www.ufc.com/news/payton-talbott-understands-himself-better-now-ufc-332",
-      "guid": "https://www.ufc.com/news/payton-talbott-understands-himself-better-now-ufc-332",
-      "pubDate": "Thu, 01 Oct 2026 16:06:00 GMT",
-      "published_at": "2026-10-01T16:06:00+00:00",
-      "description": "Ascending Bantamweight Payton Talbott Reflects On Henry Cejudo Win, Time Away Ahead Of UFC 332 Return",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-payton-talbott_GettyImages-2250446429.jpg?itok=Gd4HKKwO",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ateba Gautier | A Changed Man Two Years Later",
-      "link": "https://www.ufc.com/news/ateba-gautier-a-changed-man-two-years-later-ufc-332",
-      "guid": "https://www.ufc.com/news/ateba-gautier-a-changed-man-two-years-later-ufc-332",
-      "pubDate": "Wed, 30 Sep 2026 20:33:00 GMT",
-      "published_at": "2026-09-30T20:33:00+00:00",
-      "description": "Dana White's Contender Series Graduate Discusses All That Is Different Two Years Into His UFC Journey, Plus The One Things That Will Forever Remain The Same Ahead Of UFC 332",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092826-hero-ateba-gautier_GettyImages-2275372210.jpg?itok=GBw1oQd-",
       "category": "UFC",
       "source": "UFC"
     }
