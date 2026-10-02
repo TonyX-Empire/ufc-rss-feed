@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-02T09:37:11.585432+00:00",
+  "last_build_date": "2026-10-02T17:47:41.883594+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,50 @@
       "source": "UFC"
     },
     {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-332-silva-vs-wang",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-332-silva-vs-wang",
+      "pubDate": "Fri, 02 Oct 2026 17:00:00 GMT",
+      "published_at": "2026-10-02T17:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Imanol Rodriguez | More Professional, More Dangerous",
+      "link": "https://www.ufc.com/news/imanol-rodriguez-more-professional-more-dangerous",
+      "guid": "https://www.ufc.com/news/imanol-rodriguez-more-professional-more-dangerous",
+      "pubDate": "Fri, 02 Oct 2026 16:40:00 GMT",
+      "published_at": "2026-10-02T16:40:00+00:00",
+      "description": "Unbeaten Mexican Flyweight Already Has His First UFC Win Under His Belt, And He Said He’s Only Getting Better From Here.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-hero-imanol-rodriguez_GettyImages-2264123923.jpg?itok=TsnL4_0I",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Esteban Ribovics | Highlight Hunter",
+      "link": "https://www.ufc.com/news/esteban-ribovics-highlight-hunter-ufc-332",
+      "guid": "https://www.ufc.com/news/esteban-ribovics-highlight-hunter-ufc-332",
+      "pubDate": "Fri, 02 Oct 2026 16:37:00 GMT",
+      "published_at": "2026-10-02T16:37:00+00:00",
+      "description": "Argentine Lightweight Esteban Ribovics Has Plotted A Route To The Top, And He Plans To Pick Up As Many Highlights As Possible Along The Way.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-esteban-ribovics-celebration_GettyImages-2290653257.jpg?itok=sCu5AiCH",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "DWCS Season 10 Episode 9 Preview: Athletes, Bouts, Start Time, Streaming",
+      "link": "https://www.ufc.com/news/dwcs-season-10-episode-9-preview-athletes-bouts-start-time-streaming",
+      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-9-preview-athletes-bouts-start-time-streaming",
+      "pubDate": "Fri, 02 Oct 2026 16:30:00 GMT",
+      "published_at": "2026-10-02T16:30:00+00:00",
+      "description": "Dana White’s Contender Series Season 10 Episode 9 Preview: Athletes, Bouts, Start Time, Streaming",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/092926-General-View-DWCS-THUMB-GettyImages-2297798940.jpg?itok=AI2oxI0_",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
       "title": "The 10 | What A Wicked October It Will Be",
       "link": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
       "guid": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
@@ -59,50 +103,6 @@
       "description": "Heavyweight And Former U.S. Marine Sean Sharaf Changed His Life With His 12-Second Knockout Over Gable Steveson At UFC 331 And Is Riding The Wave Of Post-Fight Attention",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-sean-sharaf-check-in_GettyImages-2296152698.jpg?itok=m44ZQbq_",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Wang Cong | ‘The Joker’ Eyes The Last Laugh",
-      "link": "https://www.ufc.com/news/wang-cong-the-joker-eyes-the-last-laugh-ufc-332",
-      "guid": "https://www.ufc.com/news/wang-cong-the-joker-eyes-the-last-laugh-ufc-332",
-      "pubDate": "Thu, 01 Oct 2026 22:00:00 GMT",
-      "published_at": "2026-10-01T22:00:00+00:00",
-      "description": "Wang Cong Has Taken The Fast Lane To The Top Of The Flyweight Division As She Plans Her Takeover With A Win Over Natalia Silva At UFC 332 On October 3 In Salt Lake City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-wang-cong-introduction_GettyImages-2285690063.jpg?itok=Q71YcyG8",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Women's Flyweight Division In The Spotlight",
-      "link": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
-      "guid": "https://www.ufc.com/news/womens-flyweight-division-spotlight-ufc-332-title-fight",
-      "pubDate": "Thu, 01 Oct 2026 19:27:00 GMT",
-      "published_at": "2026-10-01T19:27:00+00:00",
-      "description": "Saturday's Title Fight At UFC 332 Isn't The Only Big Fight Going Down At 125 Pounds",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/092926-natalia-silva-wang-cong-faceoff-delta-center.jpg?itok=ySAgtJRa",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Best Moments From Salt Lake City",
-      "link": "https://www.ufc.com/news/best-moments-salt-lake-city",
-      "guid": "https://www.ufc.com/news/best-moments-salt-lake-city",
-      "pubDate": "Thu, 01 Oct 2026 18:56:00 GMT",
-      "published_at": "2026-10-01T18:56:00+00:00",
-      "description": "Ahead Of UFC 332: Silva vs Wang, We Take A Look Back At The Best Moments To Happen Inside Delta Center",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-derrick-lewis-celebration_GettyImages-1579784478.jpg?itok=fnCOOxTB",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Natalia Silva | Belief Above All Else",
-      "link": "https://www.ufc.com/news/natalia-silva-belief-above-all-else-ufc-332",
-      "guid": "https://www.ufc.com/news/natalia-silva-belief-above-all-else-ufc-332",
-      "pubDate": "Thu, 01 Oct 2026 16:56:00 GMT",
-      "published_at": "2026-10-01T16:56:00+00:00",
-      "description": "Brazilian Title Natalia Silva Challenger Gets Emotional Discussing Her Journey To Saturday’s UFC 332 Championship Main Event",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/092926-natalia-silva-faceoff-portrait_0.jpg?itok=U8tlXlTv",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
