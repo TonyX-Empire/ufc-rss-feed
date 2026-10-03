@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Oct 2026 22:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:05:33 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC 332: Silva vs Wang</title>
@@ -36,6 +36,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP" alt="Official Scorecards | UFC 332: Silva vs Wang" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Court McGee | Calling It A Career</title>
+      <link>https://www.ufc.com/news/court-mcgee-calling-it-career</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/court-mcgee-calling-it-career</guid>
+      <pubDate>Fri, 02 Oct 2026 22:55:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100226-HERO-court-mcgee-retirement_GettyImages-2176994285.jpg?itok=3Zm516cI" alt="Court McGee | Calling It A Career" /></p>
+<p>Court ‘The Crusher’ McGee Discusses His Decision To Retire And Go Out On His Own Terms In Front Of A Home Crowd At UFC 332: Silva vs Cong</p>
+<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>Search results | UFC</title>
@@ -84,16 +94,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100126-hero-petr-yan_GettyImages-2250455330.jpg?itok=7AIL_kD1" alt="The 10 | What A Wicked October It Will Be" /></p>
 <p>Examining The Loaded October Schedule Inside The Octagon</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>Sean Sharaf And The 'Overwhelming' Aftermath Of His Historic Win</title>
-      <link>https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win</guid>
-      <pubDate>Thu, 01 Oct 2026 22:10:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100126-hero-sean-sharaf-check-in_GettyImages-2296152698.jpg?itok=m44ZQbq_" alt="Sean Sharaf And The 'Overwhelming' Aftermath Of His Historic Win" /></p>
-<p>Heavyweight And Former U.S. Marine Sean Sharaf Changed His Life With His 12-Second Knockout Over Gable Steveson At UFC 331 And Is Riding The Wave Of Post-Fight Attention</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>

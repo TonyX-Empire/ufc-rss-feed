@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-02T22:05:26.163060+00:00",
+  "last_build_date": "2026-10-03T05:05:33.675707+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,17 @@
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Court McGee | Calling It A Career",
+      "link": "https://www.ufc.com/news/court-mcgee-calling-it-career",
+      "guid": "https://www.ufc.com/news/court-mcgee-calling-it-career",
+      "pubDate": "Fri, 02 Oct 2026 22:55:00 GMT",
+      "published_at": "2026-10-02T22:55:00+00:00",
+      "description": "Court ‘The Crusher’ McGee Discusses His Decision To Retire And Go Out On His Own Terms In Front Of A Home Crowd At UFC 332: Silva vs Cong",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-HERO-court-mcgee-retirement_GettyImages-2176994285.jpg?itok=3Zm516cI",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-10-01T23:37:00+00:00",
       "description": "Examining The Loaded October Schedule Inside The Octagon",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-petr-yan_GettyImages-2250455330.jpg?itok=7AIL_kD1",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Sean Sharaf And The 'Overwhelming' Aftermath Of His Historic Win",
-      "link": "https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win",
-      "guid": "https://www.ufc.com/news/sean-sharaf-and-overwhelming-aftermath-his-historic-win",
-      "pubDate": "Thu, 01 Oct 2026 22:10:00 GMT",
-      "published_at": "2026-10-01T22:10:00+00:00",
-      "description": "Heavyweight And Former U.S. Marine Sean Sharaf Changed His Life With His 12-Second Knockout Over Gable Steveson At UFC 331 And Is Riding The Wave Of Post-Fight Attention",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-sean-sharaf-check-in_GettyImages-2296152698.jpg?itok=m44ZQbq_",
       "category": "News",
       "source": "UFC"
     }
