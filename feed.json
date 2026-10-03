@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-03T16:07:39.169196+00:00",
+  "last_build_date": "2026-10-03T20:57:30.801011+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,13 +18,13 @@
       "source": "UFC"
     },
     {
-      "title": "Prelims Results | UFC 332: Silva vs Wang",
+      "title": "Prelim Results | UFC 332: Silva vs Wang",
       "link": "https://www.ufc.com/news/ufc-332-silva-vs-wang-prelims-results",
       "guid": "https://www.ufc.com/news/ufc-332-silva-vs-wang-prelims-results",
-      "pubDate": "Sat, 03 Oct 2026 20:00:00 GMT",
-      "published_at": "2026-10-03T20:00:00+00:00",
+      "pubDate": "Sat, 03 Oct 2026 20:55:00 GMT",
+      "published_at": "2026-10-03T20:55:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/072923-General-View-Octagon-THUMB-GettyImages-1579349407.jpg?itok=UEsw1EM4",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-general-view-octagon-ufc-332-GettyImages-2298423262.jpg?itok=bxQ6-Le1",
       "category": "UFC",
       "source": "UFC"
     },
