@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-03T11:31:34.434062+00:00",
+  "last_build_date": "2026-10-03T16:07:39.169196+00:00",
   "item_count": 9,
   "items": [
     {
@@ -36,6 +36,17 @@
       "published_at": "2026-10-03T20:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC 332: Silva vs Wang",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00 GMT",
+      "published_at": "2026-10-03T15:00:00+00:00",
+      "description": "Get Ready For UFC 332 With A Look At Every Fight On Tonight's Card In Salt Lake City",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/100326-UFC-332-FBF-hero.jpg?itok=n5SikY-x",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-10-02T16:30:00+00:00",
       "description": "Dana White’s Contender Series Season 10 Episode 9 Preview: Athletes, Bouts, Start Time, Streaming",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/092926-General-View-DWCS-THUMB-GettyImages-2297798940.jpg?itok=AI2oxI0_",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The 10 | What A Wicked October It Will Be",
-      "link": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
-      "guid": "https://www.ufc.com/news/10-what-wicked-october-it-will-be",
-      "pubDate": "Thu, 01 Oct 2026 23:37:00 GMT",
-      "published_at": "2026-10-01T23:37:00+00:00",
-      "description": "Examining The Loaded October Schedule Inside The Octagon",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-hero-petr-yan_GettyImages-2250455330.jpg?itok=7AIL_kD1",
       "category": "News",
       "source": "UFC"
     }

@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:07:39 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC 332: Silva vs Wang</title>
@@ -35,6 +35,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP" alt="Official Scorecards | UFC 332: Silva vs Wang" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>UFC TONIGHT: Fight By Fight Preview | UFC 332: Silva vs Wang</title>
+      <link>https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city</guid>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-10/100326-UFC-332-FBF-hero.jpg?itok=n5SikY-x" alt="UFC TONIGHT: Fight By Fight Preview | UFC 332: Silva vs Wang" /></p>
+<p>Get Ready For UFC 332 With A Look At Every Fight On Tonight's Card In Salt Lake City</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>News</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/092926-General-View-DWCS-THUMB-GettyImages-2297798940.jpg?itok=AI2oxI0_" alt="DWCS Season 10 Episode 9 Preview: Athletes, Bouts, Start Time, Streaming" /></p>
 <p>Dana White’s Contender Series Season 10 Episode 9 Preview: Athletes, Bouts, Start Time, Streaming</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
-      <title>The 10 | What A Wicked October It Will Be</title>
-      <link>https://www.ufc.com/news/10-what-wicked-october-it-will-be</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/10-what-wicked-october-it-will-be</guid>
-      <pubDate>Thu, 01 Oct 2026 23:37:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100126-hero-petr-yan_GettyImages-2250455330.jpg?itok=7AIL_kD1" alt="The 10 | What A Wicked October It Will Be" /></p>
-<p>Examining The Loaded October Schedule Inside The Octagon</p>
 <p>Category: News</p>]]></description>
     </item>
   </channel>
