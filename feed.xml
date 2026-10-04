@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:35:52 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bigger Picture | UFC 332: Silva vs Wang</title>
+      <link>https://www.ufc.com/news/the-bigger-picture-ufc-332-silva-vs-wang</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-bigger-picture-ufc-332-silva-vs-wang</guid>
+      <pubDate>Sun, 04 Oct 2026 15:30:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100326-natalia-silva-belt-wrap-GettyImages-2298466051.jpg?itok=sVHsK85x" alt="The Bigger Picture | UFC 332: Silva vs Wang" /></p>
+<p>Diving Into The Deeper Talking Points From A Tremendous Night Of Action At Delta Center On Saturday</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC 332: Silva vs Wang</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-332-silva-vs-wang</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Imanol Rodriguez | More Professional, More Dangerous</title>
-      <link>https://www.ufc.com/news/imanol-rodriguez-more-professional-more-dangerous</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/imanol-rodriguez-more-professional-more-dangerous</guid>
-      <pubDate>Fri, 02 Oct 2026 16:40:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100226-hero-imanol-rodriguez_GettyImages-2264123923.jpg?itok=TsnL4_0I" alt="Imanol Rodriguez | More Professional, More Dangerous" /></p>
-<p>Unbeaten Mexican Flyweight Already Has His First UFC Win Under His Belt, And He Said He’s Only Getting Better From Here.</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
