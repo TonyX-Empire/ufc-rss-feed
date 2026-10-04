@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-04T18:35:52.363649+00:00",
+  "last_build_date": "2026-10-04T23:54:55.692236+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On UFC 332, Picking Bonus Winners, Roberto Soldić, Paramount Success & More",
+      "link": "https://www.ufc.com/news/dana-white-ufc-332-picking-bonus-winners-roberto-soldic-paramount-success-more",
+      "guid": "https://www.ufc.com/news/dana-white-ufc-332-picking-bonus-winners-roberto-soldic-paramount-success-more",
+      "pubDate": "Sun, 04 Oct 2026 21:22:00 GMT",
+      "published_at": "2026-10-04T21:22:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC 332 Post-Fight Press Conference In Salt Lake City On October 3",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-dana-white-presser-HERO-GettyImages-2298136325.jpg?itok=nINxrTQW",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 04 Oct 2026 19:00:00 GMT",
+      "published_at": "2026-10-04T19:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "The Bigger Picture | UFC 332: Silva vs Wang",
       "link": "https://www.ufc.com/news/the-bigger-picture-ufc-332-silva-vs-wang",
@@ -80,28 +102,6 @@
       "published_at": "2026-10-03T15:00:00+00:00",
       "description": "Get Ready For UFC 332 With A Look At Every Fight On Tonight's Card In Salt Lake City",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-10/100326-UFC-332-FBF-hero.jpg?itok=n5SikY-x",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Court McGee | Calling It A Career",
-      "link": "https://www.ufc.com/news/court-mcgee-calling-it-career",
-      "guid": "https://www.ufc.com/news/court-mcgee-calling-it-career",
-      "pubDate": "Fri, 02 Oct 2026 22:55:00 GMT",
-      "published_at": "2026-10-02T22:55:00+00:00",
-      "description": "Court ‘The Crusher’ McGee Discusses His Decision To Retire And Go Out On His Own Terms In Front Of A Home Crowd At UFC 332: Silva vs Cong",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-HERO-court-mcgee-retirement_GettyImages-2176994285.jpg?itok=3Zm516cI",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-332-silva-vs-wang",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-332-silva-vs-wang",
-      "pubDate": "Fri, 02 Oct 2026 17:00:00 GMT",
-      "published_at": "2026-10-02T17:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
       "category": "UFC",
       "source": "UFC"
     }
