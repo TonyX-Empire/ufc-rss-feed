@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-05T14:23:37.176998+00:00",
+  "last_build_date": "2026-10-05T21:57:06.011730+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Allen vs Duncan",
+      "link": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
+      "guid": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
+      "pubDate": "Mon, 05 Oct 2026 21:22:00 GMT",
+      "published_at": "2026-10-05T21:22:00+00:00",
+      "description": "Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
+      "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
+      "published_at": "2026-10-05T17:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Dana White On UFC 332, Picking Bonus Winners, Roberto Soldić, Paramount Success & More",
       "link": "https://www.ufc.com/news/dana-white-ufc-332-picking-bonus-winners-roberto-soldic-paramount-success-more",
@@ -80,28 +102,6 @@
       "published_at": "2026-10-04T01:45:00+00:00",
       "description": "Don't Miss UFC 335 In Las Vegas On December 12 As Some Of The Biggest Names In Combat Sports Collide Inside T-Mobile Arena",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-ufc-335-announcement-hero.jpg?itok=gZUElAg6",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC 332: Silva vs Wang",
-      "link": "https://www.ufc.com/news/ufc-332-silva-vs-wang-prelims-results",
-      "guid": "https://www.ufc.com/news/ufc-332-silva-vs-wang-prelims-results",
-      "pubDate": "Sun, 04 Oct 2026 00:20:00 GMT",
-      "published_at": "2026-10-04T00:20:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-Alexander-Hernandez-Punch-GettyImages-2298437475.jpg?itok=rnJeb11p",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC TONIGHT: Fight By Fight Preview | UFC 332: Silva vs Wang",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-332-silva-vs-wang-salt-lake-city",
-      "pubDate": "Sat, 03 Oct 2026 15:00:00 GMT",
-      "published_at": "2026-10-03T15:00:00+00:00",
-      "description": "Get Ready For UFC 332 With A Look At Every Fight On Tonight's Card In Salt Lake City",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/100326-UFC-332-FBF-hero.jpg?itok=n5SikY-x",
       "category": "UFC",
       "source": "UFC"
     }
