@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-06T06:05:27.496197+00:00",
+  "last_build_date": "2026-10-06T15:49:49.155943+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Week 9 Results + Scorecards | Dana White's Contender Series, Season 10",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-9-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-9-results",
+      "pubDate": "Tue, 06 Oct 2026 23:00:00 GMT",
+      "published_at": "2026-10-06T23:00:00+00:00",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 9 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 6, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
@@ -40,14 +51,14 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Week 9 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
       "guid": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
       "pubDate": "Sun, 04 Oct 2026 19:00:00 GMT",
       "published_at": "2026-10-04T19:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
+      "description": "Taking A Look At The Contests Hitting The Cage This Tuesday At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100626-DWCS-Faceoff-Everett-Martin-GettyImages-2298719324.jpg?itok=5Kl3kUoz",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-10-04T03:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 332: Silva vs Wang, Live From Delta Center In Salt Lake City, Utah, On October 3, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Oliveira Defends BMF Title Against Lopes; Pereira Faces Pavlovich At UFC 335",
-      "link": "https://www.ufc.com/news/oliveira-defends-bmf-title-against-lopes-pereira-faces-pavlovich-ufc-335",
-      "guid": "https://www.ufc.com/news/oliveira-defends-bmf-title-against-lopes-pereira-faces-pavlovich-ufc-335",
-      "pubDate": "Sun, 04 Oct 2026 01:45:00 GMT",
-      "published_at": "2026-10-04T01:45:00+00:00",
-      "description": "Don't Miss UFC 335 In Las Vegas On December 12 As Some Of The Biggest Names In Combat Sports Collide Inside T-Mobile Arena",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-ufc-335-announcement-hero.jpg?itok=gZUElAg6",
       "category": "UFC",
       "source": "UFC"
     }
