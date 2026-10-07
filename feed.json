@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-07T13:09:27.470154+00:00",
+  "last_build_date": "2026-10-07T20:32:38.412760+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,39 @@
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS",
+      "link": "https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs",
+      "guid": "https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs",
+      "pubDate": "Wed, 07 Oct 2026 20:20:00 GMT",
+      "published_at": "2026-10-07T20:20:00+00:00",
+      "description": "UFC CEO Dana White Chatted About UFC Staffer Salhahuddin Everett’s Contract-Winning Performance On Dana White’s Contender Series Week 9",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Loopy Godinez | Gratitude Above All Else",
+      "link": "https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122",
+      "guid": "https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122",
+      "pubDate": "Wed, 07 Oct 2026 18:36:00 GMT",
+      "published_at": "2026-10-07T18:36:00+00:00",
+      "description": "Ranked Strawweight Loopy Godinez Shares Outlook On The Ups And Downs Of Life Competing At The Highest Level",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-hero-loopy-godinez_GettyImages-2207543298.jpg?itok=4egY1DRh",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Welcome To The UFC | DWCS, Season 10, Week 9",
+      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-9",
+      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-9",
+      "pubDate": "Wed, 07 Oct 2026 18:21:00 GMT",
+      "published_at": "2026-10-07T18:21:00+00:00",
+      "description": "The Penultimate Week Of Dana White’s Contender Series Season 10 Produced Another Thrilling Night Of Fights, As Four More Exciting Prospects Joined The UFC Roster.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100726-hero-saldaduddin-everett_GettyImages-2298975683.jpg?itok=GEW_4cpt",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -70,39 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On UFC 332, Picking Bonus Winners, Roberto Soldić, Paramount Success & More",
-      "link": "https://www.ufc.com/news/dana-white-ufc-332-picking-bonus-winners-roberto-soldic-paramount-success-more",
-      "guid": "https://www.ufc.com/news/dana-white-ufc-332-picking-bonus-winners-roberto-soldic-paramount-success-more",
-      "pubDate": "Sun, 04 Oct 2026 21:22:00 GMT",
-      "published_at": "2026-10-04T21:22:00+00:00",
-      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC 332 Post-Fight Press Conference In Salt Lake City On October 3",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100126-dana-white-presser-HERO-GettyImages-2298136325.jpg?itok=nINxrTQW",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 9 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-9-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Sun, 04 Oct 2026 19:00:00 GMT",
-      "published_at": "2026-10-04T19:00:00+00:00",
-      "description": "Taking A Look At The Contests Hitting The Cage This Tuesday At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100626-DWCS-Faceoff-Everett-Martin-GettyImages-2298719324.jpg?itok=5Kl3kUoz",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "The Bigger Picture | UFC 332: Silva vs Wang",
-      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-332-silva-vs-wang",
-      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-332-silva-vs-wang",
-      "pubDate": "Sun, 04 Oct 2026 15:30:00 GMT",
-      "published_at": "2026-10-04T15:30:00+00:00",
-      "description": "Diving Into The Deeper Talking Points From A Tremendous Night Of Action At Delta Center On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-natalia-silva-belt-wrap-GettyImages-2298466051.jpg?itok=sVHsK85x",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
