@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-08T10:22:21.702963+00:00",
+  "last_build_date": "2026-10-08T18:47:52.429125+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,13 +18,79 @@
       "source": "UFC"
     },
     {
+      "title": "Malcolm Wellmaker | Starting Fresh",
+      "link": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
+      "published_at": "2026-10-08T17:39:00+00:00",
+      "description": "Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jai Herbert Is Ready To Make A Statement",
+      "link": "https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
+      "published_at": "2026-10-08T17:39:00+00:00",
+      "description": "English 155er Jai Herbert Chases Back-To-Back UFC Wins As He Looks To Climb The Lightweight Ladder.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-jai-herbert-introduction_GettyImages-2271978253.jpg?itok=z70y7E4a",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Christian Leroy Duncan Just Keeps Getting Better",
+      "link": "https://www.ufc.com/news/christian-leroy-duncan-just-keeps-getting-better-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/christian-leroy-duncan-just-keeps-getting-better-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 17:35:00 GMT",
+      "published_at": "2026-10-08T17:35:00+00:00",
+      "description": "Ascending British Middleweight Christian Leroy Duncan Talks Development, Recent Wins, Clash With Brendan Allen On Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-christian-leroy-duncan-pre-fight_GettyImages-2267734053.jpg?itok=n273FKK4",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Brendan Allen | Battle Tested",
+      "link": "https://www.ufc.com/news/brendan-allen-battle-tested-ufc-vegas-122-middleweight",
+      "guid": "https://www.ufc.com/news/brendan-allen-battle-tested-ufc-vegas-122-middleweight",
+      "pubDate": "Thu, 08 Oct 2026 17:04:00 GMT",
+      "published_at": "2026-10-08T17:04:00+00:00",
+      "description": "Latest UFC news: Brendan Allen | Battle Tested",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Ketlen Souza | Ready To Make The Jump",
+      "link": "https://www.ufc.com/news/ketlen-souza-ready-make-jump-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/ketlen-souza-ready-make-jump-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 16:50:00 GMT",
+      "published_at": "2026-10-08T16:50:00+00:00",
+      "description": "Now Feeling At Home On The Big Stage, Former Invicta FC Flyweight Champion Ketlen Souza Says She’s Ready To Contend For UFC Strawweight Gold",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-ketlen-souza-backstage-portrait_GettyImages-2260452790.jpg?itok=FlXRfcwp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC AND CLEVELAND CLINIC RENEW LONGSTANDING PARTNERSHIP",
+      "link": "https://www.ufc.com/news/ufc-and-cleveland-clinic-renew-longstanding-partnership",
+      "guid": "https://www.ufc.com/news/ufc-and-cleveland-clinic-renew-longstanding-partnership",
+      "pubDate": "Thu, 08 Oct 2026 14:20:00 GMT",
+      "published_at": "2026-10-08T14:20:00+00:00",
+      "description": "UFC To Provide $1 Million Contribution To Fund Professional Athletes Brain Health Study Through 2030 WWE Joins Study; Zuffa Boxing Athletes Now Eligible To Participate",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%202.jpg?itok=DmWzdymt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS",
       "link": "https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs",
       "guid": "https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs",
       "pubDate": "Wed, 07 Oct 2026 20:20:00 GMT",
       "published_at": "2026-10-07T20:20:00+00:00",
-      "description": "UFC CEO Dana White Chatted About UFC Staffer Salhahuddin Everett’s Contract-Winning Performance On Dana White’s Contender Series Week 9",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6",
+      "description": "Latest UFC news: Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS",
+      "image": "",
       "category": "UFC",
       "source": "UFC"
     },
@@ -34,75 +100,9 @@
       "guid": "https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122",
       "pubDate": "Wed, 07 Oct 2026 18:36:00 GMT",
       "published_at": "2026-10-07T18:36:00+00:00",
-      "description": "Ranked Strawweight Loopy Godinez Shares Outlook On The Ups And Downs Of Life Competing At The Highest Level",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-hero-loopy-godinez_GettyImages-2207543298.jpg?itok=4egY1DRh",
+      "description": "Latest UFC news: Loopy Godinez | Gratitude Above All Else",
+      "image": "",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC | DWCS, Season 10, Week 9",
-      "link": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-9",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dwcs-season-10-week-9",
-      "pubDate": "Wed, 07 Oct 2026 18:21:00 GMT",
-      "published_at": "2026-10-07T18:21:00+00:00",
-      "description": "The Penultimate Week Of Dana White’s Contender Series Season 10 Produced Another Thrilling Night Of Fights, As Four More Exciting Prospects Joined The UFC Roster.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-hero-saldaduddin-everett_GettyImages-2298975683.jpg?itok=GEW_4cpt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 9 Results + Scorecards | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-9-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-9-results",
-      "pubDate": "Wed, 07 Oct 2026 01:05:00 GMT",
-      "published_at": "2026-10-07T01:05:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 9 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 6, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100626-Salhahuddin-Everett-Reacts-Results-Thumbnail.JPG?itok=3zaMevXf",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Match By Match Preview | UFC BJJ 12: Moura vs Fornarino",
-      "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-12-moura-vs-fornarino",
-      "guid": "https://www.ufc.com/news/match-match-preview-ufc-bjj-12-moura-vs-fornarino",
-      "pubDate": "Tue, 06 Oct 2026 21:45:00 GMT",
-      "published_at": "2026-10-06T21:45:00+00:00",
-      "description": "Two Titles Are On The Line At Meta APEX With The Inaugural Women’s Flyweight Title And The Vacant Lightweight Crown Both Up For Grabs In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100626-hero-adele-fornarino-GettyImages-2291350410.jpg?itok=mUkkOs7y",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-allen-vs-duncan-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-allen-vs-duncan-ufc-vegas-122",
-      "pubDate": "Tue, 06 Oct 2026 16:57:00 GMT",
-      "published_at": "2026-10-06T16:57:00+00:00",
-      "description": "Highlighting Three Emerging Names To Pay Attention To On Saturday In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100626-matheus-camilo-prefight_GettyImages-2283590641.jpg?itok=kK8behAW",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
-      "guid": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
-      "pubDate": "Mon, 05 Oct 2026 21:22:00 GMT",
-      "published_at": "2026-10-05T21:22:00+00:00",
-      "description": "Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-dana-whites-contender-series-season-10",
-      "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
-      "published_at": "2026-10-05T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing For UFC Contracts In 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-07/DWCS-General-Generic-Weigh-in-hero_GettyImages-2229578493.jpg?itok=I5NJZZgM",
-      "category": "News",
       "source": "UFC"
     }
   ]
