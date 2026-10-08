@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-07T20:32:38.412760+00:00",
+  "last_build_date": "2026-10-08T00:54:51.282251+00:00",
   "item_count": 9,
   "items": [
     {
@@ -24,7 +24,7 @@
       "pubDate": "Wed, 07 Oct 2026 20:20:00 GMT",
       "published_at": "2026-10-07T20:20:00+00:00",
       "description": "UFC CEO Dana White Chatted About UFC Staffer Salhahuddin Everett’s Contract-Winning Performance On Dana White’s Contender Series Week 9",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6",
       "category": "UFC",
       "source": "UFC"
     },
@@ -46,7 +46,7 @@
       "pubDate": "Wed, 07 Oct 2026 18:21:00 GMT",
       "published_at": "2026-10-07T18:21:00+00:00",
       "description": "The Penultimate Week Of Dana White’s Contender Series Season 10 Produced Another Thrilling Night Of Fights, As Four More Exciting Prospects Joined The UFC Roster.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100726-hero-saldaduddin-everett_GettyImages-2298975683.jpg?itok=GEW_4cpt",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-hero-saldaduddin-everett_GettyImages-2298975683.jpg?itok=GEW_4cpt",
       "category": "UFC",
       "source": "UFC"
     },
