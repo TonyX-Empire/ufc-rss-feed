@@ -3,15 +3,15 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-09T01:09:11.836090+00:00",
+  "last_build_date": "2026-10-09T10:21:53.347225+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "UFC BJJ 12: Moura vs Fornarino Results",
       "link": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results",
       "guid": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results",
-      "pubDate": "Fri, 09 Oct 2026 01:05:00 GMT",
-      "published_at": "2026-10-09T01:05:00+00:00",
+      "pubDate": "Fri, 09 Oct 2026 02:46:00 GMT",
+      "published_at": "2026-10-09T02:46:00+00:00",
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs",
       "category": "UFC BJJ",
@@ -29,17 +29,6 @@
       "source": "UFC"
     },
     {
-      "title": "Malcolm Wellmaker | Starting Fresh",
-      "link": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
-      "published_at": "2026-10-08T17:39:00+00:00",
-      "description": "Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Jai Herbert Is Ready To Make A Statement",
       "link": "https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122",
       "guid": "https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122",
@@ -47,6 +36,17 @@
       "published_at": "2026-10-08T17:39:00+00:00",
       "description": "English 155er Jai Herbert Chases Back-To-Back UFC Wins As He Looks To Climb The Lightweight Ladder.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-jai-herbert-introduction_GettyImages-2271978253.jpg?itok=z70y7E4a",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Malcolm Wellmaker | Starting Fresh",
+      "link": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
+      "published_at": "2026-10-08T17:39:00+00:00",
+      "description": "Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB",
       "category": "UFC",
       "source": "UFC"
     },
