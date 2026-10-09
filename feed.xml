@@ -5,17 +5,27 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:09:11 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UFC BJJ 12: Moura vs Fornarino Results</title>
       <link>https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 09 Oct 2026 01:05:00 GMT</pubDate>
       <category>UFC BJJ</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs" alt="UFC BJJ 12: Moura vs Fornarino Results" /></p>
 <p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026</p>
 <p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>Christian Leroy Duncan | Journey To Main Event</title>
+      <link>https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122</guid>
+      <pubDate>Thu, 08 Oct 2026 20:51:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5" alt="Christian Leroy Duncan | Journey To Main Event" /></p>
+<p>Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Malcolm Wellmaker | Starting Fresh</title>
@@ -53,7 +63,8 @@
       <guid isPermaLink="true">https://www.ufc.com/news/brendan-allen-battle-tested-ufc-vegas-122-middleweight</guid>
       <pubDate>Thu, 08 Oct 2026 17:04:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p>Latest UFC news: Brendan Allen | Battle Tested</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-brendan-allen-introduction_GettyImages-2280249205.jpg?itok=UCURuxQ4" alt="Brendan Allen | Battle Tested" /></p>
+<p>Seasoned Middleweight Contender Brendan Allen Eyes A Big Main Event Victory To Edge Him Closer To A Title Shot.</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -82,16 +93,8 @@
       <guid isPermaLink="true">https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs</guid>
       <pubDate>Wed, 07 Oct 2026 20:20:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p>Latest UFC news: Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Loopy Godinez | Gratitude Above All Else</title>
-      <link>https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122</guid>
-      <pubDate>Wed, 07 Oct 2026 18:36:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p>Latest UFC news: Loopy Godinez | Gratitude Above All Else</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6" alt="Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS" /></p>
+<p>UFC CEO Dana White Chatted About UFC Staffer Salhahuddin Everett’s Contract-Winning Performance On Dana White’s Contender Series Week 9</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

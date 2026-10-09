@@ -3,18 +3,29 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-08T18:47:52.429125+00:00",
+  "last_build_date": "2026-10-09T01:09:11.836090+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "UFC BJJ 12: Moura vs Fornarino Results",
       "link": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results",
       "guid": "https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "published_at": "2026-10-09T00:00:00+00:00",
+      "pubDate": "Fri, 09 Oct 2026 01:05:00 GMT",
+      "published_at": "2026-10-09T01:05:00+00:00",
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Christian Leroy Duncan | Journey To Main Event",
+      "link": "https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122",
+      "pubDate": "Thu, 08 Oct 2026 20:51:00 GMT",
+      "published_at": "2026-10-08T20:51:00+00:00",
+      "description": "Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -56,8 +67,8 @@
       "guid": "https://www.ufc.com/news/brendan-allen-battle-tested-ufc-vegas-122-middleweight",
       "pubDate": "Thu, 08 Oct 2026 17:04:00 GMT",
       "published_at": "2026-10-08T17:04:00+00:00",
-      "description": "Latest UFC news: Brendan Allen | Battle Tested",
-      "image": "",
+      "description": "Seasoned Middleweight Contender Brendan Allen Eyes A Big Main Event Victory To Edge Him Closer To A Title Shot.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-brendan-allen-introduction_GettyImages-2280249205.jpg?itok=UCURuxQ4",
       "category": "UFC",
       "source": "UFC"
     },
@@ -89,19 +100,8 @@
       "guid": "https://www.ufc.com/news/dana-white-salhahuddin-everett-ufc-staffer-who-earned-ufc-contract-dwcs",
       "pubDate": "Wed, 07 Oct 2026 20:20:00 GMT",
       "published_at": "2026-10-07T20:20:00+00:00",
-      "description": "Latest UFC news: Dana White On Salhahuddin Everett, The UFC Staffer Who Earned A UFC Contract on DWCS",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Loopy Godinez | Gratitude Above All Else",
-      "link": "https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122",
-      "guid": "https://www.ufc.com/news/loopy-godinez-ufc-gratitude-above-all-else-vegas-122",
-      "pubDate": "Wed, 07 Oct 2026 18:36:00 GMT",
-      "published_at": "2026-10-07T18:36:00+00:00",
-      "description": "Latest UFC news: Loopy Godinez | Gratitude Above All Else",
-      "image": "",
+      "description": "UFC CEO Dana White Chatted About UFC Staffer Salhahuddin Everett’s Contract-Winning Performance On Dana White’s Contender Series Week 9",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-sal-everett-reaction_GettyImages-2298975685.jpg?itok=S5FU06Q6",
       "category": "UFC",
       "source": "UFC"
     }
