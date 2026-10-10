@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:40:57 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Allen vs Duncan</title>
@@ -34,6 +34,16 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>RJ Harris | Heavyweight’s Humble New Prospect</title>
+      <link>https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122</guid>
+      <pubDate>Fri, 09 Oct 2026 18:55:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100926-hero-rj-harris_GettyImages-2286675384.jpg?itok=PinFBK9x" alt="RJ Harris | Heavyweight’s Humble New Prospect" /></p>
+<p>Unbeaten Newcomer RJ Harris Talks Family, Small-Town Support Ahead of Sophomore Appearance Inside The Octagon</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Official Weigh-In Results | UFC Fight Night: Allen vs Duncan</title>
@@ -72,16 +82,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5" alt="Christian Leroy Duncan | Journey To Main Event" /></p>
 <p>Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Malcolm Wellmaker | Starting Fresh</title>
-      <link>https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</guid>
-      <pubDate>Thu, 08 Oct 2026 17:39:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB" alt="Malcolm Wellmaker | Starting Fresh" /></p>
-<p>Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>

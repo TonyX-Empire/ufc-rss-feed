@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-09T18:17:19.282577+00:00",
+  "last_build_date": "2026-10-10T00:40:57.602982+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,17 @@
       "description": "Latest UFC news: Search results | UFC",
       "image": "",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "RJ Harris | Heavyweight’s Humble New Prospect",
+      "link": "https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122",
+      "guid": "https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122",
+      "pubDate": "Fri, 09 Oct 2026 18:55:00 GMT",
+      "published_at": "2026-10-09T18:55:00+00:00",
+      "description": "Unbeaten Newcomer RJ Harris Talks Family, Small-Town Support Ahead of Sophomore Appearance Inside The Octagon",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100926-hero-rj-harris_GettyImages-2286675384.jpg?itok=PinFBK9x",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -80,17 +91,6 @@
       "published_at": "2026-10-08T20:51:00+00:00",
       "description": "Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Malcolm Wellmaker | Starting Fresh",
-      "link": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
-      "published_at": "2026-10-08T17:39:00+00:00",
-      "description": "Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB",
       "category": "UFC",
       "source": "UFC"
     },
