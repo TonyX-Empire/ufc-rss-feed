@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-10T17:16:29.575773+00:00",
+  "last_build_date": "2026-10-10T21:31:37.825189+00:00",
   "item_count": 9,
   "items": [
     {
@@ -18,25 +18,36 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Prelim Results | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results",
-      "pubDate": "Sat, 10 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-10T21:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "pubDate": "Sun, 11 Oct 2026 00:00:00 GMT",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "description": "UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 10, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/060626-general-view-octagon-HERO-GettyImages-2280245980.jpg?itok=lmhiFtyD",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Official Scorecards | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
       "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
-      "pubDate": "Sat, 10 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-10T21:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "pubDate": "Sat, 10 Oct 2026 23:00:00 GMT",
+      "published_at": "2026-10-10T23:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Allen vs Duncan, Live From Meta APEX In Las Vegas On October 10, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Fight Night: Allen vs Duncan",
+      "link": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
+      "guid": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
+      "pubDate": "Sat, 10 Oct 2026 19:00:00 GMT",
+      "published_at": "2026-10-10T19:00:00+00:00",
+      "description": "Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-10-08T20:51:00+00:00",
       "description": "Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Malcolm Wellmaker | Starting Fresh",
-      "link": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122",
-      "pubDate": "Thu, 08 Oct 2026 17:39:00 GMT",
-      "published_at": "2026-10-08T17:39:00+00:00",
-      "description": "Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB",
       "category": "UFC",
       "source": "UFC"
     }

@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:31:37 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Allen vs Duncan</title>
@@ -18,22 +18,34 @@
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
+      <title>Prelim Results | UFC Fight Night: Allen vs Duncan</title>
       <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</guid>
-      <pubDate>Sat, 10 Oct 2026 21:00:00 GMT</pubDate>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/060626-general-view-octagon-HERO-GettyImages-2280245980.jpg?itok=lmhiFtyD" alt="Prelim Results | UFC Fight Night: Allen vs Duncan" /></p>
+<p>UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 10, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
+      <title>Official Scorecards | UFC Fight Night: Allen vs Duncan</title>
       <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</guid>
-      <pubDate>Sat, 10 Oct 2026 21:00:00 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:00:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV" alt="Official Scorecards | UFC Fight Night: Allen vs Duncan" /></p>
+<p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Allen vs Duncan, Live From Meta APEX In Las Vegas On October 10, 2026</p>
 <p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>UFC TONIGHT: Fight By Fight Preview | UFC Fight Night: Allen vs Duncan</title>
+      <link>https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan</guid>
+      <pubDate>Sat, 10 Oct 2026 19:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ" alt="UFC TONIGHT: Fight By Fight Preview | UFC Fight Night: Allen vs Duncan" /></p>
+<p>Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>RJ Harris | Heavyweight’s Humble New Prospect</title>
@@ -82,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5" alt="Christian Leroy Duncan | Journey To Main Event" /></p>
 <p>Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Malcolm Wellmaker | Starting Fresh</title>
-      <link>https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</guid>
-      <pubDate>Thu, 08 Oct 2026 17:39:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB" alt="Malcolm Wellmaker | Starting Fresh" /></p>
-<p>Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
