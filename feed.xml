@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:41:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:16:29 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Allen vs Duncan</title>
@@ -19,8 +19,8 @@
     </item>
     <item>
       <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</guid>
+      <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</guid>
       <pubDate>Sat, 10 Oct 2026 21:00:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
@@ -28,8 +28,8 @@
     </item>
     <item>
       <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results</guid>
+      <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards</guid>
       <pubDate>Sat, 10 Oct 2026 21:00:00 GMT</pubDate>
       <category>UFC Fight Night</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
@@ -85,13 +85,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Jai Herbert Is Ready To Make A Statement</title>
-      <link>https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jai-herbert-is-ready-to-make-a-statement-ufc-vegas-122</guid>
+      <title>Malcolm Wellmaker | Starting Fresh</title>
+      <link>https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/malcolm-wellmaker-starting-fresh-ufc-vegas-122</guid>
       <pubDate>Thu, 08 Oct 2026 17:39:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-jai-herbert-introduction_GettyImages-2271978253.jpg?itok=z70y7E4a" alt="Jai Herbert Is Ready To Make A Statement" /></p>
-<p>English 155er Jai Herbert Chases Back-To-Back UFC Wins As He Looks To Climb The Lightweight Ladder.</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100726-malcolm-wellmaker-on-stage_GettyImages-2246749765.jpg?itok=yV0p6BVB" alt="Malcolm Wellmaker | Starting Fresh" /></p>
+<p>Talented Bantamweight Malcolm Wellmaker Talks Leaving Home, Training At American Top Team, Excitement For The Future</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
