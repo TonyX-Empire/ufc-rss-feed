@@ -3,17 +3,28 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-10T21:31:37.825189+00:00",
+  "last_build_date": "2026-10-11T05:32:53.770173+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Main Card Results | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results",
-      "pubDate": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "published_at": "2026-10-11T00:00:00+00:00",
+      "pubDate": "Sun, 11 Oct 2026 03:30:00 GMT",
+      "published_at": "2026-10-11T03:30:00+00:00",
       "description": "UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 10, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/101026-ufc-fight-night-allen-vs-duncan-EVENT-ART.jpg?itok=cfBHeaxL",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Allen vs Duncan",
+      "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
+      "pubDate": "Sun, 11 Oct 2026 01:30:00 GMT",
+      "published_at": "2026-10-11T01:30:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Allen vs Duncan From Meta APEX In Las Vegas On October 10, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/Chrissy-Blair-Octagon-Girl-Hero-GettyImages-1409166798.jpg?itok=7JN3Nmj_",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -24,18 +35,7 @@
       "pubDate": "Sun, 11 Oct 2026 00:00:00 GMT",
       "published_at": "2026-10-11T00:00:00+00:00",
       "description": "UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/060626-general-view-octagon-HERO-GettyImages-2280245980.jpg?itok=lmhiFtyD",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
-      "pubDate": "Sat, 10 Oct 2026 23:00:00 GMT",
-      "published_at": "2026-10-10T23:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Allen vs Duncan, Live From Meta APEX In Las Vegas On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-GettyImages-2296136769.jpg?itok=mkzi7NkV",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2299584555.jpg?itok=jUR5KrBk",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
