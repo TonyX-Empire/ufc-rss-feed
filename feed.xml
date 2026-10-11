@@ -5,8 +5,17 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:27:14 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10</guid>
+      <pubDate>Sun, 11 Oct 2026 16:16:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC Fight Night: Allen vs Duncan</title>
       <link>https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results</link>
@@ -85,16 +94,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs" alt="UFC BJJ 12: Moura vs Fornarino Results" /></p>
 <p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026</p>
 <p>Category: UFC BJJ</p>]]></description>
-    </item>
-    <item>
-      <title>Christian Leroy Duncan | Journey To Main Event</title>
-      <link>https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122</guid>
-      <pubDate>Thu, 08 Oct 2026 20:51:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5" alt="Christian Leroy Duncan | Journey To Main Event" /></p>
-<p>Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>

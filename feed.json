@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-11T12:36:53.804321+00:00",
+  "last_build_date": "2026-10-11T19:27:14.975134+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
+      "guid": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
+      "pubDate": "Sun, 11 Oct 2026 16:16:00 GMT",
+      "published_at": "2026-10-11T16:16:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results",
@@ -92,17 +103,6 @@
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs",
       "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "Christian Leroy Duncan | Journey To Main Event",
-      "link": "https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/christian-leroy-duncan-journey-to-main-event-ufc-vegas-122",
-      "pubDate": "Thu, 08 Oct 2026 20:51:00 GMT",
-      "published_at": "2026-10-08T20:51:00+00:00",
-      "description": "Dynamic Middleweight Christian Leroy Duncan Gets His First Main Event Assignment On October 10 Against Brendan Allen. This Is How He Got There.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100826-hero-christian-leroy-duncan_GettyImages-2286696447.jpg?itok=X2dgMYb5",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
