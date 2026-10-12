@@ -3,17 +3,39 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-12T10:36:34.755188+00:00",
+  "last_build_date": "2026-10-12T21:12:30.662491+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Search results | UFC",
+      "title": "FORMER CHAMPION JIŘÍ PROCHÁZKA TAKES ON UNDEFEATED NAVAJO STIRLING AS UFC RETURNS TO DOHA ON NOVEMBER 21",
+      "link": "https://www.ufc.com/news/former-champion-jiri-prochazka-takes-undefeated-navajo-stirling-ufc-returns-doha-november-21",
+      "guid": "https://www.ufc.com/news/former-champion-jiri-prochazka-takes-undefeated-navajo-stirling-ufc-returns-doha-november-21",
+      "pubDate": "Mon, 12 Oct 2026 17:47:00 GMT",
+      "published_at": "2026-10-12T17:47:00+00:00",
+      "description": "TICKETS ARE ON SALE NOW VIA VISIT QATAR TICKETING PLATFORM",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/_Endpage.jpg?itok=FomkOMbg",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Edmonton",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
+      "pubDate": "Mon, 12 Oct 2026 15:59:00 GMT",
+      "published_at": "2026-10-12T15:59:00+00:00",
+      "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "pubDate": "Sun, 11 Oct 2026 21:41:00 GMT",
       "published_at": "2026-10-11T21:41:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Allen vs Duncan On October 10, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/10112026-Brendan-Allen-UFCVegas122-GettyImages-2299604113.jpeg?itok=bRwspPLF",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-10-09T18:55:00+00:00",
       "description": "Unbeaten Newcomer RJ Harris Talks Family, Small-Town Support Ahead of Sophomore Appearance Inside The Octagon",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100926-hero-rj-harris_GettyImages-2286675384.jpg?itok=PinFBK9x",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-allen-vs-duncan-vegas-122",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-allen-vs-duncan-vegas-122",
-      "pubDate": "Fri, 09 Oct 2026 17:00:00 GMT",
-      "published_at": "2026-10-09T17:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing October 10 At Meta APEX In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2025-10/GettyImages-2201164559_resized.jpg?itok=dtOE-YG7",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/dwcs-season-10-episode-10-preview-athletes-bouts-start-time-streaming",
-      "guid": "https://www.ufc.com/news/dwcs-season-10-episode-10-preview-athletes-bouts-start-time-streaming",
-      "pubDate": "Fri, 09 Oct 2026 12:00:00 GMT",
-      "published_at": "2026-10-09T12:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
       "category": "UFC",
       "source": "UFC"
     }
