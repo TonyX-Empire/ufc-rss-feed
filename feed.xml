@@ -5,8 +5,17 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Oct 2026 19:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:25:09 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan</guid>
+      <pubDate>Sun, 11 Oct 2026 21:41:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Search results | UFC</title>
       <link>https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10</link>
@@ -84,16 +93,6 @@
       <category>UFC</category>
       <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>UFC BJJ 12: Moura vs Fornarino Results</title>
-      <link>https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-12-moura-vs-fornarino-results</guid>
-      <pubDate>Fri, 09 Oct 2026 02:46:00 GMT</pubDate>
-      <category>UFC BJJ</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/100826-ufc-bjj-12-moura-vs-fornarino-EVENT-ART.jpg?itok=L_wjtVGs" alt="UFC BJJ 12: Moura vs Fornarino Results" /></p>
-<p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 12: Moura vs Fornarino At Meta APEX In Las Vegas, Nevada On October 8, 2026</p>
-<p>Category: UFC BJJ</p>]]></description>
     </item>
   </channel>
 </rss>
