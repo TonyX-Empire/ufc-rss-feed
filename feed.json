@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-13T06:38:25.763689+00:00",
+  "last_build_date": "2026-10-13T16:52:28.626452+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
+      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
+      "pubDate": "Tue, 13 Oct 2026 23:00:00 GMT",
+      "published_at": "2026-10-13T23:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "FORMER CHAMPION JIŘÍ PROCHÁZKA TAKES ON UNDEFEATED NAVAJO STIRLING AS UFC RETURNS TO DOHA ON NOVEMBER 21",
       "link": "https://www.ufc.com/news/former-champion-jiri-prochazka-takes-undefeated-navajo-stirling-ufc-returns-doha-november-21",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-10T19:00:00+00:00",
       "description": "Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "RJ Harris | Heavyweight’s Humble New Prospect",
-      "link": "https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122",
-      "guid": "https://www.ufc.com/news/rj-harris-heavyweights-humble-new-prospect-ufc-vegas-122",
-      "pubDate": "Fri, 09 Oct 2026 18:55:00 GMT",
-      "published_at": "2026-10-09T18:55:00+00:00",
-      "description": "Unbeaten Newcomer RJ Harris Talks Family, Small-Town Support Ahead of Sophomore Appearance Inside The Octagon",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100926-hero-rj-harris_GettyImages-2286675384.jpg?itok=PinFBK9x",
       "category": "UFC",
       "source": "UFC"
     }
