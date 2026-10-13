@@ -3,17 +3,61 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-13T16:52:28.626452+00:00",
+  "last_build_date": "2026-10-13T22:34:37.572512+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Search results | UFC",
+      "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
       "pubDate": "Tue, 13 Oct 2026 23:00:00 GMT",
       "published_at": "2026-10-13T23:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 10 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 13, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing Signs WBC Middleweight World Champion Carlos Adames",
+      "link": "https://www.ufc.com/news/zuffa-boxing-signs-wbc-middleweight-world-champion-carlos-adames",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-signs-wbc-middleweight-world-champion-carlos-adames",
+      "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
+      "published_at": "2026-10-13T18:07:00+00:00",
+      "description": "Decorated Dominican Star Signs Multi-Fight Contract",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/Zuffa_Boxing_-_Watch_on_Paramount_Plus-Firefly-Upscaler-2x-scale.jpg?itok=2Jnue67l",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Erin Blanchfield | Performance Focused In Familiar Surroundings",
+      "link": "https://www.ufc.com/news/erin-blanchfield-performance-focused-familiar-surroundings-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/erin-blanchfield-performance-focused-familiar-surroundings-ufc-edmonton",
+      "pubDate": "Tue, 13 Oct 2026 17:28:00 GMT",
+      "published_at": "2026-10-13T17:28:00+00:00",
+      "description": "Back In Edmonton, Top 5 Standout Eyes Statement Effort Against Jasmine Jasudavicius At UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-erin-blanchfield-on-scale_GettyImages-2246745451.jpg?itok=BGN5SlxK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mike Malott: ‘Nobody Gets To Do This Stuff’",
+      "link": "https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight",
+      "guid": "https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight",
+      "pubDate": "Tue, 13 Oct 2026 17:11:00 GMT",
+      "published_at": "2026-10-13T17:11:00+00:00",
+      "description": "Canadian Headliner Discusses His Deep Sense Of Gratitude Ahead Of Second Consecutive Main Event Assignment In Edmonton",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-mike-malott-enters-octagon_GettyImages-2241907880.jpg?itok=ROy6LSGr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | UFC Edmonton",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-edmonton",
+      "pubDate": "Tue, 13 Oct 2026 17:04:00 GMT",
+      "published_at": "2026-10-13T17:04:00+00:00",
+      "description": "Highlighting Three Debuting DWCS Grads Set To Hit The Octagon Saturday At UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FOTR-hero-2026.jpg?itok=PVD3Shl-",
       "category": "UFC",
       "source": "UFC"
     },
@@ -51,58 +95,14 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Week 10 Preview | Dana White’s Contender Series, Season 10",
       "link": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
       "guid": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
       "pubDate": "Sun, 11 Oct 2026 16:16:00 GMT",
       "published_at": "2026-10-11T16:16:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-results",
-      "pubDate": "Sun, 11 Oct 2026 03:30:00 GMT",
-      "published_at": "2026-10-11T03:30:00+00:00",
-      "description": "UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/101026-ufc-fight-night-allen-vs-duncan-EVENT-ART.jpg?itok=cfBHeaxL",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-official-scorecards",
-      "pubDate": "Sun, 11 Oct 2026 01:30:00 GMT",
-      "published_at": "2026-10-11T01:30:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Allen vs Duncan From Meta APEX In Las Vegas On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/Chrissy-Blair-Octagon-Girl-Hero-GettyImages-1409166798.jpg?itok=7JN3Nmj_",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-allen-vs-duncan-prelim-results",
-      "pubDate": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "published_at": "2026-10-11T00:00:00+00:00",
-      "description": "UFC Fight Night: Allen vs Duncan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2299584555.jpg?itok=jUR5KrBk",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Fight Night: Allen vs Duncan",
-      "link": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
-      "guid": "https://www.ufc.com/news/ufc-vegas-122-fight-by-fight-preview-allen-vs-duncan",
-      "pubDate": "Sat, 10 Oct 2026 19:00:00 GMT",
-      "published_at": "2026-10-10T19:00:00+00:00",
-      "description": "Getting Set For Saturday’s Action-Packed Card At The Meta APEX Featuring A Pair Of Rising Middleweights As Brendan Allen Takes On Christian Leroy Duncan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100326-FBF-hero-UFC-Vegas-122.jpg?itok=ehn6phkQ",
-      "category": "UFC",
+      "description": "Taking A Look At The Contests Hitting The Cage October 13 At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2297577156.jpg?itok=Q3OC041m",
+      "category": "News",
       "source": "UFC"
     }
   ]
