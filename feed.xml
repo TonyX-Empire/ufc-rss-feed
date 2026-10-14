@@ -5,15 +5,35 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:00:34 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cody Chovancek’s Time To Shine</title>
+      <link>https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton</guid>
+      <pubDate>Wed, 14 Oct 2026 16:23:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-cody-chovancek-walkout_GettyImages-2235827637.jpg?itok=RQrh1jwS" alt="Cody Chovancek’s Time To Shine" /></p>
+<p>Debuting Dana White’s Contender Series Grad Cody Chovancek Talks Competing In Canada, Matchup With SuYoung You On Saturday At UFC Fight Night: Buckley vs Malott</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Louis Jourdain’s Turn In The Spotlight Has Arrived</title>
+      <link>https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton</guid>
+      <pubDate>Wed, 14 Oct 2026 16:22:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101326-louis-jourdain-dwcs_GettyImages-2238446526.jpg?itok=z_bY0mrv" alt="Louis Jourdain’s Turn In The Spotlight Has Arrived" /></p>
+<p>Familiar With Fight Week, Debuting DWCS Grad Louis Jourdain Finally The One Stepping Into The Octagon At UFC Fight Night: Buckley vs Malott</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Week 10 Results + Scorecards | Dana White's Contender Series, Season 10</title>
       <link>https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results</guid>
       <pubDate>Wed, 14 Oct 2026 02:35:00 GMT</pubDate>
       <category>News</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2" alt="Week 10 Results + Scorecards | Dana White's Contender Series, Season 10" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2" alt="Week 10 Results + Scorecards | Dana White's Contender Series, Season 10" /></p>
 <p>Live Results, Official Scorecards, Fight Recaps And More From Week 10 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 13, 2026</p>
 <p>Category: News</p>]]></description>
     </item>
@@ -76,25 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4" alt="Fight By Fight Preview | UFC Edmonton" /></p>
 <p>Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan</guid>
-      <pubDate>Sun, 11 Oct 2026 21:41:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Week 10 Preview | Dana White’s Contender Series, Season 10</title>
-      <link>https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10</guid>
-      <pubDate>Sun, 11 Oct 2026 16:16:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2297577156.jpg?itok=Q3OC041m" alt="Week 10 Preview | Dana White’s Contender Series, Season 10" /></p>
-<p>Taking A Look At The Contests Hitting The Cage October 13 At Meta APEX</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>

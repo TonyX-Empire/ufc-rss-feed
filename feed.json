@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-14T11:38:55.501040+00:00",
+  "last_build_date": "2026-10-14T17:00:34.484610+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Cody Chovancek’s Time To Shine",
+      "link": "https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton",
+      "pubDate": "Wed, 14 Oct 2026 16:23:00 GMT",
+      "published_at": "2026-10-14T16:23:00+00:00",
+      "description": "Debuting Dana White’s Contender Series Grad Cody Chovancek Talks Competing In Canada, Matchup With SuYoung You On Saturday At UFC Fight Night: Buckley vs Malott",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-cody-chovancek-walkout_GettyImages-2235827637.jpg?itok=RQrh1jwS",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Louis Jourdain’s Turn In The Spotlight Has Arrived",
+      "link": "https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton",
+      "pubDate": "Wed, 14 Oct 2026 16:22:00 GMT",
+      "published_at": "2026-10-14T16:22:00+00:00",
+      "description": "Familiar With Fight Week, Debuting DWCS Grad Louis Jourdain Finally The One Stepping Into The Octagon At UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-louis-jourdain-dwcs_GettyImages-2238446526.jpg?itok=z_bY0mrv",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
@@ -13,7 +35,7 @@
       "pubDate": "Wed, 14 Oct 2026 02:35:00 GMT",
       "published_at": "2026-10-14T02:35:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 10 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 13, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2",
       "category": "News",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
-      "pubDate": "Sun, 11 Oct 2026 21:41:00 GMT",
-      "published_at": "2026-10-11T21:41:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 10 Preview | Dana White’s Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
-      "guid": "https://www.ufc.com/news/week-10-preview-dana-whites-contender-series-season-10",
-      "pubDate": "Sun, 11 Oct 2026 16:16:00 GMT",
-      "published_at": "2026-10-11T16:16:00+00:00",
-      "description": "Taking A Look At The Contests Hitting The Cage October 13 At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2297577156.jpg?itok=Q3OC041m",
-      "category": "News",
       "source": "UFC"
     }
   ]
