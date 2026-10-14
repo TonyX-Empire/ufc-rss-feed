@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-14T04:40:04.911401+00:00",
+  "last_build_date": "2026-10-14T11:38:55.501040+00:00",
   "item_count": 9,
   "items": [
     {
@@ -84,13 +84,13 @@
       "source": "UFC"
     },
     {
-      "title": "The Scorecard | UFC Fight Night: Allen vs Duncan",
+      "title": "Search results | UFC",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "pubDate": "Sun, 11 Oct 2026 21:41:00 GMT",
       "published_at": "2026-10-11T21:41:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Allen vs Duncan On October 10, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/10112026-Brendan-Allen-UFCVegas122-GettyImages-2299604113.jpeg?itok=bRwspPLF",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
