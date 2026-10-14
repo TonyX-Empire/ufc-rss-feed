@@ -3,17 +3,17 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-13T22:34:37.572512+00:00",
+  "last_build_date": "2026-10-14T04:40:04.911401+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
       "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
       "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
-      "pubDate": "Tue, 13 Oct 2026 23:00:00 GMT",
-      "published_at": "2026-10-13T23:00:00+00:00",
+      "pubDate": "Wed, 14 Oct 2026 02:35:00 GMT",
+      "published_at": "2026-10-14T02:35:00+00:00",
       "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 10 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 13, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=3Y8vnCXQ",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2",
       "category": "News",
       "source": "UFC"
     },
@@ -84,13 +84,13 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "The Scorecard | UFC Fight Night: Allen vs Duncan",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-allen-vs-duncan",
       "pubDate": "Sun, 11 Oct 2026 21:41:00 GMT",
       "published_at": "2026-10-11T21:41:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Allen vs Duncan On October 10, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/10112026-Brendan-Allen-UFCVegas122-GettyImages-2299604113.jpeg?itok=bRwspPLF",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
