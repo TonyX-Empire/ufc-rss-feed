@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-14T17:00:34.484610+00:00",
+  "last_build_date": "2026-10-14T21:32:40.381046+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Kyle Daukaus Focused On Being Where His Feet Are",
+      "link": "https://www.ufc.com/news/kyle-daukaus-focused-being-where-his-feet-are-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/kyle-daukaus-focused-being-where-his-feet-are-ufc-edmonton",
+      "pubDate": "Wed, 14 Oct 2026 20:45:00 GMT",
+      "published_at": "2026-10-14T20:45:00+00:00",
+      "description": "Talented Middleweight Talks Return To Action, Facing Marc-Andre Barriault On Saturday In Edmonton At UFC Fight Night: Buckley vs Malott",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101326-kyle-daukaus-celebration_GettyImages-2246889120.jpg?itok=FkhqSPYF",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Welcome To The UFC: DWCS, Season 10, Week 10",
+      "link": "https://www.ufc.com/news/welcome-ufc-dana-whites-contdender-series-season-10-week-10",
+      "guid": "https://www.ufc.com/news/welcome-ufc-dana-whites-contdender-series-season-10-week-10",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 GMT",
+      "published_at": "2026-10-14T20:40:00+00:00",
+      "description": "The Final Week Of Dana White’s Contender Series Season 10 Delivered Four More Contract Winners, As The 10th Season Equaled The Record For Contracts Awarded",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-luis-franscischinelli-celebration_GettyImages-2299557446.jpg?itok=ITglED8P",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Cody Chovancek’s Time To Shine",
       "link": "https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton",
@@ -13,7 +35,7 @@
       "pubDate": "Wed, 14 Oct 2026 16:23:00 GMT",
       "published_at": "2026-10-14T16:23:00+00:00",
       "description": "Debuting Dana White’s Contender Series Grad Cody Chovancek Talks Competing In Canada, Matchup With SuYoung You On Saturday At UFC Fight Night: Buckley vs Malott",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-cody-chovancek-walkout_GettyImages-2235827637.jpg?itok=RQrh1jwS",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-cody-chovancek-walkout_GettyImages-2235827637.jpg?itok=RQrh1jwS",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-10-13T17:04:00+00:00",
       "description": "Highlighting Three Debuting DWCS Grads Set To Hit The Octagon Saturday At UFC Fight Night: Buckley vs Malott",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FOTR-hero-2026.jpg?itok=PVD3Shl-",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "FORMER CHAMPION JIŘÍ PROCHÁZKA TAKES ON UNDEFEATED NAVAJO STIRLING AS UFC RETURNS TO DOHA ON NOVEMBER 21",
-      "link": "https://www.ufc.com/news/former-champion-jiri-prochazka-takes-undefeated-navajo-stirling-ufc-returns-doha-november-21",
-      "guid": "https://www.ufc.com/news/former-champion-jiri-prochazka-takes-undefeated-navajo-stirling-ufc-returns-doha-november-21",
-      "pubDate": "Mon, 12 Oct 2026 17:47:00 GMT",
-      "published_at": "2026-10-12T17:47:00+00:00",
-      "description": "TICKETS ARE ON SALE NOW VIA VISIT QATAR TICKETING PLATFORM",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/_Endpage.jpg?itok=FomkOMbg",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Edmonton",
-      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
-      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
-      "pubDate": "Mon, 12 Oct 2026 15:59:00 GMT",
-      "published_at": "2026-10-12T15:59:00+00:00",
-      "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
       "category": "UFC",
       "source": "UFC"
     }
