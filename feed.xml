@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:48:53 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javad Majhoub | Chasing Excellence, But Enjoying The Moments</title>
+      <link>https://www.ufc.com/news/javad-majhoub-chasing-excellence-enjoying-moments-ufc-edmonton</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/javad-majhoub-chasing-excellence-enjoying-moments-ufc-edmonton</guid>
+      <pubDate>Thu, 15 Oct 2026 15:15:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-javad-majhoub-social-portrait-HERO.jpg?itok=y9aMKy0p" alt="Javad Majhoub | Chasing Excellence, But Enjoying The Moments" /></p>
+<p>Heavyweight Newcomer Discusses Transition To MMA, Championship Ambitions Ahead Of His Debut At UFC Fight Night: Buckley vs Malott</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Dana White on Contender Series Week 10, TUF 1 Memories, Star Power, Mike Malott + More</title>
       <link>https://www.ufc.com/news/dana-white-contender-series-week-10-tuf-1-memories-star-power-mike-malott-more</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101326-erin-blanchfield-on-scale_GettyImages-2246745451.jpg?itok=BGN5SlxK" alt="Erin Blanchfield | Performance Focused In Familiar Surroundings" /></p>
 <p>Back In Edmonton, Top 5 Standout Eyes Statement Effort Against Jasmine Jasudavicius At UFC Fight Night: Buckley vs Malott</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Mike Malott: ‘Nobody Gets To Do This Stuff’</title>
-      <link>https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight</guid>
-      <pubDate>Tue, 13 Oct 2026 17:11:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101326-mike-malott-enters-octagon_GettyImages-2241907880.jpg?itok=ROy6LSGr" alt="Mike Malott: ‘Nobody Gets To Do This Stuff’" /></p>
-<p>Canadian Headliner Discusses His Deep Sense Of Gratitude Ahead Of Second Consecutive Main Event Assignment In Edmonton</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

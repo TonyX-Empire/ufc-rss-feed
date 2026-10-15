@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-15T11:17:36.584924+00:00",
+  "last_build_date": "2026-10-15T16:48:53.476014+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Javad Majhoub | Chasing Excellence, But Enjoying The Moments",
+      "link": "https://www.ufc.com/news/javad-majhoub-chasing-excellence-enjoying-moments-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/javad-majhoub-chasing-excellence-enjoying-moments-ufc-edmonton",
+      "pubDate": "Thu, 15 Oct 2026 15:15:00 GMT",
+      "published_at": "2026-10-15T15:15:00+00:00",
+      "description": "Heavyweight Newcomer Discusses Transition To MMA, Championship Ambitions Ahead Of His Debut At UFC Fight Night: Buckley vs Malott",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-javad-majhoub-social-portrait-HERO.jpg?itok=y9aMKy0p",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Dana White on Contender Series Week 10, TUF 1 Memories, Star Power, Mike Malott + More",
       "link": "https://www.ufc.com/news/dana-white-contender-series-week-10-tuf-1-memories-star-power-mike-malott-more",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-13T17:28:00+00:00",
       "description": "Back In Edmonton, Top 5 Standout Eyes Statement Effort Against Jasmine Jasudavicius At UFC Fight Night: Buckley vs Malott",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-erin-blanchfield-on-scale_GettyImages-2246745451.jpg?itok=BGN5SlxK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Mike Malott: ‘Nobody Gets To Do This Stuff’",
-      "link": "https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight",
-      "guid": "https://www.ufc.com/news/mike-malott-nobody-gets-do-stuff-ufc-edmonton-welterweight",
-      "pubDate": "Tue, 13 Oct 2026 17:11:00 GMT",
-      "published_at": "2026-10-13T17:11:00+00:00",
-      "description": "Canadian Headliner Discusses His Deep Sense Of Gratitude Ahead Of Second Consecutive Main Event Assignment In Edmonton",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-mike-malott-enters-octagon_GettyImages-2241907880.jpg?itok=ROy6LSGr",
       "category": "UFC",
       "source": "UFC"
     }
