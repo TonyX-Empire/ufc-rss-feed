@@ -3,9 +3,64 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-15T16:48:53.476014+00:00",
+  "last_build_date": "2026-10-15T21:14:39.437092+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-results-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-results-buckley-vs-malott",
+      "pubDate": "Sun, 18 Oct 2026 00:00:00 GMT",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
+      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-17T21:00:00+00:00",
+      "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-17T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Mandel Nallo | Let’s Try This Again",
+      "link": "https://www.ufc.com/news/mandel-nallo-lets-try-again-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/mandel-nallo-lets-try-again-ufc-edmonton",
+      "pubDate": "Thu, 15 Oct 2026 20:22:00 GMT",
+      "published_at": "2026-10-15T20:22:00+00:00",
+      "description": "Canadian Lightweight Focused On The Work, Not The Outcome Ahead Of Return In Edmonton At UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-mandel-nallo-entrance_GettyImages-2271978239.jpg?itok=ax9w-6iu",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Cristian Perez Out to Show He Belongs",
+      "link": "https://www.ufc.com/news/cristian-perez-out-to-show-he-belongs-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/cristian-perez-out-to-show-he-belongs-ufc-edmonton",
+      "pubDate": "Thu, 15 Oct 2026 19:43:00 GMT",
+      "published_at": "2026-10-15T19:43:00+00:00",
+      "description": "Recent DWCS Grad Cristian Perez Discusses Contract Win, Debut Matchup With Kyle Nelson",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-cristian-perez-hand-raise_GettyImages-2291072081.jpg?itok=9UaAMhfE",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Javad Majhoub | Chasing Excellence, But Enjoying The Moments",
       "link": "https://www.ufc.com/news/javad-majhoub-chasing-excellence-enjoying-moments-ufc-edmonton",
@@ -13,7 +68,7 @@
       "pubDate": "Thu, 15 Oct 2026 15:15:00 GMT",
       "published_at": "2026-10-15T15:15:00+00:00",
       "description": "Heavyweight Newcomer Discusses Transition To MMA, Championship Ambitions Ahead Of His Debut At UFC Fight Night: Buckley vs Malott",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101426-javad-majhoub-social-portrait-HERO.jpg?itok=y9aMKy0p",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-javad-majhoub-social-portrait-HERO.jpg?itok=y9aMKy0p",
       "category": "UFC",
       "source": "UFC"
     },
@@ -47,61 +102,6 @@
       "published_at": "2026-10-14T20:40:00+00:00",
       "description": "The Final Week Of Dana White’s Contender Series Season 10 Delivered Four More Contract Winners, As The 10th Season Equaled The Record For Contracts Awarded",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-luis-franscischinelli-celebration_GettyImages-2299557446.jpg?itok=ITglED8P",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Cody Chovancek’s Time To Shine",
-      "link": "https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/cody-chovanceks-time-shine-ufc-edmonton",
-      "pubDate": "Wed, 14 Oct 2026 16:23:00 GMT",
-      "published_at": "2026-10-14T16:23:00+00:00",
-      "description": "Debuting Dana White’s Contender Series Grad Cody Chovancek Talks Competing In Canada, Matchup With SuYoung You On Saturday At UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-cody-chovancek-walkout_GettyImages-2235827637.jpg?itok=RQrh1jwS",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Louis Jourdain’s Turn In The Spotlight Has Arrived",
-      "link": "https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/louis-jourdains-turn-spotlight-has-arrived-ufc-edmonton",
-      "pubDate": "Wed, 14 Oct 2026 16:22:00 GMT",
-      "published_at": "2026-10-14T16:22:00+00:00",
-      "description": "Familiar With Fight Week, Debuting DWCS Grad Louis Jourdain Finally The One Stepping Into The Octagon At UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-louis-jourdain-dwcs_GettyImages-2238446526.jpg?itok=z_bY0mrv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
-      "link": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
-      "guid": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
-      "pubDate": "Wed, 14 Oct 2026 02:35:00 GMT",
-      "published_at": "2026-10-14T02:35:00+00:00",
-      "description": "Live Results, Official Scorecards, Fight Recaps And More From Week 10 Of Dana White's Contender Series Season 10, Live From Meta APEX In Las Vegas On October 13, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-douglas-da-lapa-reacts-GettyImages-2299548219.jpg?itok=L7BD0Ca2",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing Signs WBC Middleweight World Champion Carlos Adames",
-      "link": "https://www.ufc.com/news/zuffa-boxing-signs-wbc-middleweight-world-champion-carlos-adames",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-signs-wbc-middleweight-world-champion-carlos-adames",
-      "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
-      "published_at": "2026-10-13T18:07:00+00:00",
-      "description": "Decorated Dominican Star Signs Multi-Fight Contract",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/Zuffa_Boxing_-_Watch_on_Paramount_Plus-Firefly-Upscaler-2x-scale.jpg?itok=2Jnue67l",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Erin Blanchfield | Performance Focused In Familiar Surroundings",
-      "link": "https://www.ufc.com/news/erin-blanchfield-performance-focused-familiar-surroundings-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/erin-blanchfield-performance-focused-familiar-surroundings-ufc-edmonton",
-      "pubDate": "Tue, 13 Oct 2026 17:28:00 GMT",
-      "published_at": "2026-10-13T17:28:00+00:00",
-      "description": "Back In Edmonton, Top 5 Standout Eyes Statement Effort Against Jasmine Jasudavicius At UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-erin-blanchfield-on-scale_GettyImages-2246745451.jpg?itok=BGN5SlxK",
       "category": "UFC",
       "source": "UFC"
     }
