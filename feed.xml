@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:30:50 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Edmonton</title>
@@ -36,6 +36,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP" alt="Official Scorecards | UFC Edmonton" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | UFC Edmonton</title>
+      <link>https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton</guid>
+      <pubDate>Fri, 16 Oct 2026 17:30:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-04/041826-Mike-Malott-Weigh-GettyImages-2241712559.jpg?itok=AiTbR2yG" alt="Official Weigh-In Results | UFC Edmonton" /></p>
+<p>The Official Weights Of The Athletes Competing October 17 At UFC Fight Night: Buckley vs Malott</p>
+<p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
       <title>Jasmine Jasudavicius | Winner Gets Next?</title>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101426-javad-majhoub-social-portrait-HERO.jpg?itok=y9aMKy0p" alt="Javad Majhoub | Chasing Excellence, But Enjoying The Moments" /></p>
 <p>Heavyweight Newcomer Discusses Transition To MMA, Championship Ambitions Ahead Of His Debut At UFC Fight Night: Buckley vs Malott</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Dana White on Contender Series Week 10, TUF 1 Memories, Star Power, Mike Malott + More</title>
-      <link>https://www.ufc.com/news/dana-white-contender-series-week-10-tuf-1-memories-star-power-mike-malott-more</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-contender-series-week-10-tuf-1-memories-star-power-mike-malott-more</guid>
-      <pubDate>Thu, 15 Oct 2026 00:12:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101426-dana-white-during-fight_GettyImages-2299548411.jpg?itok=6R-NQ-W5" alt="Dana White on Contender Series Week 10, TUF 1 Memories, Star Power, Mike Malott + More" /></p>
-<p>UFC CEO Dana White Fielded Questions From The Media At The Dana White’s Contender Series 10 Week 10 Post-Fight Press Conference In Las Vegas.</p>
-<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>
