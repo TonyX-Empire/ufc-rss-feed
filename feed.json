@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-15T21:14:39.437092+00:00",
+  "last_build_date": "2026-10-16T04:17:31.678644+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-10-18T00:00:00+00:00",
       "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-17T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,13 +40,24 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Edmonton",
-      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-17T21:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
+      "title": "Jasmine Jasudavicius | Winner Gets Next?",
+      "link": "https://www.ufc.com/news/jasmine-jasudavicius-winner-gets-next-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/jasmine-jasudavicius-winner-gets-next-ufc-edmonton",
+      "pubDate": "Fri, 16 Oct 2026 02:35:00 GMT",
+      "published_at": "2026-10-16T02:35:00+00:00",
+      "description": "Back In The Win Column And On The Hunt For A Title Shot, Canada’s Jasmine Jasudavicius Is Excited – And Doubly Prepared – For Her Next Test Against Erin Blanchfield At UFC Edmonton",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-jasmine-jasudavicius-in-octagon_GettyImages-2271974683.jpg?itok=c-3_6s8X",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Joaquin Buckley | A New Chapter For ‘New Mansa’",
+      "link": "https://www.ufc.com/news/joaquin-buckley-a-new-chapter-for-new-mansa-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/joaquin-buckley-a-new-chapter-for-new-mansa-ufc-edmonton",
+      "pubDate": "Fri, 16 Oct 2026 02:11:00 GMT",
+      "published_at": "2026-10-16T02:11:00+00:00",
+      "description": "With A New Team Behind Him, Joaquin Buckley Is Excited To Showcase His Improvements As He Looks To Gatecrash The Welterweight Elite At UFC Edmonton On October 17",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-joaquin-buckley-introduction_GettyImages-2275378180.jpg?itok=MmXpkeuE",
       "category": "UFC",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "UFC CEO Dana White Fielded Questions From The Media At The Dana White’s Contender Series 10 Week 10 Post-Fight Press Conference In Las Vegas.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-dana-white-during-fight_GettyImages-2299548411.jpg?itok=6R-NQ-W5",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Kyle Daukaus Focused On Being Where His Feet Are",
-      "link": "https://www.ufc.com/news/kyle-daukaus-focused-being-where-his-feet-are-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/kyle-daukaus-focused-being-where-his-feet-are-ufc-edmonton",
-      "pubDate": "Wed, 14 Oct 2026 20:45:00 GMT",
-      "published_at": "2026-10-14T20:45:00+00:00",
-      "description": "Talented Middleweight Talks Return To Action, Facing Marc-Andre Barriault On Saturday In Edmonton At UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101326-kyle-daukaus-celebration_GettyImages-2246889120.jpg?itok=FkhqSPYF",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Welcome To The UFC: DWCS, Season 10, Week 10",
-      "link": "https://www.ufc.com/news/welcome-ufc-dana-whites-contdender-series-season-10-week-10",
-      "guid": "https://www.ufc.com/news/welcome-ufc-dana-whites-contdender-series-season-10-week-10",
-      "pubDate": "Wed, 14 Oct 2026 20:40:00 GMT",
-      "published_at": "2026-10-14T20:40:00+00:00",
-      "description": "The Final Week Of Dana White’s Contender Series Season 10 Delivered Four More Contract Winners, As The 10th Season Equaled The Record For Contracts Awarded",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-luis-franscischinelli-celebration_GettyImages-2299557446.jpg?itok=ITglED8P",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
