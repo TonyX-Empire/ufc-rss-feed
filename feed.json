@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-17T15:24:54.939701+00:00",
+  "last_build_date": "2026-10-17T20:27:18.214483+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-10-18T00:00:00+00:00",
       "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
+      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-17T21:00:00+00:00",
+      "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,13 +40,13 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC Edmonton",
-      "link": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
-      "guid": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
-      "pubDate": "Sat, 17 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-17T21:00:00+00:00",
-      "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud",
+      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Edmonton",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
+      "pubDate": "Sat, 17 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-17T18:00:00+00:00",
+      "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-10-16T17:19:00+00:00",
       "description": "Latest UFC news: UFC Hosts Community Activations Across Los Angeles During UFC 331 Fight Week",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101626-hero-wild-card-boxing-club.jpg?itok=AaB95D0f",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Nate Landwehr’s Qualities For Success At 155 Pounds: ‘Disciplined And Mean’",
-      "link": "https://www.ufc.com/news/nate-landwehrs-qualities-success-155-pounds-disciplined-and-mean-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/nate-landwehrs-qualities-success-155-pounds-disciplined-and-mean-ufc-edmonton",
-      "pubDate": "Fri, 16 Oct 2026 17:16:00 GMT",
-      "published_at": "2026-10-16T17:16:00+00:00",
-      "description": "Former Featherweight Crowd-Pleaser Has Moved Up To Lightweight, And Says He’s Brought His Aggressive Fighting Style With Him.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-nate-landwehr-pre-fight-GettyImages-2224842051.jpg?itok=ZNydQKbB",
       "category": "UFC",
       "source": "UFC"
     }

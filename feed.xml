@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:27:18 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Edmonton</title>
@@ -15,6 +15,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw" alt="Main Card Results | UFC Edmonton" /></p>
 <p>UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Prelim Results | UFC Edmonton</title>
+      <link>https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott</guid>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud" alt="Prelim Results | UFC Edmonton" /></p>
+<p>UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -28,13 +38,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Prelim Results | UFC Edmonton</title>
-      <link>https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott</guid>
-      <pubDate>Sat, 17 Oct 2026 21:00:00 GMT</pubDate>
+      <title>UFC TONIGHT: Fight By Fight Preview | UFC Edmonton</title>
+      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott</guid>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud" alt="Prelim Results | UFC Edmonton" /></p>
-<p>UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4" alt="UFC TONIGHT: Fight By Fight Preview | UFC Edmonton" /></p>
+<p>Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101626-hero-wild-card-boxing-club.jpg?itok=AaB95D0f" alt="UFC Hosts Community Activations Across Los Angeles During UFC 331 Fight Week" /></p>
 <p>Latest UFC news: UFC Hosts Community Activations Across Los Angeles During UFC 331 Fight Week</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Nate Landwehr’s Qualities For Success At 155 Pounds: ‘Disciplined And Mean’</title>
-      <link>https://www.ufc.com/news/nate-landwehrs-qualities-success-155-pounds-disciplined-and-mean-ufc-edmonton</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/nate-landwehrs-qualities-success-155-pounds-disciplined-and-mean-ufc-edmonton</guid>
-      <pubDate>Fri, 16 Oct 2026 17:16:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101426-nate-landwehr-pre-fight-GettyImages-2224842051.jpg?itok=ZNydQKbB" alt="Nate Landwehr’s Qualities For Success At 155 Pounds: ‘Disciplined And Mean’" /></p>
-<p>Former Featherweight Crowd-Pleaser Has Moved Up To Lightweight, And Says He’s Brought His Aggressive Fighting Style With Him.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
