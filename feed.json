@@ -3,15 +3,26 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-17T22:59:33.657814+00:00",
+  "last_build_date": "2026-10-18T04:15:50.860917+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | UFC Edmonton",
+      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
+      "pubDate": "Sun, 18 Oct 2026 02:16:00 GMT",
+      "published_at": "2026-10-18T02:16:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Edmonton",
       "link": "https://www.ufc.com/news/ufc-edmonton-results-buckley-vs-malott",
       "guid": "https://www.ufc.com/news/ufc-edmonton-results-buckley-vs-malott",
-      "pubDate": "Sun, 18 Oct 2026 00:00:00 GMT",
-      "published_at": "2026-10-18T00:00:00+00:00",
+      "pubDate": "Sun, 18 Oct 2026 02:14:00 GMT",
+      "published_at": "2026-10-18T02:14:00+00:00",
       "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw",
       "category": "UFC",
@@ -21,21 +32,10 @@
       "title": "Prelim Results | UFC Edmonton",
       "link": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
       "guid": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
-      "pubDate": "Sat, 17 Oct 2026 22:37:00 GMT",
-      "published_at": "2026-10-17T22:37:00+00:00",
+      "pubDate": "Sun, 18 Oct 2026 00:08:00 GMT",
+      "published_at": "2026-10-18T00:08:00+00:00",
       "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/110224-General-View-Rogers-Place-GettyImages-2182563245.jpg?itok=VPN-o6Ud",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Edmonton",
-      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "pubDate": "Sat, 17 Oct 2026 22:22:00 GMT",
-      "published_at": "2026-10-17T22:22:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-nick-galanti-celebration_GettyImages-2300218753.jpg?itok=g_dzuPpf",
       "category": "UFC",
       "source": "UFC"
     },
@@ -47,6 +47,17 @@
       "published_at": "2026-10-17T18:00:00+00:00",
       "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bonus Coverage | UFC Edmonton",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-edmonton",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-edmonton",
+      "pubDate": "Sat, 17 Oct 2026 15:22:00 GMT",
+      "published_at": "2026-10-17T15:22:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Buckley vs Malott On October 17, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-edmonton-bonus-coverage-HERO.jpg?itok=yOdv3zfK",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-10-16T17:20:00+00:00",
       "description": "Canadian Lightweight Vet Plans To Leverage His Experience As He Introduces A Talented Contender Series Graduate To Life In The UFC.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101426-kyle-nelson-reaction_GettyImages-2126454440.jpg?itok=ArzvhuTF",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Hosts Community Activations Across Los Angeles During UFC 331 Fight Week",
-      "link": "https://www.ufc.com/news/ufc-hosts-community-activations-across-los-angeles-during-ufc-331-fight-week",
-      "guid": "https://www.ufc.com/news/ufc-hosts-community-activations-across-los-angeles-during-ufc-331-fight-week",
-      "pubDate": "Fri, 16 Oct 2026 17:19:00 GMT",
-      "published_at": "2026-10-16T17:19:00+00:00",
-      "description": "Latest UFC news: UFC Hosts Community Activations Across Los Angeles During UFC 331 Fight Week",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101626-hero-wild-card-boxing-club.jpg?itok=AaB95D0f",
       "category": "UFC",
       "source": "UFC"
     }
