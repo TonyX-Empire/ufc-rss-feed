@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-18T20:28:01.800202+00:00",
+  "last_build_date": "2026-10-18T22:58:26.686852+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Sun, 18 Oct 2026 16:40:00 GMT",
       "published_at": "2026-10-18T16:40:00+00:00",
       "description": "Highlighting The Biggest Winners From UFC Fight Night: Buckley vs Malott on October 17, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/101816-mike-malott-celebration_GettyImages-2300238767.jpg?itok=-vCVSrqJ",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/101816-mike-malott-celebration_GettyImages-2300238767.jpg?itok=-vCVSrqJ",
       "category": "UFC",
       "source": "UFC"
     },
