@@ -3,9 +3,64 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-19T12:53:41.184014+00:00",
+  "last_build_date": "2026-10-19T20:30:39.924683+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
+      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-24T18:00:00+00:00",
+      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev",
+      "pubDate": "Mon, 19 Oct 2026 19:11:00 GMT",
+      "published_at": "2026-10-19T19:11:00+00:00",
+      "description": "Diving Into The Epic Lineup For Saturday’s Return To Etihad Arena In Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-FBF-hero.jpg?itok=3iQLtsRv",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
+      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-19T18:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC 333: Volkanovski vs Evloev, Live From Etihad Arena In Abu Dhabi On October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
+      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-19T18:00:00+00:00",
+      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/102525-General-View-Octagon-Etihad-Arena--GettyImages-2243261259.jpg?itok=VasA_8E9",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Dana White On UFC Edmonton, Mike Malott, Joaquin Buckley, Jasmine Jasudavicius + More",
+      "link": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
+      "guid": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
+      "pubDate": "Mon, 19 Oct 2026 17:43:00 GMT",
+      "published_at": "2026-10-19T17:43:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC Fight Night: Buckley vs Malott Post-Fight Press Conference In Edmonton, Canada, On October 17",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2300238936.jpg?itok=RZqXAnwh",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "UFC, Disney+ And ESPN Announce Multi-Year Exclusive Media Rights Agreement In The Philippines",
       "link": "https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines",
@@ -48,61 +103,6 @@
       "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-fight-night-buckey-vs-malott-EVENT-ART.jpg?itok=sOzfe9Vw",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Edmonton",
-      "link": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
-      "guid": "https://www.ufc.com/news/ufc-edmonton-prelim-results-buckley-vs-malott",
-      "pubDate": "Sun, 18 Oct 2026 00:08:00 GMT",
-      "published_at": "2026-10-18T00:08:00+00:00",
-      "description": "UFC Fight Night: Buckley vs Malott Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-nick-galanti-celebration_GettyImages-2300218753.jpg?itok=g_dzuPpf",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC TONIGHT: Fight By Fight Preview | UFC Edmonton",
-      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
-      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott",
-      "pubDate": "Sat, 17 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-17T18:00:00+00:00",
-      "description": "Diving Into The Lineup For Saturday’s Return to Rogers Place For UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-UFC-Edmonton-FBF-hero.jpg?itok=yANp2iT4",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Edmonton",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-edmonton",
-      "pubDate": "Sat, 17 Oct 2026 15:22:00 GMT",
-      "published_at": "2026-10-17T15:22:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At UFC Fight Night: Buckley vs Malott On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101726-ufc-edmonton-bonus-coverage-HERO.jpg?itok=yOdv3zfK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Statement On Jaqueline Amorim",
-      "link": "https://www.ufc.com/news/statement-on-jaqueline-amorim",
-      "guid": "https://www.ufc.com/news/statement-on-jaqueline-amorim",
-      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "published_at": "2026-10-16T19:00:00+00:00",
-      "description": "Latest UFC news: Statement On Jaqueline Amorim",
-      "image": "https://ufc.com/images/styles/card/s3/image/2025-02/8295609436_IFW2025_LandingPage_BG_1920x1080.jpg?itok=-rGEZnH1",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Edmonton",
-      "link": "https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton",
-      "guid": "https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton",
-      "pubDate": "Fri, 16 Oct 2026 17:30:00 GMT",
-      "published_at": "2026-10-16T17:30:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing October 17 At UFC Fight Night: Buckley vs Malott",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-04/041826-Mike-Malott-Weigh-GettyImages-2241712559.jpg?itok=AiTbR2yG",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
