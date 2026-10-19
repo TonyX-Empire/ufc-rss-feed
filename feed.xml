@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:24:45 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC, Disney+ And ESPN Announce Multi-Year Exclusive Media Rights Agreement In The Philippines</title>
+      <link>https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines</guid>
+      <pubDate>Mon, 19 Oct 2026 02:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc" alt="UFC, Disney+ And ESPN Announce Multi-Year Exclusive Media Rights Agreement In The Philippines" /></p>
+<p>Starting October 24 With UFC 333: Vokanovski Vs Evloev, ESPN On Disney+ Philippines Will Broadcast All UFC Events Live, Along With A Curated Slate Of Original Programming</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Edmonton</title>
       <link>https://www.ufc.com/news/the-scorecard-ufc-edmonton</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-04/041826-Mike-Malott-Weigh-GettyImages-2241712559.jpg?itok=AiTbR2yG" alt="Official Weigh-In Results | UFC Edmonton" /></p>
 <p>The Official Weights Of The Athletes Competing October 17 At UFC Fight Night: Buckley vs Malott</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>UFC and Utah Sports Commission Partner with Local Non-profit Organizations as part of UFC 332 Fight Week</title>
-      <link>https://www.ufc.com/news/ufc-and-utah-sports-commission-partner-local-non-profit-organizations-part-ufc-332-fight-week</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-and-utah-sports-commission-partner-local-non-profit-organizations-part-ufc-332-fight-week</guid>
-      <pubDate>Fri, 16 Oct 2026 17:30:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101626-hero-csr-boys-and-girls-club.jpg?itok=eIhEEQsu" alt="UFC and Utah Sports Commission Partner with Local Non-profit Organizations as part of UFC 332 Fight Week" /></p>
-<p>Latest UFC news: UFC and Utah Sports Commission Partner with Local Non-profit Organizations as part of UFC 332 Fight Week</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
