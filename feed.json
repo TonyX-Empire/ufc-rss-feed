@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-19T04:24:45.673767+00:00",
+  "last_build_date": "2026-10-19T12:53:41.184014+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Mon, 19 Oct 2026 02:00:00 GMT",
       "published_at": "2026-10-19T02:00:00+00:00",
       "description": "Starting October 24 With UFC 333: Vokanovski Vs Evloev, ESPN On Disney+ Philippines Will Broadcast All UFC Events Live, Along With A Curated Slate Of Original Programming",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc",
       "category": "UFC",
       "source": "UFC"
     },
