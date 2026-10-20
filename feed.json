@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-20T19:07:27.622979+00:00",
+  "last_build_date": "2026-10-20T23:46:05.122260+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,28 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Alexander Volkov | Always Trying to Entertain",
+      "link": "https://www.ufc.com/news/alexander-volkov-always-trying-to-entertain-ufc-333",
+      "guid": "https://www.ufc.com/news/alexander-volkov-always-trying-to-entertain-ufc-333",
+      "pubDate": "Tue, 20 Oct 2026 21:15:00 GMT",
+      "published_at": "2026-10-20T21:15:00+00:00",
+      "description": "Russian Heavyweight Contender Alexander Volkov Talks UFC 333 Assignment, Challenges Of The Title Chase",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-ufc-333-alexander-volkov-feature_GettyImages-2275380857.jpg?itok=DDa8CCg8",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | UFC 333: Alexander Volkanovski vs Movsar Evloev",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
+      "pubDate": "Tue, 20 Oct 2026 18:04:00 GMT",
+      "published_at": "2026-10-20T18:04:00+00:00",
+      "description": "Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s Main Event",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,17 +62,6 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
-      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-19T18:00:00+00:00",
-      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102525-General-View-Octagon-Etihad-Arena--GettyImages-2243261259.jpg?itok=VasA_8E9",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Official Scorecards | UFC 333: Volkanovski vs Evloev",
       "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
       "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
@@ -58,6 +69,17 @@
       "published_at": "2026-10-19T18:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 333: Volkanovski vs Evloev, Live From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
+      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-19T18:00:00+00:00",
+      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102525-General-View-Octagon-Etihad-Arena--GettyImages-2243261259.jpg?itok=VasA_8E9",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-10-19T02:00:00+00:00",
       "description": "Starting October 24 With UFC 333: Vokanovski Vs Evloev, ESPN On Disney+ Philippines Will Broadcast All UFC Events Live, Along With A Curated Slate Of Original Programming",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Edmonton",
-      "link": "https://www.ufc.com/news/the-scorecard-ufc-edmonton",
-      "guid": "https://www.ufc.com/news/the-scorecard-ufc-edmonton",
-      "pubDate": "Sun, 18 Oct 2026 16:40:00 GMT",
-      "published_at": "2026-10-18T16:40:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Buckley vs Malott on October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101816-mike-malott-celebration_GettyImages-2300238767.jpg?itok=-vCVSrqJ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Edmonton",
-      "link": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "guid": "https://www.ufc.com/news/ufc-edmonton-official-scorecards-buckley-vs-malott",
-      "pubDate": "Sun, 18 Oct 2026 02:16:00 GMT",
-      "published_at": "2026-10-18T02:16:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Buckley vs Malott, Live From Rogers Place In Edmonton, Canada On October 17, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091926-Bruce-Buffer-Announcement-GettyImages-2296160036.jpg?itok=EUSgphOP",
       "category": "UFC",
       "source": "UFC"
     }
