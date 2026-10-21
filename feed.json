@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-21T04:28:08.203858+00:00",
+  "last_build_date": "2026-10-21T11:37:17.807757+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | UFC 333: Petr Yan vs Merab Dvalishvili 3",
+      "link": "https://www.ufc.com/news/coach-conversation-ufc-333-petr-yan-vs-merab-dvalishvili-3",
+      "guid": "https://www.ufc.com/news/coach-conversation-ufc-333-petr-yan-vs-merab-dvalishvili-3",
+      "pubDate": "Wed, 21 Oct 2026 06:47:00 GMT",
+      "published_at": "2026-10-21T06:47:00+00:00",
+      "description": "New England Cartel Leader Tyson Chartier Talks Bantamweight Title Rematch",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-ufc-333-coach-convo-yan-dvalishvili-thumb.jpg?itok=iu2FrfNC",
       "category": "UFC",
       "source": "UFC"
     },
@@ -62,17 +73,6 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
-      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-19T18:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 333: Volkanovski vs Evloev, Live From Etihad Arena In Abu Dhabi On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | UFC 333: Volkanovski vs Evloev",
       "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
@@ -84,6 +84,17 @@
       "source": "UFC"
     },
     {
+      "title": "Official Scorecards | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
+      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
+      "published_at": "2026-10-19T18:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC 333: Volkanovski vs Evloev, Live From Etihad Arena In Abu Dhabi On October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Dana White On UFC Edmonton, Mike Malott, Joaquin Buckley, Jasmine Jasudavicius + More",
       "link": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
       "guid": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-19T17:43:00+00:00",
       "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC Fight Night: Buckley vs Malott Post-Fight Press Conference In Edmonton, Canada, On October 17",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2300238936.jpg?itok=RZqXAnwh",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC, Disney+ And ESPN Announce Multi-Year Exclusive Media Rights Agreement In The Philippines",
-      "link": "https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines",
-      "guid": "https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines",
-      "pubDate": "Mon, 19 Oct 2026 02:00:00 GMT",
-      "published_at": "2026-10-19T02:00:00+00:00",
-      "description": "Starting October 24 With UFC 333: Vokanovski Vs Evloev, ESPN On Disney+ Philippines Will Broadcast All UFC Events Live, Along With A Curated Slate Of Original Programming",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc",
       "category": "UFC",
       "source": "UFC"
     }
