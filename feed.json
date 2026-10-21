@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-21T17:03:12.849568+00:00",
+  "last_build_date": "2026-10-21T21:31:44.121710+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,61 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Movsar Evloev | It’s A Long Way To The Top",
+      "link": "https://www.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333",
+      "guid": "https://www.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333",
+      "pubDate": "Wed, 21 Oct 2026 21:07:00 GMT",
+      "published_at": "2026-10-21T21:07:00+00:00",
+      "description": "Undefeated Featherweight Contender Movsar Evloev Had To Be Patient, But At UFC 333 In Abu Dhabi, He Finally Gets His Shot At Championship Gold.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-movsar-evloev-feature-ufc-333_GettyImages-2267751202.jpg?itok=wM69j1AY",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Alexander Volkanovski | Adversity Above Achievements",
+      "link": "https://www.ufc.com/news/alexander-volkanovski-adversity-above-achievements-ufc-333",
+      "guid": "https://www.ufc.com/news/alexander-volkanovski-adversity-above-achievements-ufc-333",
+      "pubDate": "Wed, 21 Oct 2026 20:28:00 GMT",
+      "published_at": "2026-10-21T20:28:00+00:00",
+      "description": "Driven Champion Alexander Volkanovski Has Always Adored The Struggle More Than The Accolades And That Is What Makes Him So Great",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102126-hero-ufc-333-alexander-volkanovksi-feature_GettyImages-2259329918.jpg?itok=3KwicM4s",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Iasmin Lucindo | Back In The Game",
+      "link": "https://www.ufc.com/news/iasmin-lucindo-back-in-game-ufc-333",
+      "guid": "https://www.ufc.com/news/iasmin-lucindo-back-in-game-ufc-333",
+      "pubDate": "Wed, 21 Oct 2026 19:28:00 GMT",
+      "published_at": "2026-10-21T19:28:00+00:00",
+      "description": "Promising Strawweight Talent Set To Make Her UFC 333 Return After More Than A Year Outside The Octagon",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2204052882.jpg?itok=OdFGnz7O",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Abdul Rakhman Yakhyaev | On The Hunt",
+      "link": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-on-the-hunt-ufc-333-abu-dhabi",
+      "guid": "https://www.ufc.com/news/abdul-rakhman-yakhyaev-on-the-hunt-ufc-333-abu-dhabi",
+      "pubDate": "Wed, 21 Oct 2026 18:36:00 GMT",
+      "published_at": "2026-10-21T18:36:00+00:00",
+      "description": "Ascending Unbeaten Prospect Abdul Rakhman Yakhyaev Reflects On Rookie Campaign, Clash With Nikita Krylov At UFC 333: Volkanovski vs Evloev in Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-abdul-rakhman-yakhayev-on-stage_GettyImages-2247794216.jpg?itok=ecZrbZHK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Merab Dvalishvili | Return of The Machine",
+      "link": "https://www.ufc.com/news/merab-dvalishvili-return-of-the-machine-ufc-333-abu-dhabi",
+      "guid": "https://www.ufc.com/news/merab-dvalishvili-return-of-the-machine-ufc-333-abu-dhabi",
+      "pubDate": "Wed, 21 Oct 2026 18:09:00 GMT",
+      "published_at": "2026-10-21T18:09:00+00:00",
+      "description": "Rested And Focused, Former Bantamweight Champion Merab Dvalishvili Eyes Return To Bantamweight Throne In Abu Dhabi To Close Out Trilogy With Petr Yan",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-merab-dvalishvili-walkout_GettyImages-2255289555.jpg?itok=phWumZvC",
       "category": "UFC",
       "source": "UFC"
     },
@@ -47,61 +102,6 @@
       "published_at": "2026-10-20T18:04:00+00:00",
       "description": "Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-333-volkanovski-vs-evloev",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-333-volkanovski-vs-evloev",
-      "pubDate": "Tue, 20 Oct 2026 16:50:00 GMT",
-      "published_at": "2026-10-20T16:50:00+00:00",
-      "description": "Highlighting Three Up-And-Coming Talents With An Opportunity To Shine On Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-abdul-rakhman-yakhyaev-GettyImages-2247945407.jpg?itok=RYA7-60o",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev",
-      "pubDate": "Mon, 19 Oct 2026 19:11:00 GMT",
-      "published_at": "2026-10-19T19:11:00+00:00",
-      "description": "Diving Into The Epic Lineup For Saturday’s Return To Etihad Arena In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-FBF-hero.jpg?itok=3iQLtsRv",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-official-scorecards",
-      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-19T18:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 333: Volkanovski vs Evloev, Live From Etihad Arena In Abu Dhabi On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/091226-Bruce-Buffer-GettyImages-2294916586.jpg?itok=L7NoHGil",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-prelim-results",
-      "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-19T18:00:00+00:00",
-      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102525-General-View-Octagon-Etihad-Arena--GettyImages-2243261259.jpg?itok=VasA_8E9",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White On UFC Edmonton, Mike Malott, Joaquin Buckley, Jasmine Jasudavicius + More",
-      "link": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
-      "guid": "https://www.ufc.com/news/dana-white-ufc-edmonton-mike-malott-joaquin-buckley-jasmine-jasudavicius-more",
-      "pubDate": "Mon, 19 Oct 2026 17:43:00 GMT",
-      "published_at": "2026-10-19T17:43:00+00:00",
-      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC Fight Night: Buckley vs Malott Post-Fight Press Conference In Edmonton, Canada, On October 17",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2300238936.jpg?itok=RZqXAnwh",
       "category": "UFC",
       "source": "UFC"
     }
