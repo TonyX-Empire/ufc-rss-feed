@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-21T21:31:44.121710+00:00",
+  "last_build_date": "2026-10-22T04:26:07.168144+00:00",
   "item_count": 9,
   "items": [
     {
@@ -26,6 +26,17 @@
       "description": "Undefeated Featherweight Contender Movsar Evloev Had To Be Patient, But At UFC 333 In Abu Dhabi, He Finally Gets His Shot At Championship Gold.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-movsar-evloev-feature-ufc-333_GettyImages-2267751202.jpg?itok=wM69j1AY",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Petr Yan Is Chasing A Title Fight Hat-Trick In Abu Dhabi",
+      "link": "https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi",
+      "guid": "https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi",
+      "pubDate": "Wed, 21 Oct 2026 20:45:00 GMT",
+      "published_at": "2026-10-21T20:45:00+00:00",
+      "description": "Bantamweight Champion Petr Yan Eyes His Third Title Fight Success In Abu Dhabi As He Puts His Belt On The Line Against Merab Dvalishvili At UFC 333 in Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2250455939.jpg?itok=965BodZY",
+      "category": "News",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-10-20T21:15:00+00:00",
       "description": "Russian Heavyweight Contender Alexander Volkov Talks UFC 333 Assignment, Challenges Of The Title Chase",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-ufc-333-alexander-volkov-feature_GettyImages-2275380857.jpg?itok=DDa8CCg8",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | Alexander Volkanovski vs Movsar Evloev",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
-      "pubDate": "Tue, 20 Oct 2026 18:04:00 GMT",
-      "published_at": "2026-10-20T18:04:00+00:00",
-      "description": "Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
       "category": "UFC",
       "source": "UFC"
     }

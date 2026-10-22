@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:26:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC 333: Volkanovski vs Evloev</title>
@@ -26,6 +26,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102226-hero-movsar-evloev-feature-ufc-333_GettyImages-2267751202.jpg?itok=wM69j1AY" alt="Movsar Evloev | It’s A Long Way To The Top" /></p>
 <p>Undefeated Featherweight Contender Movsar Evloev Had To Be Patient, But At UFC 333 In Abu Dhabi, He Finally Gets His Shot At Championship Gold.</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Petr Yan Is Chasing A Title Fight Hat-Trick In Abu Dhabi</title>
+      <link>https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi</guid>
+      <pubDate>Wed, 21 Oct 2026 20:45:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2250455939.jpg?itok=965BodZY" alt="Petr Yan Is Chasing A Title Fight Hat-Trick In Abu Dhabi" /></p>
+<p>Bantamweight Champion Petr Yan Eyes His Third Title Fight Success In Abu Dhabi As He Puts His Belt On The Line Against Merab Dvalishvili At UFC 333 in Abu Dhabi</p>
+<p>Category: News</p>]]></description>
     </item>
     <item>
       <title>Alexander Volkanovski | Adversity Above Achievements</title>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102026-hero-ufc-333-alexander-volkov-feature_GettyImages-2275380857.jpg?itok=DDa8CCg8" alt="Alexander Volkov | Always Trying to Entertain" /></p>
 <p>Russian Heavyweight Contender Alexander Volkov Talks UFC 333 Assignment, Challenges Of The Title Chase</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Coach Conversation | Alexander Volkanovski vs Movsar Evloev</title>
-      <link>https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev</guid>
-      <pubDate>Tue, 20 Oct 2026 18:04:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF" alt="Coach Conversation | Alexander Volkanovski vs Movsar Evloev" /></p>
-<p>Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
