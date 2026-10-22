@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-22T11:37:23.547745+00:00",
+  "last_build_date": "2026-10-22T17:02:23.272098+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,28 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "By The Numbers | Movsar Evloev",
+      "link": "https://www.ufc.com/news/by-the-numbers-movsar-evloev-ufc-333",
+      "guid": "https://www.ufc.com/news/by-the-numbers-movsar-evloev-ufc-333",
+      "pubDate": "Thu, 22 Oct 2026 16:26:00 GMT",
+      "published_at": "2026-10-22T16:26:00+00:00",
+      "description": "Before Russian Title Challenger Movsar Evloev Makes The Walk At UFC 333: Volkanovski vs Evloev, We’re Taking A Dive Into The Most Impressive Stats Racked Up On His Way",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102126-hero-movsar-evloev_GettyImages-2267749552.jpg?itok=JeO6n0BU",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Nurullo Aliev | Ready For A Breakout Moment",
+      "link": "https://www.ufc.com/news/nurullo-aliev-ready-for-a-breakout-moment-ufc-333",
+      "guid": "https://www.ufc.com/news/nurullo-aliev-ready-for-a-breakout-moment-ufc-333",
+      "pubDate": "Thu, 22 Oct 2026 16:26:00 GMT",
+      "published_at": "2026-10-22T16:26:00+00:00",
+      "description": "Undefeated Tajikistani Lightweight Nurullo Aliev Hopes To Announce Himself As The Next Big Thing In The Division At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-nurullo-aliev_GettyImages-2286933115.jpg?itok=YLFNj6Fh",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-10-21T18:09:00+00:00",
       "description": "Rested And Focused, Former Bantamweight Champion Merab Dvalishvili Eyes Return To Bantamweight Throne In Abu Dhabi To Close Out Trilogy With Petr Yan",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-merab-dvalishvili-walkout_GettyImages-2255289555.jpg?itok=phWumZvC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | Petr Yan vs Merab Dvalishvili 3",
-      "link": "https://www.ufc.com/news/coach-conversation-ufc-333-petr-yan-vs-merab-dvalishvili-3",
-      "guid": "https://www.ufc.com/news/coach-conversation-ufc-333-petr-yan-vs-merab-dvalishvili-3",
-      "pubDate": "Wed, 21 Oct 2026 06:47:00 GMT",
-      "published_at": "2026-10-21T06:47:00+00:00",
-      "description": "New England Cartel Leader Tyson Chartier Talks UFC 333's Bantamweight Title Rematch",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-ufc-333-coach-convo-yan-dvalishvili-thumb.jpg?itok=iu2FrfNC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Alexander Volkov | Always Trying to Entertain",
-      "link": "https://www.ufc.com/news/alexander-volkov-always-trying-to-entertain-ufc-333",
-      "guid": "https://www.ufc.com/news/alexander-volkov-always-trying-to-entertain-ufc-333",
-      "pubDate": "Tue, 20 Oct 2026 21:15:00 GMT",
-      "published_at": "2026-10-20T21:15:00+00:00",
-      "description": "Russian Heavyweight Contender Alexander Volkov Talks UFC 333 Assignment, Challenges Of The Title Chase",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-ufc-333-alexander-volkov-feature_GettyImages-2275380857.jpg?itok=DDa8CCg8",
       "category": "UFC",
       "source": "UFC"
     }
