@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-23T11:26:42.458582+00:00",
+  "last_build_date": "2026-10-23T16:55:04.089228+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,50 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Aaron Pico | Still Learning",
+      "link": "https://www.ufc.com/news/aaron-pico-still-learning-taking-on-losene-keita-ufc-333-abu-dhabi",
+      "guid": "https://www.ufc.com/news/aaron-pico-still-learning-taking-on-losene-keita-ufc-333-abu-dhabi",
+      "pubDate": "Fri, 23 Oct 2026 15:33:00 GMT",
+      "published_at": "2026-10-23T15:33:00+00:00",
+      "description": "Talented Featherweight Aaron Pico Talks Win Over Patricio Pitbull At UFC 327, Growing As A Fighter, Matchup With Losene Keita This Weekend At UFC 333 In Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-aaron-pico_GettyImages-2230529662.jpg?itok=oxjGN2rX",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Matchup To Watch | Aaron Pico vs Losene Keita",
+      "link": "https://www.ufc.com/news/matchup-watch-aaron-pico-vs-losene-keita",
+      "guid": "https://www.ufc.com/news/matchup-watch-aaron-pico-vs-losene-keita",
+      "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
+      "published_at": "2026-10-23T14:00:00+00:00",
+      "description": "Taking A Deep Dive On A Potentially Fireworks-Filled Featherweight Matchup Between Aaron Pico And Losene Keita At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-aaron-pico-losene-keita_.jpg?itok=5BiT9S4o",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Trilogy Timeline | Petr Yan vs Merab Dvalishvili",
+      "link": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
+      "guid": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
+      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
+      "published_at": "2026-10-23T13:00:00+00:00",
+      "description": "Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prospect To Watch | Abdul Rakhman Yakhyaev",
+      "link": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
+      "guid": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
+      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
+      "published_at": "2026-10-23T13:00:00+00:00",
+      "description": "Rising Light Heavyweight Abdul Rakhman Yakhyaev Aims Top-15 Status When He Makes His Fourth Walk To The Octagon At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-abdul-rakhman-yakhyaev_GettyImages-2283575543.jpg?itok=vhX-xmb2",
       "category": "UFC",
       "source": "UFC"
     },
@@ -58,50 +102,6 @@
       "published_at": "2026-10-22T17:31:00+00:00",
       "description": "Ahead Of His Fourth Walk To The Octagon At UFC 333, Cam \"The Battle Giraffe\" Rowston Believe's He's Only Now Entering The Prime Of His Decadelong Pro MMA Career",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-ufc-333-cam-rowston-posing_GettyImages-2259315979.jpg?itok=skJPblQn",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Real Losene Keita Has Arrived",
-      "link": "https://www.ufc.com/news/the-real-losene-keita-has-arrived-ufc-333",
-      "guid": "https://www.ufc.com/news/the-real-losene-keita-has-arrived-ufc-333",
-      "pubDate": "Thu, 22 Oct 2026 16:51:00 GMT",
-      "published_at": "2026-10-22T16:51:00+00:00",
-      "description": "Belgian Featherweight Losene Keita Plans On Wowing The Crowds And Racking Up Victories Through One Key Tactic: Being Himself.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-losene-keita_GettyImages-2293698442.jpg?itok=fDp27gKR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "By The Numbers | Movsar Evloev",
-      "link": "https://www.ufc.com/news/by-the-numbers-movsar-evloev-ufc-333",
-      "guid": "https://www.ufc.com/news/by-the-numbers-movsar-evloev-ufc-333",
-      "pubDate": "Thu, 22 Oct 2026 16:26:00 GMT",
-      "published_at": "2026-10-22T16:26:00+00:00",
-      "description": "Before Russian Title Challenger Movsar Evloev Makes The Walk At UFC 333: Volkanovski vs Evloev, We’re Taking A Dive Into The Most Impressive Stats Racked Up On His Way",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102126-hero-movsar-evloev_GettyImages-2267749552.jpg?itok=JeO6n0BU",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Nurullo Aliev | Ready For A Breakout Moment",
-      "link": "https://www.ufc.com/news/nurullo-aliev-ready-for-a-breakout-moment-ufc-333",
-      "guid": "https://www.ufc.com/news/nurullo-aliev-ready-for-a-breakout-moment-ufc-333",
-      "pubDate": "Thu, 22 Oct 2026 16:26:00 GMT",
-      "published_at": "2026-10-22T16:26:00+00:00",
-      "description": "Undefeated Tajikistani Lightweight Nurullo Aliev Hopes To Announce Himself As The Next Big Thing In The Division At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-nurullo-aliev_GettyImages-2286933115.jpg?itok=YLFNj6Fh",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Asaf Chopurov | The 'Honey Badger' Is Here",
-      "link": "https://www.ufc.com/news/asaf-chopurov-the-honey-badger-is-here-ufc-333",
-      "guid": "https://www.ufc.com/news/asaf-chopurov-the-honey-badger-is-here-ufc-333",
-      "pubDate": "Thu, 22 Oct 2026 07:16:00 GMT",
-      "published_at": "2026-10-22T07:16:00+00:00",
-      "description": "Standout Bantamweight Asaf Chopurov Prospects Talks Amateur Experience, UFC Debut, Championship Aspirations",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-asaf-chopurov-shadowboxing-ufc-333_MR-333_MediaDays-4.jpg?itok=BIVnqvuC",
       "category": "UFC",
       "source": "UFC"
     }
