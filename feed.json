@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-22T21:26:55.774105+00:00",
+  "last_build_date": "2026-10-23T04:31:18.403770+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,28 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev",
+      "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT",
+      "published_at": "2026-10-23T05:00:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing October 24 At Etihad Arena In Abu Dhabi",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Just Dropped: Petr Yan Custom UFC Unrivaled Fight Shorts",
+      "link": "https://www.ufc.com/news/just-dropped-petr-yan-custom-ufc-unrivaled-fight-shorts",
+      "guid": "https://www.ufc.com/news/just-dropped-petr-yan-custom-ufc-unrivaled-fight-shorts",
+      "pubDate": "Thu, 22 Oct 2026 22:49:00 GMT",
+      "published_at": "2026-10-22T22:49:00+00:00",
+      "description": "Channel “No Mercy” with the Official UFC Unrivaled by Venum Shorts Inspired by Petr Yan",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/Yan_Textless_1920x1080.jpg?itok=GcRY7n2W",
       "category": "UFC",
       "source": "UFC"
     },
@@ -81,28 +103,6 @@
       "description": "Standout Bantamweight Asaf Chopurov Prospects Talks Amateur Experience, UFC Debut, Championship Aspirations",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-asaf-chopurov-shadowboxing-ufc-333_MR-333_MediaDays-4.jpg?itok=BIVnqvuC",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Movsar Evloev | It’s A Long Way To The Top",
-      "link": "https://www.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333",
-      "guid": "https://www.ufc.com/news/movsar-evloev-its-a-long-way-to-the-top-ufc-333",
-      "pubDate": "Wed, 21 Oct 2026 21:07:00 GMT",
-      "published_at": "2026-10-21T21:07:00+00:00",
-      "description": "Undefeated Featherweight Contender Movsar Evloev Had To Be Patient, But At UFC 333 In Abu Dhabi, He Finally Gets His Shot At Championship Gold.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-movsar-evloev-feature-ufc-333_GettyImages-2267751202.jpg?itok=wM69j1AY",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Petr Yan Is Chasing A Title Fight Hat-Trick In Abu Dhabi",
-      "link": "https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi",
-      "guid": "https://www.ufc.com/news/petr-yan-chasing-title-fight-hat-trick-abu-dhabi",
-      "pubDate": "Wed, 21 Oct 2026 20:45:00 GMT",
-      "published_at": "2026-10-21T20:45:00+00:00",
-      "description": "Bantamweight Champion Petr Yan Eyes His Third Title Fight Success In Abu Dhabi As He Puts His Belt On The Line Against Merab Dvalishvili At UFC 333 in Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2250455939.jpg?itok=965BodZY",
-      "category": "News",
       "source": "UFC"
     }
   ]
