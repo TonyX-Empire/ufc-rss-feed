@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-23T16:55:04.089228+00:00",
+  "last_build_date": "2026-10-23T21:18:09.033700+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,39 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Step into UFC 333 at UFC Store with the Unrivaled Fight Short Collection",
+      "link": "https://www.ufc.com/news/step-ufc-333-ufc-store-unrivaled-fight-short-collection",
+      "guid": "https://www.ufc.com/news/step-ufc-333-ufc-store-unrivaled-fight-short-collection",
+      "pubDate": "Fri, 23 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-23T21:00:00+00:00",
+      "description": "Three Custom Designs Celebrate the Athletes’ Heritage, National Pride and Signature Identities",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/333_Unrivaled_Textless_1920x1080.jpg?itok=uZm2Gz1F",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 13: Tackett vs Rodriguez airs live on Thursday, October 29th on UFC FIGHT PASS!",
+      "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-airs-live-thursday-october-29th-ufc-fight-pass",
+      "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-airs-live-thursday-october-29th-ufc-fight-pass",
+      "pubDate": "Fri, 23 Oct 2026 19:46:00 GMT",
+      "published_at": "2026-10-23T19:46:00+00:00",
+      "description": "Latest UFC news: UFC BJJ 13: Tackett vs Rodriguez airs live on Thursday, October 29th on UFC FIGHT PASS!",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/052126-william-tackett-reacts-GettyImages-2277580350.jpg?itok=cceMrk8x",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "The UFC 333 Collection is Here at UFC Store",
+      "link": "https://www.ufc.com/news/ufc-333-collection-here-ufc-store",
+      "guid": "https://www.ufc.com/news/ufc-333-collection-here-ufc-store",
+      "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "description": "The Latest Collection Brings “The Great”, “No Mercy” And “The Machine” Into Your Fight-Week Rotation",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/333_Collection_Textless_1920x1080.jpg?itok=Dx3aUu9M",
       "category": "UFC",
       "source": "UFC"
     },
@@ -69,39 +102,6 @@
       "published_at": "2026-10-23T05:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing October 24 At Etihad Arena In Abu Dhabi",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Just Dropped: Petr Yan Custom UFC Unrivaled Fight Shorts",
-      "link": "https://www.ufc.com/news/just-dropped-petr-yan-custom-ufc-unrivaled-fight-shorts",
-      "guid": "https://www.ufc.com/news/just-dropped-petr-yan-custom-ufc-unrivaled-fight-shorts",
-      "pubDate": "Thu, 22 Oct 2026 22:49:00 GMT",
-      "published_at": "2026-10-22T22:49:00+00:00",
-      "description": "Channel “No Mercy” with the Official UFC Unrivaled by Venum Shorts Inspired by Petr Yan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/Yan_Textless_1920x1080.jpg?itok=GcRY7n2W",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ramazan Temirov Is Excited To Showcase His Power Again",
-      "link": "https://www.ufc.com/news/ramazan-temirov-is-excited-to-showcase-his-power-again-ufc-333",
-      "guid": "https://www.ufc.com/news/ramazan-temirov-is-excited-to-showcase-his-power-again-ufc-333",
-      "pubDate": "Thu, 22 Oct 2026 20:56:00 GMT",
-      "published_at": "2026-10-22T20:56:00+00:00",
-      "description": "Hard-Hitting Uzbek Warrior Has Already Impressed In The Octagon, And He Plans On Adding Another Significant Win To His Resumé at UFC 333.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-ramazan-temirov_GettyImages-2286955558.jpg?itok=yMIkCAHR",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "A Decade As A Pro, Cam Rowston Is In His Prime",
-      "link": "https://www.ufc.com/news/decade-as-a-pro-cam-rowston-is-in-his-prime-ufc-333-abu-dhabi",
-      "guid": "https://www.ufc.com/news/decade-as-a-pro-cam-rowston-is-in-his-prime-ufc-333-abu-dhabi",
-      "pubDate": "Thu, 22 Oct 2026 17:31:00 GMT",
-      "published_at": "2026-10-22T17:31:00+00:00",
-      "description": "Ahead Of His Fourth Walk To The Octagon At UFC 333, Cam \"The Battle Giraffe\" Rowston Believe's He's Only Now Entering The Prime Of His Decadelong Pro MMA Career",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-ufc-333-cam-rowston-posing_GettyImages-2259315979.jpg?itok=skJPblQn",
       "category": "UFC",
       "source": "UFC"
     }
