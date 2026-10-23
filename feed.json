@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-23T04:31:18.403770+00:00",
+  "last_build_date": "2026-10-23T11:26:42.458582+00:00",
   "item_count": 9,
   "items": [
     {
@@ -24,7 +24,7 @@
       "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT",
       "published_at": "2026-10-23T05:00:00+00:00",
       "description": "The Official Weights Of The Athletes Competing October 24 At Etihad Arena In Abu Dhabi",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL",
       "category": "UFC",
       "source": "UFC"
     },
