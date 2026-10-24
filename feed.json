@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-24T20:36:29.704941+00:00",
+  "last_build_date": "2026-10-24T23:04:08.220109+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Bonus Coverage | UFC 333: Volkanovski vs Evloev",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
+      "pubDate": "Sat, 24 Oct 2026 22:10:00 GMT",
+      "published_at": "2026-10-24T22:10:00+00:00",
+      "description": "The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-ufc-333-bonus-coverage-hero_loneer-kavanagh-petr-yan-merab-dvalishvili-alexander-volkanovski.jpg?itok=0MlpUdPj",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Two Electric Title Fights Announced For UFC 336",
       "link": "https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336",
@@ -81,17 +92,6 @@
       "description": "Taking A Deep Dive On A Potentially Fireworks-Filled Featherweight Matchup Between Aaron Pico And Losene Keita At UFC 333: Volkanovski vs Evloev",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-aaron-pico-losene-keita_.jpg?itok=5BiT9S4o",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Prospect To Watch | Abdul Rakhman Yakhyaev",
-      "link": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
-      "guid": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
-      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "description": "Rising Light Heavyweight Abdul Rakhman Yakhyaev Aims Top-15 Status When He Makes His Fourth Walk To The Octagon At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-abdul-rakhman-yakhyaev_GettyImages-2283575543.jpg?itok=vhX-xmb2",
-      "category": "UFC",
       "source": "UFC"
     },
     {
