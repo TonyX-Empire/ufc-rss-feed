@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:47:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:36:29 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Electric Title Fights Announced For UFC 336</title>
+      <link>https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336</guid>
+      <pubDate>Sat, 24 Oct 2026 19:35:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/UFC-336-announcement-hero.jpg?itok=T4Nmj3hd" alt="Two Electric Title Fights Announced For UFC 336" /></p>
+<p>The Flyweight Title &amp; The Interim Welterweight Title Are Up For Grabs In Toronto On January 30, 2027</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Main Card Results | UFC 333: Volkanovski vs Evloev</title>
       <link>https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results</link>
@@ -68,16 +78,6 @@
 <p>Category: News</p>]]></description>
     </item>
     <item>
-      <title>Trilogy Timeline | Petr Yan vs Merab Dvalishvili</title>
-      <link>https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi</guid>
-      <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM" alt="Trilogy Timeline | Petr Yan vs Merab Dvalishvili" /></p>
-<p>Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>Prospect To Watch | Abdul Rakhman Yakhyaev</title>
       <link>https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333</link>
       <guid isPermaLink="true">https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333</guid>
@@ -88,13 +88,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Official Weigh-In Results | UFC 333: Volkanovski vs Evloev</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 GMT</pubDate>
+      <title>Trilogy Timeline | Petr Yan vs Merab Dvalishvili</title>
+      <link>https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi</guid>
+      <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL" alt="Official Weigh-In Results | UFC 333: Volkanovski vs Evloev" /></p>
-<p>The Official Weights Of The Athletes Competing October 24 At Etihad Arena In Abu Dhabi</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM" alt="Trilogy Timeline | Petr Yan vs Merab Dvalishvili" /></p>
+<p>Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

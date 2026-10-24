@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-24T15:47:47.986402+00:00",
+  "last_build_date": "2026-10-24T20:36:29.704941+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Two Electric Title Fights Announced For UFC 336",
+      "link": "https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336",
+      "guid": "https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336",
+      "pubDate": "Sat, 24 Oct 2026 19:35:00 GMT",
+      "published_at": "2026-10-24T19:35:00+00:00",
+      "description": "The Flyweight Title & The Interim Welterweight Title Are Up For Grabs In Toronto On January 30, 2027",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/UFC-336-announcement-hero.jpg?itok=T4Nmj3hd",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC 333: Volkanovski vs Evloev",
       "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
@@ -73,17 +84,6 @@
       "source": "UFC"
     },
     {
-      "title": "Trilogy Timeline | Petr Yan vs Merab Dvalishvili",
-      "link": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
-      "guid": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
-      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "description": "Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Prospect To Watch | Abdul Rakhman Yakhyaev",
       "link": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
       "guid": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
@@ -95,13 +95,13 @@
       "source": "UFC"
     },
     {
-      "title": "Official Weigh-In Results | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-333-volkanovski-vs-evloev",
-      "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT",
-      "published_at": "2026-10-23T05:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing October 24 At Etihad Arena In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-UFC-333-weigh-in-hero.jpg?itok=ft5yFrmL",
+      "title": "Trilogy Timeline | Petr Yan vs Merab Dvalishvili",
+      "link": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
+      "guid": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
+      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
+      "published_at": "2026-10-23T13:00:00+00:00",
+      "description": "Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM",
       "category": "UFC",
       "source": "UFC"
     }
