@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-25T15:58:43.729279+00:00",
+  "last_build_date": "2026-10-25T20:42:53.352023+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White on UFC 333, Alexander Volkanovski, Petr Yan, Merab Dvalishvili & More",
+      "link": "https://www.ufc.com/news/dana-white-ufc-333-alexander-volkanovski-petr-yan-merab-dvalishvili-more",
+      "guid": "https://www.ufc.com/news/dana-white-ufc-333-alexander-volkanovski-petr-yan-merab-dvalishvili-more",
+      "pubDate": "Sun, 25 Oct 2026 20:03:00 GMT",
+      "published_at": "2026-10-25T20:03:00+00:00",
+      "description": "UFC CEO Dana White Fielded Questions From The Media At The UFC 333: Volkanovski vs Evloev Post-Fight Press Conference In Abu Dhabi, United Arab Emirates, on October 24, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102526-ufc-333-dana-white-presser_GettyImages-2301477079.jpg?itok=ILyE62FF",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "The Bigger Picture | UFC 333",
+      "link": "https://www.ufc.com/news/the-bigger-picture-ufc-333-alexander-volkanovski-petr-yan-merab-dvalishvili-abu-dhabi",
+      "guid": "https://www.ufc.com/news/the-bigger-picture-ufc-333-alexander-volkanovski-petr-yan-merab-dvalishvili-abu-dhabi",
+      "pubDate": "Sun, 25 Oct 2026 15:43:00 GMT",
+      "published_at": "2026-10-25T15:43:00+00:00",
+      "description": "Unpacking Everything That Happened And What It Means In The Grand Scheme At UFC 333: Volkanovski vs Evloev, Live From Etihad Arena On Saturday In Abu Dhabi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102526-hero-ufc-333-bigger-picture-petr-yan-alexander-volkanovski.jpg?itok=iEL88M4s",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC 333: Volkanovski vs Evloev",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
@@ -80,28 +102,6 @@
       "published_at": "2026-10-23T15:33:00+00:00",
       "description": "Talented Featherweight Aaron Pico Talks Win Over Patricio Pitbull At UFC 327, Growing As A Fighter, Matchup With Losene Keita This Weekend At UFC 333 In Abu Dhabi",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-aaron-pico_GettyImages-2230529662.jpg?itok=oxjGN2rX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Matchup To Watch | Aaron Pico vs Losene Keita",
-      "link": "https://www.ufc.com/news/matchup-watch-aaron-pico-vs-losene-keita",
-      "guid": "https://www.ufc.com/news/matchup-watch-aaron-pico-vs-losene-keita",
-      "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
-      "published_at": "2026-10-23T14:00:00+00:00",
-      "description": "Taking A Deep Dive On A Potentially Fireworks-Filled Featherweight Matchup Between Aaron Pico And Losene Keita At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-aaron-pico-losene-keita_.jpg?itok=5BiT9S4o",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Trilogy Timeline | Petr Yan vs Merab Dvalishvili",
-      "link": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
-      "guid": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
-      "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "description": "Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM",
       "category": "UFC",
       "source": "UFC"
     }
