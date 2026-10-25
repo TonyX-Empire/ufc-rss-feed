@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-24T23:04:08.220109+00:00",
+  "last_build_date": "2026-10-25T04:26:06.834939+00:00",
   "item_count": 9,
   "items": [
     {
@@ -95,13 +95,13 @@
       "source": "UFC"
     },
     {
-      "title": "Trilogy Timeline | Petr Yan vs Merab Dvalishvili",
-      "link": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
-      "guid": "https://www.ufc.com/news/trilogy-timeline-petr-yan-vs-merab-dvalishvili-ufc-333-abu-dhabi",
+      "title": "Prospect To Watch | Abdul Rakhman Yakhyaev",
+      "link": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
+      "guid": "https://www.ufc.com/news/prospect-watch-abdul-rakhman-yakhyaev-ufc-333",
       "pubDate": "Fri, 23 Oct 2026 13:00:00 GMT",
       "published_at": "2026-10-23T13:00:00+00:00",
-      "description": "Looking Back At The Bantamweight Saga Between Petr Yan And Merab Dvalishvili Ahead Of Their Championship Rubber Match At UFC 333: Volkanovski vs Evloev",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-petr-yan-merab-dvalishvili-trilogy-timeline_GettyImages-1472877412.jpg?itok=r4A61iaM",
+      "description": "Rising Light Heavyweight Abdul Rakhman Yakhyaev Aims Top-15 Status When He Makes His Fourth Walk To The Octagon At UFC 333: Volkanovski vs Evloev",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-abdul-rakhman-yakhyaev_GettyImages-2283575543.jpg?itok=vhX-xmb2",
       "category": "UFC",
       "source": "UFC"
     }
