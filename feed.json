@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-26T12:45:11.619527+00:00",
+  "last_build_date": "2026-10-26T20:24:19.542488+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC Store Launches Two New Miniature Legacy Replica Title Belts",
+      "link": "https://www.ufc.com/news/ufc-store-launches-two-new-miniature-legacy-replica-title-belts",
+      "guid": "https://www.ufc.com/news/ufc-store-launches-two-new-miniature-legacy-replica-title-belts",
+      "pubDate": "Mon, 26 Oct 2026 20:00:00 GMT",
+      "published_at": "2026-10-26T20:00:00+00:00",
+      "description": "Choose Between Desktop and Mini Sizes for a Collectible Built to Display or Gift",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/LEGACY_DESKTOP_MINI_1920x1080.jpg?itok=AEfGBhVs",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Building a Fighting Culture | UFC Performance Institute Mexico",
+      "link": "https://www.ufc.com/news/building-fighting-culture-ufc-performance-institute-mexico",
+      "guid": "https://www.ufc.com/news/building-fighting-culture-ufc-performance-institute-mexico",
+      "pubDate": "Mon, 26 Oct 2026 17:33:00 GMT",
+      "published_at": "2026-10-26T17:33:00+00:00",
+      "description": "How UFC PI Mexico’s Día De Los Muertos Tradition Uses Shared Challenge To Develop Mental Toughness, Trust, And Responsibility.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/WhatsApp%20Image%202026-10-08%20at%204.29.41%20PM%20%2816%29.jpg?itok=L36sKrWA",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan",
+      "pubDate": "Mon, 26 Oct 2026 14:54:00 GMT",
+      "published_at": "2026-10-26T14:54:00+00:00",
+      "description": "Breaking Down All The Matchups Lined Up For UFC’s Return To Meta APEX In Las Vegas On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-renato-moicano_GettyImages-2269863179.jpg?itok=UQ7YC5ca",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Dana White on UFC 333, Alexander Volkanovski, Petr Yan, Merab Dvalishvili & More",
       "link": "https://www.ufc.com/news/dana-white-ufc-333-alexander-volkanovski-petr-yan-merab-dvalishvili-more",
@@ -69,39 +102,6 @@
       "published_at": "2026-10-23T21:00:00+00:00",
       "description": "Three Custom Designs Celebrate the Athletes’ Heritage, National Pride and Signature Identities",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/333_Unrivaled_Textless_1920x1080.jpg?itok=uZm2Gz1F",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 13: Tackett vs Rodriguez airs live on Thursday, October 29th on UFC FIGHT PASS!",
-      "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-airs-live-thursday-october-29th-ufc-fight-pass",
-      "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-airs-live-thursday-october-29th-ufc-fight-pass",
-      "pubDate": "Fri, 23 Oct 2026 19:46:00 GMT",
-      "published_at": "2026-10-23T19:46:00+00:00",
-      "description": "Latest UFC news: UFC BJJ 13: Tackett vs Rodriguez airs live on Thursday, October 29th on UFC FIGHT PASS!",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/052126-william-tackett-reacts-GettyImages-2277580350.jpg?itok=cceMrk8x",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "The UFC 333 Collection is Here at UFC Store",
-      "link": "https://www.ufc.com/news/ufc-333-collection-here-ufc-store",
-      "guid": "https://www.ufc.com/news/ufc-333-collection-here-ufc-store",
-      "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "published_at": "2026-10-23T17:00:00+00:00",
-      "description": "The Latest Collection Brings “The Great”, “No Mercy” And “The Machine” Into Your Fight-Week Rotation",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/333_Collection_Textless_1920x1080.jpg?itok=Dx3aUu9M",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Aaron Pico | Still Learning",
-      "link": "https://www.ufc.com/news/aaron-pico-still-learning-taking-on-losene-keita-ufc-333-abu-dhabi",
-      "guid": "https://www.ufc.com/news/aaron-pico-still-learning-taking-on-losene-keita-ufc-333-abu-dhabi",
-      "pubDate": "Fri, 23 Oct 2026 15:33:00 GMT",
-      "published_at": "2026-10-23T15:33:00+00:00",
-      "description": "Talented Featherweight Aaron Pico Talks Win Over Patricio Pitbull At UFC 327, Growing As A Fighter, Matchup With Losene Keita This Weekend At UFC 333 In Abu Dhabi",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102326-hero-ufc-333-aaron-pico_GettyImages-2230529662.jpg?itok=oxjGN2rX",
       "category": "UFC",
       "source": "UFC"
     }
