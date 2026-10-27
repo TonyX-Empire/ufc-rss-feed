@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-26T20:24:19.542488+00:00",
+  "last_build_date": "2026-10-27T00:20:22.546730+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Mon, 26 Oct 2026 20:00:00 GMT",
       "published_at": "2026-10-26T20:00:00+00:00",
       "description": "Choose Between Desktop and Mini Sizes for a Collectible Built to Display or Gift",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/LEGACY_DESKTOP_MINI_1920x1080.jpg?itok=AEfGBhVs",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/LEGACY_DESKTOP_MINI_1920x1080.jpg?itok=AEfGBhVs",
       "category": "UFC",
       "source": "UFC"
     },
@@ -24,7 +24,7 @@
       "pubDate": "Mon, 26 Oct 2026 17:33:00 GMT",
       "published_at": "2026-10-26T17:33:00+00:00",
       "description": "How UFC PI Mexico’s Día De Los Muertos Tradition Uses Shared Challenge To Develop Mental Toughness, Trust, And Responsibility.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/WhatsApp%20Image%202026-10-08%20at%204.29.41%20PM%20%2816%29.jpg?itok=L36sKrWA",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/WhatsApp%20Image%202026-10-08%20at%204.29.41%20PM%20%2816%29.jpg?itok=L36sKrWA",
       "category": "UFC",
       "source": "UFC"
     },
