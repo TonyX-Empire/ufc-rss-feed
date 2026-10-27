@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:04:59 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez</title>
+      <link>https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez</guid>
+      <pubDate>Tue, 27 Oct 2026 18:50:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102726-hero-william-tackett_GettyImages-2291349977.jpg?itok=QVoS9IEH" alt="Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez" /></p>
+<p>Two Titles Are On The Line At Meta APEX, With The Middleweight And Bantamweight Titles Both Up For Grabs In Las Vegas.</p>
+<p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>The Very Best Of UFC In NYC</title>
+      <link>https://www.ufc.com/news/very-best-ufc-nyc-205-217-268-295-322</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/very-best-ufc-nyc-205-217-268-295-322</guid>
+      <pubDate>Tue, 27 Oct 2026 16:31:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2185186805.jpg?itok=ieOoPepE" alt="The Very Best Of UFC In NYC" /></p>
+<p>Something Magic Happens When We Hit New York City, As Evidenced By Fights Like These</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Fighters On The Rise | UFC Fight Night: Moicano vs Nolan</title>
       <link>https://www.ufc.com/news/fighters-rise-ufc-fight-night-moicano-vs-nolan</link>
@@ -75,26 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102426-ufc-333-bonus-coverage-hero_loneer-kavanagh-petr-yan-merab-dvalishvili-alexander-volkanovski.jpg?itok=0MlpUdPj" alt="Bonus Coverage | UFC 333: Volkanovski vs Evloev" /></p>
 <p>The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Two Electric Title Fights Announced For UFC 336</title>
-      <link>https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336</guid>
-      <pubDate>Sat, 24 Oct 2026 19:35:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/UFC-336-announcement-hero.jpg?itok=T4Nmj3hd" alt="Two Electric Title Fights Announced For UFC 336" /></p>
-<p>The Flyweight Title &amp; The Interim Welterweight Title Are Up For Grabs In Toronto On January 30, 2027</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Main Card Results | UFC 333: Volkanovski vs Evloev</title>
-      <link>https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results</guid>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n" alt="Main Card Results | UFC 333: Volkanovski vs Evloev" /></p>
-<p>UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

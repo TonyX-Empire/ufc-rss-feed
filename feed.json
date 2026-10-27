@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-27T15:16:43.164822+00:00",
+  "last_build_date": "2026-10-27T22:04:59.197490+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez",
+      "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez",
+      "guid": "https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez",
+      "pubDate": "Tue, 27 Oct 2026 18:50:00 GMT",
+      "published_at": "2026-10-27T18:50:00+00:00",
+      "description": "Two Titles Are On The Line At Meta APEX, With The Middleweight And Bantamweight Titles Both Up For Grabs In Las Vegas.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102726-hero-william-tackett_GettyImages-2291349977.jpg?itok=QVoS9IEH",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "The Very Best Of UFC In NYC",
+      "link": "https://www.ufc.com/news/very-best-ufc-nyc-205-217-268-295-322",
+      "guid": "https://www.ufc.com/news/very-best-ufc-nyc-205-217-268-295-322",
+      "pubDate": "Tue, 27 Oct 2026 16:31:00 GMT",
+      "published_at": "2026-10-27T16:31:00+00:00",
+      "description": "Something Magic Happens When We Hit New York City, As Evidenced By Fights Like These",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2185186805.jpg?itok=ieOoPepE",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fighters On The Rise | UFC Fight Night: Moicano vs Nolan",
       "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-moicano-vs-nolan",
@@ -80,28 +102,6 @@
       "published_at": "2026-10-24T22:10:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-ufc-333-bonus-coverage-hero_loneer-kavanagh-petr-yan-merab-dvalishvili-alexander-volkanovski.jpg?itok=0MlpUdPj",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Two Electric Title Fights Announced For UFC 336",
-      "link": "https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336",
-      "guid": "https://www.ufc.com/news/two-electric-title-fights-announced-ufc-336",
-      "pubDate": "Sat, 24 Oct 2026 19:35:00 GMT",
-      "published_at": "2026-10-24T19:35:00+00:00",
-      "description": "The Flyweight Title & The Interim Welterweight Title Are Up For Grabs In Toronto On January 30, 2027",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/UFC-336-announcement-hero.jpg?itok=T4Nmj3hd",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
-      "guid": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
-      "pubDate": "Sat, 24 Oct 2026 18:00:00 GMT",
-      "published_at": "2026-10-24T18:00:00+00:00",
-      "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
       "category": "UFC",
       "source": "UFC"
     }
