@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-27T08:51:41.771233+00:00",
+  "last_build_date": "2026-10-27T15:16:43.164822+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fighters On The Rise | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-moicano-vs-nolan",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-moicano-vs-nolan",
+      "pubDate": "Mon, 26 Oct 2026 21:27:00 GMT",
+      "published_at": "2026-10-26T21:27:00+00:00",
+      "description": "Three Can’t-Miss Combatants You’ll Want To Be In Your Seat For On Saturday, October 31",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-FOTR-UFC-Vegas-123.jpg?itok=tH7mFry3",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "UFC Store Launches Two New Miniature Legacy Replica Title Belts",
       "link": "https://www.ufc.com/news/ufc-store-launches-two-new-miniature-legacy-replica-title-belts",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-24T18:00:00+00:00",
       "description": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-09/102426-ufc-333-volkanovski-vs-evloev-EVENT-ART.jpg?itok=H_tsrA7n",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Step into UFC 333 at UFC Store with the Unrivaled Fight Short Collection",
-      "link": "https://www.ufc.com/news/step-ufc-333-ufc-store-unrivaled-fight-short-collection",
-      "guid": "https://www.ufc.com/news/step-ufc-333-ufc-store-unrivaled-fight-short-collection",
-      "pubDate": "Fri, 23 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-23T21:00:00+00:00",
-      "description": "Three Custom Designs Celebrate the Athletes’ Heritage, National Pride and Signature Identities",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/333_Unrivaled_Textless_1920x1080.jpg?itok=uZm2Gz1F",
       "category": "UFC",
       "source": "UFC"
     }
