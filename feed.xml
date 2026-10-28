@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:22:11 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC FIGHT NIGHT SYDNEY MAIN EVENT SET: QUILLAN SALKILLD TO FACE BENOÎT SAINT DENIS</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis</guid>
+      <pubDate>Tue, 27 Oct 2026 23:31:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/020727-ufc-fight-night-salkilld-saint-denis-TEMP-HERO.jpg?itok=wwriytqc" alt="UFC FIGHT NIGHT SYDNEY MAIN EVENT SET: QUILLAN SALKILLD TO FACE BENOÎT SAINT DENIS" /></p>
+<p>Surging Australian Lightweight To Meet Dangerous French Powerhouse At Afterpay Arena On Sunday, 7 February 2027</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez</title>
       <link>https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102526-hero-ufc-333-bigger-picture-petr-yan-alexander-volkanovski.jpg?itok=iEL88M4s" alt="The Bigger Picture | UFC 333" /></p>
 <p>Unpacking Everything That Happened And What It Means In The Grand Scheme At UFC 333: Volkanovski vs Evloev, Live From Etihad Arena On Saturday In Abu Dhabi</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC 333: Volkanovski vs Evloev</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev</guid>
-      <pubDate>Sat, 24 Oct 2026 22:10:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102426-ufc-333-bonus-coverage-hero_loneer-kavanagh-petr-yan-merab-dvalishvili-alexander-volkanovski.jpg?itok=0MlpUdPj" alt="Bonus Coverage | UFC 333: Volkanovski vs Evloev" /></p>
-<p>The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

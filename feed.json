@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-27T22:04:59.197490+00:00",
+  "last_build_date": "2026-10-28T05:22:11.511145+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC FIGHT NIGHT SYDNEY MAIN EVENT SET: QUILLAN SALKILLD TO FACE BENOÎT SAINT DENIS",
+      "link": "https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis",
+      "pubDate": "Tue, 27 Oct 2026 23:31:00 GMT",
+      "published_at": "2026-10-27T23:31:00+00:00",
+      "description": "Surging Australian Lightweight To Meet Dangerous French Powerhouse At Afterpay Arena On Sunday, 7 February 2027",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/020727-ufc-fight-night-salkilld-saint-denis-TEMP-HERO.jpg?itok=wwriytqc",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez",
       "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-25T15:43:00+00:00",
       "description": "Unpacking Everything That Happened And What It Means In The Grand Scheme At UFC 333: Volkanovski vs Evloev, Live From Etihad Arena On Saturday In Abu Dhabi",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102526-hero-ufc-333-bigger-picture-petr-yan-alexander-volkanovski.jpg?itok=iEL88M4s",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC 333: Volkanovski vs Evloev",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
-      "pubDate": "Sat, 24 Oct 2026 22:10:00 GMT",
-      "published_at": "2026-10-24T22:10:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102426-ufc-333-bonus-coverage-hero_loneer-kavanagh-petr-yan-merab-dvalishvili-alexander-volkanovski.jpg?itok=0MlpUdPj",
       "category": "UFC",
       "source": "UFC"
     }
