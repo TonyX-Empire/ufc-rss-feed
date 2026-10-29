@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-28T20:11:08.007698+00:00",
+  "last_build_date": "2026-10-29T00:44:50.601500+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "UFC BJJ 13: Tackett vs Rodriguez Results",
+      "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
+      "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
     {
       "title": "UFC 333 Topps Now Available at UFC Store!",
       "link": "https://www.ufc.com/news/ufc-333-topps-now-available-ufc-store",
@@ -24,7 +35,7 @@
       "pubDate": "Wed, 28 Oct 2026 17:18:00 GMT",
       "published_at": "2026-10-28T17:18:00+00:00",
       "description": "Chris Billiam-Smith vs Chev Clarke Headlines A Stacked Card Coming To Copper Box Arena In London On November 7, 2026",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-10/GettyImages-2296480555.jpg?itok=no0CNAZZ",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296480555.jpg?itok=no0CNAZZ",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "How UFC PI Mexico’s Día De Los Muertos Tradition Uses Shared Challenge To Develop Mental Toughness, Trust, And Responsibility.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/WhatsApp%20Image%202026-10-08%20at%204.29.41%20PM%20%2816%29.jpg?itok=L36sKrWA",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan",
-      "pubDate": "Mon, 26 Oct 2026 14:54:00 GMT",
-      "published_at": "2026-10-26T14:54:00+00:00",
-      "description": "Breaking Down All The Matchups Lined Up For UFC’s Return To Meta APEX In Las Vegas On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102226-hero-renato-moicano_GettyImages-2269863179.jpg?itok=UQ7YC5ca",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]

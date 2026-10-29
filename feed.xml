@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:44:50 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFC BJJ 13: Tackett vs Rodriguez Results</title>
+      <link>https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <category>UFC BJJ</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3" alt="UFC BJJ 13: Tackett vs Rodriguez Results" /></p>
+<p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026</p>
+<p>Category: UFC BJJ</p>]]></description>
+    </item>
     <item>
       <title>UFC 333 Topps Now Available at UFC Store!</title>
       <link>https://www.ufc.com/news/ufc-333-topps-now-available-ufc-store</link>
@@ -23,7 +33,7 @@
       <guid isPermaLink="true">https://www.ufc.com/news/zuffa-boxing-12-official-fight-card</guid>
       <pubDate>Wed, 28 Oct 2026 17:18:00 GMT</pubDate>
       <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-10/GettyImages-2296480555.jpg?itok=no0CNAZZ" alt="Zuffa Boxing 12 Official Fight Card" /></p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296480555.jpg?itok=no0CNAZZ" alt="Zuffa Boxing 12 Official Fight Card" /></p>
 <p>Chris Billiam-Smith vs Chev Clarke Headlines A Stacked Card Coming To Copper Box Arena In London On November 7, 2026</p>
 <p>Category: Boxing</p>]]></description>
     </item>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/WhatsApp%20Image%202026-10-08%20at%204.29.41%20PM%20%2816%29.jpg?itok=L36sKrWA" alt="Building a Fighting Culture | UFC Performance Institute Mexico" /></p>
 <p>How UFC PI Mexico’s Día De Los Muertos Tradition Uses Shared Challenge To Develop Mental Toughness, Trust, And Responsibility.</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | UFC Fight Night: Moicano vs Nolan</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan</guid>
-      <pubDate>Mon, 26 Oct 2026 14:54:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102226-hero-renato-moicano_GettyImages-2269863179.jpg?itok=UQ7YC5ca" alt="Fight By Fight Preview | UFC Fight Night: Moicano vs Nolan" /></p>
-<p>Breaking Down All The Matchups Lined Up For UFC’s Return To Meta APEX In Las Vegas On October 31, 2026</p>
-<p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
 </rss>
