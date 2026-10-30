@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-30T00:46:11.809457+00:00",
+  "last_build_date": "2026-10-30T09:51:22.604353+00:00",
   "item_count": 9,
   "items": [
     {
@@ -43,11 +43,22 @@
       "title": "UFC BJJ 13: Tackett vs Rodriguez Results",
       "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
       "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
-      "pubDate": "Fri, 30 Oct 2026 00:23:00 GMT",
-      "published_at": "2026-10-30T00:23:00+00:00",
+      "pubDate": "Fri, 30 Oct 2026 03:00:00 GMT",
+      "published_at": "2026-10-30T03:00:00+00:00",
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Yana Santos Is Pain-Free And Ready To Shine",
+      "link": "https://www.ufc.com/news/yana-santos-pain-free-and-ready-shine-ufc-vegas-123",
+      "guid": "https://www.ufc.com/news/yana-santos-pain-free-and-ready-shine-ufc-vegas-123",
+      "pubDate": "Fri, 30 Oct 2026 01:05:00 GMT",
+      "published_at": "2026-10-30T01:05:00+00:00",
+      "description": "After Recovering From Double Elbow Surgery, Yana Santos Is Excited She’s Finally Able To Fight To Her Full Potential.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-yana-santos-mid-fight_GettyImages-1507796510.jpg?itok=ITejJ6i-",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -91,17 +102,6 @@
       "published_at": "2026-10-29T15:51:00+00:00",
       "description": "Australian Lightweight Tom Nolan Wants To Make The Most Of His Inaugural Headlining Slot At UFC Fight Night: Moicano vs Nolan",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/101026-hero-tom-nolan_GettyImages-2280248076.jpg?itok=w9zSRa9u",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jean-Paul Lebosnoyani Welcomes The Pressure",
-      "link": "https://www.ufc.com/news/jean-paul-lebosnoyani-welcomes-pressure-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/jean-paul-lebosnoyani-welcomes-pressure-ufc-vegas-123",
-      "pubDate": "Thu, 29 Oct 2026 15:46:00 GMT",
-      "published_at": "2026-10-29T15:46:00+00:00",
-      "description": "Ahead Of His Third Trip To The Octagon, Jean-Paul Lebosnoyani Is Embracing Any Nerves Heading Into UFC Fight Night: Moicano vs Nolan.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-jean-paul-leobsnoyani-on-scale_GettyImages-2262724479.jpg?itok=u36gbXts",
       "category": "UFC",
       "source": "UFC"
     }

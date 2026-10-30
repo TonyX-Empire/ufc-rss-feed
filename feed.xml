@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:51:22 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Moicano vs Nolan</title>
@@ -40,11 +40,21 @@
       <title>UFC BJJ 13: Tackett vs Rodriguez Results</title>
       <link>https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</guid>
-      <pubDate>Fri, 30 Oct 2026 00:23:00 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 03:00:00 GMT</pubDate>
       <category>UFC BJJ</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3" alt="UFC BJJ 13: Tackett vs Rodriguez Results" /></p>
 <p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026</p>
 <p>Category: UFC BJJ</p>]]></description>
+    </item>
+    <item>
+      <title>Yana Santos Is Pain-Free And Ready To Shine</title>
+      <link>https://www.ufc.com/news/yana-santos-pain-free-and-ready-shine-ufc-vegas-123</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/yana-santos-pain-free-and-ready-shine-ufc-vegas-123</guid>
+      <pubDate>Fri, 30 Oct 2026 01:05:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-yana-santos-mid-fight_GettyImages-1507796510.jpg?itok=ITejJ6i-" alt="Yana Santos Is Pain-Free And Ready To Shine" /></p>
+<p>After Recovering From Double Elbow Surgery, Yana Santos Is Excited She’s Finally Able To Fight To Her Full Potential.</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Dakota Hope | Staying Patient</title>
@@ -84,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/101026-hero-tom-nolan_GettyImages-2280248076.jpg?itok=w9zSRa9u" alt="Tom Nolan Hopes To Inspire In First Main Event Opportunity" /></p>
 <p>Australian Lightweight Tom Nolan Wants To Make The Most Of His Inaugural Headlining Slot At UFC Fight Night: Moicano vs Nolan</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Jean-Paul Lebosnoyani Welcomes The Pressure</title>
-      <link>https://www.ufc.com/news/jean-paul-lebosnoyani-welcomes-pressure-ufc-vegas-123</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/jean-paul-lebosnoyani-welcomes-pressure-ufc-vegas-123</guid>
-      <pubDate>Thu, 29 Oct 2026 15:46:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-jean-paul-leobsnoyani-on-scale_GettyImages-2262724479.jpg?itok=u36gbXts" alt="Jean-Paul Lebosnoyani Welcomes The Pressure" /></p>
-<p>Ahead Of His Third Trip To The Octagon, Jean-Paul Lebosnoyani Is Embracing Any Nerves Heading Into UFC Fight Night: Moicano vs Nolan.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
