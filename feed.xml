@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:12:19 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Moicano vs Nolan</title>
@@ -15,6 +15,15 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/103126-ufc-fight-night-moicano-vs-nolan-EVENT-ART.jpg?itok=pETuyoc7" alt="Main Card Results | UFC Fight Night: Moicano vs Nolan" /></p>
 <p>UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</guid>
+      <pubDate>Sat, 31 Oct 2026 21:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -28,12 +37,13 @@
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</guid>
-      <pubDate>Sat, 31 Oct 2026 21:00:00 GMT</pubDate>
+      <title>Updates To UFC Fight Night: Bonfim vs Brady</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates</guid>
+      <pubDate>Fri, 30 Oct 2026 21:04:00 GMT</pubDate>
       <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110726-Cortes-Acosta-Walker-Vegas-124.jpg?itok=qQJSBe9i" alt="Updates To UFC Fight Night: Bonfim vs Brady" /></p>
+<p>Key Information For The Las Vegas Event Happening November 7 At Meta APEX</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
@@ -84,16 +94,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-yana-santos-mid-fight_GettyImages-1507796510.jpg?itok=ITejJ6i-" alt="Yana Santos Is Pain-Free And Ready To Shine" /></p>
 <p>After Recovering From Double Elbow Surgery, Yana Santos Is Excited She’s Finally Able To Fight To Her Full Potential.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Dakota Hope | Staying Patient</title>
-      <link>https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123</guid>
-      <pubDate>Thu, 29 Oct 2026 21:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102626-hero-dakota-hope_GettyImages-2269838044.jpg?itok=ODCJ4v8J" alt="Dakota Hope | Staying Patient" /></p>
-<p>Featherweight Discusses The Lessons From His UFC Debut And Mindset Heading Into His Sophomore Appearance At UFC Fight Night: Moicano vs Nolan</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

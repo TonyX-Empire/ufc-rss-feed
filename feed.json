@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-30T17:56:48.055913+00:00",
+  "last_build_date": "2026-10-30T22:12:19.941124+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-11-01T00:00:00+00:00",
       "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-ufc-fight-night-moicano-vs-nolan-EVENT-ART.jpg?itok=pETuyoc7",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
+      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-31T21:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -29,13 +40,13 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
-      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-31T21:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "title": "Updates To UFC Fight Night: Bonfim vs Brady",
+      "link": "https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates",
+      "pubDate": "Fri, 30 Oct 2026 21:04:00 GMT",
+      "published_at": "2026-10-30T21:04:00+00:00",
+      "description": "Key Information For The Las Vegas Event Happening November 7 At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-Cortes-Acosta-Walker-Vegas-124.jpg?itok=qQJSBe9i",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-10-30T01:05:00+00:00",
       "description": "After Recovering From Double Elbow Surgery, Yana Santos Is Excited She’s Finally Able To Fight To Her Full Potential.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-yana-santos-mid-fight_GettyImages-1507796510.jpg?itok=ITejJ6i-",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dakota Hope | Staying Patient",
-      "link": "https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123",
-      "pubDate": "Thu, 29 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-29T21:00:00+00:00",
-      "description": "Featherweight Discusses The Lessons From His UFC Debut And Mindset Heading Into His Sophomore Appearance At UFC Fight Night: Moicano vs Nolan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102626-hero-dakota-hope_GettyImages-2269838044.jpg?itok=ODCJ4v8J",
       "category": "UFC",
       "source": "UFC"
     }
