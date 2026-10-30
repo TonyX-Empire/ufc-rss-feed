@@ -3,18 +3,84 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-29T18:22:49.810534+00:00",
+  "last_build_date": "2026-10-30T00:46:11.809457+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Main Card Results | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results",
+      "pubDate": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-ufc-fight-night-moicano-vs-nolan-EVENT-ART.jpg?itok=pETuyoc7",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
+      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-31T21:00:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
+      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-31T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "UFC BJJ 13: Tackett vs Rodriguez Results",
       "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
       "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
-      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "published_at": "2026-10-30T00:00:00+00:00",
+      "pubDate": "Fri, 30 Oct 2026 00:23:00 GMT",
+      "published_at": "2026-10-30T00:23:00+00:00",
       "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3",
       "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "Dakota Hope | Staying Patient",
+      "link": "https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123",
+      "guid": "https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123",
+      "pubDate": "Thu, 29 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-29T21:00:00+00:00",
+      "description": "Featherweight Discusses The Lessons From His UFC Debut And Mindset Heading Into His Sophomore Appearance At UFC Fight Night: Moicano vs Nolan",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102626-hero-dakota-hope_GettyImages-2269838044.jpg?itok=ODCJ4v8J",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Lucia Szabová | ‘The Silent Killer’ Is Ready To Make Some Noise",
+      "link": "https://www.ufc.com/news/lucia-szabova-silent-killer-ready-make-some-noise",
+      "guid": "https://www.ufc.com/news/lucia-szabova-silent-killer-ready-make-some-noise",
+      "pubDate": "Thu, 29 Oct 2026 20:45:00 GMT",
+      "published_at": "2026-10-29T20:45:00+00:00",
+      "description": "Slovakian Starlet Has Captured Championship Gold In Two Weight Classes In Europe. Now She’s Ready To Make Her Mark On The Big Stage",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/DSC03179.jpg?itok=szxGqCe5",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Renato Moicano Is Still Chasing The Lightweight Elite",
+      "link": "https://www.ufc.com/news/renato-moicano-chasing-elite-ufc-vegas-123",
+      "guid": "https://www.ufc.com/news/renato-moicano-chasing-elite-ufc-vegas-123",
+      "pubDate": "Thu, 29 Oct 2026 20:33:00 GMT",
+      "published_at": "2026-10-29T20:33:00+00:00",
+      "description": "Brazilian Lightweight Vet Faces A Rising Prospect In The Main Event At Meta APEX, And Hopes Victory Will Land Him A Fight Date With A Pound-For-Pound Star",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/102626-hero-renato-moicano_GettyImages-2269862593.jpg?itok=Tqi1iK0P",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -37,72 +103,6 @@
       "description": "Ahead Of His Third Trip To The Octagon, Jean-Paul Lebosnoyani Is Embracing Any Nerves Heading Into UFC Fight Night: Moicano vs Nolan.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-jean-paul-leobsnoyani-on-scale_GettyImages-2262724479.jpg?itok=u36gbXts",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jacobe Smith Feels Himself Reaching The Next Level",
-      "link": "https://www.ufc.com/news/jacobe-smith-feels-himself-reaching-next-level-ufc-vegas-123-welterweight",
-      "guid": "https://www.ufc.com/news/jacobe-smith-feels-himself-reaching-next-level-ufc-vegas-123-welterweight",
-      "pubDate": "Thu, 29 Oct 2026 15:42:00 GMT",
-      "published_at": "2026-10-29T15:42:00+00:00",
-      "description": "Undefeated American Jacobe Smith Wants To Take The Next Step In His Career As He Faces Randy Brown At UFC Fight Night: Moicano vs Nolan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102826-jacobe-smith-reaction_GettyImages-2298439696.jpg?itok=dBwXX35Q",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Talita Alencar Ready To Execute Her Plan",
-      "link": "https://www.ufc.com/news/talita-alencar-ready-execute-plan-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/talita-alencar-ready-execute-plan-ufc-vegas-123",
-      "pubDate": "Thu, 29 Oct 2026 15:00:00 GMT",
-      "published_at": "2026-10-29T15:00:00+00:00",
-      "description": "Strawweight Looks To Get One Step Closer To Her Goal In Second UFC Appearance Of 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102826-talita-alencar-walkout_GettyImages-2273131132.jpg?itok=o9phr0sy",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC 333 Topps Now Available at UFC Store!",
-      "link": "https://www.ufc.com/news/ufc-333-topps-now-available-ufc-store",
-      "guid": "https://www.ufc.com/news/ufc-333-topps-now-available-ufc-store",
-      "pubDate": "Wed, 28 Oct 2026 18:08:00 GMT",
-      "published_at": "2026-10-28T18:08:00+00:00",
-      "description": "Celebrate the Event’s Biggest Winners During a Limited Two-Day Release.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/HERO-topps-now-1920x1080.jpg?itok=I5mtTUCo",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 12 Official Fight Card",
-      "link": "https://www.ufc.com/news/zuffa-boxing-12-official-fight-card",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-12-official-fight-card",
-      "pubDate": "Wed, 28 Oct 2026 17:18:00 GMT",
-      "published_at": "2026-10-28T17:18:00+00:00",
-      "description": "Chris Billiam-Smith vs Chev Clarke Headlines A Stacked Card Coming To Copper Box Arena In London On November 7, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296480555.jpg?itok=no0CNAZZ",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC FIGHT NIGHT SYDNEY MAIN EVENT SET: QUILLAN SALKILLD TO FACE BENOÎT SAINT DENIS",
-      "link": "https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis",
-      "pubDate": "Tue, 27 Oct 2026 23:31:00 GMT",
-      "published_at": "2026-10-27T23:31:00+00:00",
-      "description": "Surging Australian Lightweight To Meet Dangerous French Powerhouse At Afterpay Arena On Sunday, 7 February 2027",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/020727-ufc-fight-night-salkilld-saint-denis-TEMP-HERO.jpg?itok=wwriytqc",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Match By Match Preview | UFC BJJ 13: Tackett vs Rodriguez",
-      "link": "https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez",
-      "guid": "https://www.ufc.com/news/match-match-preview-ufc-bjj-13-tackett-vs-rodriguez",
-      "pubDate": "Tue, 27 Oct 2026 18:50:00 GMT",
-      "published_at": "2026-10-27T18:50:00+00:00",
-      "description": "Two Titles Are On The Line At Meta APEX, With The Middleweight And Bantamweight Titles Both Up For Grabs In Las Vegas.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102726-hero-william-tackett_GettyImages-2291349977.jpg?itok=QVoS9IEH",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]
