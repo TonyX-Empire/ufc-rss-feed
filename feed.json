@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-30T09:51:22.604353+00:00",
+  "last_build_date": "2026-10-30T17:56:48.055913+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-11-01T00:00:00+00:00",
       "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-ufc-fight-night-moicano-vs-nolan-EVENT-ART.jpg?itok=pETuyoc7",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
+      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
+      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
+      "published_at": "2026-10-31T21:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
@@ -29,14 +40,36 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
-      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-31T21:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ",
+      "title": "Official Weigh-In Results | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan",
+      "pubDate": "Fri, 30 Oct 2026 17:38:00 GMT",
+      "published_at": "2026-10-30T17:38:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing October 31 At Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-03/040426Renato-Moicano-weigh-hero-GettyImages-2222532796.jpg?itok=RYeDUvvM",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Luana Santos | Right Place, Right Time",
+      "link": "https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123",
+      "guid": "https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123",
+      "pubDate": "Fri, 30 Oct 2026 16:01:00 GMT",
+      "published_at": "2026-10-30T16:01:00+00:00",
+      "description": "Brazilian Contender Eyes Victory Over Yana Santos As She Looks To Position Herself For A Shot At The Women’s Bantamweight Title",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/UFCVegas_SantosPhoto-3.jpg?itok=PGWYNbtG",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "NOVEMBER 14: CARLOS ADAMES BATTLES GEROME WARBURTON IN RIYADH SEASON ZUFFA BOXING 13 MAIN EVENT AT THE VENUE IN RIYADH",
+      "link": "https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event",
+      "guid": "https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event",
+      "pubDate": "Fri, 30 Oct 2026 16:01:00 GMT",
+      "published_at": "2026-10-30T16:01:00+00:00",
+      "description": "Former World Champion Jason Moloney Meets Andres Teran in Bantamweight Co-Feature",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296765409.jpg?itok=uh-57LMi",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -69,39 +102,6 @@
       "published_at": "2026-10-29T21:00:00+00:00",
       "description": "Featherweight Discusses The Lessons From His UFC Debut And Mindset Heading Into His Sophomore Appearance At UFC Fight Night: Moicano vs Nolan",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/102626-hero-dakota-hope_GettyImages-2269838044.jpg?itok=ODCJ4v8J",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Lucia Szabová | ‘The Silent Killer’ Is Ready To Make Some Noise",
-      "link": "https://www.ufc.com/news/lucia-szabova-silent-killer-ready-make-some-noise",
-      "guid": "https://www.ufc.com/news/lucia-szabova-silent-killer-ready-make-some-noise",
-      "pubDate": "Thu, 29 Oct 2026 20:45:00 GMT",
-      "published_at": "2026-10-29T20:45:00+00:00",
-      "description": "Slovakian Starlet Has Captured Championship Gold In Two Weight Classes In Europe. Now She’s Ready To Make Her Mark On The Big Stage",
-      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/DSC03179.jpg?itok=szxGqCe5",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Renato Moicano Is Still Chasing The Lightweight Elite",
-      "link": "https://www.ufc.com/news/renato-moicano-chasing-elite-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/renato-moicano-chasing-elite-ufc-vegas-123",
-      "pubDate": "Thu, 29 Oct 2026 20:33:00 GMT",
-      "published_at": "2026-10-29T20:33:00+00:00",
-      "description": "Brazilian Lightweight Vet Faces A Rising Prospect In The Main Event At Meta APEX, And Hopes Victory Will Land Him A Fight Date With A Pound-For-Pound Star",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102626-hero-renato-moicano_GettyImages-2269862593.jpg?itok=Tqi1iK0P",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Tom Nolan Hopes To Inspire In First Main Event Opportunity",
-      "link": "https://www.ufc.com/news/tom-nolan-inspire-main-event-opportunity-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/tom-nolan-inspire-main-event-opportunity-ufc-vegas-123",
-      "pubDate": "Thu, 29 Oct 2026 15:51:00 GMT",
-      "published_at": "2026-10-29T15:51:00+00:00",
-      "description": "Australian Lightweight Tom Nolan Wants To Make The Most Of His Inaugural Headlining Slot At UFC Fight Night: Moicano vs Nolan",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/101026-hero-tom-nolan_GettyImages-2280248076.jpg?itok=w9zSRa9u",
       "category": "UFC",
       "source": "UFC"
     }
