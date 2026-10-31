@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 22:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:18:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Fight Night: Moicano vs Nolan</title>
@@ -18,15 +18,6 @@
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</guid>
-      <pubDate>Sat, 31 Oct 2026 21:00:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
       <title>Official Scorecards | UFC Fight Night: Moicano vs Nolan</title>
       <link>https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards</guid>
@@ -34,6 +25,15 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ" alt="Official Scorecards | UFC Fight Night: Moicano vs Nolan" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Search results | UFC</title>
+      <link>https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results</guid>
+      <pubDate>Sat, 31 Oct 2026 21:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
     <item>
