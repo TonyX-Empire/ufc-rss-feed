@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-10-31T19:12:28.222201+00:00",
+  "last_build_date": "2026-11-01T00:00:06.084033+00:00",
   "item_count": 9,
   "items": [
     {
@@ -21,21 +21,21 @@
       "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
       "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
       "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
-      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-31T21:00:00+00:00",
+      "pubDate": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "published_at": "2026-11-01T00:00:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Prelim Results | UFC Fight Night: Moicano vs Nolan",
       "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
       "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
-      "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT",
-      "published_at": "2026-10-31T21:00:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "pubDate": "Sat, 31 Oct 2026 23:35:00 GMT",
+      "published_at": "2026-10-31T23:35:00+00:00",
+      "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/092626-General-View-APEX-Octagon-GettyImages-2297317026.jpg?itok=oH6-iRIp",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
