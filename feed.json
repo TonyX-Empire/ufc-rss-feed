@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-01T13:08:13.056850+00:00",
+  "last_build_date": "2026-11-01T19:29:21.247557+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Fight Night: Moicano vs Nolan",
+      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan",
+      "pubDate": "Sun, 01 Nov 2026 18:35:00 GMT",
+      "published_at": "2026-11-01T18:35:00+00:00",
+      "description": "Highlighting The Biggest Winners From Meta APEX On October 31, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/311026-hero-tom-nolan-hero-ufc-vegas-123-GettyImages-2302926739.jpg?itok=B6kVLSv6",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Fight Night: Moicano vs Nolan",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
@@ -92,17 +103,6 @@
       "description": "Former World Champion Jason Moloney Meets Andres Teran in Bantamweight Co-Feature",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296765409.jpg?itok=uh-57LMi",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 13: Tackett vs Rodriguez Results",
-      "link": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
-      "guid": "https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results",
-      "pubDate": "Fri, 30 Oct 2026 03:00:00 GMT",
-      "published_at": "2026-10-30T03:00:00+00:00",
-      "description": "Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3",
-      "category": "UFC BJJ",
       "source": "UFC"
     }
   ]

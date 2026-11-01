@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:29:21 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Fight Night: Moicano vs Nolan</title>
+      <link>https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan</guid>
+      <pubDate>Sun, 01 Nov 2026 18:35:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/311026-hero-tom-nolan-hero-ufc-vegas-123-GettyImages-2302926739.jpg?itok=B6kVLSv6" alt="The Scorecard | UFC Fight Night: Moicano vs Nolan" /></p>
+<p>Highlighting The Biggest Winners From Meta APEX On October 31, 2026</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>Bonus Coverage | UFC Fight Night: Moicano vs Nolan</title>
       <link>https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296765409.jpg?itok=uh-57LMi" alt="NOVEMBER 14: CARLOS ADAMES BATTLES GEROME WARBURTON IN RIYADH SEASON ZUFFA BOXING 13 MAIN EVENT AT THE VENUE IN RIYADH" /></p>
 <p>Former World Champion Jason Moloney Meets Andres Teran in Bantamweight Co-Feature</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>UFC BJJ 13: Tackett vs Rodriguez Results</title>
-      <link>https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-bjj-13-tackett-vs-rodriguez-results</guid>
-      <pubDate>Fri, 30 Oct 2026 03:00:00 GMT</pubDate>
-      <category>UFC BJJ</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/102926-ufc-bjj-13-EVENT-ART.jpg?itok=IOu_vyU3" alt="UFC BJJ 13: Tackett vs Rodriguez Results" /></p>
-<p>Live Results, Match Recaps And Interviews With The Winners From UFC BJJ 13: Tackett vs Rodriguez At Meta APEX In Las Vegas, Nevada On October 29, 2026</p>
-<p>Category: UFC BJJ</p>]]></description>
     </item>
   </channel>
 </rss>
