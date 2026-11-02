@@ -5,8 +5,28 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:52:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:39:18 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 10 | November Is Not Short On Action</title>
+      <link>https://www.ufc.com/news/the-10-november-not-short-on-action</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-10-november-not-short-on-action</guid>
+      <pubDate>Mon, 02 Nov 2026 19:18:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/120526-kayla-harrison-amanda-nunes-faceoff-GettyImages-2250234232.jpg?itok=kSyRxbXt" alt="The 10 | November Is Not Short On Action" /></p>
+<p>Looking Ahead To The Most Intriguing Matchups Taking Place In The Coming Month</p>
+<p>Category: News</p>]]></description>
+    </item>
+    <item>
+      <title>Fight By Fight Preview | UFC Fight Night: Cortes Acosta vs Walker</title>
+      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker</guid>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/091226-waldo-cortes-acosta-GettyImages-2302602955.jpg?itok=69L84IuC" alt="Fight By Fight Preview | UFC Fight Night: Cortes Acosta vs Walker" /></p>
+<p>Diving Into Saturday’s Fight Card At Meta APEX</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Fight Night: Moicano vs Nolan</title>
       <link>https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan</link>
@@ -76,26 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/040426Renato-Moicano-weigh-hero-GettyImages-2222532796.jpg?itok=RYeDUvvM" alt="Official Weigh-In Results | UFC Fight Night: Moicano vs Nolan" /></p>
 <p>The Official Weights Of The Athletes Competing October 31 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Luana Santos | Right Place, Right Time</title>
-      <link>https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123</guid>
-      <pubDate>Fri, 30 Oct 2026 16:01:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/UFCVegas_SantosPhoto-3.jpg?itok=PGWYNbtG" alt="Luana Santos | Right Place, Right Time" /></p>
-<p>Brazilian Contender Eyes Victory Over Yana Santos As She Looks To Position Herself For A Shot At The Women’s Bantamweight Title</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>NOVEMBER 14: CARLOS ADAMES BATTLES GEROME WARBURTON IN RIYADH SEASON ZUFFA BOXING 13 MAIN EVENT AT THE VENUE IN RIYADH</title>
-      <link>https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event</guid>
-      <pubDate>Fri, 30 Oct 2026 16:01:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296765409.jpg?itok=uh-57LMi" alt="NOVEMBER 14: CARLOS ADAMES BATTLES GEROME WARBURTON IN RIYADH SEASON ZUFFA BOXING 13 MAIN EVENT AT THE VENUE IN RIYADH" /></p>
-<p>Former World Champion Jason Moloney Meets Andres Teran in Bantamweight Co-Feature</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>

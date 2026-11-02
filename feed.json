@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-02T10:52:02.304369+00:00",
+  "last_build_date": "2026-11-02T21:39:18.660841+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The 10 | November Is Not Short On Action",
+      "link": "https://www.ufc.com/news/the-10-november-not-short-on-action",
+      "guid": "https://www.ufc.com/news/the-10-november-not-short-on-action",
+      "pubDate": "Mon, 02 Nov 2026 19:18:00 GMT",
+      "published_at": "2026-11-02T19:18:00+00:00",
+      "description": "Looking Ahead To The Most Intriguing Matchups Taking Place In The Coming Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/120526-kayla-harrison-amanda-nunes-faceoff-GettyImages-2250234232.jpg?itok=kSyRxbXt",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | UFC Fight Night: Cortes Acosta vs Walker",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "description": "Diving Into Saturday’s Fight Card At Meta APEX",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/091226-waldo-cortes-acosta-GettyImages-2302602955.jpg?itok=69L84IuC",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Fight Night: Moicano vs Nolan",
       "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan",
@@ -81,28 +103,6 @@
       "description": "The Official Weights Of The Athletes Competing October 31 At Meta APEX In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-03/040426Renato-Moicano-weigh-hero-GettyImages-2222532796.jpg?itok=RYeDUvvM",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Luana Santos | Right Place, Right Time",
-      "link": "https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123",
-      "guid": "https://www.ufc.com/news/luana-santos-right-time-place-ufc-vegas-123",
-      "pubDate": "Fri, 30 Oct 2026 16:01:00 GMT",
-      "published_at": "2026-10-30T16:01:00+00:00",
-      "description": "Brazilian Contender Eyes Victory Over Yana Santos As She Looks To Position Herself For A Shot At The Women’s Bantamweight Title",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/UFCVegas_SantosPhoto-3.jpg?itok=PGWYNbtG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "NOVEMBER 14: CARLOS ADAMES BATTLES GEROME WARBURTON IN RIYADH SEASON ZUFFA BOXING 13 MAIN EVENT AT THE VENUE IN RIYADH",
-      "link": "https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event",
-      "guid": "https://www.ufc.com/news/november-14-carlos-adames-battles-gerome-warburton-riyadh-season-zuffa-boxing-13-main-event",
-      "pubDate": "Fri, 30 Oct 2026 16:01:00 GMT",
-      "published_at": "2026-10-30T16:01:00+00:00",
-      "description": "Former World Champion Jason Moloney Meets Andres Teran in Bantamweight Co-Feature",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296765409.jpg?itok=uh-57LMi",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
