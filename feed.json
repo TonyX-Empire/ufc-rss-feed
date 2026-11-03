@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-03T16:57:23.716699+00:00",
+  "last_build_date": "2026-11-03T23:10:22.330392+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Monthly Report | October 2026",
+      "link": "https://www.ufc.com/news/monthly-report-october-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-october-2026",
+      "pubDate": "Tue, 03 Nov 2026 21:04:00 GMT",
+      "published_at": "2026-11-03T21:04:00+00:00",
+      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110326-hero-petr-yan_GettyImages-2301822613.jpg?itok=xkxqJt6f",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters On The Rise | UFC Fight Night: Cortes Acosta vs Walker",
+      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-cortes-acosta-vs-walker",
+      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-cortes-acosta-vs-walker",
+      "pubDate": "Tue, 03 Nov 2026 20:57:00 GMT",
+      "published_at": "2026-11-03T20:57:00+00:00",
+      "description": "Identifying Three Emerging Names To Track This Weekend As The Action Stays In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110326-hero-elijah-smith_GettyImages-2266541922.jpg?itok=qLHL0uUO",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC BJJ 14: Tackett vs Wojcik Fight Card",
+      "link": "https://www.ufc.com/news/ufc-bjj-14-tackett-vs-wojcik-fight-card",
+      "guid": "https://www.ufc.com/news/ufc-bjj-14-tackett-vs-wojcik-fight-card",
+      "pubDate": "Tue, 03 Nov 2026 20:45:00 GMT",
+      "published_at": "2026-11-03T20:45:00+00:00",
+      "description": "UFC BJJ 14: Tackett vs Wojcik Is Live On Thursday, December 3, Starting At 8pm ET/5pm PT Streaming LIVE On UFC FIGHT PASS!",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/ufc-bjj-14-landing-page-hero.jpg?itok=aHyE3Cmc",
+      "category": "UFC BJJ",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC | Under Armour HB Trainer Sport Shoes",
+      "link": "https://www.ufc.com/news/ufc-under-armour-hb-trainer-sport-shoes",
+      "guid": "https://www.ufc.com/news/ufc-under-armour-hb-trainer-sport-shoes",
+      "pubDate": "Tue, 03 Nov 2026 20:00:00 GMT",
+      "published_at": "2026-11-03T20:00:00+00:00",
+      "description": "Built For the Discipline, Movement, And Demands Of Your Next Workout",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/Hero-UA-1920x1080.jpg?itok=ziyQlyKl",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "How To Watch Zuffa Boxing",
       "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
@@ -58,50 +102,6 @@
       "published_at": "2026-11-01T03:30:00+00:00",
       "description": "The Performances Awarded An Extra Bonus At Meta APEX On October 31, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-Bonus-Winners-UFC-Vegas-123.jpg?itok=JJlA_j6d",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results",
-      "pubDate": "Sun, 01 Nov 2026 03:08:00 GMT",
-      "published_at": "2026-11-01T03:08:00+00:00",
-      "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-ufc-fight-night-moicano-vs-nolan-EVENT-ART.jpg?itok=pETuyoc7",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
-      "pubDate": "Sun, 01 Nov 2026 02:18:00 GMT",
-      "published_at": "2026-11-01T02:18:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/030726-Bruce-Buffer-Announcement-GettyImages-2265346009.jpg?itok=WurM27HZ",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
-      "pubDate": "Sun, 01 Nov 2026 00:40:00 GMT",
-      "published_at": "2026-11-01T00:40:00+00:00",
-      "description": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/05%20-%20Erosa%20v%20Lee_20261031_JB_7744_.JPG?itok=Q4VOBwdU",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Fight Night: Bonfim vs Brady",
-      "link": "https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates",
-      "pubDate": "Fri, 30 Oct 2026 21:04:00 GMT",
-      "published_at": "2026-10-30T21:04:00+00:00",
-      "description": "Key Information For The Las Vegas Event Happening November 7 At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-Cortes-Acosta-Walker-Vegas-124.jpg?itok=qQJSBe9i",
       "category": "UFC Fight Night",
       "source": "UFC"
     }
