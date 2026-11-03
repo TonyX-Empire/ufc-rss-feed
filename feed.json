@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-03T06:26:55.922305+00:00",
+  "last_build_date": "2026-11-03T16:57:23.716699+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "How To Watch Zuffa Boxing",
+      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
+      "pubDate": "Tue, 03 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-03T17:00:00+00:00",
+      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "The 10 | November Is Not Short On Action",
       "link": "https://www.ufc.com/news/the-10-november-not-short-on-action",
@@ -91,17 +102,6 @@
       "published_at": "2026-10-30T21:04:00+00:00",
       "description": "Key Information For The Las Vegas Event Happening November 7 At Meta APEX",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-Cortes-Acosta-Walker-Vegas-124.jpg?itok=qQJSBe9i",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan",
-      "pubDate": "Fri, 30 Oct 2026 17:38:00 GMT",
-      "published_at": "2026-10-30T17:38:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing October 31 At Meta APEX In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-03/040426Renato-Moicano-weigh-hero-GettyImages-2222532796.jpg?itok=RYeDUvvM",
       "category": "UFC Fight Night",
       "source": "UFC"
     }

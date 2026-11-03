@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:57:23 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Watch Zuffa Boxing</title>
+      <link>https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing</guid>
+      <pubDate>Tue, 03 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj" alt="How To Watch Zuffa Boxing" /></p>
+<p>See Where You Can Catch Zuffa Boxing Events From Your Country</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>The 10 | November Is Not Short On Action</title>
       <link>https://www.ufc.com/news/the-10-november-not-short-on-action</link>
@@ -85,16 +95,6 @@
       <category>UFC Fight Night</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110726-Cortes-Acosta-Walker-Vegas-124.jpg?itok=qQJSBe9i" alt="Updates To UFC Fight Night: Bonfim vs Brady" /></p>
 <p>Key Information For The Las Vegas Event Happening November 7 At Meta APEX</p>
-<p>Category: UFC Fight Night</p>]]></description>
-    </item>
-    <item>
-      <title>Official Weigh-In Results | UFC Fight Night: Moicano vs Nolan</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-nolan</guid>
-      <pubDate>Fri, 30 Oct 2026 17:38:00 GMT</pubDate>
-      <category>UFC Fight Night</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-03/040426Renato-Moicano-weigh-hero-GettyImages-2222532796.jpg?itok=RYeDUvvM" alt="Official Weigh-In Results | UFC Fight Night: Moicano vs Nolan" /></p>
-<p>The Official Weights Of The Athletes Competing October 31 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
     </item>
   </channel>
