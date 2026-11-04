@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-04T14:21:10.467683+00:00",
+  "last_build_date": "2026-11-04T21:13:45.175917+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Shane Mosley Jr. Wants To Show His Championship Quality | Zuffa Boxing 12",
+      "link": "https://www.ufc.com/news/shane-mosley-jr-wants-show-his-championship-quality-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/shane-mosley-jr-wants-show-his-championship-quality-zuffa-boxing-12",
+      "pubDate": "Thu, 05 Nov 2026 06:49:00 GMT",
+      "published_at": "2026-11-05T06:49:00+00:00",
+      "description": "American Contender Crosses The Pond To Face A Former World Champion As He Looks To Follow Up On His Successful Zuffa Boxing Debut.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2291384061.jpg?itok=sIwk1LmA",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Updates To UFC Fight Night: Cortes Acosta vs Walker",
+      "link": "https://www.ufc.com/news/updates-ufc-fight-night-cortes-acosta-vs-walker",
+      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-cortes-acosta-vs-walker",
+      "pubDate": "Wed, 04 Nov 2026 21:04:00 GMT",
+      "published_at": "2026-11-04T21:04:00+00:00",
+      "description": "Changes To Las Vegas Fight Night Scheduled On November 7",
+      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Kayla Allen Wants To Keep The Ball Rolling | Zuffa Boxing 12",
+      "link": "https://www.ufc.com/news/kayla-allen-wants-keep-ball-rolling-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/kayla-allen-wants-keep-ball-rolling-zuffa-boxing-12",
+      "pubDate": "Wed, 04 Nov 2026 18:50:00 GMT",
+      "published_at": "2026-11-04T18:50:00+00:00",
+      "description": "After Her History-Making Debut At Zuffa Boxing 11, Kayla Allen Returns To The Copper Box Looking To Claim Back-To-Back Victories In The Zuffa Boxing Ring.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296742306.jpg?itok=Ft3KKEQG",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "BRITISH LIGHT HEAVYWEIGHT CONTENDER ZAK CHELLI SIGNS WITH ZUFFA BOXING",
+      "link": "https://www.ufc.com/news/british-light-heavyweight-contender-zak-chelli-signs-zuffa-boxing",
+      "guid": "https://www.ufc.com/news/british-light-heavyweight-contender-zak-chelli-signs-zuffa-boxing",
+      "pubDate": "Wed, 04 Nov 2026 16:14:00 GMT",
+      "published_at": "2026-11-04T16:14:00+00:00",
+      "description": "Latest UFC news: BRITISH LIGHT HEAVYWEIGHT CONTENDER ZAK CHELLI SIGNS WITH ZUFFA BOXING",
+      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Monthly Report | October 2026",
       "link": "https://www.ufc.com/news/monthly-report-october-2026",
@@ -59,50 +103,6 @@
       "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
       "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "The 10 | November Is Not Short On Action",
-      "link": "https://www.ufc.com/news/the-10-november-not-short-on-action",
-      "guid": "https://www.ufc.com/news/the-10-november-not-short-on-action",
-      "pubDate": "Mon, 02 Nov 2026 19:18:00 GMT",
-      "published_at": "2026-11-02T19:18:00+00:00",
-      "description": "Looking Ahead To The Most Intriguing Matchups Taking Place In The Coming Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/120526-kayla-harrison-amanda-nunes-faceoff-GettyImages-2250234232.jpg?itok=kSyRxbXt",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker",
-      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker",
-      "pubDate": "Mon, 02 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "description": "Diving Into Saturday’s Fight Card At Meta APEX",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/091226-waldo-cortes-acosta-GettyImages-2302602955.jpg?itok=69L84IuC",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-moicano-vs-nolan",
-      "pubDate": "Sun, 01 Nov 2026 18:35:00 GMT",
-      "published_at": "2026-11-01T18:35:00+00:00",
-      "description": "Highlighting The Biggest Winners From Meta APEX On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/311026-hero-tom-nolan-hero-ufc-vegas-123-GettyImages-2302926739.jpg?itok=B6kVLSv6",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Fight Night: Moicano vs Nolan",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-      "pubDate": "Sun, 01 Nov 2026 03:30:00 GMT",
-      "published_at": "2026-11-01T03:30:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Meta APEX On October 31, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/103126-Bonus-Winners-UFC-Vegas-123.jpg?itok=JJlA_j6d",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
