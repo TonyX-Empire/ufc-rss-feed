@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-03T23:10:22.330392+00:00",
+  "last_build_date": "2026-11-04T05:59:09.451584+00:00",
   "item_count": 9,
   "items": [
     {
@@ -35,7 +35,7 @@
       "pubDate": "Tue, 03 Nov 2026 20:45:00 GMT",
       "published_at": "2026-11-03T20:45:00+00:00",
       "description": "UFC BJJ 14: Tackett vs Wojcik Is Live On Thursday, December 3, Starting At 8pm ET/5pm PT Streaming LIVE On UFC FIGHT PASS!",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/ufc-bjj-14-landing-page-hero.jpg?itok=aHyE3Cmc",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/ufc-bjj-14-landing-page-hero.jpg?itok=aHyE3Cmc",
       "category": "UFC BJJ",
       "source": "UFC"
     },
@@ -46,7 +46,7 @@
       "pubDate": "Tue, 03 Nov 2026 20:00:00 GMT",
       "published_at": "2026-11-03T20:00:00+00:00",
       "description": "Built For the Discipline, Movement, And Demands Of Your Next Workout",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/Hero-UA-1920x1080.jpg?itok=ziyQlyKl",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/Hero-UA-1920x1080.jpg?itok=ziyQlyKl",
       "category": "UFC",
       "source": "UFC"
     },
