@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-04T21:13:45.175917+00:00",
+  "last_build_date": "2026-11-05T06:24:57.408177+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,39 @@
       "description": "American Contender Crosses The Pond To Face A Former World Champion As He Looks To Follow Up On His Successful Zuffa Boxing Debut.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2291384061.jpg?itok=sIwk1LmA",
       "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Mantas Kondratavicius | More Comfortable Every Time",
+      "link": "https://www.ufc.com/news/mantas-kondratavicius-more-comfortable-every-time-ufc-vegas-124",
+      "guid": "https://www.ufc.com/news/mantas-kondratavicius-more-comfortable-every-time-ufc-vegas-124",
+      "pubDate": "Thu, 05 Nov 2026 00:57:00 GMT",
+      "published_at": "2026-11-05T00:57:00+00:00",
+      "description": "Lithuanian Middleweight Mantas Kondratavicius Discusses Debut In London, Training With Modestas Bukauskas Ahead Of Second UFC Appearance This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110426-hero-mantas-kondratavicius_GettyImages-2267723876.jpg?itok=CXwIYV5g",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | Zuffa Boxing 12: Billam-Smith vs Clarke",
+      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke",
+      "pubDate": "Wed, 04 Nov 2026 22:26:00 GMT",
+      "published_at": "2026-11-04T22:26:00+00:00",
+      "description": "Zuffa Boxing Returns To The Copper Box In London, England, As Cruiserweight Contenders Chris Billam-Smith And Chev Clarke Renew Their Rivalry. Here’s Everything You Need To Know.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-FBF-Zuffa-Boxing-12-ZB-Z12.jpg?itok=Mw1nO92b",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Nina Milošević | Practice Makes Perfect",
+      "link": "https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124",
+      "guid": "https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124",
+      "pubDate": "Wed, 04 Nov 2026 21:29:00 GMT",
+      "published_at": "2026-11-04T21:29:00+00:00",
+      "description": "Ascending Bantamweight Nina Milošević Reflects On Debut Win, Main Card Assignment This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110426-hero-nina-milosevic_GettyImages-2288594891.jpg?itok=8mzwq-vA",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -70,39 +103,6 @@
       "description": "Identifying Three Emerging Names To Track This Weekend As The Action Stays In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110326-hero-elijah-smith_GettyImages-2266541922.jpg?itok=qLHL0uUO",
       "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC BJJ 14: Tackett vs Wojcik Fight Card",
-      "link": "https://www.ufc.com/news/ufc-bjj-14-tackett-vs-wojcik-fight-card",
-      "guid": "https://www.ufc.com/news/ufc-bjj-14-tackett-vs-wojcik-fight-card",
-      "pubDate": "Tue, 03 Nov 2026 20:45:00 GMT",
-      "published_at": "2026-11-03T20:45:00+00:00",
-      "description": "UFC BJJ 14: Tackett vs Wojcik Is Live On Thursday, December 3, Starting At 8pm ET/5pm PT Streaming LIVE On UFC FIGHT PASS!",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/ufc-bjj-14-landing-page-hero.jpg?itok=aHyE3Cmc",
-      "category": "UFC BJJ",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC | Under Armour HB Trainer Sport Shoes",
-      "link": "https://www.ufc.com/news/ufc-under-armour-hb-trainer-sport-shoes",
-      "guid": "https://www.ufc.com/news/ufc-under-armour-hb-trainer-sport-shoes",
-      "pubDate": "Tue, 03 Nov 2026 20:00:00 GMT",
-      "published_at": "2026-11-03T20:00:00+00:00",
-      "description": "Built For the Discipline, Movement, And Demands Of Your Next Workout",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/Hero-UA-1920x1080.jpg?itok=ziyQlyKl",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Tue, 03 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-03T17:00:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
