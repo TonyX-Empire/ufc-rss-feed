@@ -3,9 +3,64 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-05T17:16:52.930621+00:00",
+  "last_build_date": "2026-11-05T23:31:04.624039+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | UFC Fight Night: Cortes Acosta vs Walker",
+      "link": "https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-cortes-acosta-vs-walker",
+      "guid": "https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-cortes-acosta-vs-walker",
+      "pubDate": "Fri, 06 Nov 2026 15:30:00 GMT",
+      "published_at": "2026-11-06T15:30:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing On November 7 At Meta APEX In Las Vegas",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/100226-johnny-walker-weigh-inGettyImages-2298303040.jpg?itok=Wvf9u5Lh",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Waldo Cortes Acosta | Short Notice, No Problem",
+      "link": "https://www.ufc.com/news/waldo-cortes-acosta-short-notice-no-problem-ufc-vegas-124",
+      "guid": "https://www.ufc.com/news/waldo-cortes-acosta-short-notice-no-problem-ufc-vegas-124",
+      "pubDate": "Thu, 05 Nov 2026 22:16:00 GMT",
+      "published_at": "2026-11-05T22:16:00+00:00",
+      "description": "Dominican Contender Wants To Use His Short-Notice Main Event Opportunity As A Chance To Gatecrash The Heavyweight Title Picture.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110526-hero-waldo-cortes-acosta_GettyImages-2302602930.jpg?itok=TxlwNHjS",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Chev Clarke Is Ready For This Inevitable Rematch",
+      "link": "https://www.ufc.com/news/chev-clarke-is-ready-for-this-inevitable-rematch-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/chev-clarke-is-ready-for-this-inevitable-rematch-zuffa-boxing-12",
+      "pubDate": "Thu, 05 Nov 2026 21:01:00 GMT",
+      "published_at": "2026-11-05T21:01:00+00:00",
+      "description": "English Cruiserweight Chev Clarke Knew He’d Rematch Old Amateur Rival Chris Billam-Smith One Day. And That Day Arrives On November 7, At London’s Copper Box Arena.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2291374188.jpg?itok=FVgNS0QR",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Chris Billam-Smith Plans To Avenge His Younger Self",
+      "link": "https://www.ufc.com/news/chris-billam-smith-plans-to-avenge-his-younger-self-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/chris-billam-smith-plans-to-avenge-his-younger-self-zuffa-boxing-12",
+      "pubDate": "Thu, 05 Nov 2026 19:07:00 GMT",
+      "published_at": "2026-11-05T19:07:00+00:00",
+      "description": "Ten Years After Losing Out To Chev Clarke For The British Amateur Championship, Chris Billam-Smith Is Ready To Put Things Right In Their Rematch.",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-10/GettyImages-2291374418.jpg?itok=fx3He3cF",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Da'Mazion Vanhouter | Chasing Greatness",
+      "link": "https://www.ufc.com/news/damazion-vanhouter-chasing-greatness-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/damazion-vanhouter-chasing-greatness-zuffa-boxing-12",
+      "pubDate": "Thu, 05 Nov 2026 19:03:00 GMT",
+      "published_at": "2026-11-05T19:03:00+00:00",
+      "description": "Ascendant Heavyweight Da'Mazion Vanhouter Looks For His Fourth Zuffa Boxing KO Of 2026 Saturday In London",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-11/GettyImages-2294968277.jpg?itok=lHxGHrq7",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Shane Mosley Jr. Wants To Show His Championship Quality | Zuffa Boxing 12",
       "link": "https://www.ufc.com/news/shane-mosley-jr-wants-show-his-championship-quality-zuffa-boxing-12",
@@ -48,61 +103,6 @@
       "description": "Ascending Bantamweight Nina Milošević Reflects On Debut Win, Main Card Assignment This Weekend",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110426-hero-nina-milosevic_GettyImages-2288594891.jpg?itok=8mzwq-vA",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/updates-ufc-fight-night-cortes-acosta-vs-walker",
-      "guid": "https://www.ufc.com/news/updates-ufc-fight-night-cortes-acosta-vs-walker",
-      "pubDate": "Wed, 04 Nov 2026 21:04:00 GMT",
-      "published_at": "2026-11-04T21:04:00+00:00",
-      "description": "Changes To Las Vegas Fight Night Scheduled On November 7",
-      "image": "https://ufc.com/images/styles/card/s3/2020-07/generic%20apex%20octagon%20hero.jpg?itok=HbsDnN-B",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Kayla Allen Wants To Keep The Ball Rolling | Zuffa Boxing 12",
-      "link": "https://www.ufc.com/news/kayla-allen-wants-keep-ball-rolling-zuffa-boxing-12",
-      "guid": "https://www.ufc.com/news/kayla-allen-wants-keep-ball-rolling-zuffa-boxing-12",
-      "pubDate": "Wed, 04 Nov 2026 18:50:00 GMT",
-      "published_at": "2026-11-04T18:50:00+00:00",
-      "description": "After Her History-Making Debut At Zuffa Boxing 11, Kayla Allen Returns To The Copper Box Looking To Claim Back-To-Back Victories In The Zuffa Boxing Ring.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/GettyImages-2296742306.jpg?itok=Ft3KKEQG",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "BRITISH LIGHT HEAVYWEIGHT CONTENDER ZAK CHELLI SIGNS WITH ZUFFA BOXING",
-      "link": "https://www.ufc.com/news/british-light-heavyweight-contender-zak-chelli-signs-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/british-light-heavyweight-contender-zak-chelli-signs-zuffa-boxing",
-      "pubDate": "Wed, 04 Nov 2026 16:14:00 GMT",
-      "published_at": "2026-11-04T16:14:00+00:00",
-      "description": "Latest UFC news: BRITISH LIGHT HEAVYWEIGHT CONTENDER ZAK CHELLI SIGNS WITH ZUFFA BOXING",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Monthly Report | October 2026",
-      "link": "https://www.ufc.com/news/monthly-report-october-2026",
-      "guid": "https://www.ufc.com/news/monthly-report-october-2026",
-      "pubDate": "Tue, 03 Nov 2026 21:04:00 GMT",
-      "published_at": "2026-11-03T21:04:00+00:00",
-      "description": "Highlighting The Standout Action From Inside The Octagon Over The Previous Month",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110326-hero-petr-yan_GettyImages-2301822613.jpg?itok=xkxqJt6f",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters On The Rise | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-cortes-acosta-vs-walker",
-      "guid": "https://www.ufc.com/news/fighters-rise-ufc-fight-night-cortes-acosta-vs-walker",
-      "pubDate": "Tue, 03 Nov 2026 20:57:00 GMT",
-      "published_at": "2026-11-03T20:57:00+00:00",
-      "description": "Identifying Three Emerging Names To Track This Weekend As The Action Stays In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110326-hero-elijah-smith_GettyImages-2266541922.jpg?itok=qLHL0uUO",
-      "category": "UFC Fight Night",
       "source": "UFC"
     }
   ]
