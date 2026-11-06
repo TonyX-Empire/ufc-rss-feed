@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-06T06:19:06.552480+00:00",
+  "last_build_date": "2026-11-06T16:41:31.000186+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "The Official Weights Of The Athletes Competing On November 7 At Meta APEX In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/100226-johnny-walker-weigh-inGettyImages-2298303040.jpg?itok=Wvf9u5Lh",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 12",
+      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-12",
+      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-12",
+      "pubDate": "Fri, 06 Nov 2026 08:30:00 GMT",
+      "published_at": "2026-11-06T08:30:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing At Copper Box Arena In London On November 7, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Lithuanian Middleweight Mantas Kondratavicius Discusses Debut In London, Training With Modestas Bukauskas Ahead Of Second UFC Appearance This Weekend",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110426-hero-mantas-kondratavicius_GettyImages-2267723876.jpg?itok=CXwIYV5g",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 12: Billam-Smith vs Clarke",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke",
-      "pubDate": "Wed, 04 Nov 2026 22:26:00 GMT",
-      "published_at": "2026-11-04T22:26:00+00:00",
-      "description": "Zuffa Boxing Returns To The Copper Box In London, England, As Cruiserweight Contenders Chris Billam-Smith And Chev Clarke Renew Their Rivalry. Here’s Everything You Need To Know.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-FBF-Zuffa-Boxing-12-ZB-Z12.jpg?itok=Mw1nO92b",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]

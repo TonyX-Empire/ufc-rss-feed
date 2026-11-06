@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:41:30 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Official Weigh-In Results | UFC Fight Night: Cortes Acosta vs Walker</title>
@@ -16,6 +16,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/100226-johnny-walker-weigh-inGettyImages-2298303040.jpg?itok=Wvf9u5Lh" alt="Official Weigh-In Results | UFC Fight Night: Cortes Acosta vs Walker" /></p>
 <p>The Official Weights Of The Athletes Competing On November 7 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Official Weigh-In Results | Zuffa Boxing 12</title>
+      <link>https://www.ufc.com/news/official-weigh-results-zuffa-boxing-12</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-zuffa-boxing-12</guid>
+      <pubDate>Fri, 06 Nov 2026 08:30:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" alt="Official Weigh-In Results | Zuffa Boxing 12" /></p>
+<p>The Official Weights Of The Athletes Competing At Copper Box Arena In London On November 7, 2026</p>
+<p>Category: Boxing</p>]]></description>
     </item>
     <item>
       <title>Johnny Walker | Taking Advantage of Every Opportunity</title>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110426-hero-mantas-kondratavicius_GettyImages-2267723876.jpg?itok=CXwIYV5g" alt="Mantas Kondratavicius | More Comfortable Every Time" /></p>
 <p>Lithuanian Middleweight Mantas Kondratavicius Discusses Debut In London, Training With Modestas Bukauskas Ahead Of Second UFC Appearance This Weekend</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | Zuffa Boxing 12: Billam-Smith vs Clarke</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-12-billam-smith-vs-clarke</guid>
-      <pubDate>Wed, 04 Nov 2026 22:26:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110726-FBF-Zuffa-Boxing-12-ZB-Z12.jpg?itok=Mw1nO92b" alt="Fight By Fight Preview | Zuffa Boxing 12: Billam-Smith vs Clarke" /></p>
-<p>Zuffa Boxing Returns To The Copper Box In London, England, As Cruiserweight Contenders Chris Billam-Smith And Chev Clarke Renew Their Rivalry. Here’s Everything You Need To Know.</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
