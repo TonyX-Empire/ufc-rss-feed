@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-05T23:31:04.624039+00:00",
+  "last_build_date": "2026-11-06T06:19:06.552480+00:00",
   "item_count": 9,
   "items": [
     {
@@ -15,6 +15,17 @@
       "description": "The Official Weights Of The Athletes Competing On November 7 At Meta APEX In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/100226-johnny-walker-weigh-inGettyImages-2298303040.jpg?itok=Wvf9u5Lh",
       "category": "UFC Fight Night",
+      "source": "UFC"
+    },
+    {
+      "title": "Johnny Walker | Taking Advantage of Every Opportunity",
+      "link": "https://www.ufc.com/news/johnny-walker-taking-advantage-of-every-opportunity-ufc-vegas-124",
+      "guid": "https://www.ufc.com/news/johnny-walker-taking-advantage-of-every-opportunity-ufc-vegas-124",
+      "pubDate": "Fri, 06 Nov 2026 02:16:00 GMT",
+      "published_at": "2026-11-06T02:16:00+00:00",
+      "description": "Brazilian Heavyweight Johnny Walker Talks New Division, Short Notice Main Event Opposite Waldo Cortes Acosta This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110526-hero-johnny-walker_GettyImages-2298445957.jpg?itok=sbIXwwsv",
+      "category": "UFC",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Zuffa Boxing Returns To The Copper Box In London, England, As Cruiserweight Contenders Chris Billam-Smith And Chev Clarke Renew Their Rivalry. Here’s Everything You Need To Know.",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/110726-FBF-Zuffa-Boxing-12-ZB-Z12.jpg?itok=Mw1nO92b",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Nina Milošević | Practice Makes Perfect",
-      "link": "https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124",
-      "guid": "https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124",
-      "pubDate": "Wed, 04 Nov 2026 21:29:00 GMT",
-      "published_at": "2026-11-04T21:29:00+00:00",
-      "description": "Ascending Bantamweight Nina Milošević Reflects On Debut Win, Main Card Assignment This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110426-hero-nina-milosevic_GettyImages-2288594891.jpg?itok=8mzwq-vA",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

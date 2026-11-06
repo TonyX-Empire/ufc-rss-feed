@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:31:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:19:06 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Official Weigh-In Results | UFC Fight Night: Cortes Acosta vs Walker</title>
@@ -16,6 +16,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/100226-johnny-walker-weigh-inGettyImages-2298303040.jpg?itok=Wvf9u5Lh" alt="Official Weigh-In Results | UFC Fight Night: Cortes Acosta vs Walker" /></p>
 <p>The Official Weights Of The Athletes Competing On November 7 At Meta APEX In Las Vegas</p>
 <p>Category: UFC Fight Night</p>]]></description>
+    </item>
+    <item>
+      <title>Johnny Walker | Taking Advantage of Every Opportunity</title>
+      <link>https://www.ufc.com/news/johnny-walker-taking-advantage-of-every-opportunity-ufc-vegas-124</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/johnny-walker-taking-advantage-of-every-opportunity-ufc-vegas-124</guid>
+      <pubDate>Fri, 06 Nov 2026 02:16:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110526-hero-johnny-walker_GettyImages-2298445957.jpg?itok=sbIXwwsv" alt="Johnny Walker | Taking Advantage of Every Opportunity" /></p>
+<p>Brazilian Heavyweight Johnny Walker Talks New Division, Short Notice Main Event Opposite Waldo Cortes Acosta This Weekend</p>
+<p>Category: UFC</p>]]></description>
     </item>
     <item>
       <title>Waldo Cortes Acosta | Short Notice, No Problem</title>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/110726-FBF-Zuffa-Boxing-12-ZB-Z12.jpg?itok=Mw1nO92b" alt="Fight By Fight Preview | Zuffa Boxing 12: Billam-Smith vs Clarke" /></p>
 <p>Zuffa Boxing Returns To The Copper Box In London, England, As Cruiserweight Contenders Chris Billam-Smith And Chev Clarke Renew Their Rivalry. Here’s Everything You Need To Know.</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>Nina Milošević | Practice Makes Perfect</title>
-      <link>https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/nina-milosevic-practice-makes-perfect-ufc-vegas-124</guid>
-      <pubDate>Wed, 04 Nov 2026 21:29:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110426-hero-nina-milosevic_GettyImages-2288594891.jpg?itok=8mzwq-vA" alt="Nina Milošević | Practice Makes Perfect" /></p>
-<p>Ascending Bantamweight Nina Milošević Reflects On Debut Win, Main Card Assignment This Weekend</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
