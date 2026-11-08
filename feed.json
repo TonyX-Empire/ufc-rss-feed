@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-08T17:52:22.716723+00:00",
+  "last_build_date": "2026-11-08T21:56:10.512853+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "How To Watch And Stream Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "pubDate": "Sun, 08 Nov 2026 20:30:00 GMT",
+      "published_at": "2026-11-08T20:30:00+00:00",
+      "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "The Scorecard | UFC Fight Night: Cortes Acosta vs Walker",
+      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-cortes-acosta-vs-walker",
+      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-cortes-acosta-vs-walker",
+      "pubDate": "Sun, 08 Nov 2026 20:23:00 GMT",
+      "published_at": "2026-11-08T20:23:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Cortes Acosta vs Walker on November 7, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110826-hero-elijah-smith_GettyImages-2304054959.jpg?itok=ZSQqCLRx",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "Bonus Coverage | UFC Fight Night: Cortes Acosta vs Walker",
       "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-cortes-acosta-vs-walker",
@@ -80,28 +102,6 @@
       "published_at": "2026-11-06T19:01:00+00:00",
       "description": "Road To UFC Season 4 Featherweight Tournament Winner Keiichiro Nakamura Begins His UFC Journey This Weekend In Las Vegas",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-keiichiro-nakamura-GettyImages-2259298481.jpg?itok=fIVOBce7",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Jose Delano | Chasing Dreams",
-      "link": "https://www.ufc.com/news/jose-delano-chasing-dreams-ufc-vegas-124",
-      "guid": "https://www.ufc.com/news/jose-delano-chasing-dreams-ufc-vegas-124",
-      "pubDate": "Fri, 06 Nov 2026 18:48:00 GMT",
-      "published_at": "2026-11-06T18:48:00+00:00",
-      "description": "Brazilian Featherweight Jose Delano Eyeing The Life He’s Always Wanted With Win Over Murtazali Magomedov This Weekend",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-jose-delano_GettyImages-2269855888.jpg?itok=rL0L04gy",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Virna Jandiroba Is Better For The Experience",
-      "link": "https://www.ufc.com/news/virna-jandiroba-is-better-for-the-experience-ufc-vegas-124",
-      "guid": "https://www.ufc.com/news/virna-jandiroba-is-better-for-the-experience-ufc-vegas-124",
-      "pubDate": "Fri, 06 Nov 2026 18:32:00 GMT",
-      "published_at": "2026-11-06T18:32:00+00:00",
-      "description": "Despite Losing Out To New Champion Mackenzie Dern, Virna Jandiroba Says Her Championship Opportunity Still Helped Her Grow Into A Better Fighter.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-virna-jandiroba_GettyImages-2269862682.jpg?itok=KHaFq8if",
       "category": "UFC",
       "source": "UFC"
     }
