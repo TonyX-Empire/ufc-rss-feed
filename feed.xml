@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:57:53 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More</title>
+      <link>https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more</guid>
+      <pubDate>Mon, 09 Nov 2026 00:09:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110826-hero-dana-white_GettyImages-2303576059.jpg?itok=wlpFJfH5" alt="Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More" /></p>
+<p>Dana White Fielded Questions From The Media At The Zuffa Boxing 12 Post-Fight Press Conference In London, England.</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>How To Watch And Stream Polymarket UFC 334: Gane vs Hokit</title>
       <link>https://www.ufc.com/news/how-watch-and-stream-ufc</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110626-hero-davey-grant_GettyImages-2273152037.jpg?itok=27bTKEzH" alt="Davey Grant | Moving To Las Vegas Was ‘Best Decision’" /></p>
 <p>Moving From England To Las Vegas Has Been A Godsend For British Bantamweight Davey Grant, Who Plans To Continue Winning Into His 40s.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Keiichiro Nakamura | Introducing Japan’s Newest Hopeful</title>
-      <link>https://www.ufc.com/news/keiichiro-nakamura-introducing-japans-new-hopeful-ufc-vegas-124</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/keiichiro-nakamura-introducing-japans-new-hopeful-ufc-vegas-124</guid>
-      <pubDate>Fri, 06 Nov 2026 19:01:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/110626-hero-keiichiro-nakamura-GettyImages-2259298481.jpg?itok=fIVOBce7" alt="Keiichiro Nakamura | Introducing Japan’s Newest Hopeful" /></p>
-<p>Road To UFC Season 4 Featherweight Tournament Winner Keiichiro Nakamura Begins His UFC Journey This Weekend In Las Vegas</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

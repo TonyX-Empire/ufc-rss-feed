@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-08T21:56:10.512853+00:00",
+  "last_build_date": "2026-11-09T05:57:53.374442+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More",
+      "link": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
+      "guid": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
+      "pubDate": "Mon, 09 Nov 2026 00:09:00 GMT",
+      "published_at": "2026-11-09T00:09:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 12 Post-Fight Press Conference In London, England.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110826-hero-dana-white_GettyImages-2303576059.jpg?itok=wlpFJfH5",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "How To Watch And Stream Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
@@ -91,17 +102,6 @@
       "published_at": "2026-11-06T19:51:00+00:00",
       "description": "Moving From England To Las Vegas Has Been A Godsend For British Bantamweight Davey Grant, Who Plans To Continue Winning Into His 40s.",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-davey-grant_GettyImages-2273152037.jpg?itok=27bTKEzH",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Keiichiro Nakamura | Introducing Japan’s Newest Hopeful",
-      "link": "https://www.ufc.com/news/keiichiro-nakamura-introducing-japans-new-hopeful-ufc-vegas-124",
-      "guid": "https://www.ufc.com/news/keiichiro-nakamura-introducing-japans-new-hopeful-ufc-vegas-124",
-      "pubDate": "Fri, 06 Nov 2026 19:01:00 GMT",
-      "published_at": "2026-11-06T19:01:00+00:00",
-      "description": "Road To UFC Season 4 Featherweight Tournament Winner Keiichiro Nakamura Begins His UFC Journey This Weekend In Las Vegas",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-keiichiro-nakamura-GettyImages-2259298481.jpg?itok=fIVOBce7",
       "category": "UFC",
       "source": "UFC"
     }
