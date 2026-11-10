@@ -3,9 +3,42 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-10T10:57:46.807368+00:00",
+  "last_build_date": "2026-11-10T19:37:05.621220+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Updates To Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/updates-polymarket-ufc-334-gane-vs-hokit",
+      "guid": "https://www.ufc.com/news/updates-polymarket-ufc-334-gane-vs-hokit",
+      "pubDate": "Tue, 10 Nov 2026 18:26:00 GMT",
+      "published_at": "2026-11-10T18:26:00+00:00",
+      "description": "Changes To Polymarket UFC 334 Scheduled On November 14 In New York City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111026-hero-msg-generic_GettyImages-2185180684.jpg?itok=9-gLD-lk",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Empire State Of Mind | 10 Years Of UFC In NYC",
+      "link": "https://www.ufc.com/news/empire-state-mind-10-years-ufc-nyc",
+      "guid": "https://www.ufc.com/news/empire-state-mind-10-years-ufc-nyc",
+      "pubDate": "Tue, 10 Nov 2026 17:45:00 GMT",
+      "published_at": "2026-11-10T17:45:00+00:00",
+      "description": "A Decade After The State Of New York Lifted Its MMA Ban, We Look Back At True Company Milestones In The Big Apple",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/10-Years-UFC-NYC-hero-111426.jpg?itok=Fi2oDqY_",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Store Celebrates 10 Years at Madison Square Garden With New Merch Collection",
+      "link": "https://www.ufc.com/news/ufc-store-celebrates-10-years-madison-square-garden-new-merch-collection",
+      "guid": "https://www.ufc.com/news/ufc-store-celebrates-10-years-madison-square-garden-new-merch-collection",
+      "pubDate": "Tue, 10 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "description": "From UFC 205 To UFC 309, Celebrate The Fights And Milestones That Shaped UFC History In New York City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/ufc-334-ufc-store-cp-THUMB.jpg?itok=gWE5DV7L",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Uroš Medić: ‘This Is My Time Now’",
       "link": "https://www.ufc.com/news/uros-medic-this-is-my-time-now-polymarket-ufc-334",
@@ -69,39 +102,6 @@
       "published_at": "2026-11-09T19:36:00+00:00",
       "description": "MMA Lab Head Coach John Crouch Drops In And Drops Knowledge On Saturday’s Massive Bantamweight Championship Fight",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-amanda-nunes-kayla-harrison-faceoff_GettyImages-2219117276.jpg?itok=m2Qts3QK",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-      "pubDate": "Mon, 09 Nov 2026 18:12:00 GMT",
-      "published_at": "2026-11-09T18:12:00+00:00",
-      "description": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-ciryl-gane_GettyImages-2281627948.jpg?itok=r-GJo-RG",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More",
-      "link": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
-      "guid": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
-      "pubDate": "Mon, 09 Nov 2026 00:09:00 GMT",
-      "published_at": "2026-11-09T00:09:00+00:00",
-      "description": "Dana White Fielded Questions From The Media At The Zuffa Boxing 12 Post-Fight Press Conference In London, England.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110826-hero-dana-white_GettyImages-2303576059.jpg?itok=wlpFJfH5",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch And Stream Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "pubDate": "Sun, 08 Nov 2026 20:30:00 GMT",
-      "published_at": "2026-11-08T20:30:00+00:00",
-      "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
       "category": "UFC",
       "source": "UFC"
     }
