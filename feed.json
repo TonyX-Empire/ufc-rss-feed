@@ -3,9 +3,86 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-09T16:00:22.543807+00:00",
+  "last_build_date": "2026-11-10T01:26:00.686575+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Uroš Medić: ‘This Is My Time Now’",
+      "link": "https://www.ufc.com/news/uros-medic-this-is-my-time-now-polymarket-ufc-334",
+      "guid": "https://www.ufc.com/news/uros-medic-this-is-my-time-now-polymarket-ufc-334",
+      "pubDate": "Mon, 09 Nov 2026 23:54:00 GMT",
+      "published_at": "2026-11-09T23:54:00+00:00",
+      "description": "Surging Serbian Uroš Medić Discusses August Homecoming Win, Current Run Of Success Ahead Of MSG Showdown With Kevin Holland",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-uros-medic_GettyImages-2288633954.jpg?itok=qfAXOtZA",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC And DCT Abu Dhabi Partner With Local Non-Profit Organizations As Part Of UFC 333 Fight Week",
+      "link": "https://www.ufc.com/news/ufc-and-dct-abu-dhabi-partner-local-non-profit-organizations-part-ufc-333-fight-week",
+      "guid": "https://www.ufc.com/news/ufc-and-dct-abu-dhabi-partner-local-non-profit-organizations-part-ufc-333-fight-week",
+      "pubDate": "Mon, 09 Nov 2026 21:33:00 GMT",
+      "published_at": "2026-11-09T21:33:00+00:00",
+      "description": "Latest UFC news: UFC And DCT Abu Dhabi Partner With Local Non-Profit Organizations As Part Of UFC 333 Fight Week",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-dct.jpg?itok=s7rwv_iB",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC AND RAM PRESENT $750,000 CONTRIBUTION TO FOLDS OF HONOR FOLLOWING BARRETT-JACKSON’S 2026 LAS VEGAS AUCTION",
+      "link": "https://www.ufc.com/news/ufc-and-ram-present-750000-contribution-folds-honor-following-barrett-jacksons-2026-las-vegas",
+      "guid": "https://www.ufc.com/news/ufc-and-ram-present-750000-contribution-folds-honor-following-barrett-jacksons-2026-las-vegas",
+      "pubDate": "Mon, 09 Nov 2026 20:59:00 GMT",
+      "published_at": "2026-11-09T20:59:00+00:00",
+      "description": "Historic Auction Brings Together UFC, Ram, RealTruck, and Barrett-Jackson to Support Educational Opportunities for Military and First Responder Families",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-barrett-jackson.jpg?itok=qsgQEIwX",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Donte Johnson: ‘You Might Go Home At Lunchtime!’",
+      "link": "https://www.ufc.com/news/donte-johnson-you-might-go-home-lunchtime-polymarket-ufc-334",
+      "guid": "https://www.ufc.com/news/donte-johnson-you-might-go-home-lunchtime-polymarket-ufc-334",
+      "pubDate": "Mon, 09 Nov 2026 20:07:00 GMT",
+      "published_at": "2026-11-09T20:07:00+00:00",
+      "description": "Rising Middleweight Reflects on First Year In The UFC, Facing Cesar Almeida At Polymarket UFC 334, Working Quickly",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-donte-johnson-onstage_GettyImages-2290519575.jpg?itok=r-8YZ5pt",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters on the Rise | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/fighters-rise-polymarket-ufc-334-gane-vs-hokit",
+      "guid": "https://www.ufc.com/news/fighters-rise-polymarket-ufc-334-gane-vs-hokit",
+      "pubDate": "Mon, 09 Nov 2026 19:49:00 GMT",
+      "published_at": "2026-11-09T19:49:00+00:00",
+      "description": "Identifying Three Ascending Talents Looking To Break Out This Weekend In NYC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-bilal-hasan_GettyImages-2292549426.jpg?itok=wFsJqRzF",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | Polymarket UFC 334: Kayla Harrison vs Amanda Nunes",
+      "link": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-kayla-harrison-vs-amanda-nunes",
+      "guid": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-kayla-harrison-vs-amanda-nunes",
+      "pubDate": "Mon, 09 Nov 2026 19:36:00 GMT",
+      "published_at": "2026-11-09T19:36:00+00:00",
+      "description": "MMA Lab Head Coach John Crouch Drops In And Drops Knowledge On Saturday’s Massive Bantamweight Championship Fight",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-amanda-nunes-kayla-harrison-faceoff_GettyImages-2219117276.jpg?itok=m2Qts3QK",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "guid": "https://www.ufc.com/news/fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "pubDate": "Mon, 09 Nov 2026 18:12:00 GMT",
+      "published_at": "2026-11-09T18:12:00+00:00",
+      "description": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-ciryl-gane_GettyImages-2281627948.jpg?itok=r-GJo-RG",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More",
       "link": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
@@ -25,83 +102,6 @@
       "published_at": "2026-11-08T20:30:00+00:00",
       "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Scorecard | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/scorecard-ufc-fight-night-cortes-acosta-vs-walker",
-      "guid": "https://www.ufc.com/news/scorecard-ufc-fight-night-cortes-acosta-vs-walker",
-      "pubDate": "Sun, 08 Nov 2026 20:23:00 GMT",
-      "published_at": "2026-11-08T20:23:00+00:00",
-      "description": "Highlighting The Biggest Winners From UFC Fight Night: Cortes Acosta vs Walker on November 7, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110826-hero-elijah-smith_GettyImages-2304054959.jpg?itok=ZSQqCLRx",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-cortes-acosta-vs-walker",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-cortes-acosta-vs-walker",
-      "pubDate": "Sun, 08 Nov 2026 05:44:00 GMT",
-      "published_at": "2026-11-08T05:44:00+00:00",
-      "description": "The Performances Awarded An Extra Bonus At Meta APEX On November 7, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/BrowserPreview_tmp-3.gif?itok=LifmDcXj",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-results",
-      "pubDate": "Sun, 08 Nov 2026 04:14:00 GMT",
-      "published_at": "2026-11-08T04:14:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Cortes Acosta vs Walker, Live From Meta APEX In Las Vegas On November 7",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110726-ufc-fight-night-cortes-acosta-vs-walker-EVENT-ART.jpg?itok=CSU1wVHE",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-official-scorecards",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-official-scorecards",
-      "pubDate": "Sun, 08 Nov 2026 02:41:00 GMT",
-      "published_at": "2026-11-08T02:41:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Cortes Acosta vs Walker, Live From Meta APEX In Las Vegas On November 7, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110726-hero-bruce-buffer_GettyImages-2294916586.jpg?itok=q0MfMJX1",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | UFC Fight Night: Cortes Acosta vs Walker",
-      "link": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-prelim-results",
-      "guid": "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-prelim-results",
-      "pubDate": "Sun, 08 Nov 2026 00:45:00 GMT",
-      "published_at": "2026-11-08T00:45:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Cortes Acosta vs Walker, Live From Meta APEX In Las Vegas On November 7",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110726-hero-ollie-schmid_GettyImages-2304043077.jpg?itok=SNwWwhIm",
-      "category": "UFC Fight Night",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 12 Results + Scorecards",
-      "link": "https://www.ufc.com/news/zuffa-boxing-12-results-scorecards-billam-smith-vs-clarke",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-12-results-scorecards-billam-smith-vs-clarke",
-      "pubDate": "Sat, 07 Nov 2026 21:45:00 GMT",
-      "published_at": "2026-11-07T21:45:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 12: Billam-Smith vs Clarke, Live From Copper Box Arena In London, England On November 7, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/zuffa-boxing-12-results-HERO.jpg?itok=37hUkjxJ",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Davey Grant | Moving To Las Vegas Was ‘Best Decision’",
-      "link": "https://www.ufc.com/news/davey-grant-moving-to-las-vegas-was-best-decision-ufc-vegas-124",
-      "guid": "https://www.ufc.com/news/davey-grant-moving-to-las-vegas-was-best-decision-ufc-vegas-124",
-      "pubDate": "Fri, 06 Nov 2026 19:51:00 GMT",
-      "published_at": "2026-11-06T19:51:00+00:00",
-      "description": "Moving From England To Las Vegas Has Been A Godsend For British Bantamweight Davey Grant, Who Plans To Continue Winning Into His 40s.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110626-hero-davey-grant_GettyImages-2273152037.jpg?itok=27bTKEzH",
       "category": "UFC",
       "source": "UFC"
     }
