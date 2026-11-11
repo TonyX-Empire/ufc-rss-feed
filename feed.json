@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-11T10:40:24.061574+00:00",
+  "last_build_date": "2026-11-11T19:29:32.187224+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "JON ANIK SIGNS MULTI-YEAR EXTENSION TO CONTINUE ROLE ON UFC BROADCAST TEAM",
+      "link": "https://www.ufc.com/news/jon-anik-signs-multi-year-extension-continue-role-ufc-broadcast-team",
+      "guid": "https://www.ufc.com/news/jon-anik-signs-multi-year-extension-continue-role-ufc-broadcast-team",
+      "pubDate": "Wed, 11 Nov 2026 18:37:00 GMT",
+      "published_at": "2026-11-11T18:37:00+00:00",
+      "description": "Veteran Play-By-Play Commentator Extends His 15-Year Run With UFC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2285693047.jpg?itok=lc-jb7d1",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Josh Hokit Is Ready To Take Over",
+      "link": "https://www.ufc.com/news/josh-hokit-ready-take-over-polymarket-ufc-334-heavyweight-title",
+      "guid": "https://www.ufc.com/news/josh-hokit-ready-take-over-polymarket-ufc-334-heavyweight-title",
+      "pubDate": "Wed, 11 Nov 2026 16:05:00 GMT",
+      "published_at": "2026-11-11T16:05:00+00:00",
+      "description": "Heavyweight Title Challenger Has Spent His Entire Athletic Career Building Up For His Big Moment. Now, At Polymarket UFC 334, That Moment Has Arrived.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-josh-hokit-pre-fight_GettyImages-2281623047.jpg?itok=n_tlV4EL",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC Collect by Topps App: NOW LIVE",
+      "link": "https://www.ufc.com/news/ufc-collect-topps-app-now-live",
+      "guid": "https://www.ufc.com/news/ufc-collect-topps-app-now-live",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 GMT",
+      "published_at": "2026-11-11T15:00:00+00:00",
+      "description": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 13 Results + Scorecards",
+      "link": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 GMT",
+      "published_at": "2026-11-11T13:00:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-zuffa-boxing-13-event-art.jpg?itok=hec4M0Tc",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Best Title Fights In Madison Square Garden",
       "link": "https://www.ufc.com/news/best-title-fights-madison-square-garden",
@@ -58,50 +102,6 @@
       "published_at": "2026-11-10T18:26:00+00:00",
       "description": "Changes To Polymarket UFC 334 Scheduled On November 14 In New York City",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111026-hero-msg-generic_GettyImages-2185180684.jpg?itok=9-gLD-lk",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Empire State Of Mind | 10 Years Of UFC In NYC",
-      "link": "https://www.ufc.com/news/empire-state-mind-10-years-ufc-nyc",
-      "guid": "https://www.ufc.com/news/empire-state-mind-10-years-ufc-nyc",
-      "pubDate": "Tue, 10 Nov 2026 17:45:00 GMT",
-      "published_at": "2026-11-10T17:45:00+00:00",
-      "description": "A Decade After The State Of New York Lifted Its MMA Ban, We Look Back At True Company Milestones In The Big Apple",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/10-Years-UFC-NYC-hero-111426.jpg?itok=Fi2oDqY_",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Store Celebrates 10 Years at Madison Square Garden With New Merch Collection",
-      "link": "https://www.ufc.com/news/ufc-store-celebrates-10-years-madison-square-garden-new-merch-collection",
-      "guid": "https://www.ufc.com/news/ufc-store-celebrates-10-years-madison-square-garden-new-merch-collection",
-      "pubDate": "Tue, 10 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-10T17:00:00+00:00",
-      "description": "From UFC 205 To UFC 309, Celebrate The Fights And Milestones That Shaped UFC History In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/ufc-334-ufc-store-cp-THUMB.jpg?itok=gWE5DV7L",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Uroš Medić: ‘This Is My Time Now’",
-      "link": "https://www.ufc.com/news/uros-medic-this-is-my-time-now-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/uros-medic-this-is-my-time-now-polymarket-ufc-334",
-      "pubDate": "Mon, 09 Nov 2026 23:54:00 GMT",
-      "published_at": "2026-11-09T23:54:00+00:00",
-      "description": "Surging Serbian Uroš Medić Discusses August Homecoming Win, Current Run Of Success Ahead Of MSG Showdown With Kevin Holland",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-uros-medic_GettyImages-2288633954.jpg?itok=qfAXOtZA",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC And DCT Abu Dhabi Partner With Local Non-Profit Organizations As Part Of UFC 333 Fight Week",
-      "link": "https://www.ufc.com/news/ufc-and-dct-abu-dhabi-partner-local-non-profit-organizations-part-ufc-333-fight-week",
-      "guid": "https://www.ufc.com/news/ufc-and-dct-abu-dhabi-partner-local-non-profit-organizations-part-ufc-333-fight-week",
-      "pubDate": "Mon, 09 Nov 2026 21:33:00 GMT",
-      "published_at": "2026-11-09T21:33:00+00:00",
-      "description": "Latest UFC news: UFC And DCT Abu Dhabi Partner With Local Non-Profit Organizations As Part Of UFC 333 Fight Week",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-dct.jpg?itok=s7rwv_iB",
       "category": "UFC",
       "source": "UFC"
     }
