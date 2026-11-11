@@ -3,9 +3,53 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-10T19:37:05.621220+00:00",
+  "last_build_date": "2026-11-11T01:10:21.207302+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Best Title Fights In Madison Square Garden",
+      "link": "https://www.ufc.com/news/best-title-fights-madison-square-garden",
+      "guid": "https://www.ufc.com/news/best-title-fights-madison-square-garden",
+      "pubDate": "Tue, 10 Nov 2026 23:37:00 GMT",
+      "published_at": "2026-11-10T23:37:00+00:00",
+      "description": "Ahead Of Polymarket UFC 334: Gane vs Hokit, Take A Look Back At Some Of The Best Title Fights That Have Happened In The World's Most Famous Arena",
+      "image": "https://ufc.com/images/styles/card/s3/2024-11/111524-conor-mcgregor-double-belt-msg.jpg?itok=gDO5wVfZ",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Search results | UFC",
+      "link": "https://www.ufc.com/news/zuffa-boxing-13-official-fight-card",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-13-official-fight-card",
+      "pubDate": "Tue, 10 Nov 2026 22:26:00 GMT",
+      "published_at": "2026-11-10T22:26:00+00:00",
+      "description": "Latest UFC news: Search results | UFC",
+      "image": "",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Coach Conversation | Polymarket UFC 334: Ciryl Gane vs Josh Hokit",
+      "link": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-ciryl-gane-vs-josh-hokit",
+      "guid": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-ciryl-gane-vs-josh-hokit",
+      "pubDate": "Tue, 10 Nov 2026 19:57:00 GMT",
+      "published_at": "2026-11-10T19:57:00+00:00",
+      "description": "Eric Nicksick from Xtreme Couture Dissects Headlining Heavyweight Title Clash",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111026-hero-ciryl-gane-josh-hokit.jpg?itok=drklvmYF",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bia Mesquita Chasing Her Final Goal For 2026",
+      "link": "https://www.ufc.com/news/bia-mesquita-chasing-her-final-goal-for-2026-polymarket-ufc-334",
+      "guid": "https://www.ufc.com/news/bia-mesquita-chasing-her-final-goal-for-2026-polymarket-ufc-334",
+      "pubDate": "Tue, 10 Nov 2026 19:49:00 GMT",
+      "published_at": "2026-11-10T19:49:00+00:00",
+      "description": "Ascending Brazilian Bia Mesquita Eyes Place In Top 10 With Win Over Macy Chiasson This Weekend",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111026-hero-bia-mesquita_GettyImages-2282547730.jpg?itok=vZxMBHtY",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Updates To Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/updates-polymarket-ufc-334-gane-vs-hokit",
@@ -58,50 +102,6 @@
       "published_at": "2026-11-09T21:33:00+00:00",
       "description": "Latest UFC news: UFC And DCT Abu Dhabi Partner With Local Non-Profit Organizations As Part Of UFC 333 Fight Week",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-dct.jpg?itok=s7rwv_iB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC AND RAM PRESENT $750,000 CONTRIBUTION TO FOLDS OF HONOR FOLLOWING BARRETT-JACKSON’S 2026 LAS VEGAS AUCTION",
-      "link": "https://www.ufc.com/news/ufc-and-ram-present-750000-contribution-folds-honor-following-barrett-jacksons-2026-las-vegas",
-      "guid": "https://www.ufc.com/news/ufc-and-ram-present-750000-contribution-folds-honor-following-barrett-jacksons-2026-las-vegas",
-      "pubDate": "Mon, 09 Nov 2026 20:59:00 GMT",
-      "published_at": "2026-11-09T20:59:00+00:00",
-      "description": "Historic Auction Brings Together UFC, Ram, RealTruck, and Barrett-Jackson to Support Educational Opportunities for Military and First Responder Families",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-barrett-jackson.jpg?itok=qsgQEIwX",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Donte Johnson: ‘You Might Go Home At Lunchtime!’",
-      "link": "https://www.ufc.com/news/donte-johnson-you-might-go-home-lunchtime-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/donte-johnson-you-might-go-home-lunchtime-polymarket-ufc-334",
-      "pubDate": "Mon, 09 Nov 2026 20:07:00 GMT",
-      "published_at": "2026-11-09T20:07:00+00:00",
-      "description": "Rising Middleweight Reflects on First Year In The UFC, Facing Cesar Almeida At Polymarket UFC 334, Working Quickly",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-donte-johnson-onstage_GettyImages-2290519575.jpg?itok=r-8YZ5pt",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fighters on the Rise | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/fighters-rise-polymarket-ufc-334-gane-vs-hokit",
-      "guid": "https://www.ufc.com/news/fighters-rise-polymarket-ufc-334-gane-vs-hokit",
-      "pubDate": "Mon, 09 Nov 2026 19:49:00 GMT",
-      "published_at": "2026-11-09T19:49:00+00:00",
-      "description": "Identifying Three Ascending Talents Looking To Break Out This Weekend In NYC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-bilal-hasan_GettyImages-2292549426.jpg?itok=wFsJqRzF",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Coach Conversation | Polymarket UFC 334: Kayla Harrison vs Amanda Nunes",
-      "link": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-kayla-harrison-vs-amanda-nunes",
-      "guid": "https://www.ufc.com/news/coach-conversation-polymarket-ufc-334-kayla-harrison-vs-amanda-nunes",
-      "pubDate": "Mon, 09 Nov 2026 19:36:00 GMT",
-      "published_at": "2026-11-09T19:36:00+00:00",
-      "description": "MMA Lab Head Coach John Crouch Drops In And Drops Knowledge On Saturday’s Massive Bantamweight Championship Fight",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-amanda-nunes-kayla-harrison-faceoff_GettyImages-2219117276.jpg?itok=m2Qts3QK",
       "category": "UFC",
       "source": "UFC"
     }
