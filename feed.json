@@ -3,9 +3,75 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-12T10:52:24.052450+00:00",
+  "last_build_date": "2026-11-12T19:48:15.037282+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Gerome Warburton Wants To Spoil The Party | Zuffa Boxing 13",
+      "link": "https://www.ufc.com/news/gerome-warburton-wants-to-spoil-the-party-zuffa-boxing-13",
+      "guid": "https://www.ufc.com/news/gerome-warburton-wants-to-spoil-the-party-zuffa-boxing-13",
+      "pubDate": "Thu, 12 Nov 2026 19:07:00 GMT",
+      "published_at": "2026-11-12T19:07:00+00:00",
+      "description": "Welsh Middleweight Gerome Warburton Is Ready For The Biggest Opportunity Of His Career In The Main Event Of Zuffa Boxing 13.",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/image/2026-11/DSC03207.JPG?itok=v5vz1Jah",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Bilal Hasan Is Ready To Shine On The Big Stage",
+      "link": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+      "guid": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+      "pubDate": "Thu, 12 Nov 2026 18:27:00 GMT",
+      "published_at": "2026-11-12T18:27:00+00:00",
+      "description": "Spectacular UFC Newcomer Bilal Hasan Has Already Made A Splash In The Octagon. Now He’s Planning To Steal The Show At Madison Square Garden.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111226-hero-bilal-hasan_GettyImages-2292549376.jpg?itok=WLBMNPTx",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Conor McGregor Champ-Champ Anniversary Collection Available at UFC Store",
+      "link": "https://www.ufc.com/news/conor-mcgregor-champ-champ-anniversary-collection-available-ufc-store",
+      "guid": "https://www.ufc.com/news/conor-mcgregor-champ-champ-anniversary-collection-available-ufc-store",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "description": "UFC Store Marks The 10-Year Anniversary Of Conor McGregor Becoming the First Simultaneous Two-Division World Champion",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/McGregor_Anniversary_1920x1080.jpg?itok=fXXDFl9t",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Follow UFC on Apple Sports",
+      "link": "https://www.ufc.com/news/follow-ufc-apple-sports",
+      "guid": "https://www.ufc.com/news/follow-ufc-apple-sports",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "description": "Apple Sports Expands Offerings To Include UFC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/v10_banner-1920x1080-textless-article_2026-11-10.jpg?itok=fSVcapdn",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Topps Royalty UFC Returns in 2026 at UFC Store!",
+      "link": "https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store",
+      "guid": "https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "description": "Join the Chase for Autographs, Relics, Parallels and One-Of-One Collectibles!",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/Topps-16x9.jpg?itok=qevBpJKf",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS",
+      "link": "https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans",
+      "guid": "https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans",
+      "pubDate": "Thu, 12 Nov 2026 16:55:00 GMT",
+      "published_at": "2026-11-12T16:55:00+00:00",
+      "description": "Latest UFC news: UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS",
+      "image": "https://ufc.com/images/styles/card/s3/image/2026-04/freedom_250_mobile_fighter_background.jpg?itok=6oxveAn_",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | Zuffa Boxing 13",
       "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13",
@@ -13,7 +79,7 @@
       "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
       "published_at": "2026-11-12T01:00:00+00:00",
       "description": "Zuffa Boxing Has Arrived In Riyadh, Saudi Arabia, With A World Champion At The Top Of The Card. Here’s Everything You Need To Know.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/111426-Zuffa-Boxing-13-FBF-hero.jpg?itok=gyOl_Ol7",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Zuffa-Boxing-13-FBF-hero.jpg?itok=gyOl_Ol7",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -24,7 +90,7 @@
       "pubDate": "Thu, 12 Nov 2026 00:59:00 GMT",
       "published_at": "2026-11-12T00:59:00+00:00",
       "description": "Dominican World Champion Carlos Adames Is The Latest Name To Join A Growing Band Of Elite Middleweights In Zuffa Boxing. Now He Wants To Prove He’s The Best Of Them All.",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/111426-Carlos-Adames-hero.jpg?itok=4fLtY1wC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Carlos-Adames-hero.jpg?itok=4fLtY1wC",
       "category": "Boxing",
       "source": "UFC"
     },
@@ -36,72 +102,6 @@
       "published_at": "2026-11-11T23:04:00+00:00",
       "description": "Shop Exclusive Merchandise Ahead of Two Championship Fights at Madison Square Garden",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080.jpg?itok=c1IARfVw",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Trinity by Venum Has Launched on UFC Store",
-      "link": "https://www.ufc.com/news/ufc-trinity-venum-has-launched-ufc-store",
-      "guid": "https://www.ufc.com/news/ufc-trinity-venum-has-launched-ufc-store",
-      "pubDate": "Wed, 11 Nov 2026 23:01:00 GMT",
-      "published_at": "2026-11-11T23:01:00+00:00",
-      "description": "Discover Abyssal Flow, Aero Strike and Aurelian Fire in the New UFC Trinity Collection",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/OTHER_261110_VenumTrinity_GENR_1920x1080.jpg?itok=wRHxleRQ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Tao of Jim Miller",
-      "link": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
-      "pubDate": "Wed, 11 Nov 2026 22:24:00 GMT",
-      "published_at": "2026-11-11T22:24:00+00:00",
-      "description": "Veteran Lightweight Jim Miller Talks Stats, Training For His Age, And Readying For The Final Year Of His Career",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-jim-miller-hand-raise_GettyImages-2275365468.jpg?itok=8M1YOR55",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Kayla Harrison Is Primed And Ready For Her Dream Fight",
-      "link": "https://www.ufc.com/news/kayla-harrison-is-primed-and-ready-for-her-dream-fight-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/kayla-harrison-is-primed-and-ready-for-her-dream-fight-polymarket-ufc-334",
-      "pubDate": "Wed, 11 Nov 2026 20:55:00 GMT",
-      "published_at": "2026-11-11T20:55:00+00:00",
-      "description": "Excitement And Gratitude Are Powering Kayla Harrison As She Puts Her Undisputed Women’s Bantamweight Title On The Line Against Amanda Nunes at Polymarket UFC 334.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-hero-kayla-harrison_GettyImages-2219115061.jpg?itok=Z2fO0MhN",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Rising Stars Look To Shine In New York City | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/rising-stars-look-to-shine-in-new-york-city-polymarket-ufc-334-gane-vs-hokit",
-      "guid": "https://www.ufc.com/news/rising-stars-look-to-shine-in-new-york-city-polymarket-ufc-334-gane-vs-hokit",
-      "pubDate": "Wed, 11 Nov 2026 20:41:00 GMT",
-      "published_at": "2026-11-11T20:41:00+00:00",
-      "description": "Few Stages Match The Grandeur Of Madison Square Garden, And A Host Of Ascending Fighters Are Hoping To Steal The Show At Polymarket UFC 334: Gane vs Hokit",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-hero-bilal-hasan_GettyImages-2292550119.jpg?itok=GXnijJUq",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Juan Diaz Is Getting A First-Year Push",
-      "link": "https://www.ufc.com/news/juan-diaz-is-getting-a-first-year-push-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/juan-diaz-is-getting-a-first-year-push-polymarket-ufc-334",
-      "pubDate": "Wed, 11 Nov 2026 20:13:00 GMT",
-      "published_at": "2026-11-11T20:13:00+00:00",
-      "description": "Promising Peruvian Juan Diaz Discusses Quality Opportunities, Pressure To Deliver Ahead Of Sophomore Appearance At Madison Square Garden",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-hero-juan-diaz_GettyImages-2276630204.jpg?itok=B41Jq7VC",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "The Swan Song of Stephen 'Wonderboy' Thompson",
-      "link": "https://www.ufc.com/news/the-swan-song-of-stephen-wonderboy-thompson-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/the-swan-song-of-stephen-wonderboy-thompson-polymarket-ufc-334",
-      "pubDate": "Wed, 11 Nov 2026 19:46:00 GMT",
-      "published_at": "2026-11-11T19:46:00+00:00",
-      "description": "Welterweight Veteran Stephen “Wonderboy” Thompson Reflects On The Decision To Retire As He Readies To Compete One Last Time At Madison Square Garden",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111126-hero-stephen-wonderboy-thompson_GettyImages-870319948.jpg?itok=g4GKBL7T",
       "category": "UFC",
       "source": "UFC"
     }
