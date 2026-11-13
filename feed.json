@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-13T01:45:04.114111+00:00",
+  "last_build_date": "2026-11-13T10:48:16.223688+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Weigh-In Results | Zuffa Boxing 13",
+      "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13",
+      "guid": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13",
+      "pubDate": "Fri, 13 Nov 2026 07:20:00 GMT",
+      "published_at": "2026-11-13T07:20:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing Saturday, November 14, In Riyadh",
+      "image": "",
+      "category": "Boxing",
+      "source": "UFC"
+    },
     {
       "title": "Amanda Nunes Came Back For What’s Hers",
       "link": "https://www.ufc.com/news/amanda-nunes-came-back-for-whats-hers-polymarket-ufc-334",
@@ -51,6 +62,17 @@
       "source": "UFC"
     },
     {
+      "title": "Follow UFC on Apple Sports",
+      "link": "https://www.ufc.com/news/follow-ufc-apple-sports",
+      "guid": "https://www.ufc.com/news/follow-ufc-apple-sports",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 GMT",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "description": "Apple Sports Expands Offerings To Include UFC",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/v10_banner-1920x1080-textless-article_2026-11-10.jpg?itok=fSVcapdn",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Topps Royalty UFC Returns in 2026 at UFC Store!",
       "link": "https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store",
       "guid": "https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store",
@@ -73,17 +95,6 @@
       "source": "UFC"
     },
     {
-      "title": "Follow UFC on Apple Sports",
-      "link": "https://www.ufc.com/news/follow-ufc-apple-sports",
-      "guid": "https://www.ufc.com/news/follow-ufc-apple-sports",
-      "pubDate": "Thu, 12 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-12T17:00:00+00:00",
-      "description": "Apple Sports Expands Offerings To Include UFC",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/v10_banner-1920x1080-textless-article_2026-11-10.jpg?itok=fSVcapdn",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS",
       "link": "https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans",
       "guid": "https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans",
@@ -92,17 +103,6 @@
       "description": "Latest UFC news: UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS",
       "image": "https://ufc.com/images/styles/card/s3/image/2026-04/freedom_250_mobile_fighter_background.jpg?itok=6oxveAn_",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Fight By Fight Preview | Zuffa Boxing 13",
-      "link": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13",
-      "guid": "https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13",
-      "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
-      "published_at": "2026-11-12T01:00:00+00:00",
-      "description": "Zuffa Boxing Has Arrived In Riyadh, Saudi Arabia, With A World Champion At The Top Of The Card. Here’s Everything You Need To Know.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Zuffa-Boxing-13-FBF-hero.jpg?itok=gyOl_Ol7",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]

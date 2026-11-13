@@ -5,8 +5,17 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:45:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:48:16 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Official Weigh-In Results | Zuffa Boxing 13</title>
+      <link>https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13</guid>
+      <pubDate>Fri, 13 Nov 2026 07:20:00 GMT</pubDate>
+      <category>Boxing</category>
+      <description><![CDATA[<p>The Official Weights Of The Athletes Competing Saturday, November 14, In Riyadh</p>
+<p>Category: Boxing</p>]]></description>
+    </item>
     <item>
       <title>Amanda Nunes Came Back For What’s Hers</title>
       <link>https://www.ufc.com/news/amanda-nunes-came-back-for-whats-hers-polymarket-ufc-334</link>
@@ -48,6 +57,16 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
+      <title>Follow UFC on Apple Sports</title>
+      <link>https://www.ufc.com/news/follow-ufc-apple-sports</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/follow-ufc-apple-sports</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/v10_banner-1920x1080-textless-article_2026-11-10.jpg?itok=fSVcapdn" alt="Follow UFC on Apple Sports" /></p>
+<p>Apple Sports Expands Offerings To Include UFC</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
       <title>Topps Royalty UFC Returns in 2026 at UFC Store!</title>
       <link>https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store</link>
       <guid isPermaLink="true">https://www.ufc.com/news/topps-royalty-ufc-returns-2026-ufc-store</guid>
@@ -68,16 +87,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Follow UFC on Apple Sports</title>
-      <link>https://www.ufc.com/news/follow-ufc-apple-sports</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/follow-ufc-apple-sports</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/v10_banner-1920x1080-textless-article_2026-11-10.jpg?itok=fSVcapdn" alt="Follow UFC on Apple Sports" /></p>
-<p>Apple Sports Expands Offerings To Include UFC</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
       <title>UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS</title>
       <link>https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans</link>
       <guid isPermaLink="true">https://www.ufc.com/news/ufc-partners-undue-medical-debt-help-eliminate-more-50-million-medical-debt-veterans</guid>
@@ -86,16 +95,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2026-04/freedom_250_mobile_fighter_background.jpg?itok=6oxveAn_" alt="UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS" /></p>
 <p>Latest UFC news: UFC PARTNERS WITH UNDUE MEDICAL DEBT TO HELP ELIMINATE MORE THAN $50 MILLION IN MEDICAL DEBT FOR VETERANS</p>
 <p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Fight By Fight Preview | Zuffa Boxing 13</title>
-      <link>https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/fight-fight-preview-zuffa-boxing-13</guid>
-      <pubDate>Thu, 12 Nov 2026 01:00:00 GMT</pubDate>
-      <category>Boxing</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111426-Zuffa-Boxing-13-FBF-hero.jpg?itok=gyOl_Ol7" alt="Fight By Fight Preview | Zuffa Boxing 13" /></p>
-<p>Zuffa Boxing Has Arrived In Riyadh, Saudi Arabia, With A World Champion At The Top Of The Card. Here’s Everything You Need To Know.</p>
-<p>Category: Boxing</p>]]></description>
     </item>
   </channel>
 </rss>
