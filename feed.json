@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-14T17:54:22.017145+00:00",
+  "last_build_date": "2026-11-14T22:15:16.832349+00:00",
   "item_count": 9,
   "items": [
     {
@@ -24,7 +24,7 @@
       "pubDate": "Sat, 14 Nov 2026 22:00:00 GMT",
       "published_at": "2026-11-14T22:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-madison-square-garden-GettyImages-1441083005.jpg?itok=rOvI-Hvm",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
       "category": "UFC",
       "source": "UFC"
     },
@@ -40,6 +40,17 @@
       "source": "UFC"
     },
     {
+      "title": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "guid": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "pubDate": "Sat, 14 Nov 2026 19:02:00 GMT",
+      "published_at": "2026-11-14T19:02:00+00:00",
+      "description": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-ciryl-gane_GettyImages-2281627948.jpg?itok=r-GJo-RG",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Zuffa Boxing 13 Results + Scorecards",
       "link": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
       "guid": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
@@ -51,11 +62,22 @@
       "source": "UFC"
     },
     {
+      "title": "How To Watch And Stream Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
+      "pubDate": "Sat, 14 Nov 2026 18:59:00 GMT",
+      "published_at": "2026-11-14T18:59:00+00:00",
+      "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "MIDDLEWEIGHT KING AARON MCKENNA DEFENDS CROWN AGAINST JEVGENIJS ALEKSEJEVS in RIYADH SEASON ZUFFA BOXING 14 SHOWDOWN at THE VENUE in RIYADH DECEMBER 4",
       "link": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
       "guid": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
-      "pubDate": "Sat, 14 Nov 2026 16:59:00 GMT",
-      "published_at": "2026-11-14T16:59:00+00:00",
+      "pubDate": "Sat, 14 Nov 2026 18:58:00 GMT",
+      "published_at": "2026-11-14T18:58:00+00:00",
       "description": "Jack Massey vs Andrew Tabiti cruiserweight co-feature & Zak Chelli vs Jesse Hart Light Heavyweight Bout Highlights Main Card Action",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/Zuffa_Z14_KA_temp-hero.jpg?itok=0QReXIx6",
       "category": "Boxing",
@@ -81,28 +103,6 @@
       "description": "Australia’s Former Bantamweight World Champion Jason Moloney Is Eyeing A Route Back To Championship Glory With Zuffa Boxing.",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/DSC03251.JPG?itok=1PGuyhSG",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Weigh-In Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/official-weigh-results-polymarket-ufc-334-gane-vs-hokit",
-      "guid": "https://www.ufc.com/news/official-weigh-results-polymarket-ufc-334-gane-vs-hokit",
-      "pubDate": "Fri, 13 Nov 2026 19:00:00 GMT",
-      "published_at": "2026-11-13T19:00:00+00:00",
-      "description": "The Official Weights Of The Athletes Competing November 14 At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2023-09/GettyImages-1471079109.jpg?itok=kTD2H2n0",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Returns To Saudi Arabia With A Middleweight Showdown Between (#9) Israel 'The Last Stylebender' Adesanya And (#15) Shara 'Bullet' Magomedov",
-      "link": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov",
-      "guid": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov",
-      "pubDate": "Fri, 13 Nov 2026 18:00:00 GMT",
-      "published_at": "2026-11-13T18:00:00+00:00",
-      "description": "Tickets For UFC Fight Night Adesanya vs Magomedov Are On Sale Now Via Webook",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/120526-ufc-fight-night-adesanya-vs-magomedov-TEMP-HERO.jpg?itok=YgPgf_Ln",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
