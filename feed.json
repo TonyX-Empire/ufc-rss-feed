@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-14T10:03:32.891295+00:00",
+  "last_build_date": "2026-11-14T17:54:22.017145+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,28 @@
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111624-Bruce-Buffer-Announcement-THUMBGettyImages-2185185830.jpg?itok=53z1750p",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Zuffa Boxing 13 Results + Scorecards",
+      "link": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
+      "guid": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
+      "pubDate": "Sat, 14 Nov 2026 19:00:00 GMT",
+      "published_at": "2026-11-14T19:00:00+00:00",
+      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-zuffa-boxing-13-event-art.jpg?itok=hec4M0Tc",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "MIDDLEWEIGHT KING AARON MCKENNA DEFENDS CROWN AGAINST JEVGENIJS ALEKSEJEVS in RIYADH SEASON ZUFFA BOXING 14 SHOWDOWN at THE VENUE in RIYADH DECEMBER 4",
+      "link": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
+      "guid": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
+      "pubDate": "Sat, 14 Nov 2026 16:59:00 GMT",
+      "published_at": "2026-11-14T16:59:00+00:00",
+      "description": "Jack Massey vs Andrew Tabiti cruiserweight co-feature & Zak Chelli vs Jesse Hart Light Heavyweight Bout Highlights Main Card Action",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/Zuffa_Z14_KA_temp-hero.jpg?itok=0QReXIx6",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-11-13T18:00:00+00:00",
       "description": "Tickets For UFC Fight Night Adesanya vs Magomedov Are On Sale Now Via Webook",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/120526-ufc-fight-night-adesanya-vs-magomedov-TEMP-HERO.jpg?itok=YgPgf_Ln",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch Zuffa Boxing",
-      "link": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "guid": "https://www.ufc.com/news/how-to-watch-and-stream-zuffa-boxing",
-      "pubDate": "Fri, 13 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-13T17:00:00+00:00",
-      "description": "See Where You Can Catch Zuffa Boxing Events From Your Country",
-      "image": "https://ufc.com/images/styles/card/s3/2026-01/zuffa-boxing-generic-hero.jpg?itok=JATvgFLj",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "New Josh Hokit Merch Now Available at UFC Store",
-      "link": "https://www.ufc.com/news/new-josh-hokit-merch-now-available-ufc-store",
-      "guid": "https://www.ufc.com/news/new-josh-hokit-merch-now-available-ufc-store",
-      "pubDate": "Fri, 13 Nov 2026 17:00:00 GMT",
-      "published_at": "2026-11-13T17:00:00+00:00",
-      "description": "New Fan Gear Styles Just Dropped Ahead of Hokit's UFC 334 Championship Bout",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080%20%281%29.jpg?itok=cXQ-6wHf",
       "category": "UFC",
       "source": "UFC"
     }
