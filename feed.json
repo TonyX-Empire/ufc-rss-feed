@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-13T19:31:17.887735+00:00",
+  "last_build_date": "2026-11-14T01:23:06.227025+00:00",
   "item_count": 9,
   "items": [
     {
@@ -37,6 +37,28 @@
       "description": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111624-Bruce-Buffer-Announcement-THUMBGettyImages-2185185830.jpg?itok=53z1750p",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Andres Teran: Respect The Power | Zuffa Boxing 13",
+      "link": "https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13",
+      "guid": "https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00 GMT",
+      "published_at": "2026-11-13T20:00:00+00:00",
+      "description": "Mexican Bantamweight Andres Teran Has Demonstrated His Fight-Altering Punch Power. Now He Plans To Add A Former World Champion’s Name To His Resumé.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2291366478.jpg?itok=IpYhv-me",
+      "category": "Boxing",
+      "source": "UFC"
+    },
+    {
+      "title": "Jason Moloney Is Plotting His Route Back To A World Title | Zuffa Boxing 13",
+      "link": "https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13",
+      "guid": "https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13",
+      "pubDate": "Fri, 13 Nov 2026 19:58:00 GMT",
+      "published_at": "2026-11-13T19:58:00+00:00",
+      "description": "Australia’s Former Bantamweight World Champion Jason Moloney Is Eyeing A Route Back To Championship Glory With Zuffa Boxing.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/DSC03251.JPG?itok=1PGuyhSG",
+      "category": "Boxing",
       "source": "UFC"
     },
     {
@@ -80,28 +102,6 @@
       "published_at": "2026-11-13T17:00:00+00:00",
       "description": "New Fan Gear Styles Just Dropped Ahead of Hokit's UFC 334 Championship Bout",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080%20%281%29.jpg?itok=cXQ-6wHf",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Caio Borralho | Reconnected And Ready For MSG",
-      "link": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
-      "pubDate": "Fri, 13 Nov 2026 16:30:00 GMT",
-      "published_at": "2026-11-13T16:30:00+00:00",
-      "description": "Fighting Nerds Standout Caio Borralho Talks Bounce Back Year For Brazilian Squad, Matchup This Weekend With Yousri Belgaroui",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111226-caio-borralho-presser-HEROGettyImages-2304847696.jpg?itok=qjX0j9MZ",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Legacy At Stake | Kayla Harrison vs Amanda Nunes",
-      "link": "https://www.ufc.com/news/legacy-stake-kayla-harrison-vs-amanda-nunes-polymarket-ufc-334",
-      "guid": "https://www.ufc.com/news/legacy-stake-kayla-harrison-vs-amanda-nunes-polymarket-ufc-334",
-      "pubDate": "Fri, 13 Nov 2026 16:18:00 GMT",
-      "published_at": "2026-11-13T16:18:00+00:00",
-      "description": "It Doesn’t Get Better Than Kayla Harrison And Amanda Nunes Finally Stepping Into The Octagon With Gold On The Line At Polymarket UFC 334: Gane vs Hokit On November 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111326-nunes-harrison-faceoff_GettyImages-2304511057.jpg?itok=ZF5CfII1",
       "category": "UFC",
       "source": "UFC"
     }
