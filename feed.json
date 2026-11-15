@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-15T06:07:29.509771+00:00",
+  "last_build_date": "2026-11-15T16:13:27.276715+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More",
+      "link": "https://www.ufc.com/news/dana-white-polymarket-ufc-334-ciryl-gane-josh-hokit-kayla-harrison",
+      "guid": "https://www.ufc.com/news/dana-white-polymarket-ufc-334-ciryl-gane-josh-hokit-kayla-harrison",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00 GMT",
+      "published_at": "2026-11-15T11:00:00+00:00",
+      "description": "Dana White Fielded Questions From The Media At The Polymarket UFC 334 Post-Fight Press Conference In New York City On November 14",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111526-dana-white-press-conference-GettyImages-2305012157.jpg?itok=24EFFjfm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Stephen “Wonderboy” Thompson: Goodbye To One Of The Good Guys",
+      "link": "https://www.ufc.com/news/stephen-wonderboy-thompson-goodbye-to-one-of-the-good-guys",
+      "guid": "https://www.ufc.com/news/stephen-wonderboy-thompson-goodbye-to-one-of-the-good-guys",
+      "pubDate": "Sun, 15 Nov 2026 09:11:00 GMT",
+      "published_at": "2026-11-15T09:11:00+00:00",
+      "description": "A Fond Farewell To A Welterweight Fixture",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Stephen-Thompson-GettyImages-2305157441.jpg?itok=Uuwzk9SU",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
@@ -18,17 +40,6 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "published_at": "2026-11-15T02:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
       "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
@@ -36,6 +47,17 @@
       "published_at": "2026-11-15T02:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "published_at": "2026-11-15T02:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
       "category": "UFC",
       "source": "UFC"
     },
@@ -80,28 +102,6 @@
       "published_at": "2026-11-14T18:58:00+00:00",
       "description": "Jack Massey vs Andrew Tabiti cruiserweight co-feature & Zak Chelli vs Jesse Hart Light Heavyweight Bout Highlights Main Card Action",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/Zuffa_Z14_KA_temp-hero.jpg?itok=0QReXIx6",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Andres Teran: Respect The Power | Zuffa Boxing 13",
-      "link": "https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13",
-      "guid": "https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13",
-      "pubDate": "Fri, 13 Nov 2026 20:00:00 GMT",
-      "published_at": "2026-11-13T20:00:00+00:00",
-      "description": "Mexican Bantamweight Andres Teran Has Demonstrated His Fight-Altering Punch Power. Now He Plans To Add A Former World Champion’s Name To His Resumé.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2291366478.jpg?itok=IpYhv-me",
-      "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "Jason Moloney Is Plotting His Route Back To A World Title | Zuffa Boxing 13",
-      "link": "https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13",
-      "guid": "https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13",
-      "pubDate": "Fri, 13 Nov 2026 19:58:00 GMT",
-      "published_at": "2026-11-13T19:58:00+00:00",
-      "description": "Australia’s Former Bantamweight World Champion Jason Moloney Is Eyeing A Route Back To Championship Glory With Zuffa Boxing.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/DSC03251.JPG?itok=1PGuyhSG",
       "category": "Boxing",
       "source": "UFC"
     }
