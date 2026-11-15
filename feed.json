@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-15T16:13:27.276715+00:00",
+  "last_build_date": "2026-11-15T22:43:04.034937+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Bigger Picture | Polymarket UFC 334",
+      "link": "https://www.ufc.com/news/the-bigger-picture-polymarket-ufc-334",
+      "guid": "https://www.ufc.com/news/the-bigger-picture-polymarket-ufc-334",
+      "pubDate": "Sun, 15 Nov 2026 21:33:00 GMT",
+      "published_at": "2026-11-15T21:33:00+00:00",
+      "description": "Getting A Little Deeper Into What Transpired On Saturday Night At Madison Square Garden",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Ciryl-Gane-GettyImages-2305179021.jpg?itok=tesLPQt1",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More",
       "link": "https://www.ufc.com/news/dana-white-polymarket-ufc-334-ciryl-gane-josh-hokit-kayla-harrison",
@@ -40,17 +51,6 @@
       "source": "UFC"
     },
     {
-      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "published_at": "2026-11-15T02:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
       "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
@@ -58,6 +58,17 @@
       "published_at": "2026-11-15T02:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "published_at": "2026-11-15T02:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "MIDDLEWEIGHT KING AARON MCKENNA DEFENDS CROWN AGAINST JEVGENIJS ALEKSEJEVS in RIYADH SEASON ZUFFA BOXING 14 SHOWDOWN at THE VENUE in RIYADH DECEMBER 4",
-      "link": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
-      "guid": "https://www.ufc.com/news/middleweight-king-aaron-mckenna-defends-crown-against-jevgenijs-aleksejevs-riyadh-season-zuffa",
-      "pubDate": "Sat, 14 Nov 2026 18:58:00 GMT",
-      "published_at": "2026-11-14T18:58:00+00:00",
-      "description": "Jack Massey vs Andrew Tabiti cruiserweight co-feature & Zak Chelli vs Jesse Hart Light Heavyweight Bout Highlights Main Card Action",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/Zuffa_Z14_KA_temp-hero.jpg?itok=0QReXIx6",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
