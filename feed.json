@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-14T22:15:16.832349+00:00",
+  "last_build_date": "2026-11-15T06:07:29.509771+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
+      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
+      "pubDate": "Sun, 15 Nov 2026 04:00:00 GMT",
+      "published_at": "2026-11-15T04:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111624-Bruce-Buffer-Announcement-THUMBGettyImages-2185185830.jpg?itok=53z1750p",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "published_at": "2026-11-15T02:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
@@ -14,28 +36,6 @@
       "published_at": "2026-11-15T02:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "pubDate": "Sat, 14 Nov 2026 22:00:00 GMT",
-      "published_at": "2026-11-14T22:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
-      "pubDate": "Sat, 14 Nov 2026 22:00:00 GMT",
-      "published_at": "2026-11-14T22:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111624-Bruce-Buffer-Announcement-THUMBGettyImages-2185185830.jpg?itok=53z1750p",
       "category": "UFC",
       "source": "UFC"
     },
