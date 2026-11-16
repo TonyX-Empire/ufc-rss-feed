@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-16T06:07:04.605823+00:00",
+  "last_build_date": "2026-11-16T19:29:22.219233+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Fight By Fight Preview | UFC Qatar",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
+      "pubDate": "Mon, 16 Nov 2026 19:00:00 GMT",
+      "published_at": "2026-11-16T19:00:00+00:00",
+      "description": "Detailing All The Action Set To Hit The Octagon This Saturday At UFC Fight Night: Procházka vs Stirling",
+      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/100425-Jiri-Prochazka-Reacts-GettyImages-2239286294.jpg?itok=H8zyHiIc",
+      "category": "UFC Fight Night",
+      "source": "UFC"
+    },
     {
       "title": "The Bigger Picture | Polymarket UFC 334",
       "link": "https://www.ufc.com/news/the-bigger-picture-polymarket-ufc-334",
@@ -92,17 +103,6 @@
       "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-zuffa-boxing-13-event-art.jpg?itok=hec4M0Tc",
       "category": "Boxing",
-      "source": "UFC"
-    },
-    {
-      "title": "How To Watch And Stream Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "guid": "https://www.ufc.com/news/how-watch-and-stream-ufc",
-      "pubDate": "Sat, 14 Nov 2026 18:59:00 GMT",
-      "published_at": "2026-11-14T18:59:00+00:00",
-      "description": "Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
       "source": "UFC"
     }
   ]

@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:29:22 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fight By Fight Preview | UFC Qatar</title>
+      <link>https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar</guid>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 GMT</pubDate>
+      <category>UFC Fight Night</category>
+      <description><![CDATA[<p><img src="https://www.ufc.com/s3/files/styles/card/s3/2026-11/100425-Jiri-Prochazka-Reacts-GettyImages-2239286294.jpg?itok=H8zyHiIc" alt="Fight By Fight Preview | UFC Qatar" /></p>
+<p>Detailing All The Action Set To Hit The Octagon This Saturday At UFC Fight Night: Procházka vs Stirling</p>
+<p>Category: UFC Fight Night</p>]]></description>
+    </item>
     <item>
       <title>The Bigger Picture | Polymarket UFC 334</title>
       <link>https://www.ufc.com/news/the-bigger-picture-polymarket-ufc-334</link>
@@ -86,16 +96,6 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111426-zuffa-boxing-13-event-art.jpg?itok=hec4M0Tc" alt="Zuffa Boxing 13 Results + Scorecards" /></p>
 <p>Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026</p>
 <p>Category: Boxing</p>]]></description>
-    </item>
-    <item>
-      <title>How To Watch And Stream Polymarket UFC 334: Gane vs Hokit</title>
-      <link>https://www.ufc.com/news/how-watch-and-stream-ufc</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/how-watch-and-stream-ufc</guid>
-      <pubDate>Sat, 14 Nov 2026 18:59:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp" alt="How To Watch And Stream Polymarket UFC 334: Gane vs Hokit" /></p>
-<p>Find Start Times And Fight Card Info For Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden in New York City On November 14</p>
-<p>Category: UFC</p>]]></description>
     </item>
   </channel>
 </rss>
