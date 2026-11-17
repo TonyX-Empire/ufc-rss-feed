@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-17T03:39:48.176982+00:00",
+  "last_build_date": "2026-11-17T15:51:43.952529+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Caio Borralho e Bia Mesquita entram no Top 5 nos Meta UFC Rankings",
+      "link": "https://www.ufc.com/news/caio-borralho-bia-mesquita-entram-top-5-meta-ufc-rankings",
+      "guid": "https://www.ufc.com/news/caio-borralho-bia-mesquita-entram-top-5-meta-ufc-rankings",
+      "pubDate": "Tue, 17 Nov 2026 15:29:00 GMT",
+      "published_at": "2026-11-17T15:29:00+00:00",
+      "description": "Confira as principais mudanças em cada divisão após o UFC 334.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/141126-caio-borralho-bia-mesquita-br.jpg?itok=VfeNFEQk",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Fight By Fight Preview | UFC Qatar",
       "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
@@ -62,17 +73,6 @@
       "source": "UFC"
     },
     {
-      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "published_at": "2026-11-15T02:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
       "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
       "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
       "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
@@ -80,6 +80,17 @@
       "published_at": "2026-11-15T02:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
+      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "published_at": "2026-11-15T02:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
       "category": "UFC",
       "source": "UFC"
     },
@@ -92,17 +103,6 @@
       "description": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-ciryl-gane_GettyImages-2281627948.jpg?itok=r-GJo-RG",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Zuffa Boxing 13 Results + Scorecards",
-      "link": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
-      "guid": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
-      "pubDate": "Sat, 14 Nov 2026 19:00:00 GMT",
-      "published_at": "2026-11-14T19:00:00+00:00",
-      "description": "Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-zuffa-boxing-13-event-art.jpg?itok=hec4M0Tc",
-      "category": "Boxing",
       "source": "UFC"
     }
   ]
