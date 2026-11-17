@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-16T19:29:22.219233+00:00",
+  "last_build_date": "2026-11-17T03:39:48.176982+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Mon, 16 Nov 2026 19:00:00 GMT",
       "published_at": "2026-11-16T19:00:00+00:00",
       "description": "Detailing All The Action Set To Hit The Octagon This Saturday At UFC Fight Night: Procházka vs Stirling",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/100425-Jiri-Prochazka-Reacts-GettyImages-2239286294.jpg?itok=H8zyHiIc",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/100425-Jiri-Prochazka-Reacts-GettyImages-2239286294.jpg?itok=H8zyHiIc",
       "category": "UFC Fight Night",
       "source": "UFC"
     },
