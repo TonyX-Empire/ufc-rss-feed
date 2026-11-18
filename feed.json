@@ -3,17 +3,61 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-17T15:51:43.952529+00:00",
+  "last_build_date": "2026-11-18T00:52:25.602618+00:00",
   "item_count": 9,
   "items": [
     {
-      "title": "Caio Borralho e Bia Mesquita entram no Top 5 nos Meta UFC Rankings",
-      "link": "https://www.ufc.com/news/caio-borralho-bia-mesquita-entram-top-5-meta-ufc-rankings",
-      "guid": "https://www.ufc.com/news/caio-borralho-bia-mesquita-entram-top-5-meta-ufc-rankings",
-      "pubDate": "Tue, 17 Nov 2026 15:29:00 GMT",
-      "published_at": "2026-11-17T15:29:00+00:00",
-      "description": "Confira as principais mudanças em cada divisão após o UFC 334.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/141126-caio-borralho-bia-mesquita-br.jpg?itok=VfeNFEQk",
+      "title": "UFC RETURNS TO TORONTO WITH WORLD CHAMPIONSHIP DOUBLEHEADER",
+      "link": "https://www.ufc.com/news/ufc-returns-to-toronto-with-world-championship-doubleheader-ufc-336",
+      "guid": "https://www.ufc.com/news/ufc-returns-to-toronto-with-world-championship-doubleheader-ufc-336",
+      "pubDate": "Tue, 17 Nov 2026 23:06:00 GMT",
+      "published_at": "2026-11-17T23:06:00+00:00",
+      "description": "UFC's Return To Toronto Features A Flyweight Title Fight Between Joshua Van (C) and Manel Kape, Interim Welterweight Title Bout Between Carlos Prates and Michael Morales",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-ufc-336-tos-release_GettyImages-2305012895.jpg?itok=ibZ9c0dm",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Asu Almabayev | Out To Prove Himself Once More",
+      "link": "https://www.ufc.com/news/asu-almabayev-out-to-prove-himself-once-more-ufc-doha",
+      "guid": "https://www.ufc.com/news/asu-almabayev-out-to-prove-himself-once-more-ufc-doha",
+      "pubDate": "Tue, 17 Nov 2026 22:26:00 GMT",
+      "published_at": "2026-11-17T22:26:00+00:00",
+      "description": "Ascending Flyweight Contender Asu Almabayev Talks Being Doubted, Importance Of Matchup With Kyoji Horiguchi In Doha, Qatar To Close Out 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-hero-ufc-doha-asu-almabayev-celebrates_GettyImages-2247948535.jpg?itok=d5ySh8um",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Navajo Stirling | Four Up, Four Down",
+      "link": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
+      "guid": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
+      "pubDate": "Tue, 17 Nov 2026 18:10:00 GMT",
+      "published_at": "2026-11-17T18:10:00+00:00",
+      "description": "Surging Light Heavyweight Seeks Fourth Win In 2026 And Biggest Victory Of His Career On Saturday Against Jiří Procházka In Doha, Qatar",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-navajo-stirling-doha_GettyImages-2305048846.jpg?itok=FUu1EwXi",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Get To Know Navajo Stirling",
+      "link": "https://www.ufc.com/news/get-to-know-navajo-stirling",
+      "guid": "https://www.ufc.com/news/get-to-know-navajo-stirling",
+      "pubDate": "Tue, 17 Nov 2026 17:48:00 GMT",
+      "published_at": "2026-11-17T17:48:00+00:00",
+      "description": "Learn More About New Zealander Navajo Stirling Before His First UFC Main Event Against Jiří Procházka In Doha, Qatar",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-navajo-stirling-prefight_GettyImages-2282556885.jpg?itok=77bt3sXx",
+      "category": "News",
+      "source": "UFC"
+    },
+    {
+      "title": "Fighters On The Rise | UFC Qatar",
+      "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-qatar-topuria-costa-lorenz",
+      "guid": "https://www.ufc.com/news/fighters-on-the-rise-ufc-qatar-topuria-costa-lorenz",
+      "pubDate": "Tue, 17 Nov 2026 16:22:00 GMT",
+      "published_at": "2026-11-17T16:22:00+00:00",
+      "description": "Identifying Three Names To Track This Weekend And Going Forward Inside The Octagon At UFC Fight Night: Prochazka vs Stirling",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112126-aleksandre-topuria-GettyImages-2247793951.jpg?itok=QTVc2tx7",
       "category": "UFC",
       "source": "UFC"
     },
@@ -59,50 +103,6 @@
       "description": "A Fond Farewell To A Welterweight Fixture",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Stephen-Thompson-GettyImages-2305157441.jpg?itok=Uuwzk9SU",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-official-scorecards",
-      "pubDate": "Sun, 15 Nov 2026 04:00:00 GMT",
-      "published_at": "2026-11-15T04:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111624-Bruce-Buffer-Announcement-THUMBGettyImages-2185185830.jpg?itok=53z1750p",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "published_at": "2026-11-15T02:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/general-view-octagon-UFC-334-THUMB.jpg?itok=5uEwLc8f",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "guid": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "pubDate": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "published_at": "2026-11-15T02:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-10/111426-ufc-334-gane-vs-hokit-EVENT-ART.jpg?itok=eHlFaorp",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
-      "link": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-      "guid": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-      "pubDate": "Sat, 14 Nov 2026 19:02:00 GMT",
-      "published_at": "2026-11-14T19:02:00+00:00",
-      "description": "Detailing The Action Set To Hit The Octagon This Weekend At Madison Square Garden In New York City",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/110926-hero-ciryl-gane_GettyImages-2281627948.jpg?itok=r-GJo-RG",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
