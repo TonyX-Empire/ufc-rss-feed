@@ -3,9 +3,31 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-18T20:21:36.779004+00:00",
+  "last_build_date": "2026-11-19T02:27:33.714734+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Kevin Vallejos | Five Fights To Watch Before UFC Qatar",
+      "link": "https://www.ufc.com/news/kevin-vallejos-five-fights-to-watch-before-ufc-qatar",
+      "guid": "https://www.ufc.com/news/kevin-vallejos-five-fights-to-watch-before-ufc-qatar",
+      "pubDate": "Wed, 18 Nov 2026 22:00:00 GMT",
+      "published_at": "2026-11-18T22:00:00+00:00",
+      "description": "A Handful Of Performances You Need To See Ahead Of The Featherweight Prospects Return To The Octagon At UFC Fight Night: Procházka vs Stirling This Saturday",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/031426-kevin-vallejos-reacts-thumb-GettyImages-2266556579.jpg?itok=prFIWSkd",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Alessandro Costa Happy For Rematch With Amir Albazi",
+      "link": "https://www.ufc.com/news/alessandro-costa-happy-for-rematch-with-amir-albazi-ufc-doha",
+      "guid": "https://www.ufc.com/news/alessandro-costa-happy-for-rematch-with-amir-albazi-ufc-doha",
+      "pubDate": "Wed, 18 Nov 2026 20:05:00 GMT",
+      "published_at": "2026-11-18T20:05:00+00:00",
+      "description": "Surging Brazilian Alessandro Costa Discusses Current Hot Streak, Chance To Secure A Place In The Rankings With Win In Rematch With Amir Albazi",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111826-alessandro-costa-hand-raise_GettyImages-2285680037.jpg?itok=aygRqFQ2",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Jiří Procházka | New Dad, New Skills",
       "link": "https://www.ufc.com/news/jiri-prochazka-new-dad-new-skills-ufc-doha",
@@ -81,28 +103,6 @@
       "description": "Ascending Flyweight Contender Asu Almabayev Talks Being Doubted, Importance Of Matchup With Kyoji Horiguchi In Doha, Qatar To Close Out 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-hero-ufc-doha-asu-almabayev-celebrates_GettyImages-2247948535.jpg?itok=d5ySh8um",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Navajo Stirling | Four Up, Four Down",
-      "link": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
-      "guid": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
-      "pubDate": "Tue, 17 Nov 2026 18:10:00 GMT",
-      "published_at": "2026-11-17T18:10:00+00:00",
-      "description": "Surging Light Heavyweight Seeks Fourth Win In 2026 And Biggest Victory Of His Career On Saturday Against Jiří Procházka In Doha, Qatar",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-navajo-stirling-doha_GettyImages-2305048846.jpg?itok=FUu1EwXi",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Get To Know Navajo Stirling",
-      "link": "https://www.ufc.com/news/get-to-know-navajo-stirling",
-      "guid": "https://www.ufc.com/news/get-to-know-navajo-stirling",
-      "pubDate": "Tue, 17 Nov 2026 17:48:00 GMT",
-      "published_at": "2026-11-17T17:48:00+00:00",
-      "description": "Learn More About New Zealander Navajo Stirling Before His First UFC Main Event Against Jiří Procházka In Doha, Qatar",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111726-navajo-stirling-prefight_GettyImages-2282556885.jpg?itok=77bt3sXx",
-      "category": "News",
       "source": "UFC"
     }
   ]
