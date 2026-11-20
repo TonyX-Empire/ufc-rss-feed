@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-20T11:16:26.466946+00:00",
+  "last_build_date": "2026-11-20T19:56:57.207223+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,6 +40,39 @@
       "source": "UFC"
     },
     {
+      "title": "Brian Ortega | Educating And Entertaining The Masses",
+      "link": "https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar",
+      "guid": "https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar",
+      "pubDate": "Fri, 20 Nov 2026 17:50:00 GMT",
+      "published_at": "2026-11-20T17:50:00+00:00",
+      "description": "Perennial Featherweight Contender Brian Ortega Talks Recent Results, Approach In The Octagon Ahead Of Lightweight Debut In Doha, Qatar",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-brian-ortega-pre-fight_GettyImages-2231631494.jpg?itok=2EZSiTmp",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Jake Matthews | 25 Not Out",
+      "link": "https://www.ufc.com/news/jake-matthews-25-not-out-ufc-qatar",
+      "guid": "https://www.ufc.com/news/jake-matthews-25-not-out-ufc-qatar",
+      "pubDate": "Fri, 20 Nov 2026 17:28:00 GMT",
+      "published_at": "2026-11-20T17:28:00+00:00",
+      "description": "Aussie Welterweight Jake Matthews Continues His 12-Year Run In The UFC As He Looks To Earn A Shot At Ranked Opposition In 2027.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-jake-matthews-celebration_GettyImages-2278906439.jpg?itok=6XIyALdz",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Amir Albazi Wants To Show He’s Still That Guy",
+      "link": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
+      "guid": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
+      "pubDate": "Fri, 20 Nov 2026 17:21:00 GMT",
+      "published_at": "2026-11-20T17:21:00+00:00",
+      "description": "Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-amir-albazi-prefight_GettyImages-2260462604.jpg?itok=Sh5yEZJr",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
       "title": "Official Weigh-In Results | UFC Qatar",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
@@ -70,39 +103,6 @@
       "description": "Latest UFC news: Statement on Manon Fiorot",
       "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk",
       "category": "News",
-      "source": "UFC"
-    },
-    {
-      "title": "Aljamain Sterling | Still Embracing The Grind",
-      "link": "https://www.ufc.com/news/aljamain-sterling-still-embracing-grind-ufc-qatar",
-      "guid": "https://www.ufc.com/news/aljamain-sterling-still-embracing-grind-ufc-qatar",
-      "pubDate": "Thu, 19 Nov 2026 18:15:00 GMT",
-      "published_at": "2026-11-19T18:15:00+00:00",
-      "description": "Former Bantamweight Champion Hopes Victory Over Kevin Vallejos Will Be The Perfect Springboard To A Shot At A Second Title.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111826-aljamain-sterling-open-workout_GettyImages-2305196414.jpg?itok=-AQZFepL",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Action-Packed Featherweight Main Event Between Yair Rodriguez And Steve Garcia Headlines UFC's Return To Dallas",
-      "link": "https://www.ufc.com/news/action-packed-main-event-yair-rodriguez-vs-steve-garcia-headlines-ufc-return-to-dallas-texas",
-      "guid": "https://www.ufc.com/news/action-packed-main-event-yair-rodriguez-vs-steve-garcia-headlines-ufc-return-to-dallas-texas",
-      "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-      "published_at": "2026-11-19T16:00:00+00:00",
-      "description": "Tickets On Sale Friday, November 21",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/101627-ufc-fight-night-rodriguez-vs-garcia-TEMP-HERO.jpg?itok=PNnWM10A",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Updates To UFC Qatar",
-      "link": "https://www.ufc.com/news/updates-ufc-qatar",
-      "guid": "https://www.ufc.com/news/updates-ufc-qatar",
-      "pubDate": "Thu, 19 Nov 2026 15:04:00 GMT",
-      "published_at": "2026-11-19T15:04:00+00:00",
-      "description": "Key Information For UFC Fight Night: Prochazka vs Stirling, Live From Doha On November 21, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2247957066.jpg?itok=wci6BiR0",
-      "category": "UFC",
       "source": "UFC"
     }
   ]
