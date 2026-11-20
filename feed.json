@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-19T20:25:42.521988+00:00",
+  "last_build_date": "2026-11-20T02:12:04.436964+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-11-21T18:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Official Scorecards | UFC Qatar",
+      "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
+      "guid": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
+      "published_at": "2026-11-21T15:00:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,13 +40,13 @@
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Qatar",
-      "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
-      "guid": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
-      "published_at": "2026-11-21T15:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
+      "title": "UFC Collect by Topps App: NOW LIVE",
+      "link": "https://www.ufc.com/news/ufc-collect-by-topps-app-now-live",
+      "guid": "https://www.ufc.com/news/ufc-collect-by-topps-app-now-live",
+      "pubDate": "Thu, 19 Nov 2026 22:34:00 GMT",
+      "published_at": "2026-11-19T22:34:00+00:00",
+      "description": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-11-19T13:00:00+00:00",
       "description": "Russian Middleweight Ikram Aliskerov Discusses Breaking Into The Rankings And His Desire To Keep Moving Forward Ahead Of His Bout In Qatar",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111826-ikram-alikserov-backstage_GettyImages-2212164039.jpg?itok=xE-70N5g",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Kevin Vallejos | Five Fights To Watch Before UFC Qatar",
-      "link": "https://www.ufc.com/news/kevin-vallejos-five-fights-to-watch-before-ufc-qatar",
-      "guid": "https://www.ufc.com/news/kevin-vallejos-five-fights-to-watch-before-ufc-qatar",
-      "pubDate": "Wed, 18 Nov 2026 22:00:00 GMT",
-      "published_at": "2026-11-18T22:00:00+00:00",
-      "description": "A Handful Of Performances You Need To See Ahead Of The Featherweight Prospects Return To The Octagon At UFC Fight Night: Procházka vs Stirling This Saturday",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/031426-kevin-vallejos-reacts-thumb-GettyImages-2266556579.jpg?itok=prFIWSkd",
       "category": "UFC",
       "source": "UFC"
     }
