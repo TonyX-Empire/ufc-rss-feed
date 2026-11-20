@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:16:26 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Qatar</title>
@@ -15,6 +15,16 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs" alt="Main Card Results | UFC Qatar" /></p>
 <p>Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21</p>
+<p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Prelim Results | UFC Qatar</title>
+      <link>https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/112225-General-View-ABHA-Arena-GettyImages-2247957066.jpg?itok=kNUF6ywc" alt="Prelim Results | UFC Qatar" /></p>
+<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -28,13 +38,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Prelim Results | UFC Qatar</title>
-      <link>https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling</guid>
-      <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
+      <title>Official Weigh-In Results | UFC Qatar</title>
+      <link>https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</guid>
+      <pubDate>Fri, 20 Nov 2026 06:43:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/112225-General-View-ABHA-Arena-GettyImages-2247957066.jpg?itok=kNUF6ywc" alt="Prelim Results | UFC Qatar" /></p>
-<p>Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2305409415.jpg?itok=7JJguFJB" alt="Official Weigh-In Results | UFC Qatar" /></p>
+<p>The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2247957066.jpg?itok=wci6BiR0" alt="Updates To UFC Qatar" /></p>
 <p>Key Information For UFC Fight Night: Prochazka vs Stirling, Live From Doha On November 21, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Ikram Aliskerov | Eager to Continue Climbing</title>
-      <link>https://www.ufc.com/news/ikram-aliskerov-eager-continue-climbing-ufc-qatar</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/ikram-aliskerov-eager-continue-climbing-ufc-qatar</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111826-ikram-alikserov-backstage_GettyImages-2212164039.jpg?itok=xE-70N5g" alt="Ikram Aliskerov | Eager to Continue Climbing" /></p>
-<p>Russian Middleweight Ikram Aliskerov Discusses Breaking Into The Rankings And His Desire To Keep Moving Forward Ahead Of His Bout In Qatar</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>

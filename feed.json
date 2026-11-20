@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-20T02:12:04.436964+00:00",
+  "last_build_date": "2026-11-20T11:16:26.466946+00:00",
   "item_count": 9,
   "items": [
     {
@@ -14,6 +14,17 @@
       "published_at": "2026-11-21T18:00:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Prelim Results | UFC Qatar",
+      "link": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
+      "guid": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
+      "published_at": "2026-11-21T15:00:00+00:00",
+      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112225-General-View-ABHA-Arena-GettyImages-2247957066.jpg?itok=kNUF6ywc",
       "category": "UFC",
       "source": "UFC"
     },
@@ -29,13 +40,13 @@
       "source": "UFC"
     },
     {
-      "title": "Prelim Results | UFC Qatar",
-      "link": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
-      "guid": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
-      "published_at": "2026-11-21T15:00:00+00:00",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/112225-General-View-ABHA-Arena-GettyImages-2247957066.jpg?itok=kNUF6ywc",
+      "title": "Official Weigh-In Results | UFC Qatar",
+      "link": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
+      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
+      "pubDate": "Fri, 20 Nov 2026 06:43:00 GMT",
+      "published_at": "2026-11-20T06:43:00+00:00",
+      "description": "The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2305409415.jpg?itok=7JJguFJB",
       "category": "UFC",
       "source": "UFC"
     },
@@ -91,17 +102,6 @@
       "published_at": "2026-11-19T15:04:00+00:00",
       "description": "Key Information For UFC Fight Night: Prochazka vs Stirling, Live From Doha On November 21, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2247957066.jpg?itok=wci6BiR0",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Ikram Aliskerov | Eager to Continue Climbing",
-      "link": "https://www.ufc.com/news/ikram-aliskerov-eager-continue-climbing-ufc-qatar",
-      "guid": "https://www.ufc.com/news/ikram-aliskerov-eager-continue-climbing-ufc-qatar",
-      "pubDate": "Thu, 19 Nov 2026 13:00:00 GMT",
-      "published_at": "2026-11-19T13:00:00+00:00",
-      "description": "Russian Middleweight Ikram Aliskerov Discusses Breaking Into The Rankings And His Desire To Keep Moving Forward Ahead Of His Bout In Qatar",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111826-ikram-alikserov-backstage_GettyImages-2212164039.jpg?itok=xE-70N5g",
       "category": "UFC",
       "source": "UFC"
     }
