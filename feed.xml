@@ -5,7 +5,7 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:52:00 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Card Results | UFC Qatar</title>
@@ -38,15 +38,6 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Carlos Prates Y Michael Morales: Dos Hombres De Estilo</title>
-      <link>https://www.ufc.com/news/carlos-prates-y-michael-morales-dos-hombres-de-estilo</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/carlos-prates-y-michael-morales-dos-hombres-de-estilo</guid>
-      <pubDate>Fri, 20 Nov 2026 22:20:00 GMT</pubDate>
-      <category>News</category>
-      <description><![CDATA[<p>Latest UFC news: Carlos Prates Y Michael Morales: Dos Hombres De Estilo</p>
-<p>Category: News</p>]]></description>
-    </item>
-    <item>
       <title>Brian Ortega | Educating And Entertaining The Masses</title>
       <link>https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar</link>
       <guid isPermaLink="true">https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar</guid>
@@ -77,12 +68,13 @@
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
-      <title>Search results | UFC</title>
+      <title>Official Weigh-In Results | UFC Qatar</title>
       <link>https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</link>
       <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</guid>
       <pubDate>Fri, 20 Nov 2026 06:43:00 GMT</pubDate>
       <category>UFC</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2305409415.jpg?itok=7JJguFJB" alt="Official Weigh-In Results | UFC Qatar" /></p>
+<p>The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling</p>
 <p>Category: UFC</p>]]></description>
     </item>
     <item>
@@ -94,6 +86,16 @@
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO" alt="UFC Collect by Topps App: NOW LIVE" /></p>
 <p>Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide</p>
 <p>Category: UFC</p>]]></description>
+    </item>
+    <item>
+      <title>Statement on Manon Fiorot</title>
+      <link>https://www.ufc.com/news/statement-manon-fiorot</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/statement-manon-fiorot</guid>
+      <pubDate>Thu, 19 Nov 2026 18:23:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk" alt="Statement on Manon Fiorot" /></p>
+<p>Latest UFC news: Statement on Manon Fiorot</p>
+<p>Category: News</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-21T02:04:49.544027+00:00",
+  "last_build_date": "2026-11-21T10:52:00.374907+00:00",
   "item_count": 9,
   "items": [
     {
@@ -40,17 +40,6 @@
       "source": "UFC"
     },
     {
-      "title": "Carlos Prates Y Michael Morales: Dos Hombres De Estilo",
-      "link": "https://www.ufc.com/news/carlos-prates-y-michael-morales-dos-hombres-de-estilo",
-      "guid": "https://www.ufc.com/news/carlos-prates-y-michael-morales-dos-hombres-de-estilo",
-      "pubDate": "Fri, 20 Nov 2026 22:20:00 GMT",
-      "published_at": "2026-11-20T22:20:00+00:00",
-      "description": "Latest UFC news: Carlos Prates Y Michael Morales: Dos Hombres De Estilo",
-      "image": "",
-      "category": "News",
-      "source": "UFC"
-    },
-    {
       "title": "Brian Ortega | Educating And Entertaining The Masses",
       "link": "https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar",
       "guid": "https://www.ufc.com/news/brian-ortega-educating-and-entertaining-masses-ufc-qatar",
@@ -84,13 +73,13 @@
       "source": "UFC"
     },
     {
-      "title": "Search results | UFC",
+      "title": "Official Weigh-In Results | UFC Qatar",
       "link": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
       "pubDate": "Fri, 20 Nov 2026 06:43:00 GMT",
       "published_at": "2026-11-20T06:43:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
+      "description": "The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2305409415.jpg?itok=7JJguFJB",
       "category": "UFC",
       "source": "UFC"
     },
@@ -103,6 +92,17 @@
       "description": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO",
       "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Statement on Manon Fiorot",
+      "link": "https://www.ufc.com/news/statement-manon-fiorot",
+      "guid": "https://www.ufc.com/news/statement-manon-fiorot",
+      "pubDate": "Thu, 19 Nov 2026 18:23:00 GMT",
+      "published_at": "2026-11-19T18:23:00+00:00",
+      "description": "Latest UFC news: Statement on Manon Fiorot",
+      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk",
+      "category": "News",
       "source": "UFC"
     }
   ]
