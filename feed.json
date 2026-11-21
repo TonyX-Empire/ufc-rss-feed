@@ -3,15 +3,26 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-21T10:52:00.374907+00:00",
+  "last_build_date": "2026-11-21T19:02:30.127452+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Official Scorecards | UFC Qatar",
+      "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
+      "guid": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
+      "pubDate": "Sat, 21 Nov 2026 18:41:00 GMT",
+      "published_at": "2026-11-21T18:41:00+00:00",
+      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Main Card Results | UFC Qatar",
       "link": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 18:00:00 GMT",
-      "published_at": "2026-11-21T18:00:00+00:00",
+      "pubDate": "Sat, 21 Nov 2026 18:39:00 GMT",
+      "published_at": "2026-11-21T18:39:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs",
       "category": "UFC",
@@ -21,22 +32,22 @@
       "title": "Prelim Results | UFC Qatar",
       "link": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/ufc-qatar-prelim-results-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
-      "published_at": "2026-11-21T15:00:00+00:00",
+      "pubDate": "Sat, 21 Nov 2026 18:13:00 GMT",
+      "published_at": "2026-11-21T18:13:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/112225-General-View-ABHA-Arena-GettyImages-2247957066.jpg?itok=kNUF6ywc",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112126-santiago-luna-celebration_GettyImages-2306233530.jpg?itok=6a5LNzkg",
       "category": "UFC",
       "source": "UFC"
     },
     {
-      "title": "Official Scorecards | UFC Qatar",
-      "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
-      "guid": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
-      "published_at": "2026-11-21T15:00:00+00:00",
-      "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
-      "category": "UFC",
+      "title": "Fight By Fight Preview | UFC Qatar",
+      "link": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
+      "guid": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "published_at": "2026-11-21T13:00:00+00:00",
+      "description": "Detailing All The Action Set To Hit The Octagon This Saturday At UFC Fight Night: Procházka vs Stirling",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/100425-Jiri-Prochazka-Reacts-GettyImages-2239286294.jpg?itok=H8zyHiIc",
+      "category": "UFC Fight Night",
       "source": "UFC"
     },
     {
@@ -92,17 +103,6 @@
       "description": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO",
       "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Statement on Manon Fiorot",
-      "link": "https://www.ufc.com/news/statement-manon-fiorot",
-      "guid": "https://www.ufc.com/news/statement-manon-fiorot",
-      "pubDate": "Thu, 19 Nov 2026 18:23:00 GMT",
-      "published_at": "2026-11-19T18:23:00+00:00",
-      "description": "Latest UFC news: Statement on Manon Fiorot",
-      "image": "https://ufc.com/images/styles/card/s3/image/2023-11/BACKGROUND%201.jpg?itok=9oULLAfk",
-      "category": "News",
       "source": "UFC"
     }
   ]
