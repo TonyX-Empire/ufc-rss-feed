@@ -3,17 +3,28 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-21T19:02:30.127452+00:00",
+  "last_build_date": "2026-11-22T01:07:19.281610+00:00",
   "item_count": 9,
   "items": [
     {
       "title": "Official Scorecards | UFC Qatar",
       "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 18:41:00 GMT",
-      "published_at": "2026-11-21T18:41:00+00:00",
+      "pubDate": "Sat, 21 Nov 2026 21:04:00 GMT",
+      "published_at": "2026-11-21T21:04:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
+      "category": "UFC",
+      "source": "UFC"
+    },
+    {
+      "title": "Bonus Coverage | UFC Qatar",
+      "link": "https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell",
+      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell",
+      "pubDate": "Sat, 21 Nov 2026 20:39:00 GMT",
+      "published_at": "2026-11-21T20:39:00+00:00",
+      "description": "See Who Came Away With The Best Performances And Biggest Bumps In Paychecks At UFC Fight Night: Prochazka vs Stirling, Live From Doha, Qatar On Saturday, November 21, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112126-ufc-qatar-bonus-coverage.jpg?itok=CtiJ-k9Z",
       "category": "UFC",
       "source": "UFC"
     },
@@ -21,8 +32,8 @@
       "title": "Main Card Results | UFC Qatar",
       "link": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
       "guid": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
-      "pubDate": "Sat, 21 Nov 2026 18:39:00 GMT",
-      "published_at": "2026-11-21T18:39:00+00:00",
+      "pubDate": "Sat, 21 Nov 2026 20:22:00 GMT",
+      "published_at": "2026-11-21T20:22:00+00:00",
       "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
       "image": "https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs",
       "category": "UFC",
@@ -91,17 +102,6 @@
       "published_at": "2026-11-20T06:43:00+00:00",
       "description": "The Official Weights Of The Athletes Competing November 21 At UFC Fight Night: Procházka vs Stirling",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2305409415.jpg?itok=7JJguFJB",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "UFC Collect by Topps App: NOW LIVE",
-      "link": "https://www.ufc.com/news/ufc-collect-by-topps-app-now-live",
-      "guid": "https://www.ufc.com/news/ufc-collect-by-topps-app-now-live",
-      "pubDate": "Thu, 19 Nov 2026 22:34:00 GMT",
-      "published_at": "2026-11-19T22:34:00+00:00",
-      "description": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/1920x1080_ArticleHeaderImage.jpg?itok=gp-PsTNO",
       "category": "UFC",
       "source": "UFC"
     }
