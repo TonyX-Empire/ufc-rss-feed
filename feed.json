@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-22T19:26:23.574563+00:00",
+  "last_build_date": "2026-11-23T01:30:28.980567+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "The Scorecard | UFC Qatar",
+      "link": "https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling",
+      "guid": "https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling",
+      "pubDate": "Sun, 22 Nov 2026 23:55:00 GMT",
+      "published_at": "2026-11-22T23:55:00+00:00",
+      "description": "Highlighting The Biggest Winners From UFC Fight Night: Procházka vs Stirling on November 21, 2026",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112226-navajo-stirling-walkout_GettyImages-2306254351.jpg?itok=EBJRs0K6",
+      "category": "UFC",
+      "source": "UFC"
+    },
     {
       "title": "Official Scorecards | UFC Qatar",
       "link": "https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling",
@@ -91,17 +102,6 @@
       "published_at": "2026-11-20T17:21:00+00:00",
       "description": "Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds.",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-amir-albazi-prefight_GettyImages-2260462604.jpg?itok=Sh5yEZJr",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Search results | UFC",
-      "link": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
-      "guid": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling",
-      "pubDate": "Fri, 20 Nov 2026 06:43:00 GMT",
-      "published_at": "2026-11-20T06:43:00+00:00",
-      "description": "Latest UFC news: Search results | UFC",
-      "image": "",
       "category": "UFC",
       "source": "UFC"
     }

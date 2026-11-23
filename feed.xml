@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 19:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:30:28 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scorecard | UFC Qatar</title>
+      <link>https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling</guid>
+      <pubDate>Sun, 22 Nov 2026 23:55:00 GMT</pubDate>
+      <category>UFC</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/112226-navajo-stirling-walkout_GettyImages-2306254351.jpg?itok=EBJRs0K6" alt="The Scorecard | UFC Qatar" /></p>
+<p>Highlighting The Biggest Winners From UFC Fight Night: Procházka vs Stirling on November 21, 2026</p>
+<p>Category: UFC</p>]]></description>
+    </item>
     <item>
       <title>Official Scorecards | UFC Qatar</title>
       <link>https://www.ufc.com/news/ufc-qatar-official-scorecards-prochazka-vs-stirling</link>
@@ -85,15 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111926-amir-albazi-prefight_GettyImages-2260462604.jpg?itok=Sh5yEZJr" alt="Amir Albazi Wants To Show He’s Still That Guy" /></p>
 <p>Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Search results | UFC</title>
-      <link>https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling</guid>
-      <pubDate>Fri, 20 Nov 2026 06:43:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p>Latest UFC news: Search results | UFC</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
