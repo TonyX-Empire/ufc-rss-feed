@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-23T12:10:28.708289+00:00",
+  "last_build_date": "2026-11-24T02:05:57.750002+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Monthly Report | November 2026",
+      "link": "https://www.ufc.com/news/monthly-report-november-2026",
+      "guid": "https://www.ufc.com/news/monthly-report-november-2026",
+      "pubDate": "Mon, 23 Nov 2026 21:35:00 GMT",
+      "published_at": "2026-11-23T21:35:00+00:00",
+      "description": "Handing Out Imaginary Hardware For The Best Performances From The Previous Month Inside The Octagon",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112326-hero-ciryl-gane-josh-hokit_GettyImages-2305177561.jpg?itok=yMAlneXo",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "The Scorecard | UFC Qatar",
       "link": "https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling",
@@ -91,17 +102,6 @@
       "published_at": "2026-11-20T17:28:00+00:00",
       "description": "Aussie Welterweight Jake Matthews Continues His 12-Year Run In The UFC As He Looks To Earn A Shot At Ranked Opposition In 2027.",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-jake-matthews-celebration_GettyImages-2278906439.jpg?itok=6XIyALdz",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Amir Albazi Wants To Show He’s Still That Guy",
-      "link": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
-      "guid": "https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar",
-      "pubDate": "Fri, 20 Nov 2026 17:21:00 GMT",
-      "published_at": "2026-11-20T17:21:00+00:00",
-      "description": "Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds.",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/111926-amir-albazi-prefight_GettyImages-2260462604.jpg?itok=Sh5yEZJr",
       "category": "UFC",
       "source": "UFC"
     }

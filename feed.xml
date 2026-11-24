@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:05:57 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monthly Report | November 2026</title>
+      <link>https://www.ufc.com/news/monthly-report-november-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/monthly-report-november-2026</guid>
+      <pubDate>Mon, 23 Nov 2026 21:35:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/112326-hero-ciryl-gane-josh-hokit_GettyImages-2305177561.jpg?itok=yMAlneXo" alt="Monthly Report | November 2026" /></p>
+<p>Handing Out Imaginary Hardware For The Best Performances From The Previous Month Inside The Octagon</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>The Scorecard | UFC Qatar</title>
       <link>https://www.ufc.com/news/the-scorecard-ufc-qatar-prochazka-vs-stirling</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111926-jake-matthews-celebration_GettyImages-2278906439.jpg?itok=6XIyALdz" alt="Jake Matthews | 25 Not Out" /></p>
 <p>Aussie Welterweight Jake Matthews Continues His 12-Year Run In The UFC As He Looks To Earn A Shot At Ranked Opposition In 2027.</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Amir Albazi Wants To Show He’s Still That Guy</title>
-      <link>https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/amir-albazi-wants-show-hes-still-guy-ufc-qatar</guid>
-      <pubDate>Fri, 20 Nov 2026 17:21:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111926-amir-albazi-prefight_GettyImages-2260462604.jpg?itok=Sh5yEZJr" alt="Amir Albazi Wants To Show He’s Still That Guy" /></p>
-<p>Iraqi Flyweight Contender Amir Albazi Plans To Send A Timely Reminder To The Flyweight Division That He’s Still A Serious Threat At 125 Pounds.</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
