@@ -3,7 +3,7 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-25T08:12:14.628254+00:00",
+  "last_build_date": "2026-11-25T19:06:17.929349+00:00",
   "item_count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
       "pubDate": "Tue, 24 Nov 2026 21:22:00 GMT",
       "published_at": "2026-11-24T21:22:00+00:00",
       "description": "Flyweight Champion Joshua Van Discusses Shifts Since Becoming Champion, Talking Trash, And Facing Manel Kape At UFC 336",
-      "image": "https://www.ufc.com/s3/files/styles/card/s3/2026-11/112426-hero-joshua-van-toronto.jpg?itok=6DyTWkNm",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/112426-hero-joshua-van-toronto.jpg?itok=6DyTWkNm",
       "category": "UFC",
       "source": "UFC"
     },
