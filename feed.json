@@ -3,9 +3,20 @@
   "source_url": "https://www.ufc.com/trending/all",
   "feed_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.xml",
   "json_url": "https://tonyx-empire.github.io/ufc-rss-feed/feed.json",
-  "last_build_date": "2026-11-25T19:06:17.929349+00:00",
+  "last_build_date": "2026-11-26T03:28:07.204621+00:00",
   "item_count": 9,
   "items": [
+    {
+      "title": "Remembering Eddie Cha (1973-2026)",
+      "link": "https://www.ufc.com/news/remembering-eddie-cha-1973-2026",
+      "guid": "https://www.ufc.com/news/remembering-eddie-cha-1973-2026",
+      "pubDate": "Thu, 26 Nov 2026 01:55:00 GMT",
+      "published_at": "2026-11-26T01:55:00+00:00",
+      "description": "UFC is devastated to learn about the passing of Eddie Cha. Eddie served as a coach to numerous UFC fighters over the years, and was a friend to many of us within the organization.",
+      "image": "https://ufc.com/images/styles/card/s3/2026-11/11252026-Eddie-Cha-Memorial-Graphic-Texted.jpg?itok=2kOCPTXz",
+      "category": "News",
+      "source": "UFC"
+    },
     {
       "title": "Joshua Van | Still Growing",
       "link": "https://www.ufc.com/news/joshua-van-still-growing-ufc-336",
@@ -91,17 +102,6 @@
       "published_at": "2026-11-21T21:04:00+00:00",
       "description": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026",
       "image": "https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU",
-      "category": "UFC",
-      "source": "UFC"
-    },
-    {
-      "title": "Bonus Coverage | UFC Qatar",
-      "link": "https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell",
-      "guid": "https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell",
-      "pubDate": "Sat, 21 Nov 2026 20:39:00 GMT",
-      "published_at": "2026-11-21T20:39:00+00:00",
-      "description": "See Who Came Away With The Best Performances And Biggest Bumps In Paychecks At UFC Fight Night: Prochazka vs Stirling, Live From Doha, Qatar On Saturday, November 21, 2026",
-      "image": "https://ufc.com/images/styles/card/s3/2026-11/112126-ufc-qatar-bonus-coverage.jpg?itok=CtiJ-k9Z",
       "category": "UFC",
       "source": "UFC"
     }

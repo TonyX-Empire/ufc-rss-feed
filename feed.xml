@@ -5,8 +5,18 @@
     <link>https://www.ufc.com/trending/all</link>
     <description>Flux RSS non officiel enrichi des dernières actualités UFC.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:28:07 GMT</lastBuildDate>
     <atom:link href="https://tonyx-empire.github.io/ufc-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remembering Eddie Cha (1973-2026)</title>
+      <link>https://www.ufc.com/news/remembering-eddie-cha-1973-2026</link>
+      <guid isPermaLink="true">https://www.ufc.com/news/remembering-eddie-cha-1973-2026</guid>
+      <pubDate>Thu, 26 Nov 2026 01:55:00 GMT</pubDate>
+      <category>News</category>
+      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/11252026-Eddie-Cha-Memorial-Graphic-Texted.jpg?itok=2kOCPTXz" alt="Remembering Eddie Cha (1973-2026)" /></p>
+<p>UFC is devastated to learn about the passing of Eddie Cha. Eddie served as a coach to numerous UFC fighters over the years, and was a friend to many of us within the organization.</p>
+<p>Category: News</p>]]></description>
+    </item>
     <item>
       <title>Joshua Van | Still Growing</title>
       <link>https://www.ufc.com/news/joshua-van-still-growing-ufc-336</link>
@@ -85,16 +95,6 @@
       <category>UFC</category>
       <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/111426-Bruce-Buffer-HERO-GettyImages-2305160652.jpg?itok=oG4CkzUU" alt="Official Scorecards | UFC Qatar" /></p>
 <p>See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21, 2026</p>
-<p>Category: UFC</p>]]></description>
-    </item>
-    <item>
-      <title>Bonus Coverage | UFC Qatar</title>
-      <link>https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell</link>
-      <guid isPermaLink="true">https://www.ufc.com/news/bonus-coverage-ufc-qatar-navajo-stirling-albazi-nurgozhay-mitchell</guid>
-      <pubDate>Sat, 21 Nov 2026 20:39:00 GMT</pubDate>
-      <category>UFC</category>
-      <description><![CDATA[<p><img src="https://ufc.com/images/styles/card/s3/2026-11/112126-ufc-qatar-bonus-coverage.jpg?itok=CtiJ-k9Z" alt="Bonus Coverage | UFC Qatar" /></p>
-<p>See Who Came Away With The Best Performances And Biggest Bumps In Paychecks At UFC Fight Night: Prochazka vs Stirling, Live From Doha, Qatar On Saturday, November 21, 2026</p>
 <p>Category: UFC</p>]]></description>
     </item>
   </channel>
